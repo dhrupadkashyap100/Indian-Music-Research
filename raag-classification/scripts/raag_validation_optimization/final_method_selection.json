@@ -1,0 +1,10 @@
+{
+    "Transform": "PCA128_Whiten",
+    "RaagAgg": "max",
+    "TempAgg": "mean",
+    "Accuracy": 0.13023255813953488,
+    "Top3_Accuracy": 0.18604651162790697,
+    "Macro_F1": 0.08722247697657534,
+    "Mean_Margin_1_2": 0.07340585409208786,
+    "Mean_Margin_1_3": 0.10195222857386567
+}

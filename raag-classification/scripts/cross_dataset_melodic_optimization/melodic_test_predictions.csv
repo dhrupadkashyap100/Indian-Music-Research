@@ -1,0 +1,236 @@
+Recording_ID,True_Label,Pred_Label,Correct
+Asavari (thaat)_Adana_0.mp3,Adana,Megh Malhar,False
+Asavari (thaat)_Adana_10.mp3,Adana,Pahadi,False
+Asavari (thaat)_Adana_13.mp3,Adana,Jaunpuri,False
+Asavari (thaat)_Adana_16.mp3,Adana,Kedar,False
+Asavari (thaat)_Adana_17.mp3,Adana,Darbari,False
+Asavari (thaat)_Adana_23.mp3,Adana,Abhogi,False
+Asavari (thaat)_Asavari_9.mp3,Asavari,Asavari,True
+Asavari (thaat)_Asavari_asavari04.wav,Asavari,Asavari,True
+Asavari (thaat)_Asavari_asavari05.wav,Asavari,Asavari,True
+Asavari (thaat)_Asavari_asavari2.wav,Asavari,Asavari,True
+Asavari (thaat)_Asavari_asavari7.wav,Asavari,Asavari,True
+Asavari (thaat)_Asavari_asavari8.wav,Asavari,Asavari,True
+Asavari (thaat)_Darbari_0.mp3,Darbari,Asavari,False
+Asavari (thaat)_Darbari_6.mp3,Darbari,Kedar,False
+Asavari (thaat)_Darbari_9.mp3,Darbari,Kedar,False
+Asavari (thaat)_Darbari_darbari4.wav,Darbari,Darbari,True
+Asavari (thaat)_Darbari_DKanada02.wav,Darbari,Darbari,True
+Asavari (thaat)_Desi_0.mp3,Desi,Megh Malhar,False
+Asavari (thaat)_Desi_3.mp3,Desi,Kafi,False
+Asavari (thaat)_Desi_7.mp3,Desi,Adana,False
+Asavari (thaat)_Jaunpuri_4.mp3,Jaunpuri,Jaunpuri,True
+Asavari (thaat)_Jaunpuri_5.mp3,Jaunpuri,Desh,False
+Asavari (thaat)_Jaunpuri_7.mp3,Jaunpuri,Alhaiya Bilaval,False
+Bhairav (thaat)_Ahir Bhairav_10.mp3,Ahir Bhairav,Khamaj,False
+Bhairav (thaat)_Ahir Bhairav_6.mp3,Ahir Bhairav,Malkauns,False
+Bhairav (thaat)_Ahir Bhairav_8.mp3,Ahir Bhairav,Adana,False
+Bhairav (thaat)_Basant Mukhari_0.mp3,Basant Mukhari,Bhairavi,False
+Bhairav (thaat)_Basant Mukhari_3.mp3,Basant Mukhari,Komal Rishabh Asavari,False
+Bhairav (thaat)_Basant Mukhari_7.mp3,Basant Mukhari,Bhairav Bahar,False
+Bhairav (thaat)_Bhairav_3.mp3,Bhairav,Basant,False
+Bhairav (thaat)_Bhairav_4.mp3,Bhairav,Bhairavi,False
+Bhairav (thaat)_Bhairav_6.mp3,Bhairav,Darbari,False
+Bhairav (thaat)_Bhairav Bahar_0.mp3,Bhairav Bahar,Adana,False
+Bhairav (thaat)_Bhairav Bahar_1.mp3,Bhairav Bahar,sarang,False
+Bhairav (thaat)_Bhairav Bahar_13.mp3,Bhairav Bahar,Kedar,False
+Bhairav (thaat)_Bhairav Bahar_5.mp3,Bhairav Bahar,Jaunpuri,False
+Bhairav (thaat)_Bibhas_0.mp3,Bibhas,Ahir Bhairav,False
+Bhairav (thaat)_Bibhas_1.mp3,Bibhas,Ramkali,False
+Bhairav (thaat)_Bibhas_13.mp3,Bibhas,Jhinjhoti,False
+Bhairav (thaat)_Bibhas_5.mp3,Bibhas,Basant Mukhari,False
+Bhairav (thaat)_Komal Bhairav_4.mp3,Komal Bhairav,Kafi,False
+Bhairav (thaat)_Nat Bhairav_0.mp3,Nat Bhairav,sarang,False
+Bhairav (thaat)_Nat Bhairav_1.mp3,Nat Bhairav,Rageshree,False
+Bhairav (thaat)_Nat Bhairav_13.mp3,Nat Bhairav,Barwa,False
+Bhairav (thaat)_Nat Bhairav_5.mp3,Nat Bhairav,Deepak,False
+Bhairav (thaat)_Ramkali_3.mp3,Ramkali,sarang,False
+Bhairav (thaat)_Ramkali_4.mp3,Ramkali,Gujari Todi,False
+Bhairav (thaat)_Ramkali_6.mp3,Ramkali,Basant,False
+Bhairavi (thaat)_Bhairavi_12.mp3,Bhairavi,Sorath,False
+Bhairavi (thaat)_Bhairavi_6.mp3,Bhairavi,Pahadi,False
+Bhairavi (thaat)_Bhairavi_8.mp3,Bhairavi,Megh,False
+Bhairavi (thaat)_Bhairavi_9.mp3,Bhairavi,Alhaiya Bilaval,False
+Bhairavi (thaat)_Bhairavi_Bhairavi01.wav,Bhairavi,Bhairavi,True
+Bhairavi (thaat)_Bhairavi_bhairavi4.wav,Bhairavi,Bhairavi,True
+Bhairavi (thaat)_Bhupal Todi_4.mp3,Bhupal Todi,Ramkali,False
+Bhairavi (thaat)_Bhupal Todi_5.mp3,Bhupal Todi,Malkauns,False
+Bhairavi (thaat)_Bhupal Todi_7.mp3,Bhupal Todi,sarang,False
+Bhairavi (thaat)_Bilaskhani Todi_4.mp3,Bilaskhani Todi,Komal Rishabh Asavari,False
+Bhairavi (thaat)_Bilaskhani Todi_5.mp3,Bilaskhani Todi,Bilaskhani Todi,True
+Bhairavi (thaat)_Bilaskhani Todi_7.mp3,Bilaskhani Todi,Bilaskhani Todi,True
+Bhairavi (thaat)_Komal Rishabh Asavari_10.mp3,Komal Rishabh Asavari,Deepak,False
+Bhairavi (thaat)_Komal Rishabh Asavari_6.mp3,Komal Rishabh Asavari,Bhairav Bahar,False
+Bhairavi (thaat)_Komal Rishabh Asavari_8.mp3,Komal Rishabh Asavari,Adana,False
+Bhairavi (thaat)_Malkauns_12.mp3,Malkauns,Darbari,False
+Bhairavi (thaat)_Malkauns_6.mp3,Malkauns,Bilaskhani Todi,False
+Bhairavi (thaat)_Malkauns_8.mp3,Malkauns,Bilaskhani Todi,False
+Bhairavi (thaat)_Malkauns_9.mp3,Malkauns,Poorvi,False
+Bhairavi (thaat)_Malkauns_malkauns01.wav,Malkauns,Malkauns,True
+Bhairavi (thaat)_Malkauns_Malkauns1.wav,Malkauns,Malkauns,True
+Bilaval (thaat)_Alhaiya Bilaval_10.mp3,Alhaiya Bilaval,Barwa,False
+Bilaval (thaat)_Alhaiya Bilaval_6.mp3,Alhaiya Bilaval,Hindol,False
+Bilaval (thaat)_Alhaiya Bilaval_8.mp3,Alhaiya Bilaval,Nat Bhairav,False
+Bilaval (thaat)_Bhinna Shadja_10.mp3,Bhinna Shadja,Bhairav Bahar,False
+Bilaval (thaat)_Bhinna Shadja_6.mp3,Bhinna Shadja,Barwa,False
+Bilaval (thaat)_Bhinna Shadja_8.mp3,Bhinna Shadja,Poorvi,False
+Bilaval (thaat)_Bihag_0.mp3,Bihag,Kafi,False
+Bilaval (thaat)_Bihag_11.mp3,Bihag,Desh,False
+Bilaval (thaat)_Bihag_13.mp3,Bihag,Bhairav,False
+Bilaval (thaat)_Bihag_6.mp3,Bihag,Adana,False
+Bilaval (thaat)_Bihag_7.mp3,Bihag,Adana,False
+Bilaval (thaat)_Bilaval_0.mp3,Bilaval,Purba,False
+Bilaval (thaat)_Bilaval_1.mp3,Bilaval,Khamaj,False
+Bilaval (thaat)_Bilaval_13.mp3,Bilaval,Yaman Kalyan,False
+Bilaval (thaat)_Bilaval_5.mp3,Bilaval,Desh,False
+Bilaval (thaat)_Durga_3.mp3,Durga,Bahar,False
+Bilaval (thaat)_Durga_4.mp3,Durga,Durga,True
+Bilaval (thaat)_Durga_6.mp3,Durga,Alhaiya Bilaval,False
+Bilaval (thaat)_Hemant_4.mp3,Hemant,suddha kalyan,False
+Bilaval (thaat)_Hemant_5.mp3,Hemant,Barwa,False
+Bilaval (thaat)_Hemant_7.mp3,Hemant,Rageshree,False
+Bilaval (thaat)_Pahadi_4.mp3,Pahadi,Desh,False
+Bilaval (thaat)_Pahadi_5.mp3,Pahadi,Yaman Kalyan,False
+Bilaval (thaat)_Pahadi_7.mp3,Pahadi,Bhimpalasi,False
+Kafi (thaat)_Abhogi_10.mp3,Abhogi,Bageshree,False
+Kafi (thaat)_Abhogi_6.mp3,Abhogi,Kedar,False
+Kafi (thaat)_Abhogi_8.mp3,Abhogi,Bageshree,False
+Kafi (thaat)_Bageshree_16.mp3,Bageshree,Gujari Todi,False
+Kafi (thaat)_Bageshree_5.mp3,Bageshree,Desh,False
+Kafi (thaat)_Bageshree_8.mp3,Bageshree,Desh,False
+Kafi (thaat)_Bageshree_bageshree03.wav,Bageshree,Bageshree,True
+Kafi (thaat)_Bageshree_bageshree2.wav,Bageshree,Bageshree,True
+Kafi (thaat)_Bageshree_bageshree25.wav,Bageshree,Bageshree,True
+Kafi (thaat)_Bageshree_bageshree4.wav,Bageshree,Bageshree,True
+Kafi (thaat)_Bageshree_bageshree8.wav,Bageshree,Bageshree,True
+Kafi (thaat)_Bahar_0.mp3,Bahar,Bahar,True
+Kafi (thaat)_Bahar_10.mp3,Bahar,Bahar,True
+Kafi (thaat)_Bahar_13.mp3,Bahar,Rageshree,False
+Kafi (thaat)_Bahar_16.mp3,Bahar,Hemant,False
+Kafi (thaat)_Bahar_17.mp3,Bahar,Malkauns,False
+Kafi (thaat)_Bahar_23.mp3,Bahar,Durga,False
+Kafi (thaat)_Barwa_0.mp3,Barwa,Bhairavi,False
+Kafi (thaat)_Barwa_3.mp3,Barwa,Adana,False
+Kafi (thaat)_Barwa_7.mp3,Barwa,Bhairav Bahar,False
+Kafi (thaat)_Bhimpalasi_0.mp3,Bhimpalasi,Bhimpalasi,True
+Kafi (thaat)_Bhimpalasi_11.mp3,Bhimpalasi,Sorath,False
+Kafi (thaat)_Bhimpalasi_13.mp3,Bhimpalasi,Bahar,False
+Kafi (thaat)_Bhimpalasi_19.mp3,Bhimpalasi,Bahar,False
+Kafi (thaat)_Bhimpalasi_20.mp3,Bhimpalasi,Darbari,False
+Kafi (thaat)_Kafi_0.mp3,Kafi,Puriya,False
+Kafi (thaat)_Kafi_1.mp3,Kafi,Bahar,False
+Kafi (thaat)_Kafi_5.mp3,Kafi,Darbari,False
+Kafi (thaat)_Kafi_7.mp3,Kafi,Kafi,True
+Kafi (thaat)_Malhar_3.mp3,Malhar,Basant Mukhari,False
+Kafi (thaat)_Malhar_4.mp3,Malhar,Rageshree,False
+Kafi (thaat)_Malhar_6.mp3,Malhar,Bhimpalasi,False
+Kafi (thaat)_Megh_3.mp3,Megh,Barwa,False
+Kafi (thaat)_Megh_6.mp3,Megh,Basant,False
+Kafi (thaat)_Megh Malhar_4.mp3,Megh Malhar,Desi,False
+Kafi (thaat)_Megh Malhar_5.mp3,Megh Malhar,Desi,False
+Kafi (thaat)_Megh Malhar_7.mp3,Megh Malhar,Bhatiyar,False
+Kafi (thaat)_sarang_0.mp3,sarang,Gujari Todi,False
+Kafi (thaat)_sarang_13.mp3,sarang,Adana,False
+Kafi (thaat)_sarang_4.mp3,sarang,Megh Malhar,False
+Kafi (thaat)_sarang_7.mp3,sarang,Adana,False
+Kafi (thaat)_sarang_sarang03.wav,sarang,sarang,True
+Kafi (thaat)_sarang_sarang4.wav,sarang,sarang,True
+Kalyan (thaat)_Bhoopali_0.mp3,Bhoopali,Puriya,False
+Kalyan (thaat)_Bhoopali_3.mp3,Bhoopali,Jaunpuri,False
+Kalyan (thaat)_Bhoopali_6.mp3,Bhoopali,Pahadi,False
+Kalyan (thaat)_Bhoopali_9.mp3,Bhoopali,Bhimpalasi,False
+Kalyan (thaat)_Bhoopali_bhoop01.wav,Bhoopali,Yaman or Kalyan,False
+Kalyan (thaat)_Bhoopali_ibhoop03.wav,Bhoopali,Bhoopali,True
+Kalyan (thaat)_Hindol_10.mp3,Hindol,Hindol,True
+Kalyan (thaat)_Hindol_6.mp3,Hindol,Bhinna Shadja,False
+Kalyan (thaat)_Hindol_8.mp3,Hindol,Puriya,False
+Kalyan (thaat)_Kedar_0.mp3,Kedar,sarang,False
+Kalyan (thaat)_Kedar_11.mp3,Kedar,Adana,False
+Kalyan (thaat)_Kedar_13.mp3,Kedar,Puriya,False
+Kalyan (thaat)_Kedar_7.mp3,Kedar,Rageshree,False
+Kalyan (thaat)_suddha kalyan_0.mp3,suddha kalyan,Bhoopali,False
+Kalyan (thaat)_suddha kalyan_3.mp3,suddha kalyan,Puriya,False
+Kalyan (thaat)_suddha kalyan_7.mp3,suddha kalyan,Yaman or Kalyan,False
+Kalyan (thaat)_Yaman Kalyan_10.mp3,Yaman Kalyan,Bibhas,False
+Kalyan (thaat)_Yaman Kalyan_6.mp3,Yaman Kalyan,Bageshree,False
+Kalyan (thaat)_Yaman Kalyan_8.mp3,Yaman Kalyan,Basant,False
+Kalyan (thaat)_Yaman or Kalyan_16.mp3,Yaman or Kalyan,Bilaval,False
+Kalyan (thaat)_Yaman or Kalyan_17.mp3,Yaman or Kalyan,Madhuvanti,False
+Kalyan (thaat)_Yaman or Kalyan_2.mp3,Yaman or Kalyan,Komal Rishabh Asavari,False
+Kalyan (thaat)_Yaman or Kalyan_20.mp3,Yaman or Kalyan,Megh Malhar,False
+Kalyan (thaat)_Yaman or Kalyan_3.mp3,Yaman or Kalyan,Malhar,False
+Kalyan (thaat)_Yaman or Kalyan_yaman04.wav,Yaman or Kalyan,Yaman or Kalyan,True
+Kalyan (thaat)_Yaman or Kalyan_Yaman14.wav,Yaman or Kalyan,Yaman or Kalyan,True
+Kalyan (thaat)_Yaman or Kalyan_yaman23.wav,Yaman or Kalyan,Yaman or Kalyan,True
+Kalyan (thaat)_Yaman or Kalyan_yaman5.wav,Yaman or Kalyan,Yaman or Kalyan,True
+Khamaj (thaat)_Desh_13.mp3,Desh,Megh Malhar,False
+Khamaj (thaat)_Desh_17.mp3,Desh,Alhaiya Bilaval,False
+Khamaj (thaat)_Desh_2.mp3,Desh,Puriya,False
+Khamaj (thaat)_Desh_20.mp3,Desh,Rageshree,False
+Khamaj (thaat)_Desh_22.mp3,Desh,Deepak,False
+Khamaj (thaat)_Jhinjhoti_0.mp3,Jhinjhoti,Rageshree,False
+Khamaj (thaat)_Jhinjhoti_3.mp3,Jhinjhoti,Puriya,False
+Khamaj (thaat)_Jhinjhoti_7.mp3,Jhinjhoti,Nat Bhairav,False
+Khamaj (thaat)_Khamaj_0.mp3,Khamaj,suddha kalyan,False
+Khamaj (thaat)_Khamaj_11.mp3,Khamaj,Bahar,False
+Khamaj (thaat)_Khamaj_13.mp3,Khamaj,Durga,False
+Khamaj (thaat)_Khamaj_6.mp3,Khamaj,Bahar,False
+Khamaj (thaat)_Khamaj_7.mp3,Khamaj,Adana,False
+Khamaj (thaat)_Rageshree_10.mp3,Rageshree,Alhaiya Bilaval,False
+Khamaj (thaat)_Rageshree_6.mp3,Rageshree,Durga,False
+Khamaj (thaat)_Rageshree_8.mp3,Rageshree,Alhaiya Bilaval,False
+Khamaj (thaat)_Sorath_0.mp3,Sorath,Pahadi,False
+Khamaj (thaat)_Sorath_10.mp3,Sorath,Bilaval,False
+Khamaj (thaat)_Sorath_8.mp3,Sorath,Bhairav Bahar,False
+Marva (thaat)_Bhatiyar_0.mp3,Bhatiyar,Bhairavi,False
+Marva (thaat)_Bhatiyar_1.mp3,Bhatiyar,Hemant,False
+Marva (thaat)_Bhatiyar_5.mp3,Bhatiyar,Yaman or Kalyan,False
+Marva (thaat)_Bhatiyar_7.mp3,Bhatiyar,Bahar,False
+Marva (thaat)_Marva_0.mp3,Marva,sarang,False
+Marva (thaat)_Marva_1.mp3,Marva,Ahir Bhairav,False
+Marva (thaat)_Marva_5.mp3,Marva,Marva,True
+Marva (thaat)_Marva_7.mp3,Marva,Deepak,False
+Marva (thaat)_Purba_0.mp3,Purba,Bhinna Shadja,False
+Marva (thaat)_Purba_1.mp3,Purba,Gauri,False
+Marva (thaat)_Puriya_0.mp3,Puriya,Poorvi,False
+Marva (thaat)_Puriya_1.mp3,Puriya,Puriya,True
+Marva (thaat)_Puriya_13.mp3,Puriya,Ramkali,False
+Marva (thaat)_Puriya_7.mp3,Puriya,Yaman Kalyan,False
+Marva (thaat)_Sohni_4.mp3,Sohni,Puriya,False
+Marva (thaat)_Sohni_5.mp3,Sohni,Bilaval,False
+Marva (thaat)_Sohni_7.mp3,Sohni,Alhaiya Bilaval,False
+Poorvi (thaat)_Basant_1.mp3,Basant,Basant,True
+Poorvi (thaat)_Basant_16.mp3,Basant,Bahar,False
+Poorvi (thaat)_Basant_17.mp3,Basant,Lalit,False
+Poorvi (thaat)_Basant_23.mp3,Basant,Durga,False
+Poorvi (thaat)_Basant_7.mp3,Basant,Bhairav,False
+Poorvi (thaat)_Deepak_1.mp3,Deepak,Basant,False
+Poorvi (thaat)_Deepak_16.mp3,Deepak,Deepak,True
+Poorvi (thaat)_Deepak_17.mp3,Deepak,Bihag,False
+Poorvi (thaat)_Deepak_23.mp3,Deepak,Poorvi,False
+Poorvi (thaat)_Gauri_3.mp3,Gauri,Gauri,True
+Poorvi (thaat)_Gauri_4.mp3,Gauri,Kedar,False
+Poorvi (thaat)_Gauri_6.mp3,Gauri,Adana,False
+Poorvi (thaat)_Lalit_10.mp3,Lalit,Miyan Ki Todi orTodi or Darbari Todi,False
+Poorvi (thaat)_Lalit_6.mp3,Lalit,Bhairav,False
+Poorvi (thaat)_Lalit_8.mp3,Lalit,Miyan Ki Todi orTodi or Darbari Todi,False
+Poorvi (thaat)_Poorvi_3.mp3,Poorvi,Poorvi,True
+Poorvi (thaat)_Poorvi_4.mp3,Poorvi,Jaunpuri,False
+Poorvi (thaat)_Poorvi_6.mp3,Poorvi,Ahir Bhairav,False
+Poorvi (thaat)_Shree_10.mp3,Shree,Multani,False
+Poorvi (thaat)_Shree_6.mp3,Shree,Bibhas,False
+Poorvi (thaat)_Shree_8.mp3,Shree,Basant,False
+Todi (thaat)_Gujari Todi_10.mp3,Gujari Todi,Madhuvanti,False
+Todi (thaat)_Gujari Todi_6.mp3,Gujari Todi,Desh,False
+Todi (thaat)_Gujari Todi_8.mp3,Gujari Todi,Multani,False
+Todi (thaat)_Madhuvanti_10.mp3,Madhuvanti,Barwa,False
+Todi (thaat)_Madhuvanti_6.mp3,Madhuvanti,Bhairav,False
+Todi (thaat)_Madhuvanti_8.mp3,Madhuvanti,Poorvi,False
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_0.mp3,Miyan Ki Todi orTodi or Darbari Todi,Lalit,False
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_11.mp3,Miyan Ki Todi orTodi or Darbari Todi,Khamaj,False
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_13.mp3,Miyan Ki Todi orTodi or Darbari Todi,Gujari Todi,False
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_19.mp3,Miyan Ki Todi orTodi or Darbari Todi,Bhairavi,False
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_20.mp3,Miyan Ki Todi orTodi or Darbari Todi,Jaunpuri,False
+Todi (thaat)_Multani_4.mp3,Multani,Deepak,False
+Todi (thaat)_Multani_5.mp3,Multani,Miyan Ki Todi orTodi or Darbari Todi,False
+Todi (thaat)_Multani_7.mp3,Multani,Madhuvanti,False

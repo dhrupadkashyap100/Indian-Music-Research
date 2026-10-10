@@ -1,0 +1,14 @@
+{
+    "Method": "Fusion_CM50_SW50",
+    "Accuracy": 0.13953488372093023,
+    "Top3_Accuracy": 0.2,
+    "Macro_F1": 0.10151087049275144,
+    "Mean_Top1_Sim": NaN,
+    "Median_Top1_Sim": NaN,
+    "Mean_Margin_1_2": 0.5901414287478818,
+    "Median_Margin_1_2": 0.4186255553732039,
+    "Mean_Margin_1_3": NaN,
+    "Mean_Correct_Margin": NaN,
+    "Mean_Incorrect_Margin": NaN,
+    "Margin_Separation": 0.7458661597237397
+}

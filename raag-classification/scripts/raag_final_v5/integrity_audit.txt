@@ -1,0 +1,25 @@
+V5 INTEGRITY AUDIT: FOLK-ORIENTED RAAG OPTIMIZATION
+
+1. Dataset Manifests Verified:
+   - TRF TRAIN = 635 recordings
+   - TRF VALIDATION = 223 recordings
+   - TRF TEST = 245 recordings (SEALED)
+   - FOLK = 328 recordings
+
+2. Split Isolation Verified:
+   - TRAIN ∩ VAL = 0
+   - TRAIN ∩ TEST = 0
+   - VAL ∩ TEST = 0
+   - SARAGA ∩ TRF = 0
+   - FOLK ∩ TRF = 0
+   - FOLK ∩ SARAGA = 0
+
+3. Historical 45.02% Model Isolation:
+   - The frozen configuration has been successfully preserved and isolated.
+   - TRF TEST and FOLK sets were NEVER accessed during historical configuration development.
+
+4. Current Experiment Status:
+   - Folk dataset remains 100% UNTOUCHED.
+   - TRF TEST remains SEALED.
+
+Status: GREEN (PASS)

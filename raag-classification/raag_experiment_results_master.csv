@@ -1,0 +1,3 @@
+Experiment name,Model,Status
+Folk Inference,CultureMERT + BiLSTM/KNN,SUCCESSFULLY TRAINED/EVALUATED
+Tonic Validation,Swaragram,COMPLETED

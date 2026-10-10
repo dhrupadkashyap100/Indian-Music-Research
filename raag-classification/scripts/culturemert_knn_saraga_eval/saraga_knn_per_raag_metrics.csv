@@ -1,0 +1,31 @@
+raag,saraga_recordings,top1_accuracy,top5_accuracy,most_common_error
+Komal Rishabh Asavari,1,0.0,1.0,Jaunpuri
+Gauri,2,0.0,0.0,Puriya
+Sohni,1,0.0,0.0,Malkauns
+Ahir Bhairav,2,0.0,0.0,Bilaskhani Todi
+Bilaskhani Todi,2,0.5,0.5,Madhuvanti
+Malkauns,2,0.0,0.0,Rageshree
+Multani,2,0.5,0.5,Nat Bhairav
+Nat Bhairav,1,1.0,1.0,None
+Rageshree,2,0.5,1.0,suddha kalyan
+suddha kalyan,1,0.0,0.0,Nat Bhairav
+Miyan Ki Todi orTodi or Darbari Todi,3,0.0,0.0,Nat Bhairav
+Desh,1,0.0,0.0,Megh
+Lalit,3,0.3333333333333333,0.3333333333333333,Hemant
+Marva,3,0.3333333333333333,0.3333333333333333,Madhuvanti
+Yaman Kalyan,2,0.0,0.0,Madhuvanti
+Bhairavi,5,0.0,0.0,Marva
+Abhogi,2,0.0,0.5,Rageshree
+Megh,1,0.0,1.0,Rageshree
+Khamaj,1,0.0,0.0,Yaman Kalyan
+Bageshree,1,0.0,0.0,Madhuvanti
+Bahar,1,0.0,1.0,suddha kalyan
+Bhairav,1,0.0,0.0,Miyan Ki Todi orTodi or Darbari Todi
+Bhatiyar,1,0.0,0.0,Rageshree
+Bhimpalasi,2,0.0,0.0,Megh Malhar
+Bhoopali,1,0.0,0.0,Desi
+Bihag,2,0.0,0.0,suddha kalyan
+Yaman or Kalyan,1,0.0,0.0,Darbari
+Kedar,1,0.0,0.0,Madhuvanti
+Bibhas,1,0.0,0.0,sarang
+Shree,5,0.0,0.0,Poorvi

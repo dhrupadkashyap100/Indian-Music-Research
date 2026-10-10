@@ -1,0 +1,11 @@
+id,dataset,voiced_ratio,ext_time,mem_mb,has_nan,has_inf,valid_sum
+Asavari (thaat)_Adana_11.mp3,TRF,0.3908668730650155,0.25876784324645996,0.0,False,False,True
+Asavari (thaat)_Adana_12.mp3,TRF,0.6400928792569659,0.28256988525390625,0.0,False,False,True
+Asavari (thaat)_Adana_14.mp3,TRF,0.0,0.32713890075683594,0.0,False,False,True
+Asavari (thaat)_Adana_15.mp3,TRF,0.008513931888544891,0.4430818557739258,0.0,False,False,True
+Asavari (thaat)_Adana_18.mp3,TRF,1.0,0.3464956283569336,0.0,False,False,True
+Asavari (thaat)_Adana_1.mp3,TRF,0.0,0.36815810203552246,0.0,False,False,True
+Asavari (thaat)_Adana_19.mp3,TRF,0.39125386996904027,0.2921774387359619,0.0,False,False,True
+Asavari (thaat)_Adana_20.mp3,TRF,0.2043343653250774,0.25890302658081055,0.0,False,False,True
+REC_0008,SARAGA_EST,1.0,0.2603414058685303,0.0,False,False,True
+REC_0009,SARAGA_EST,1.0,0.26622748374938965,0.0,False,False,True

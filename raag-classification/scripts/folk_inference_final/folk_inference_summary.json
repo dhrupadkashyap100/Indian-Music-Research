@@ -1,0 +1,56 @@
+{
+    "total_recordings": 327,
+    "model_version": "Hybrid SVM B",
+    "feature_dimension": 1884,
+    "geometric_weight": 0.75,
+    "svm_weight": 0.25,
+    "svm_C": 10,
+    "svm_gamma": "scale",
+    "high_confidence_count": 6,
+    "moderate_confidence_count": 38,
+    "ambiguous_count": 283,
+    "model_agreement_count": 54,
+    "model_disagreement_count": 273,
+    "top_predicted_raags": [
+        {
+            "Raag": "Malkauns",
+            "Predicted_Count": 30,
+            "Percentage": 9.174311926605505,
+            "HIGH_Count": 2,
+            "MODERATE_Count": 10,
+            "AMBIGUOUS_Count": 18
+        },
+        {
+            "Raag": "Pahadi",
+            "Predicted_Count": 22,
+            "Percentage": 6.727828746177369,
+            "HIGH_Count": 0,
+            "MODERATE_Count": 1,
+            "AMBIGUOUS_Count": 21
+        },
+        {
+            "Raag": "Megh Malhar",
+            "Predicted_Count": 21,
+            "Percentage": 6.422018348623854,
+            "HIGH_Count": 0,
+            "MODERATE_Count": 3,
+            "AMBIGUOUS_Count": 18
+        },
+        {
+            "Raag": "Durga",
+            "Predicted_Count": 20,
+            "Percentage": 6.116207951070336,
+            "HIGH_Count": 1,
+            "MODERATE_Count": 2,
+            "AMBIGUOUS_Count": 17
+        },
+        {
+            "Raag": "suddha kalyan",
+            "Predicted_Count": 16,
+            "Percentage": 4.892966360856269,
+            "HIGH_Count": 0,
+            "MODERATE_Count": 1,
+            "AMBIGUOUS_Count": 15
+        }
+    ]
+}

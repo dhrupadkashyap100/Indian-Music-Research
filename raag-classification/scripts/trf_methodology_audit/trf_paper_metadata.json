@@ -1,0 +1,14 @@
+{
+    "Exact_paper_title": "An automatic thaat and raga identification system using CNN-based models",
+    "Complete_author_list": "Surya Majumder, Adrija Bhattacharya",
+    "Publication_venue": "Innovations in Systems and Software Engineering (Springer)",
+    "Publication_year": "2023",
+    "DOI": "10.1007/s11334-023-00541-2",
+    "Dataset_repository": "https://ieee-dataport.org/documents/thaat-and-raga-forest-trf-dataset",
+    "Dataset_version": "1",
+    "Intended_for_supervised_classification": "CONFIRMED BY PAPER (The abstract describes using CNN models for classification with high accuracy).",
+    "Recordings_are_excerpts_or_full": "UNKNOWN (Paper says 'recordings from renowned musicians encompassing diverse musical forms such as solos, performances, choruses, instrumentals, and movie songs').",
+    "How_recordings_were_collected": "UNKNOWN",
+    "How_labels_were_assigned": "UNKNOWN",
+    "Train_test_splitting_method": "UNKNOWN (Original authors likely split it, but metadata for reproducing a grouped split is absent)."
+}

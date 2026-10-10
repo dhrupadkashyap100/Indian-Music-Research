@@ -1,0 +1,28 @@
+{
+    "top_level_keys": [
+        "@context",
+        "alternateName",
+        "citeAs",
+        "conformsTo",
+        "license",
+        "distribution",
+        "version",
+        "keywords",
+        "identifier",
+        "isAccessibleForFree",
+        "includedInDataCatalog",
+        "creator",
+        "publisher",
+        "thumbnailUrl",
+        "dateModified",
+        "datePublished",
+        "@type",
+        "name",
+        "url",
+        "description"
+    ],
+    "is_track_metadata": false,
+    "description": "## This is the official **Thaat and Raga Forest (TRF) Dataset**\n\n## Please do cite our paper:    [Link to Paper](https://doi.org/10.1007/s11334-023-00541-2)\n\n## Dataset is also available here:    [Link to Dataset](https://dx.doi.org/10.21227/0xtb-fn23)\n\n## Link to our repository:    [Github Repo](https://github.com/SuryaMajumder/Thaat_and_Raga_Identification)\n\n------------------------------------------------------------------------------\n\nThe \"**Thaat and Raga Forest (TRF) Dataset**\" represents a significant advancement in computational musicology, focusing specifically on Indian Classical Music (ICM). While Western music has seen substantial attention in this field, ICM remains relatively underexplored. This manuscript presents the utilization of Deep Learning models to analyze ICM, with a primary focus on identifying Thaats and Ragas within musical compositions. Thaats and Ragas identification holds pivotal importance for various applications, including sentiment-based recommendation systems and music categorization.\n\nThe dataset comprises recordings from renowned musicians encompassing diverse musical forms such as solos, performances, choruses, instrumentals, and movie songs, available in both mp3 and wav formats. Organized meticulously, the dataset is categorized into ten primary Thaats, each containing a diverse array of Ragas. This comprehensive collection offers a valuable resource for researchers and practitioners alike, facilitating in-depth exploration and analysis of Indian Classical Music through computational means. This dataset mainly considers the Thaats in Hindustani Classical Music (as there are more Thaats in Carnatic Classical Music) and some Ragas in each Thaat.",
+    "creator": "SURYA MAJUMDER",
+    "url": "https://www.kaggle.com/datasets/suryamajumder/thaat-and-raga-forest-trf-dataset/versions/1"
+}

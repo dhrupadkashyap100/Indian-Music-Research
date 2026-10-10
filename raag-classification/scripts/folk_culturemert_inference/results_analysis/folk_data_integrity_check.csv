@@ -1,0 +1,8 @@
+Metric,Expected,Actual,Status
+Canonical Folk Recordings,328,328,PASS
+Successfully Classified,327,327,PASS
+Excluded,1,1,PASS
+Total 60s Sequences,2310,2310,PASS
+Unique Genres,10,10,PASS
+Unique Retrieved Raags,53,53,PASS
+Duplicate Predictions,0,0,PASS

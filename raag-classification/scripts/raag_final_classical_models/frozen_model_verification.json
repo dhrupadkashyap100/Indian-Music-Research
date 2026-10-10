@@ -1,0 +1,14 @@
+{
+    "model_name": "Hybrid B (MeanPrototype Geometric + SVM Discriminative)",
+    "verification_status": "PASS",
+    "feature_dimensions": {
+        "Transition": 144,
+        "Pitch_Class": 12,
+        "N3_Trigrams": 1728,
+        "Total": 1884
+    },
+    "scaling_formula": "np.hstack([0.75 * d['t'], 0.20 * d['p'], 0.05 * d['n3']])",
+    "classifier_implementation": "sklearn.svm.SVC(C=10, gamma='scale', probability=True)",
+    "temporal_aggregation": "Top-50% most confident sequences (num_seq = max(1, int(len(rs) * 0.5)))",
+    "fusion_formula": "0.75 * Geometric_Prob + 0.25 * SVM_Prob"
+}

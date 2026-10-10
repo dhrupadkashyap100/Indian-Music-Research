@@ -1,0 +1,5 @@
+model_name	has_best_f1_ckpt	has_best_loss_ckpt	path
+30s_MeanPool	True	True	D:\Raaga_Recognition_Project\scripts\culturemert_full_raag_classifier\training\results\30s_MeanPool
+30s_BiLSTM	True	True	D:\Raaga_Recognition_Project\scripts\culturemert_full_raag_classifier\training\results\30s_BiLSTM
+60s_MeanPool	True	True	D:\Raaga_Recognition_Project\scripts\culturemert_full_raag_classifier\training\results\60s_MeanPool
+60s_BiLSTM	True	True	D:\Raaga_Recognition_Project\scripts\culturemert_full_raag_classifier\training\results\60s_BiLSTM

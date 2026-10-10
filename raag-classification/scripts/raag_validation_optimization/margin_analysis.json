@@ -1,0 +1,9 @@
+{
+    "Overall_Mean_Margin": 0.06461400592580752,
+    "Correct_Mean_Margin": 0.18345382726854742,
+    "Incorrect_Mean_Margin": 0.043115344778377154,
+    "Correct_Median_Margin": 0.18475943803787231,
+    "Incorrect_Median_Margin": 0.0236162841320037,
+    "Correct_75th_Percentile": 0.24412909150123596,
+    "Correct_25th_Percentile": 0.0934555754065513
+}

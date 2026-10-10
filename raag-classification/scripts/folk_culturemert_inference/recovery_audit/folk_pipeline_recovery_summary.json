@@ -1,0 +1,12 @@
+{
+    "Folk recordings": "626 / 49072",
+    "5-second embeddings": 43142,
+    "60-second sequences": 0,
+    "KNN predictions": 0,
+    "Recording-level predictions": 0,
+    "BiLSTM predictions": 0,
+    "Confidence analysis": 0,
+    "Final reports": 0,
+    "Overall status": "PARTIALLY COMPLETED",
+    "Minimum next action": "Resume extraction for missing recordings"
+}

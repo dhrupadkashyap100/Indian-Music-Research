@@ -1,0 +1,21 @@
+{
+    "feature_audit_status": "PASS",
+    "transition_matrix": {
+        "verified_dimensions": 144,
+        "normalization": "L2 normalized globally per recording prior to hstack",
+        "integrity": "Clean"
+    },
+    "pitch_class_distribution": {
+        "verified_dimensions": 12,
+        "normalization": "L2 normalized globally per recording prior to hstack",
+        "integrity": "Clean"
+    },
+    "n3_trigrams": {
+        "verified_dimensions": 1728,
+        "quantization": "12 equal bins on tonic-relative cents",
+        "normalization": "L1 normalized per sequence (summing to 1) prior to hstack. Missing sequences due to <20 valid cents are stripped identically from Transition and PC matrices to maintain strictly aligned 1884D rows.",
+        "integrity": "Clean"
+    },
+    "total_dimensionality": 1884,
+    "leakage_check": "No future information or Test information used in feature construction."
+}

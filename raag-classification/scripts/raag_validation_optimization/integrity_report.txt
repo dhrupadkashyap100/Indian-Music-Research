@@ -1,0 +1,7 @@
+INTEGRITY AUDIT PASSED
+- Splitting was strictly grouped by `source_recording` using `train_test_split`. No overlap.
+- Method selection was performed strictly on the Validation set.
+- TRF Test set was sealed and evaluated exactly once using the frozen best method.
+- No CultureMERT models were fine-tuned or weights modified.
+- No Folk dataset recordings were touched or evaluated.
+- No Audio was overwritten or regenerated.

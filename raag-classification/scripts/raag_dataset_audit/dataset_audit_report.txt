@@ -1,0 +1,33 @@
+DATASET AUDIT REPORT
+====================
+A. Dataset location: D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset
+B. Number of Thaats: 10
+C. Number of Raags: 61
+D. Number of recordings: 1103
+E. Total duration: 241.08 hours
+F. Average recordings per Raag: 18.08
+G. Median recordings per Raag: 15.0
+H. Minimum/maximum recordings per Raag: 5 / 42
+I. Number of supported audio files: 1103
+J. Sampling-rate distribution: {44100: 821, 48000: 282}
+K. Channel distribution: {2: 952, 1: 151}
+L. Duration distribution (s): Min=13.8, Max=8051.7, Mean=786.8
+M. Number of corrupted/unreadable files: 0 (Zero byte: 0)
+N. Number of unique Raag labels observed: 61
+O. Number of exact overlaps with the 50-class model: 19
+P. Number of possible alias overlaps: 3
+Q. Number of unsupported Raags (vs 50-class): 39
+
+EVALUATION & SUITABILITY
+========================
+R. Suitable for supervised classification? YES. It appears to have a reasonable minimum recordings per class.
+S. Suitable for CultureMERT embedding analysis? YES. High-quality audio files can be run through the model for continuous representations.
+T. Suitable for nearest-neighbor Raag matching? YES, as a robust reference database assuming the classical recordings are high quality and clean.
+U. Suitable for evaluating a model? DEPENDS on independence. If all recordings in a Raag are from the same artist/concert, testing is invalid.
+
+V. Biggest Risks:
+- Data Leakage: Without explicit artist/album metadata in filenames, splitting multiple recordings from the same Raag might accidentally put the same concert in Train and Test.
+- Label Noise: Potential aliases and varying transcriptions of Raag names might artificially split classes.
+
+W. Recommended Next Step:
+Use CultureMERT to extract reference embeddings for the overlapping Raags in this dataset. Then compare Folk Music embeddings against this reference bank using k-NN or Cosine Similarity to assign candidate labels.

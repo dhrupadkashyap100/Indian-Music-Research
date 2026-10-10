@@ -1,0 +1,5 @@
+Dataset name,Location,Purpose,Status
+TRF Dataset,Thaat and Raga Forest (TRF) Dataset,Reference space,ACTIVELY USED
+SARAGA,Reference_Model/Raaga_Info,Evaluation,ACTIVELY USED
+Hindustani,Hindustani/,Pretraining,PARTIALLY INTEGRATED
+Folk Music,Folk_Music_Classifier/,Target inference,ACTIVELY USED

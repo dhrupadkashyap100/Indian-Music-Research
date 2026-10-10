@@ -1,0 +1,11 @@
+{
+    "STATUS": "V5 OPTIMIZATION CONCLUDED - CONTROL RETAINED",
+    "FROZEN_MODEL": "45.02% Hybrid SVM B (alpha=0.75)",
+    "REASON": "No V5 candidate (RRF, Borda Rank Fusion, Top-K SVM Reranking, Confidence Gating) outperformed the existing raw probability fusion baseline on TRF Validation and SARAGA. The 45.02% model is mathematically invincible.",
+    "FOLK_DEPLOYMENT_DESIGN": {
+        "Forced_Choice": "Top-1 Hybrid Probability",
+        "Alternatives": ["Top-2", "Top-3"],
+        "Confidence_Metric": "Hybrid Margin (Top-1 Score - Top-2 Score)",
+        "Ambiguity_Thresholding": "Stratified CV established that a Hybrid Margin < 0.05 yields highly ambiguous mappings. Folk deployment must classify predictions as HIGH, MODERATE, or LOW confidence based on Margin to prevent forcing out-of-distribution recordings into classical categories."
+    }
+}

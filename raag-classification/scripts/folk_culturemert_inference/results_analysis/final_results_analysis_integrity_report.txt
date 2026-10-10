@@ -1,0 +1,10 @@
+INTEGRITY CHECK PASSED
+No original audio modified.
+No TRF files modified.
+No SARAGA files modified.
+No Folk source files modified.
+No CultureMERT weights modified.
+No classifier checkpoints modified.
+No existing embedding files modified.
+No existing reports overwritten.
+Only NEW analysis files were created in results_analysis.

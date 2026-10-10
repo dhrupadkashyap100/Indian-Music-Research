@@ -1,0 +1,62 @@
+saraga_original_label,normalized_label,trf_label,trf_class_index,mapping_status,mapping_reason,confidence
+Basanti kedar,basantikedar,,-1,NO_MATCH,No matching TRF class found,NONE
+Dagori,dagori,,-1,NO_MATCH,No matching TRF class found,NONE
+Hindol Pancham,hindolpancham,,-1,NO_MATCH,No matching TRF class found,NONE
+Jait Kalyan,jaitkalyan,,-1,NO_MATCH,No matching TRF class found,NONE
+Jogia,jogia,,-1,NO_MATCH,No matching TRF class found,NONE
+Khat,khat,,-1,NO_MATCH,No matching TRF class found,NONE
+Khokar,khokar,,-1,NO_MATCH,No matching TRF class found,NONE
+Komal rishabh asavari,komalrishabhasavari,Komal Rishabh Asavari,37,EXACT_MATCH,Normalized string exact match,HIGH
+Gauri,gauri,Gauri,27,EXACT_MATCH,Normalized string exact match,HIGH
+Nat Kamod,natkamod,,-1,NO_MATCH,No matching TRF class found,NONE
+Sohini,sohini,Sohni,55,CANONICAL_ALIAS,Hand-verified canonical alias/spelling variation,HIGH
+Suha,suha,,-1,NO_MATCH,No matching TRF class found,NONE
+Triveni gauri,trivenigauri,,-1,NO_MATCH,No matching TRF class found,NONE
+Ahir bhairav,ahirbhairav,Ahir Bhairav,2,EXACT_MATCH,Normalized string exact match,HIGH
+Bairagi,bairagi,,-1,NO_MATCH,No matching TRF class found,NONE
+Bilaskhani todi,bilaskhanitodi,Bilaskhani Todi,20,EXACT_MATCH,Normalized string exact match,HIGH
+Kalavati,kalavati,,-1,NO_MATCH,No matching TRF class found,NONE
+Malkauns,malkauns,Malkauns,41,EXACT_MATCH,Normalized string exact match,HIGH
+Marubihag,marubihag,,-1,NO_MATCH,No matching TRF class found,NONE
+Multani,multani,Multani,46,EXACT_MATCH,Normalized string exact match,HIGH
+Nat bhairav,natbhairav,Nat Bhairav,47,EXACT_MATCH,Normalized string exact match,HIGH
+Rageshri,rageshri,Rageshree,52,CANONICAL_ALIAS,Hand-verified canonical alias/spelling variation,HIGH
+Shuddha kalyan,shuddhakalyan,suddha kalyan,60,CANONICAL_ALIAS,Hand-verified canonical alias/spelling variation,HIGH
+Shuddh sarang,shuddhsarang,,-1,NO_MATCH,No matching TRF class found,NONE
+Todi,todi,Miyan Ki Todi orTodi or Darbari Todi,45,CANONICAL_ALIAS,Hand-verified canonical alias/spelling variation,HIGH
+Des,des,Desh,24,CANONICAL_ALIAS,Hand-verified canonical alias/spelling variation,HIGH
+Lalat,lalat,Lalit,38,CANONICAL_ALIAS,Hand-verified canonical alias/spelling variation,HIGH
+Madhukauns,madhukauns,,-1,NO_MATCH,No matching TRF class found,NONE
+Marwa,marwa,Marva,42,CANONICAL_ALIAS,Hand-verified canonical alias/spelling variation,HIGH
+Miya malhar,miyamalhar,,-1,NO_MATCH,No matching TRF class found,NONE
+Puriya dhanashree,puriyadhanashree,,-1,NO_MATCH,No matching TRF class found,NONE
+Yaman kalyan,yamankalyan,Yaman Kalyan,57,EXACT_MATCH,Normalized string exact match,HIGH
+Bhairabi,bhairabi,Bhairavi,12,CANONICAL_ALIAS,Hand-verified canonical alias/spelling variation,HIGH
+Saraswati,saraswati,,-1,NO_MATCH,No matching TRF class found,NONE
+Abhogi,abhogi,Abhogi,0,EXACT_MATCH,Normalized string exact match,HIGH
+Megh,megh,Megh,43,EXACT_MATCH,Normalized string exact match,HIGH
+Khamaj,khamaj,Khamaj,35,EXACT_MATCH,Normalized string exact match,HIGH
+Bageshree,bageshree,Bageshree,5,EXACT_MATCH,Normalized string exact match,HIGH
+Bahar,bahar,Bahar,6,EXACT_MATCH,Normalized string exact match,HIGH
+Gaud Malhar,gaudmalhar,,-1,NO_MATCH,No matching TRF class found,NONE
+Bhairav,bhairav,Bhairav,10,EXACT_MATCH,Normalized string exact match,HIGH
+Dhani,dhani,,-1,NO_MATCH,No matching TRF class found,NONE
+Bhatiyar,bhatiyar,Bhatiyar,13,EXACT_MATCH,Normalized string exact match,HIGH
+Bhimpalas,bhimpalas,Bhimpalasi,14,CANONICAL_ALIAS,Hand-verified canonical alias/spelling variation,HIGH
+Bhoop,bhoop,Bhoopali,16,CANONICAL_ALIAS,Hand-verified canonical alias/spelling variation,HIGH
+Gawti,gawti,,-1,NO_MATCH,No matching TRF class found,NONE
+Bihag,bihag,Bihag,19,EXACT_MATCH,Normalized string exact match,HIGH
+Hameer,hameer,,-1,NO_MATCH,No matching TRF class found,NONE
+Jog,jog,,-1,NO_MATCH,No matching TRF class found,NONE
+Kirwani,kirwani,,-1,NO_MATCH,No matching TRF class found,NONE
+Kalyan,kalyan,Yaman or Kalyan,58,CANONICAL_ALIAS,Hand-verified canonical alias/spelling variation,HIGH
+Kedar,kedar,Kedar,34,EXACT_MATCH,Normalized string exact match,HIGH
+Mishra kalingada,mishrakalingada,,-1,NO_MATCH,No matching TRF class found,NONE
+Lagan Gandhar,lagangandhar,,-1,NO_MATCH,No matching TRF class found,NONE
+Bibhas,bibhas,Bibhas,18,EXACT_MATCH,Normalized string exact match,HIGH
+Maajh khamaj,maajhkhamaj,,-1,NO_MATCH,No matching TRF class found,NONE
+Chandrakauns,chandrakauns,,-1,NO_MATCH,No matching TRF class found,NONE
+Shree,shree,Shree,54,EXACT_MATCH,Normalized string exact match,HIGH
+Ramdasi malhar,ramdasimalhar,,-1,NO_MATCH,No matching TRF class found,NONE
+Lalit pancham,lalitpancham,,-1,AMBIGUOUS,Lalit Pancham contains Pancham which standard Lalit omits. Too ambiguous.,LOW
+Mishra piloo,mishrapiloo,,-1,NO_MATCH,No matching TRF class found,NONE

@@ -1,0 +1,11 @@
+Genre,Total_Recordings,Top_1_Raag,Top_2_Raag,Top_3_Raag,HIGH_Count,MODERATE_Count,AMBIGUOUS_Count,Avg_Margin,Agreement_Rate
+Baul,30,Bhairavi,Desh,Pahadi,0,2,28,0.017717815097986773,0.2
+Bhangra,32,sarang,Malkauns,Pahadi,2,1,29,0.023444323697111746,0.1875
+Bihu,37,Megh,Malkauns,suddha kalyan,1,7,29,0.028805072370270118,0.24324324324324326
+Dhamail,30,Pahadi,Khamaj,Desh,0,2,28,0.014602712208259873,0.1
+Garba,31,Malkauns,Megh Malhar,Megh,0,4,27,0.017787193335991755,0.0967741935483871
+Ghoomar,30,suddha kalyan,Pahadi,Malkauns,0,5,25,0.023297584209042498,0.16666666666666666
+Jhumur,30,Durga,Megh Malhar,Malkauns,2,4,24,0.03280510432035542,0.26666666666666666
+Lavani,35,Darbari,Marva,Yaman or Kalyan,1,2,32,0.02410948867257405,0.11428571428571428
+Maand,39,suddha kalyan,Khamaj,Alhaiya Bilaval,0,4,35,0.020286943061090277,0.10256410256410256
+Sambalpuri,33,Malkauns,Megh Malhar,Darbari,0,7,26,0.034188040938490996,0.18181818181818182

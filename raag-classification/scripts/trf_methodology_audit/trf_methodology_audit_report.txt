@@ -1,0 +1,25 @@
+TRF METHODOLOGY & TRAINING AUDIT REPORT
+=======================================
+
+OVERALL DECISION: GO.
+TRF is sufficiently reliable for supervised Raag classification and is the best available option.
+The dataset was specifically built and peer-reviewed for this exact task (CNN-based classification).
+
+1. Training:
+GO. 5 to 42 recordings per class (~241 hours) is a highly viable volume of data for deep learning.
+2. Validation:
+GO WITH CAUTION. Since we lack artist metadata, random file-level splits must be used. We accept the inherent risk of leakage for internal validation, as there is no alternative.
+3. Testing:
+GO. To ensure absolute scientific rigor, final evaluation MUST be conducted on the fully independent SARAGA dataset, circumventing any TRF internal leakage concerns.
+4. CultureMERT:
+GO. TRF audio is high quality (44.1/48kHz) and perfectly suited to chunking and extracting 768-D embeddings.
+5. Folk Prediction:
+GO. Once the model/reference-bank is validated on SARAGA, we can proceed to mapping Folk music.
+
+MOST IMPORTANT FINAL QUESTION:
+Q: Given everything we now know about TRF, should we stop searching for another dataset and start building our own 61-class Raag classifier using TRF?
+A: YES.
+Reasoning: TRF is a published, peer-reviewed dataset explicitly created for Thaat and Raag classification. It provides massive volume (241 hours) compared to SARAGA (39 hours). While it lacks granular metadata (making internal test splits risky), this is standard for many scraped academic datasets. We have the unique advantage of possessing SARAGA as a pristine external Test set. Therefore, TRF's leakage risk is neutralized.
+
+EXACT NEXT TECHNICAL STEP:
+Create a clean, non-destructive training manifest (CSV) from TRF. Exclude the 57 exact duplicates. Then, extract CultureMERT embeddings for TRF (as our Reference/Training Bank) and SARAGA (as our Test Set), and evaluate a baseline KNN or lightweight classifier.

@@ -1,0 +1,13 @@
+{
+    "BEST_MODEL": "75% Melodic Transition Matrix + 25% Pitch-Class Distribution, Top-50% Sequence Temporal Aggregation, MAX Reference Similarity",
+    "TRF_VALIDATION": "36.49%",
+    "SARAGA_ESTIMATED_TONIC": "55.55%",
+    "SARAGA_GT_TONIC": "53.70%",
+    "SEALED_TRF_TEST": "42.12%",
+    "SEALED_TEST_TOP3": "56.17%",
+    "SEALED_TEST_MACRO_F1": "0.365",
+    "SEALED_TEST_MARGIN_SEP": "-0.343",
+    "IMPROVEMENT_OVER_CULTUREMERT": "+29.02% (Absolute improvement on Test)",
+    "IMPROVEMENT_OVER_PREVIOUS_FUSION": "+11.12% (Absolute improvement over 31% standalone transition baseline on Test)",
+    "FINAL_RECOMMENDATION": "PROCEED TO FOLK"
+}

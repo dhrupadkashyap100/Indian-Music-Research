@@ -1,0 +1,6 @@
+Feature name,Actually used in training?,Actually evaluated?,Current status
+CultureMERT,YES,YES,IMPLEMENTED
+Swaragram,NO,YES,IMPLEMENTED
+Mel Spectrogram,YES,YES,IMPLEMENTED
+STFT Spectrogram,YES,YES,IMPLEMENTED
+Chromagram,YES,YES,IMPLEMENTED

@@ -1,0 +1,8 @@
+{
+  "total_poc_recordings": 10,
+  "trf_processed": 8,
+  "saraga_processed": 2,
+  "mean_ext_time": 0.3103861570358276,
+  "mean_voiced_ratio": 0.46350619195046444,
+  "estimated_full_trf_runtime_hours": 0.0950988697806994
+}

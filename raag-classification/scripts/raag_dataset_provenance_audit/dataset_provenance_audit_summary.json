@@ -1,0 +1,8 @@
+{
+    "total_recordings": 1103,
+    "exact_duplicates": 57,
+    "near_duplicate_pairs": 651,
+    "artist_diversity": "UNKNOWN",
+    "leakage_risk": "HIGH",
+    "decision": "GO WITH CAUTION"
+}

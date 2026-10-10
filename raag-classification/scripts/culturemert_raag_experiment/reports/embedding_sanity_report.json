@@ -1,0 +1,26 @@
+{
+    "Number of selected recordings": 14,
+    "Number of 5-second windows": 3762,
+    "Number of 30-second sequences": 624,
+    "Number of 60-second sequences": 306,
+    "Embedding dimensionality": 768,
+    "Missing/failed segments": 0,
+    "Processing time (seconds)": 151.5518660545349,
+    "GPU memory usage": 0.540033536,
+    "Distribution of classes": {
+        "Shree": 1339,
+        "Jog": 986,
+        "Malkauns": 633,
+        "Marwa": 485,
+        "Todi": 319
+    },
+    "Number of sequences per dataset": {
+        "SARAGA": 3373,
+        "TRF": 389
+    },
+    "Sanity checks": {
+        "No NaN embeddings": true,
+        "No infinite values": true,
+        "Consistent shape": true
+    }
+}

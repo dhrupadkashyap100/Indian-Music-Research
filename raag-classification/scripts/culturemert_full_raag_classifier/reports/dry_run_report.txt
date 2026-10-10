@@ -1,0 +1,44 @@
+CULTUREMERT FULL CLASSIFIER - DRY RUN VERIFICATION REPORT
+=========================================================
+
+DATASET
+- Did the manifest correctly identify the expected ~1,103 recordings? YES (1103 recordings)
+- Are all 61 Raags represented? YES (61 Raags)
+- Are all 10 Thaats represented? YES (10 Thaats)
+
+AUDIO
+- Did every dry-run file load? YES
+- Were all successfully converted to 24 kHz mono? YES
+- How many 5-second windows were produced? 2300
+
+CULTUREMERT
+- Did every window produce a (768,) embedding? YES
+- Any NaN/Inf? NO (NaN: 0, Inf: 0)
+- GPU memory? 0.54 GB
+- Actual throughput? 0.0716 seconds per 5s window
+
+SEQUENCES
+- Number of 30-second sequences? 377
+- Number of 60-second sequences? 185
+- Any cross-recording contamination? NO
+
+SPLITTING
+- Was recording-level isolation correctly enforced? YES
+- Any recording appearing in multiple splits? NO (Leakage=False)
+- Which classes are absent from any split? Evaluated strictly in dry_run_split_report.csv.
+
+CLASSIFIERS
+- Did all four architectures successfully perform:
+  - forward pass? YES
+  - loss? YES
+  - backward pass? YES
+  - optimizer step? YES
+  - checkpoint save/load? YES
+
+SCALING
+- Estimated time for full 241-hour embedding extraction: 3.45 hours
+- Estimated disk requirement: 508.52 MB
+- Any bottlenecks discovered: Audio loading/resampling scales linearly. Extraction is highly efficient.
+
+FINAL DECISION:
+READY FOR FULL EXTRACTION

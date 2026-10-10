@@ -1,0 +1,16 @@
+POC files processed: 15
+Successful: 15/15
+Failed: 0/15
+
+Average runtime/minute: 0.30 minutes processing per 1 minute of audio
+
+Estimated validation runtime: 4.47 hours
+Estimated SARAGA runtime: 4.66 hours
+Estimated 328-Folk runtime: 8.22 hours
+Estimated worst-case 1,103-TRF runtime: 22.11 hours
+
+Vocal stem quality: PASS
+Deadline feasibility: PASS
+
+RECOMMENDATION:
+PROCEED

@@ -1,0 +1,15 @@
+CULTUREMERT EXPERIMENT SANITY REPORT
+====================================
+1. Did CultureMERT process both TRF and SARAGA successfully? YES
+2. Sampling rate fed to model: 24000 Hz
+3. Exact embedding shape: (768,) per 5-second window
+4. Number of 5-second segments generated: 3762
+5. Number of 30-second sequences generated: 624
+6. Number of 60-second sequences generated: 306
+7. Any embeddings NaN/Inf? NaN: False, Inf: False
+8. Average GPU memory usage: 0.54 GB
+9. Average inference time per 5-second segment: 0.0412 seconds
+10. Did TRF and SARAGA embeddings have compatible dimensions? YES (both 768)
+11. Did the combined representation pipeline work? YES
+12. Were there any preprocessing failures? 0
+13. Were any existing datasets or scripts modified? NO

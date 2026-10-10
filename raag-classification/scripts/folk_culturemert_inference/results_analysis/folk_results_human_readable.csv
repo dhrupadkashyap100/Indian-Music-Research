@@ -1,0 +1,328 @@
+Original Song ID,Song_Name,Artist,Genre,Top1_Raag,Top1_Similarity,Top2_Raag,Top2_Similarity,Margin,Top3_Raag,Top4_Raag,Top5_Raag
+BAUL_001,Agun Pani,Purna Das Baul,Baul,Madhuvanti,0.9390132029851278,Darbari,0.9382558822631836,0.0007573207219442,Bhairavi,Purba,Bahar
+BAUL_002,Ja Lolite Anga Kushum Tule,Purna Das Baul,Baul,Abhogi,0.922528140246868,Malkauns,0.9200570782025655,0.0024710620443025,Darbari,Yaman Kalyan,Alhaiya Bilaval
+BAUL_003,Kalkatou Mon Heshekeley,Purna Das Baul,Baul,Yaman Kalyan,0.942153659733859,Malkauns,0.9392885565757751,0.0028651031580838,Abhogi,Madhuvanti,Darbari
+BAUL_004,Ananda Lahari,Purna Das Baul,Baul,Marva,0.9302977919578552,Bhairavi,0.9263817071914672,0.0039160847663879,Khamaj,Malhar,Darbari
+BAUL_005,Amar Aei Rudir Dhara,Purna Das Baul,Baul,Bhairavi,0.9323631616739126,Alhaiya Bilaval,0.9292853772640228,0.0030777844098898,Malkauns,Purba,sarang
+BAUL_006,Hari Balo Re,Purna Das Baul,Baul,Yaman Kalyan,0.9324765042825178,Malkauns,0.9291407465934752,0.0033357576890424,Puriya,Darbari,Sorath
+BAUL_007,Gour Lila Bazare,Purna Das Baul,Baul,Yaman Kalyan,0.9372758388519288,Megh,0.9313765168190002,0.0058993220329284,Darbari,Yaman or Kalyan,Kafi
+BAUL_008,Tripti,Purna Das Baul,Baul,Malkauns,0.8812009692192078,Sorath,0.8810038434134589,0.0001971258057488,Basant,Bhairavi,Malhar
+BAUL_009,Kon Ba Zharir,Purna Das Baul,Baul,Barwa,0.936213195323944,Lalit,0.9349770545959472,0.0012361407279968,Pahadi,Desh,Puriya
+BAUL_010,Sonogo Aian Dada,Purna Das Baul,Baul,Yaman Kalyan,0.945658109404824,Bahar,0.9416872262954712,0.0039708831093527,Malkauns,Bhimpalasi,Asavari
+BAUL_011,Chor Poreche Babur Bagane,Purna Das Baul,Baul,Bhairavi,0.9281067997217178,Megh,0.9204717874526978,0.00763501226902,Gauri,Alhaiya Bilaval,Abhogi
+BAUL_012,Golemale Gole Male,Purna Das Baul,Baul,Khamaj,0.9356765747070312,Jhinjhoti,0.934124320745468,0.0015522539615631,Abhogi,Bilaval,Purba
+BAUL_013,Menokaa Maathaay Dilo Ghomtaa,Purna Das Baul,Baul,Puriya,0.9328494071960448,Jaunpuri,0.9276015162467957,0.0052478909492492,Pahadi,Sohni,
+BAUL_014,Dekhechhi Rup-Sagare,Purna Das Baul,Baul,Bhairavi,0.9366545130809149,Sorath,0.9317457874615988,0.0049087256193161,,,
+BAUL_015,Aami Kothay Pabo Tare,Purna Das Baul,Baul,Abhogi,0.9180738925933838,Bhairavi,0.9172026157379152,0.0008712768554687,Malkauns,Asavari,Kedar
+BAUL_016,Shesher Deene Sejon Bine,Purna Das Baul,Baul,Sorath,0.9355186223983764,Madhuvanti,0.9304281870524088,0.0050904353459676,Darbari,Malkauns,Purba
+BAUL_017,Milon Hobe Koto Dine,Farida Parveen,Baul,Bhimpalasi,0.9335311651229858,Bhoopali,0.9318382342656454,0.0016929308573404,Barwa,Desh,Pahadi
+BAUL_018,Khanchar Bhitor Achin Pakhi,Farida Parveen,Baul,Abhogi,0.929376224676768,Yaman or Kalyan,0.928906512260437,0.0004697124163309,Kafi,Jhinjhoti,Adana
+BAUL_019,Aami Ek Pagal Baul,Purna Das Baul,Baul,Bhairavi,0.920799732208252,Ahir Bhairav,0.920729160308838,7.05718994140625e-05,Sorath,Nat Bhairav,Darbari
+BAUL_020,Jemon Beni Temni Rabey,Purna Das Baul,Baul,Bhairav,0.9400071501731871,Ramkali,0.93567556142807,0.0043315887451171,Khamaj,Desh,Megh Malhar
+BAUL_021,Prem Koraa Ki Jwalaa,Purna Das Baul,Baul,Purba,0.9417316913604736,Gauri,0.9333698932941144,0.0083617980663592,Bageshree,,
+BAUL_022,Emon Mon Byabsaa,Purna Das Baul,Baul,Durga,0.9488418847322464,Gauri,0.9448754290739696,0.0039664556582769,Rageshree,Asavari,Bihag
+BAUL_023,Manush Bhajo Manusheyi Pujo,Purna Das Baul,Baul,Purba,0.9455066283543904,,0.0,0.9455066283543904,,,
+BAUL_024,Dil Dariyar Majhete,Purna Das Baul,Baul,Purba,0.9334065094590188,Bageshree,0.9245622754096984,0.0088442340493202,Desh,,
+BAUL_025,Bahu Punya Phale Krishna Mele,Purna Das Baul,Baul,Purba,0.9353262931108476,Darbari,0.9294450283050536,0.0058812648057937,Rageshree,Kedar,
+BAUL_026,Sokhi Jamuna Jol,Purna Das Baul,Baul,Malkauns,0.9320110380649568,Megh,0.9314692616462708,0.0005417764186859,Yaman or Kalyan,Yaman Kalyan,Desh
+BAUL_027,Pre Loye Jao Amay,Farida Parveen,Baul,Malkauns,0.9434403479099274,Bhairav,0.9402081072330476,0.0032322406768798,Poorvi,Abhogi,Bhoopali
+BAUL_028,Somoy Gele Sadhon Hobena,Farida Parveen,Baul,Nat Bhairav,0.9179776906967164,Megh,0.9170891642570496,0.0008885264396667,Bageshree,Khamaj,
+BAUL_029,Aar Amare Marishne Maa,Farida Parveen,Baul,Miyan Ki Todi orTodi or Darbari Todi,0.9413799047470092,Bahar,0.9394251108169556,0.0019547939300537,Desh,Bilaskhani Todi,Pahadi
+BAUL_030,Dhonno Dhonno Boli Tare,Farida Parveen,Baul,Bahar,0.9369995594024658,Miyan Ki Todi orTodi or Darbari Todi,0.9339011430740356,0.0030984163284302,Bihag,Bageshree,Yaman Kalyan
+BHANGRA_001,Tera Yaar Bolda,Surjit Bindrakhia,Bhangra,Bahar,0.921151340007782,Darbari,0.9210153884357876,0.0001359515719943,Alhaiya Bilaval,Bibhas,Bhoopali
+BHANGRA_002,Jatt Di Pasand,Surjit Bindrakhia,Bhangra,Bhoopali,0.9307149648666382,Bahar,0.9272048473358154,0.0035101175308227,Asavari,Darbari,Yaman or Kalyan
+BHANGRA_003,Dupatta Tera Satrang Da,Surjit Bindrakhia,Bhangra,Darbari,0.9340433835983276,Alhaiya Bilaval,0.9340028166770936,4.0566921234108655e-05,Bibhas,Bahar,
+BHANGRA_004,Wang Wargi Kudi,Surjit Bindrakhia,Bhangra,Darbari,0.9285542726516725,Abhogi,0.9242647488911948,0.0042895237604776,Ahir Bhairav,,
+BHANGRA_005,Sanu Tedi Tedi Takdi Tu,Surjit Bindrakhia,Bhangra,Yaman or Kalyan,0.9279335339864097,Megh,0.9238650083541872,0.0040685256322224,Bahar,Khamaj,Marva
+BHANGRA_006,Munda Ki Mangda,Surjit Bindrakhia,Bhangra,Adana,0.9311233233837856,Alhaiya Bilaval,0.9282400012016296,0.0028833221821558,Bhairav Bahar,Jaunpuri,
+BHANGRA_007,Tunak Tunak Tun,Daler Mehndi,Bhangra,Megh,0.9486719965934752,Deepak,0.9359232783317566,0.0127487182617187,Bhatiyar,Bilaskhani Todi,sarang
+BHANGRA_008,Bolo Ta Ra Ra,Daler Mehndi,Bhangra,Desh,0.9416818022727966,Pahadi,0.9385072101246228,0.0031745921481739,Asavari,Miyan Ki Todi orTodi or Darbari Todi,
+BHANGRA_009,Ho Jayegi Balle Balle,Daler Mehndi,Bhangra,Darbari,0.94682352617383,Basant,0.9397141933441162,0.0071093328297138,Asavari,Kedar,
+BHANGRA_010,Dardi Rab Rab Kardi,Daler Mehndi,Bhangra,Darbari,0.9320015162229538,Asavari,0.927506488103133,0.0044950281198208,Alhaiya Bilaval,Miyan Ki Todi orTodi or Darbari Todi,
+BHANGRA_011,Saade Dil Te Chhuriyan Chaliyan,Daler Mehndi,Bhangra,Adana,0.9343648016452788,Ahir Bhairav,0.9297602474689484,0.0046045541763305,Barwa,Deepak,Bibhas
+BHANGRA_012,Na Na Na Na Na Re,Daler Mehndi,Bhangra,Adana,0.9397317171096802,Miyan Ki Todi orTodi or Darbari Todi,0.938241998354594,0.0014897187550863,Madhuvanti,Rageshree,Alhaiya Bilaval
+BHANGRA_013,Pao Bhangra,Balwinder Safri,Bhangra,Bhairavi,0.9150501357184516,Bahar,0.9139851331710817,0.00106500254737,Malhar,Megh Malhar,Asavari
+BHANGRA_014,Ambran Tu Ayi Hui Hoor Sohniye,Balwinder Safri,Bhangra,Gujari Todi,0.938441514968872,Megh,0.9303874969482422,0.0080540180206298,Puriya,Bilaskhani Todi,Miyan Ki Todi orTodi or Darbari Todi
+BHANGRA_015,Sariyan Toon Sohni,Balwinder Safri,Bhangra,Alhaiya Bilaval,0.9290915301867894,Darbari,0.9286159873008728,0.0004755428859165,Asavari,Puriya,Ahir Bhairav
+BHANGRA_016,Mitran Ne Mundri Te,Balwinder Safri,Bhangra,Darbari,0.9400232076644898,Puriya,0.9393790364265442,0.0006441712379455,Alhaiya Bilaval,Asavari,
+BHANGRA_017,Ambran Tu Ayi Hui Hoor Sohniye (Remix ft. MC Bulla),Balwinder Safri,Bhangra,Gujari Todi,0.938669741153717,Bilaval,0.93329256772995,0.005377173423767,Puriya,Megh,Alhaiya Bilaval
+BHANGRA_018,Tutak Tutak Tutiya,Malkit Singh (Golden Star),Bhangra,Darbari,0.929722547531128,Alhaiya Bilaval,0.929538627465566,0.0001839200655618,Desh,Asavari,Gujari Todi
+BHANGRA_019,Kurri Garam Jayee,Malkit Singh (Golden Star),Bhangra,Rageshree,0.93218132853508,Puriya,0.9318551421165466,0.0003261864185333,Gauri,Kedar,
+BHANGRA_020,Chal Hun,Malkit Singh (Golden Star),Bhangra,Shree,0.9341129064559937,Gujari Todi,0.9327207207679749,0.0013921856880187,Bhimpalasi,Darbari,Madhuvanti
+BHANGRA_021,Kinni Sohni,Malkit Singh (Golden Star),Bhangra,Darbari,0.9421038902722872,Alhaiya Bilaval,0.9357980986436208,0.0063057916286664,Rageshree,Adana,Desi
+BHANGRA_022,Mera Yaar Vajaye Dhol,Apna Sangeet,Bhangra,Bilaval,0.943273425102234,Malkauns,0.9423522025346756,0.0009212225675583,Yaman Kalyan,Sorath,Purba
+BHANGRA_023,Bhaina Nachiyaan,Apna Sangeet,Bhangra,Alhaiya Bilaval,0.9301152879541572,Puriya,0.9252057075500488,0.0049095804041082,Asavari,Barwa,
+BHANGRA_024,Apna Sangeet Vajeh Apna Sangeet,Apna Sangeet,Bhangra,Bilaval,0.9225921630859376,Desh,0.914510816335678,0.0080813467502594,Ahir Bhairav,Bageshree,Darbari
+BHANGRA_025,Soho Road Utey,Apna Sangeet,Bhangra,Malkauns,0.9346901476383208,Bilaval,0.9320884585380554,0.0026016891002654,Desh,Darbari,Khamaj
+BHANGRA_026,Kuriyan Ne Paya Bhangra,Kuldeep Manak,Bhangra,Darbari,0.930869497358799,Asavari,0.924398351799358,0.0064711455594409,Alhaiya Bilaval,Madhuvanti,
+BHANGRA_027,Jodi (Big Day Party) ft. Panjabi MC,Kuldeep Manak,Bhangra,Darbari,0.9341779616143968,Asavari,0.9311528007189432,0.0030251608954535,,,
+BHANGRA_028,Jugni,Kuldeep Manak,Bhangra,Yaman Kalyan,0.9350972175598145,Sorath,0.9307821393013,0.0043150782585144,Adana,Bhimpalasi,Desh
+BHANGRA_029,Putt Jattan De,Surinder Shinda,Bhangra,Abhogi,0.9170238971710204,Darbari,0.9168429970741272,0.0001809000968933,Pahadi,Bhairavi,Desi
+BHANGRA_030,Sucha Soorma (Balbiro Bhabhi),Surinder Shinda,Bhangra,suddha kalyan,0.9264034032821656,Purba,0.922942727804184,0.0034606754779815,Adana,Bilaskhani Todi,
+BHANGRA_031,Nawan Le Liya Truck Tere Yaar Ne (Truck Billiya),Surinder Shinda,Bhangra,Rageshree,0.9378849665323892,Khamaj,0.9288759529590608,0.0090090135733286,Bilaval,Sorath,Bhairavi
+BHANGRA_032,Jeona Morh,Surinder Shinda,Bhangra,Basant Mukhari,0.94483882188797,Bhairav,0.9441349506378174,0.0007038712501525,Basant,Megh Malhar,Malhar
+BIHU_001,Morom Logai Logai,Zubeen Garg,Bihu,Sohni,0.9355188310146332,Bahar,0.9333874136209488,0.0021314173936843,Megh Malhar,Bhimpalasi,suddha kalyan
+BIHU_002,Toi Nagini Ne,Zubeen Garg,Bihu,Asavari,0.9279810190200806,Puriya,0.9271268248558044,0.0008541941642761,Sohni,Bahar,Khamaj
+BIHU_003,Kokalote Tongali,Zubeen Garg,Bihu,Hindol,0.9402493702040778,Sorath,0.9400249421596528,0.0002244280444251,Madhuvanti,suddha kalyan,Khamaj
+BIHU_004,Tumake Logot,Zubeen Garg,Bihu,Bilaval,0.9349119265874228,Puriya,0.9349078804254533,4.046161969584183e-06,Malkauns,Darbari,Abhogi
+BIHU_005,Kinu Sawonire Sala,Zubeen Garg,Bihu,Desi,0.937825342019399,Darbari,0.935387396812439,0.00243794520696,Hindol,Desh,Ahir Bhairav
+BIHU_006,Dikhow Noi Eribo,Zubeen Garg,Bihu,Desh,0.9434793499799876,Sorath,0.939917822678884,0.0035615273011035,Marva,,
+BIHU_007,Phool Phulise,Zubeen Garg,Bihu,Desh,0.9279355021084056,Pahadi,0.9242524206638336,0.0036830814445719,Malhar,Darbari,Desi
+BIHU_008,Porbotor Dhekiya,Zubeen Garg,Bihu,Desh,0.9392127990722656,Desi,0.9378806799650192,0.0013321191072463,Nat Bhairav,Madhuvanti,Barwa
+BIHU_009,O Nahor,Zubeen Garg,Bihu,Marva,0.9372720718383788,Bahar,0.9317595362663268,0.005512535572052,Puriya,Bhimpalasi,Ahir Bhairav
+BIHU_010,Janmoni Xopunote Ahiba,Zubeen Garg,Bihu,Bilaskhani Todi,0.9464597702026368,Purba,0.94543327887853,0.0010264913241068,Hindol,Asavari,Desh
+BIHU_011,Eijon Korenu Nasoni,Bhupen Hazarika,Bihu,Adana,0.9127277731895448,Bhimpalasi,0.9113159349986484,0.0014118381908961,Rageshree,suddha kalyan,Komal Bhairav
+BIHU_012,Laje Moru Moru,Bhupen Hazarika,Bihu,Bhoopali,0.935035526752472,Puriya,0.9348170445078896,0.0002184822445824,Darbari,Asavari,Adana
+BIHU_013,Ki Sai Aso,Bhupen Hazarika,Bihu,Ahir Bhairav,0.9377931157747904,Asavari,0.9376938343048096,9.928146998083864e-05,Adana,Bhoopali,Puriya
+BIHU_014,Bihureno Birina,Bhupen Hazarika,Bihu,Marva,0.9398987889289856,Bahar,0.9385724365711212,0.0013263523578643,Khamaj,Rageshree,Ahir Bhairav
+BIHU_015,Duetar Boraghor,Bhupen Hazarika,Bihu,Yaman Kalyan,0.93269522190094,Asavari,0.931435763835907,0.0012594580650329,Jhinjhoti,Darbari,Bhoopali
+BIHU_016,Sangor Chira Pitha,Bhupen Hazarika,Bihu,Adana,0.9340896308422088,Yaman or Kalyan,0.9336766740855048,0.0004129567567039,Bhoopali,Puriya,Asavari
+BIHU_017,Kopou Phul Phulile,Khagen Mahanta,Bihu,Bhoopali,0.930789202451706,Puriya,0.9257988035678864,0.0049903988838195,Barwa,Megh,Asavari
+BIHU_018,Amona Dhanoke,Khagen Mahanta,Bihu,Desh,0.9321285571370806,Megh,0.9309639632701874,0.0011645938668932,Khamaj,Asavari,Bhupal Todi
+BIHU_019,O Dhei Oi,Khagen Mahanta,Bihu,Megh,0.94159068663915,Bhairavi,0.933493435382843,0.008097251256307,Desh,Bahar,Bageshree
+BIHU_020,Dhansiri Pare Hoi,Khagen Mahanta,Bihu,Bhairavi,0.9315775831540426,Ahir Bhairav,0.9304070025682448,0.0011705805857976,Shree,Bhatiyar,Lalit
+BIHU_021,Petore Juruni Bhat,Khagen Mahanta,Bihu,Megh Malhar,0.9354408010840416,Malhar,0.9354408010840416,0.0,Adana,Bilaval,Bhairavi
+BIHU_022,Aag Fale Dekhilo,Khagen Mahanta,Bihu,Bahar,0.9400355021158854,Deepak,0.9375130534172058,0.0025224486986795,Bhairavi,Rageshree,Bilaval
+BIHU_023,Aghunor Potharot,Khagen Mahanta,Bihu,Bhoopali,0.9258055885632832,Sorath,0.9236040711402892,0.002201517422994,sarang,Darbari,Desh
+BIHU_024,Ebela Hale Bau,Khagen Mahanta,Bihu,Bhoopali,0.9140297651290894,Abhogi,0.912101149559021,0.0019286155700684,Megh,Yaman or Kalyan,Darbari
+BIHU_025,Senai o Tumake Bisari,Khagen Mahanta,Bihu,Ahir Bhairav,0.9319057332144844,Megh,0.9283329248428344,0.0035728083716498,Bahar,Bilaval,Rageshree
+BIHU_026,Bohag Ahil Buli,Shanta Uzir,Bihu,Ahir Bhairav,0.9447818845510484,Bhoopali,0.9410002827644348,0.0037816017866134,Sohni,Adana,Bhimpalasi
+BIHU_027,Tumi Nasoni,Shanta Uzir,Bihu,Ahir Bhairav,0.9331122296197074,Yaman Kalyan,0.9298708836237588,0.0032413459959484,Darbari,Sohni,Abhogi
+BIHU_028,Xunjone Nuxudhiba,"Zubeen Garg, Vitali Das",Bihu,Bhoopali,0.9346596002578736,Bahar,0.9334750970204672,0.0011845032374063,Ahir Bhairav,Madhuvanti,Malkauns
+BIHU_029,Morone Phulonit,"Zubeen Garg, Vitali Das",Bihu,Bhatiyar,0.9390686452388765,Darbari,0.9380155801773072,0.0010530650615692,Alhaiya Bilaval,Ahir Bhairav,Adana
+BIHU_030,Nila Nila Akhore,"Zubeen Garg, Nirmali Das",Bihu,Bilaskhani Todi,0.9336096942424774,Bahar,0.9332591891288756,0.0003505051136016,Adana,Puriya,Bhoopali
+BIHU_031,Kahili puwate,"Zubeen Garg, Priyanka Bharali",Bihu,Malkauns,0.9409241676330566,Darbari,0.9390067060788472,0.0019174615542093,suddha kalyan,Hindol,Ahir Bhairav
+BIHU_032,Rohare O Rohedoi,Bhitali Das,Bihu,Sohni,0.93672776222229,Khamaj,0.934889147679011,0.001838614543279,Bilaval,Abhogi,Darbari
+BIHU_033,Dhengkoli,Navanita Sharma,Bihu,Khamaj,0.9377902348836265,Asavari,0.9354585806528728,0.0023316542307536,Madhuvanti,Yaman Kalyan,Bhimpalasi
+BIHU_034,Gabhoru Bihu,Deeplina Deka,Bihu,Khamaj,0.944908082485199,Bhairav,0.9412096738815308,0.0036984086036682,Bihag,Darbari,Ahir Bhairav
+BIHU_035,Bohagi,Rupankrita and Alankrita,Bihu,Bahar,0.9334774017333984,Adana,0.9314146637916564,0.0020627379417419,Megh,Khamaj,Kedar
+BIHU_036,Podulit Bihu,Rupankrita and Alankrita,Bihu,Bageshree,0.9383173584938048,Desh,0.9360572099685668,0.002260148525238,Khamaj,Darbari,Puriya
+BIHU_037,Tok Dekhi Mor Gaa,Abhishruti Bezbaruah,Bihu,Madhuvanti,0.9380791095586924,Alhaiya Bilaval,0.9371370673179626,0.0009420422407296,Megh,Puriya,Jaunpuri
+DHAMAIL_001,জাগাইওনা মোরে সই গো,Dithi Das,Dhamail,Darbari,0.9273963371912638,Madhuvanti,0.9254998366038004,0.0018965005874633,Poorvi,Miyan Ki Todi orTodi or Darbari Todi,
+DHAMAIL_002,আর যাবো না জলে,Dithi Das,Dhamail,Khamaj,0.932534913221995,Madhuvanti,0.9313467343648276,0.0011881788571674,Poorvi,Darbari,Jaunpuri
+DHAMAIL_003,বন্ধু অতও যাইবায় গিয়া,Dithi Das,Dhamail,Adana,0.9343490058725532,Khamaj,0.9334965348243712,0.0008524710481817,Kedar,Lalit,Madhuvanti
+DHAMAIL_004,ধামাইল দেও গো চড়চড়ির মা,Dithi Das,Dhamail,Lalit,0.9353681802749634,Bhatiyar,0.9345453679561616,0.0008228123188018,Bhairav,Nat Bhairav,Miyan Ki Todi orTodi or Darbari Todi
+DHAMAIL_005,বাঁশি বাজগো রইয়া রইয়া,Dithi Das,Dhamail,Alhaiya Bilaval,0.9256514608860016,Nat Bhairav,0.9242033362388612,0.0014481246471405,Darbari,Miyan Ki Todi orTodi or Darbari Todi,Bageshree
+DHAMAIL_006,যাইও না রে প্রানো বন্ধু আমারে বুলিয়া,Uma Das,Dhamail,Purba,0.93755283425836,Malkauns,0.9354178309440612,0.0021350033142987,Megh,sarang,Yaman Kalyan
+DHAMAIL_007,দেইখে আইলাম তারে সইগো,Uma Das,Dhamail,Abhogi,0.9278552532196044,sarang,0.9258223176002502,0.0020329356193542,Jaunpuri,Desh,Komal Bhairav
+DHAMAIL_008,মনের জ্বালায় জ্বলে মরি,Uma Das,Dhamail,Bahar,0.9485883116722108,Miyan Ki Todi orTodi or Darbari Todi,0.9475834369659424,0.0010048747062683,Purba,Bilaval,Darbari
+DHAMAIL_009,ধামাইল শেষ হইয়া যায়,Uma Das,Dhamail,Basant Mukhari,0.9399168491363524,Malkauns,0.9392169713974,0.0006998777389526,sarang,Bhairav Bahar,Miyan Ki Todi orTodi or Darbari Todi
+DHAMAIL_010,আমরা কার বাড়িত আইলাম গো,Uma Das,Dhamail,Jaunpuri,0.9390256106853484,Purba,0.9355598092079164,0.0034658014774322,Gujari Todi,Megh,sarang
+DHAMAIL_011,বল গো বল সখি,Habib Simu/Shimu,Dhamail,Marva,0.938066303730011,Sorath,0.9374337077140809,0.0006325960159301,Bhimpalasi,Darbari,Desh
+DHAMAIL_012,ইতা কিতা করে গো মনে,Habib Simu/Shimu,Dhamail,Darbari,0.9444406032562256,Multani,0.94066721200943,0.0037733912467956,Purba,Sorath,Madhuvanti
+DHAMAIL_013,শুনোগো শুনোগো সখি,Habib Simu/Shimu,Dhamail,Darbari,0.947432827949524,Bageshree,0.9433932662010192,0.0040395617485046,Asavari,Khamaj,
+DHAMAIL_014,শ্যামরে এখন আর কাঁদিও না,Habib Simu/Shimu,Dhamail,Purba,0.9257985949516296,Alhaiya Bilaval,0.9233354926109314,0.0024631023406982,Madhuvanti,Adana,Bhairavi
+DHAMAIL_015,চান্নি রাইতে আইও কালা,Habib Simu/Shimu,Dhamail,Madhuvanti,0.9451568325360616,Miyan Ki Todi orTodi or Darbari Todi,0.938182532787323,0.0069742997487386,Multani,Nat Bhairav,Asavari
+DHAMAIL_016,যুগল মিলন হইলো গো,Jumiar Shanta,Dhamail,Bihag,0.9408831596374512,Kedar,0.9407559633255004,0.0001271963119506,Multani,Bhimpalasi,Miyan Ki Todi orTodi or Darbari Todi
+DHAMAIL_017,বলো গো বলো সই,Pausali Banerjee,Dhamail,Khamaj,0.9350849390029908,Bhoopali,0.933024913072586,0.0020600259304046,Yaman Kalyan,Ahir Bhairav,Malkauns
+DHAMAIL_018,কত আদরে আদরে,Pausali Banerjee,Dhamail,Bhupal Todi,0.933988094329834,Desh,0.9286448955535888,0.0053431987762451,Yaman Kalyan,Barwa,Poorvi
+DHAMAIL_019,জলে গিয়েছিলাম সই,Pausali Banerjee,Dhamail,Darbari,0.9376106361548106,Asavari,0.9334404915571212,0.0041701445976892,Adana,,
+DHAMAIL_020,বন্ধু বিনে প্রাণ বাঁচে না,Pausali Banerjee,Dhamail,Darbari,0.9275171260039012,Asavari,0.9244872132937112,0.0030299127101898,Sorath,Khamaj,Bageshree
+DHAMAIL_021,জলের ঘাটে,Pausali Banerjee,Dhamail,Bihag,0.9413678646087646,Yaman Kalyan,0.9299077093601228,0.0114601552486419,Kedar,Nat Bhairav,Darbari
+DHAMAIL_022,Bhalo Kare Bajam Re,Maadal,Dhamail,Poorvi,0.9383992769501426,Darbari,0.936948890487353,0.0014503864627896,Lalit,Desh,Bahar
+DHAMAIL_023,Tara Lowo Go Jol,Maadal,Dhamail,Khamaj,0.9349356757269964,Bilaskhani Todi,0.9297849535942078,0.0051507221327887,Bilaval,Kedar,Darbari
+DHAMAIL_024,Jhiko Jhiko Khodi Re,Maadal,Dhamail,Desi,0.9446090161800385,Megh,0.9420459380856266,0.0025630780944118,Pahadi,Nat Bhairav,Ahir Bhairav
+DHAMAIL_025,Nrittangon Sunamganj,Debdas Chowdhury,Dhamail,Bhairavi,0.9242586458430572,Malkauns,0.9217245578765868,0.0025340879664701,Madhuvanti,Sorath,Rageshree
+DHAMAIL_026,জলার জলার ঘাটে,Himel Dev Rahul,Dhamail,Marva,0.9157445549964904,Ahir Bhairav,0.9155611991882324,0.000183355808258,Gauri,Rageshree,suddha kalyan
+DHAMAIL_027,অচেনা এক রূপবতী,Samim Siddiki,Dhamail,Ahir Bhairav,0.9444332917531332,Adana,0.943540973322732,0.000892318430401,Megh,,
+DHAMAIL_028,কুঞ্জের মাঝে,Madol Folk Band,Dhamail,Megh,0.9370437995953992,Sorath,0.9343453645706176,0.0026984350247816,Yaman or Kalyan,,
+DHAMAIL_029,আজ রাধার কুঞ্জে,Suman Dewan,Dhamail,Adana,0.9412393420934676,Sorath,0.9384034872055054,0.0028358548879623,Pahadi,Malkauns,
+DHAMAIL_030,জানো নি গো সই,Jabel Raza,Dhamail,Asavari,0.9140134900808334,Puriya,0.9118651896715164,0.002148300409317,Adana,Sorath,Alhaiya Bilaval
+GARBA_001,Maa Pava Te Gadh Thi Utarya,Diwaliben Bhil,Garba,Malkauns,0.9389644861221312,Darbari,0.938363566994667,0.0006009191274642,Sorath,Asavari,Bhairavi
+GARBA_002,Madi Tara Mandiriye Ghantarav Thay,"Vibha Desai, Sharavan Madhurai",Garba,Ahir Bhairav,0.9412323236465454,Bilaskhani Todi,0.939362665017446,0.0018696586290994,Basant Mukhari,Bhupal Todi,Bhairav Bahar
+GARBA_003,Ghor Andhari Re Rataldi Maa,Geeta Rabari,Garba,Alhaiya Bilaval,0.944747507572174,Lalit,0.9437072038650512,0.0010403037071228,Darbari,,
+GARBA_004,Meldimaa Na Kumkum Pagla,Lalita Ghodadra,Garba,Megh,0.9465719527668424,suddha kalyan,0.9457050561904908,0.0008668965763516,Desh,Sorath,Darbari
+GARBA_005,Amba Aavo To Ramiye,Lalita Ghodadra,Garba,Adana,0.9489001830418904,Yaman or Kalyan,0.9441547691822052,0.0047454138596852,Megh,,
+GARBA_006,Sonal Garbo Shire,Kishor Manraja,Garba,Megh Malhar,0.9468519985675812,Komal Bhairav,0.9465603232383728,0.0002916753292083,Gujari Todi,Miyan Ki Todi orTodi or Darbari Todi,Malkauns
+GARBA_007,Maa No Garbo Re,Geeta Rabari,Garba,Asavari,0.9410344511270524,Darbari,0.940092396736145,0.0009420543909073,Alhaiya Bilaval,Madhuvanti,Adana
+GARBA_008,Unchi Talavdi Ni Kor,Asha Bhosle,Garba,Asavari,0.939736227194468,Marva,0.9344104528427124,0.0053257743517557,Kafi,Bahar,Hemant
+GARBA_009,Aavya Maa Na Norta,"Pamela Jain, Divya Kumar",Garba,Adana,0.9571542739868164,Marva,0.9544408321380616,0.0027134418487548,Rageshree,Bahar,Desh
+GARBA_010,Khodiyar Maa Nu Holdu,Kinjal Dave,Garba,Alhaiya Bilaval,0.9335956406593324,Bhimpalasi,0.9319252967834472,0.001670343875885,Darbari,Marva,Lalit
+GARBA_011,Sathiya Puravo,Damyanti Bardai,Garba,Megh,0.9418227672576904,Barwa,0.9400758743286132,0.0017468929290771,Puriya,Yaman Kalyan,
+GARBA_012,Amba Aave Aarasur Vadi,Meena Patel,Garba,Yaman or Kalyan,0.9248673234667096,Khamaj,0.9193466901779176,0.0055206332887921,Bihag,Puriya,Megh
+GARBA_013,Tara Vina Maa Mane Sunu Lage,"Meena Patel, Praful Dave",Garba,Megh,0.941932201385498,Puriya,0.941088318824768,0.0008438825607299,Bilaskhani Todi,Bhairav Bahar,Gujari Todi
+GARBA_014,Garba No Rang Lagiyo,"Meena Patel, Praful Dave",Garba,Miyan Ki Todi orTodi or Darbari Todi,0.93819060921669,Durga,0.9379242211580276,0.0002663880586624,Adana,Madhuvanti,Jaunpuri
+GARBA_015,Hindole Zule Amba,Meena Patel,Garba,Bhoopali,0.9290817777315776,Barwa,0.9284191642488752,0.0006626134827023,Darbari,Bilaval,suddha kalyan
+GARBA_016,Jay Ambe Jagdambe Maa,Mital Gadhvi,Garba,Adana,0.940183687210083,Bhoopali,0.9379048347473145,0.0022788524627685,Megh,Bhairavi,Pahadi
+GARBA_017,Halaji Tara Hath Vakhanu,Aditya Gadhvi,Garba,Darbari,0.949855089187622,Asavari,0.9450573921203612,0.0047976970672607,Adana,Pahadi,
+GARBA_018,Dholida Dhol Re Vagad,Farida Mir,Garba,Bhoopali,0.9343838138239724,Bhimpalasi,0.9337195853392284,0.0006642284847441,Asavari,Puriya,sarang
+GARBA_019,Pankhida O Pankhida,Hemant Chauhan,Garba,Jaunpuri,0.9258968234062196,Lalit,0.9242986440658568,0.0015981793403625,Desh,Durga,Adana
+GARBA_020,Tu To Kali Ne Kalyani,Hemant Chauhan,Garba,Barwa,0.9305035322904588,Bhairavi,0.928148865699768,0.0023546665906906,Yaman Kalyan,Bihag,Purba
+GARBA_021,He Jagjanani,Hemant Chauhan,Garba,Kafi,0.928812861442566,Desh,0.9250524098222906,0.0037604516202752,Yaman Kalyan,Alhaiya Bilaval,Sorath
+GARBA_022,Chotile Dakla Vagya,Hemant Chauhan,Garba,Desh,0.9191398620605468,Basant Mukhari,0.9151157140731812,0.0040241479873657,Megh Malhar,Malhar,Durga
+GARBA_023,Jay Aadhyashakti,Hemant Chauhan,Garba,Purba,0.9347563755512236,,0.0,0.9347563755512236,,,
+GARBA_024,Dam Dam Dakla Vagya,Hemant Chauhan,Garba,Bahar,0.9234370291233064,Gauri,0.9228355288505554,0.0006015002727508,Basant Mukhari,Khamaj,Puriya
+GARBA_025,Sonala Vatakadi,"Praful Dave, Damyanti Bardai",Garba,Marva,0.9513266533613204,Bilaval,0.9484784759973224,0.002848177363998,Kedar,Bhairav,Miyan Ki Todi orTodi or Darbari Todi
+GARBA_026,Kaho Poonam Na Chand,Shailendra Bharti,Garba,Adana,0.9549424648284912,Alhaiya Bilaval,0.9546920657157898,0.0002503991127014,Asavari,Malkauns,
+GARBA_027,Aaj Ni Ghadi Te Raliyamani,"Praful Dave, Meena Patel",Garba,Basant,0.9438976645469666,Desh,0.9420752227306366,0.0018224418163299,Jaunpuri,Madhuvanti,Bhinna Shadja
+GARBA_028,Lejo Rasiya Re Rumal,"Arvind Barot, Vatsala Patil",Garba,Marva,0.947513997554779,Asavari,0.9435646674212288,0.0039493301335502,Sorath,Jaunpuri,Bhimpalasi
+GARBA_029,Pavana Dungre,Praful Dave,Garba,Darbari,0.938404643535614,Desi,0.9378642082214356,0.0005404353141784,Bihag,Kafi,Miyan Ki Todi orTodi or Darbari Todi
+GARBA_030,Momai Na Pare Parevado Dhume Re,Arvind Barot,Garba,Khamaj,0.9388340473175047,Pahadi,0.9380115866661072,0.0008224606513976,Gauri,Miyan Ki Todi orTodi or Darbari Todi,Sorath
+GARBA_031,Rumzum Sandhani Aave Re Maa,"Arvind Barot, Bhavna Rana",Garba,Nat Bhairav,0.9455719888210296,Pahadi,0.9453431367874146,0.0002288520336151,Purba,Bihag,Khamaj
+GHOOMAR_001,Ghoomar,Seema Mishra,Ghoomar,Khamaj,0.9271993041038512,Megh,0.9262654185295104,0.0009338855743408,Malkauns,Basant Mukhari,Bibhas
+GHOOMAR_002,Gangore/Gangaur,Seema Mishra,Ghoomar,Bhairav,0.9522603530632822,Miyan Ki Todi orTodi or Darbari Todi,0.9458215673764546,0.0064387856868275,Adana,,
+GHOOMAR_003,Choumaso,Seema Mishra,Ghoomar,Yaman or Kalyan,0.9322237968444824,Bahar,0.931610941886902,0.0006128549575805,suddha kalyan,Purba,Bhoopali
+GHOOMAR_004,More Bole Re,Seema Mishra,Ghoomar,Bhairav,0.942453448114724,Adana,0.9379332621892292,0.0045201859254946,Malkauns,Basant Mukhari,Khamaj
+GHOOMAR_005,Podina,Seema Mishra,Ghoomar,Asavari,0.9417885754789624,Malkauns,0.9388036557606289,0.0029849197183335,Bhairav,Purba,Marva
+GHOOMAR_006,Talariya Magriya,Seema Mishra,Ghoomar,Adana,0.9248906970024108,Khamaj,0.9216777086257936,0.0032129883766174,Bhairav,Marva,Bhoopali
+GHOOMAR_007,Panihari Ji,Seema Mishra,Ghoomar,Bhoopali,0.9393885582685472,Yaman or Kalyan,0.9348171750704448,0.0045713831981023,Megh,Adana,
+GHOOMAR_008,Roomal/Rumal,Seema Mishra,Ghoomar,Bilaval,0.933037428855896,Yaman Kalyan,0.9326504915952682,0.0003869372606277,Darbari,Khamaj,Sohni
+GHOOMAR_009,Gorband,Seema Mishra,Ghoomar,Bhairav,0.9340927247647886,Asavari,0.9304743111133577,0.003618413651431,suddha kalyan,Malkauns,Ahir Bhairav
+GHOOMAR_010,Banna Re Bagan Me Jhoola Dalya,Seema Mishra,Ghoomar,Bhairav,0.944037728011608,Asavari,0.9401682913303376,0.0038694366812705,Megh,Yaman or Kalyan,Malkauns
+GHOOMAR_011,Hivde Ro Haar,Seema Mishra,Ghoomar,Barwa,0.9374866144997732,Khamaj,0.9353496779998144,0.0021369364999589,Ahir Bhairav,Darbari,Asavari
+GHOOMAR_012,Chirmi,Seema Mishra,Ghoomar,Yaman Kalyan,0.9400638937950134,Yaman or Kalyan,0.9378406773222252,0.0022232164727881,Bhoopali,Adana,Pahadi
+GHOOMAR_013,Hichki (Aave Hichki),Seema Mishra,Ghoomar,Darbari,0.9552915692329408,Basant,0.949939787387848,0.0053517818450927,Bahar,Adana,Bibhas
+GHOOMAR_014,Dal Badal,Seema Mishra,Ghoomar,Adana,0.9427420794963836,Nat Bhairav,0.9402395784854888,0.0025025010108947,Miyan Ki Todi orTodi or Darbari Todi,Megh,Yaman or Kalyan
+GHOOMAR_015,Samdariyo,Seema Mishra,Ghoomar,Miyan Ki Todi orTodi or Darbari Todi,0.945645945412772,Bahar,0.9454076290130616,0.0002383163997105,Durga,Madhuvanti,Megh
+GHOOMAR_016,Jeero,Seema Mishra,Ghoomar,Asavari,0.9399067759513856,Yaman or Kalyan,0.9396478446090922,0.0002589313422932,Adana,sarang,
+GHOOMAR_017,Loonga Ro Batawo,Seema Mishra,Ghoomar,Darbari,0.925865352153778,Bhimpalasi,0.9227022379636765,0.0031631141901016,Desi,Basant Mukhari,Megh
+GHOOMAR_018,Taran Ri Chunadi,Seema Mishra,Ghoomar,Adana,0.9214399933815004,Megh,0.9206885231865776,0.0007514701949226,Jaunpuri,Pahadi,
+GHOOMAR_019,Run Jhun Baje Ghooghara,Seema Mishra,Ghoomar,Alhaiya Bilaval,0.936007823885941,suddha kalyan,0.9204554756482444,0.0155523482376966,Pahadi,Bhimpalasi,Adana
+GHOOMAR_020,Kangasiyo,Seema Mishra,Ghoomar,Ahir Bhairav,0.9296307621463652,Desh,0.9233867406845092,0.0062440214618559,Bageshree,Bhairav,Miyan Ki Todi orTodi or Darbari Todi
+GHOOMAR_021,Dheere Chhal Re Panihari,Seema Mishra,Ghoomar,Bhairav,0.9454846009612085,Ahir Bhairav,0.944509208202362,0.0009753927588462,Desh,suddha kalyan,Miyan Ki Todi orTodi or Darbari Todi
+GHOOMAR_022,Kesariya Ro Pag,Seema Mishra,Ghoomar,Asavari,0.9419366121292114,Khamaj,0.9373000447566692,0.0046365673725421,Sohni,Kedar,Bhoopali
+GHOOMAR_023,Naina Ra Lobhi,Seema Mishra,Ghoomar,Miyan Ki Todi orTodi or Darbari Todi,0.9314478933811188,Pahadi,0.9305428862571716,0.0009050071239471,Multani,Rageshree,Madhuvanti
+GHOOMAR_024,Bajudan Ri Loom,Seema Mishra,Ghoomar,Adana,0.9279857277870178,Khamaj,0.9269829591115316,0.0010027686754862,Miyan Ki Todi orTodi or Darbari Todi,Megh Malhar,Barwa
+GHOOMAR_025,Lehariyo,Seema Mishra,Ghoomar,Darbari,0.9202984826905388,Bhairav,0.9192569851875304,0.0010414975030081,Kedar,Khamaj,Yaman Kalyan
+GHOOMAR_026,Ital Peetal,Seema Mishra,Ghoomar,Durga,0.9280766367912292,Pahadi,0.9253928377514794,0.0026837990397498,Darbari,Alhaiya Bilaval,Miyan Ki Todi orTodi or Darbari Todi
+GHOOMAR_027,Moriya,Seema Mishra,Ghoomar,Bhatiyar,0.938707947731018,Megh,0.9351513274013996,0.0035566203296184,Lalit,Pahadi,Madhuvanti
+GHOOMAR_028,Cham Cham Chake Chundari,Seema Mishra,Ghoomar,Gujari Todi,0.9230604668458304,Madhuvanti,0.922318994998932,0.0007414718468984,Desh,Multani,Adana
+GHOOMAR_029,Hathelyan Re Beech,Seema Mishra,Ghoomar,Barwa,0.9360632399717966,Khamaj,0.9337347178232104,0.0023285221485863,Megh,Bahar,Desh
+GHOOMAR_030,Dar Lanjo,Seema Mishra,Ghoomar,Bhairav,0.9436352133750916,Asavari,0.9419081956148148,0.0017270177602768,Bhoopali,Adana,Megh Malhar
+JHUMUR_001,Kati Khane Bole,Dulal Manki,Jhumur,Marva,0.9283456802368164,Bhatiyar,0.9261156618595124,0.002230018377304,Madhuvanti,Bhinna Shadja,Malkauns
+JHUMUR_0010,Ekadoshi Ratiya,Zubeen Garg,Jhumur,Lalit,0.9387248009443284,Bilaval,0.9379019141197203,0.0008228868246078,Megh,Barwa,Madhuvanti
+JHUMUR_0011,Barire Simare,Zubeen Garg,Jhumur,Ahir Bhairav,0.938463636807033,Darbari,0.93433678150177,0.004126855305263,Pahadi,suddha kalyan,
+JHUMUR_0012,Mor Dhoni Go,Zubeen Garg,Jhumur,Malkauns,0.9293084144592284,Madhuvanti,0.9191690683364868,0.0101393461227417,Bilaval,Asavari,Sorath
+JHUMUR_0013,Jhuli Jhule,Zubeen Garg,Jhumur,Desi,0.925117254257202,Madhuvanti,0.92511518796285,2.0662943521765342e-06,Khamaj,Marva,Ahir Bhairav
+JHUMUR_0014,Kansiya,Amrit Tanti,Jhumur,Bageshree,0.9426562130451204,Kedar,0.9417722076177596,0.0008840054273605,Asavari,Yaman Kalyan,Darbari
+JHUMUR_0015,Jhatka,Amrit Tanti,Jhumur,Bhoopali,0.9381173253059388,Sorath,0.936572641134262,0.0015446841716766,Megh,Barwa,Adana
+JHUMUR_0016,Gohona,Amrit Tanti,Jhumur,Bageshree,0.9419201090931892,Khamaj,0.9387028488245878,0.0032172602686014,Darbari,Sohni,Asavari
+JHUMUR_0017,Hariya,Amrit Tanti,Jhumur,Kedar,0.934163832002216,Darbari,0.9302606185277305,0.0039032134744855,Bhoopali,Asavari,
+JHUMUR_0018,Koromoti,Amrit Tanti,Jhumur,Khamaj,0.9395129084587096,Bageshree,0.939025580883026,0.0004873275756835,Kedar,Adana,Bilaval
+JHUMUR_0019,Sonamoni,Amrit Tanti,Jhumur,Adana,0.9368488703455244,Desh,0.9366854173796516,0.0001634529658726,Sorath,Bahar,Barwa
+JHUMUR_002,Nistei,Dulal Manki,Jhumur,Bageshree,0.9418064057826996,Sohni,0.9418020049730936,4.400809605953349e-06,Pahadi,Marva,Sorath
+JHUMUR_0020,Chaliya Chhodi,Amrit Tanti,Jhumur,Bhoopali,0.9276936905724662,Malkauns,0.9247309863567352,0.0029627042157309,Khamaj,,
+JHUMUR_0021,Prem Nadi Tire Tire,Shaan Tanti,Jhumur,Bhairavi,0.931334932645162,Ahir Bhairav,0.931104063987732,0.00023086865743,Adana,Sorath,Megh Malhar
+JHUMUR_0022,Deewana,Shaan Tanti,Jhumur,Marva,0.9413333535194396,Bhimpalasi,0.937824547290802,0.0035088062286376,Sorath,Desh,Adana
+JHUMUR_0023,Koliye Juge Alai Doyal,Navin Tanti,Jhumur,Lalit,0.9527627229690552,Megh,0.9527240896224975,3.863334655762607e-05,Adana,,
+JHUMUR_0024,Laal Pari,Bejnath Tanti,Jhumur,Madhuvanti,0.9358081340789794,Sorath,0.9357737004756927,3.4433603286698755e-05,Desh,Megh,Adana
+JHUMUR_0025,Tore Bina,Bejnath Tanti,Jhumur,Asavari,0.9523587226867676,Adana,0.9520999193191528,0.0002588033676147,Bhoopali,Alhaiya Bilaval,
+JHUMUR_0026,Koromake Akhora,Bejnath Tanti,Jhumur,Bilaval,0.943744421005249,Darbari,0.9414162834485372,0.0023281375567117,Lalit,Bhimpalasi,Khamaj
+JHUMUR_0027,The Jhumur Song,Neel Akash,Jhumur,Nat Bhairav,0.9461155235767365,Asavari,0.945222121477127,0.0008934020996094,Bhairav,Adana,Megh
+JHUMUR_0028,Genda Phool,"Neel Akash, Jyotika Baruha",Jhumur,Bageshree,0.9460525512695312,Kedar,0.9430309534072876,0.0030215978622436,Adana,Darbari,Bilaval
+JHUMUR_0029,Ja Ja Re Mini,Neel Akash,Jhumur,Ahir Bhairav,0.934364289045334,Asavari,0.933383846282959,0.0009804427623748,Pahadi,Miyan Ki Todi orTodi or Darbari Todi,Darbari
+JHUMUR_003,Kuilu Kuilu,Dulal Manki,Jhumur,Darbari,0.9368274211883544,Bhinna Shadja,0.9347191356843516,0.0021082855040027,Bhairav,Basant,Basant Mukhari
+JHUMUR_0030,Goya,Neel Akash,Jhumur,Adana,0.9376919388771056,Asavari,0.9368868350982666,0.000805103778839,,,
+JHUMUR_004,Sajanigo,Dulal Manki,Jhumur,Desi,0.9391244649887084,Yaman or Kalyan,0.9328008536939268,0.0063236112947817,Rageshree,Adana,Basant
+JHUMUR_005,Sol Sokhi,Dulal Manki,Jhumur,Deepak,0.9356703758239746,Bhatiyar,0.9333650767803192,0.0023052990436553,Marva,Lalit,Bhairav
+JHUMUR_006,Aji Ei Suprabhate,Dulal Manki,Jhumur,Bilaval,0.9239780902862548,Bhairavi,0.922421521610684,0.0015565686755709,Kafi,Sorath,Marva
+JHUMUR_007,Kale Gori Muke,Dulal Manki,Jhumur,Nat Bhairav,0.9319922924041748,Malhar,0.9308732151985168,0.0011190772056579,Malkauns,Basant,Basant Mukhari
+JHUMUR_008,Tohe Gori Nawa,Dulal Manki,Jhumur,Bahar,0.9298295378684998,Komal Bhairav,0.9280229806900024,0.0018065571784973,Sohni,Malkauns,Bhinna Shadja
+JHUMUR_009,Moi to Jabo Kam Jari,Zubeen Garg,Jhumur,Adana,0.9310490489006042,sarang,0.9303831202643258,0.0006659286362784,Miyan Ki Todi orTodi or Darbari Todi,Darbari,Sohni
+LAVANI_001,Tujhya Usala Lagal Kolha Ga,Sulochana Chavan,Lavani,Desh,0.938122570514679,Bilaskhani Todi,0.9374192804098128,0.000703290104866,Basant,Puriya,Megh
+LAVANI_002,Padarawarti Jartaricha,Sulochana Chavan,Lavani,Marva,0.9465735852718352,Megh Malhar,0.9454167187213898,0.0011568665504455,Asavari,Kedar,Nat Bhairav
+LAVANI_003,Solava Varis Dhokyacha,Sulochana Chavan,Lavani,Bahar,0.931220531463623,Bhairavi,0.9306036233901978,0.0006169080734252,Adana,Komal Bhairav,Asavari
+LAVANI_004,Kasa Kay Patil Bara Hay Ka,Sulochana Chavan,Lavani,Bahar,0.942708283662796,Bihag,0.9409864664077758,0.0017218172550201,Khamaj,Bageshree,Bhimpalasi
+LAVANI_005,Naav Gaav Kashala Pustay,Sulochana Chavan,Lavani,Nat Bhairav,0.9527390599250792,Rageshree,0.9499998092651368,0.0027392506599426,Megh Malhar,Malhar,
+LAVANI_006,Kalidar Kapuri Paan,Sulochana Chavan,Lavani,Bahar,0.9246900379657744,Nat Bhairav,0.921624720096588,0.0030653178691864,Kafi,Basant,suddha kalyan
+LAVANI_007,Mala London Foreign Dakhwa,Sulochana Chavan,Lavani,Malkauns,0.936850279569626,Bahar,0.93153315782547,0.0053171217441558,Yaman Kalyan,Bilaval,Yaman or Kalyan
+LAVANI_008,Disla Ga Bai Disla,Usha Mangeshkar,Lavani,Kedar,0.949779897928238,Asavari,0.9492872655391692,0.0004926323890686,Gauri,Marva,Megh Malhar
+LAVANI_009,Chabidar Chabi,Usha Mangeshkar,Lavani,suddha kalyan,0.9305429577827452,Yaman or Kalyan,0.9276227876544,0.0029201701283454,Puriya,Pahadi,Desh
+LAVANI_010,Raya Chala Ghodyavarti Basu,Usha Mangeshkar,Lavani,Asavari,0.9530230164527892,Miyan Ki Todi orTodi or Darbari Todi,0.9494099617004396,0.0036130547523498,Marva,Bihag,Lalit
+LAVANI_011,Pikala Jambhul Todu Naka,Usha Mangeshkar,Lavani,Asavari,0.958396065235138,Miyan Ki Todi orTodi or Darbari Todi,0.955749124288559,0.002646940946579,Bageshree,Rageshree,Puriya
+LAVANI_012,Naki Doli Chhaan,Usha Mangeshkar,Lavani,Puriya,0.9578474164009094,Kedar,0.9494200348854064,0.0084273815155029,Bageshree,Megh,Bihag
+LAVANI_013,Aai Majhya Lagnachi,Usha Mangeshkar,Lavani,Malhar,0.9455486536026,Marva,0.94387686252594,0.0016717910766601,Bhoopali,Durga,
+LAVANI_014,Wajle Ki Bara,Bela Shende,Lavani,Bahar,0.9336504936218262,Bhoopali,0.933253628015518,0.000396865606308,Sohni,Puriya,Bhairavi
+LAVANI_015,Apsara Aali,Bela Shende,Lavani,Basant,0.9305092692375184,Sorath,0.929673433303833,0.0008358359336853,Bhimpalasi,Marva,Bhinna Shadja
+LAVANI_016,Kashi Mi Jau Mathurechya Bajari,Bela Shende,Lavani,Shree,0.9252253770828248,Bahar,0.9245262444019318,0.0006991326808929,Bhimpalasi,Sohni,Adana
+LAVANI_017,Kashyala Lavato,Bela Shende,Lavani,Barwa,0.9222913682460784,Darbari,0.9137349327405294,0.008556435505549,Alhaiya Bilaval,Ahir Bhairav,Kafi
+LAVANI_018,Chhatishi Kavlun Dhara,Surekha Punekar,Lavani,Bahar,0.9356659650802612,Madhuvanti,0.9349791705608368,0.0006867945194244,Puriya,Khamaj,Darbari
+LAVANI_019,Jhampar Majha Dheel,Surekha Punekar,Lavani,Yaman Kalyan,0.926461617151896,Miyan Ki Todi orTodi or Darbari Todi,0.9249536395072936,0.0015079776446024,Puriya,Malkauns,Desi
+LAVANI_020,Themba Thembana Kelai,Surekha Punekar,Lavani,suddha kalyan,0.9305429577827452,Yaman or Kalyan,0.9276227876544,0.0029201701283454,Puriya,Pahadi,Desh
+LAVANI_021,Sola Hazarat,Uttara Kelkar,Lavani,Marva,0.9374580581982932,Bilaskhani Todi,0.9349950551986694,0.0024630029996236,Desh,Bageshree,Puriya
+LAVANI_022,Hi Natrangi Naar,Ravindra Sathe,Lavani,Puriya,0.9424078365166982,Marva,0.940515324473381,0.0018925120433171,Bageshree,Bhairav,Bhairavi
+LAVANI_023,Saaman Avjad Majha,Anand Shinde,Lavani,Yaman Kalyan,0.926461617151896,Miyan Ki Todi orTodi or Darbari Todi,0.9218917787075044,0.0045698384443918,Bageshree,Malkauns,Desh
+LAVANI_024,Majha Taat Kar Aadhi,Anand Shinde,Lavani,suddha kalyan,0.9290491342544556,Yaman or Kalyan,0.9282656737736292,0.0007834604808262,Puriya,Pahadi,Desh
+LAVANI_025,Bai Mi Patang Udvit Hote,Asha Bhosle,Lavani,Yaman or Kalyan,0.9356433153152466,Yaman Kalyan,0.9350712299346924,0.0005720853805541,Gauri,Durga,Bahar
+LAVANI_026,Bai Mazi Karangali Modali,Asha Bhosle,Lavani,Basant Mukhari,0.955097794532776,Puriya,0.9550046920776368,9.310245513916016e-05,Bihag,Rageshree,Darbari
+LAVANI_027,Raya Mala Pavsat Neu Naka,Pushpa Pagdhare,Lavani,Marva,0.9521955847740172,Bageshree,0.9471151828765868,0.0050804018974304,Asavari,Purba,Bhoopali
+LAVANI_028,Navi Navi Navari Mee,Pushpa Pagdhare,Lavani,Malhar,0.9410131999424526,Khamaj,0.9364995786121914,0.0045136213302612,Desh,Marva,Kedar
+LAVANI_029,Ugvali Shukrachi Chandni,Aarti Anklikar,Lavani,Ahir Bhairav,0.9206373691558838,Desh,0.9203598224199736,0.0002775467359102,Puriya,Darbari,Barwa
+LAVANI_030,Ghotala Ghotala Zala,Vaishali Samant,Lavani,Bilaskhani Todi,0.9361702246325356,Marva,0.9360303163528444,0.0001399082796913,Desh,Bageshree,Puriya
+LAVANI_031,Raanamandi Ekatach Dultoy Naag,Urmila Dhangkar,Lavani,Adana,0.9340166449546814,Bhoopali,0.9326610565185548,0.0013555884361267,Yaman or Kalyan,,
+LAVANI_032,Aase Wajwa Ki,Bela Shende and chorus,Lavani,Megh,0.9425814151763916,Miyan Ki Todi orTodi or Darbari Todi,0.9421055316925048,0.0004758834838867,Nat Bhairav,Puriya,Desh
+LAVANI_033,Dolyavar Gogal Lava,Various Artists,Lavani,Darbari,0.9347545504570008,Miyan Ki Todi orTodi or Darbari Todi,0.9345202445983888,0.000234305858612,Purba,sarang,Kedar
+LAVANI_034,Reshmachya Reghani,Asha Bhosle,Lavani,Khamaj,0.9432960351308188,Gauri,0.9428898646281316,0.000406170502687,Basant,Bahar,Malkauns
+LAVANI_035,Chala Jejurila Jau,Uttara Kelkar,Lavani,Yaman Kalyan,0.9391361077626548,Desh,0.9385493397712708,0.0005867679913839,Alhaiya Bilaval,Darbari,Bhairavi
+MAAND_001,Kesariya Balam Aavo Ni,Allah Jilai Bai,Maand,Darbari,0.9456204771995544,Bahar,0.9422650337219238,0.0033554434776306,Purba,Multani,Jaunpuri
+MAAND_002,Moray Aaj Aaye Saiyan,Allah Jilai Bai,Maand,Hemant,0.9179111851586236,Bihag,0.9174144963423412,0.0004966888162825,Bibhas,Lalit,Desh
+MAAND_003,Moomal,Allah Jilai Bai,Maand,Madhuvanti,0.9465159873167672,Jaunpuri,0.9452680468559264,0.0012479404608408,Multani,Desh,Purba
+MAAND_004,Ghoomar,Allah Jilai Bai,Maand,Purba,0.9283093164364496,Bilaskhani Todi,0.9235866394909944,0.0047226769454551,,,
+MAAND_005,Bai Sa Ra Beera,Allah Jilai Bai,Maand,Megh,0.9415462017059326,Bahar,0.9407676060994468,0.0007785956064859,Miyan Ki Todi orTodi or Darbari Todi,Purba,Bhairav Bahar
+MAAND_006,Jawai Balha Lagoji,Allah Jilai Bai,Maand,Bahar,0.921975076198578,Bageshree,0.9212474822998048,0.0007275938987731,Asavari,Gauri,Yaman or Kalyan
+MAAND_007,Kesariya Balam Aavo Ni,Gavri Devi,Maand,Darbari,0.9233258366584778,Madhuvanti,0.9231034517288208,0.0002223849296569,Bahar,Bilaskhani Todi,Sorath
+MAAND_008,Kesariya Balam Awo Ni Padharo,Seema Mishra,Maand,Bhatiyar,0.9289488792419434,Miyan Ki Todi orTodi or Darbari Todi,0.9287262076423282,0.0002226715996151,Madhuvanti,Poorvi,Hemant
+MAAND_009,Kesariya Ro Pag (Ghoomar),Seema Mishra,Maand,Khamaj,0.9443634510040284,Ahir Bhairav,0.943109005689621,0.0012544453144073,Bhoopali,Asavari,Sohni
+MAAND_010,Badila Yahi Rahiyo Saa,Banarsi Babu,Maand,Gauri,0.953689992427826,Bageshree,0.9456642270088196,0.0080257654190063,Adana,Desh,Khamaj
+MAAND_011,Taniya Resham Ki,Banarsi Babu,Maand,Adana,0.9453869573771954,Khamaj,0.9430039525032043,0.002383004873991,Alhaiya Bilaval,,
+MAAND_012,Kad Janulee Sasre,Rehana Mirza,Maand,Alhaiya Bilaval,0.9421455306666238,Bhairavi,0.9387793987989426,0.0033661318676811,Darbari,Bhairav,Bahar
+MAAND_013,Le Dekh Nangi Melo,Rehana Mirza,Maand,Khamaj,0.9476907352606456,Malhar,0.946596384048462,0.0010943512121835,Megh Malhar,Purba,Yaman Kalyan
+MAAND_014,The To Piyo Sadarudi,Rehana Mirza,Maand,Rageshree,0.9391581892967223,Abhogi,0.938489874204,0.0006683150927225,Bilaskhani Todi,Marva,Durga
+MAAND_015,Kesariya Balam (Desert Slide),Anwar Khan,Maand,Miyan Ki Todi orTodi or Darbari Todi,0.926746153169208,Malkauns,0.9238542482770724,0.0028919048921357,Darbari,Sohni,Madhuvanti
+MAAND_016,Kesariya Balam (DIFF 2015),Anwar Khan,Maand,Bhairavi,0.918579199910164,Madhuvanti,0.9146815538406372,0.0038976460695266,Pahadi,Purba,Hemant
+MAAND_017,Apne Desh Ri Aajadi,Anwar Khan,Maand,Sorath,0.9350606004397074,Basant,0.9312154352664948,0.0038451651732126,Adana,,
+MAAND_018,Kesariya Balam Aao Ni,Anwar Khan,Maand,Ahir Bhairav,0.9353668093681335,Gauri,0.9318689107894896,0.0034978985786437,Sohni,Khamaj,Basant
+MAAND_019,Raag Maand Bandish,Mame Khan,Maand,Bilaval,0.9388079643249512,Purba,0.9387650787830352,4.288554191589356e-05,Sorath,Khamaj,Adana
+MAAND_020,Rajasthani Folk Raag Maand,Mame Khan,Maand,Bilaval,0.940931349992752,Purba,0.9397080540657043,0.0012232959270477,Sorath,Khamaj,suddha kalyan
+MAAND_021,Chaudhary,Mame Khan,Maand,Ahir Bhairav,0.9323912784457208,Desh,0.9307066306471824,0.0016846477985381,Nat Bhairav,Bhairavi,suddha kalyan
+MAAND_022,Chhap Tilak Sab Cheeni,Kirti Sagathia,Maand,Adana,0.932332456111908,Bahar,0.9322625517845152,6.990432739262253e-05,Darbari,Nat Bhairav,suddha kalyan
+MAAND_023,Balam,Swaroop Khan,Maand,Darbari,0.9495345992701394,Asavari,0.945124100893736,0.0044104983764035,,,
+MAAND_024,Kuraja Mahra Bhanvr Manae Lav,Swaroop Khan Sura,Maand,Marva,0.9147061038584936,Ahir Bhairav,0.9136128193802304,0.0010932844782631,Barwa,Bhairavi,Bibhas
+MAAND_025,Kurja Mhari Bhanwar Milade,Sikander Khan Baru,Maand,Khamaj,0.9313101768493652,Adana,0.9295896589756012,0.001720517873764,Bahar,Pahadi,Miyan Ki Todi orTodi or Darbari Todi
+MAAND_026,Darude Ro Rog Lagiyo,Sikander Khan Baru,Maand,Ahir Bhairav,0.9131258368492128,Puriya,0.9098348379135132,0.0032909989356995,Darbari,Asavari,
+MAAND_027,Kesariya Balam Padharo,Bhungar Khan,Maand,Komal Bhairav,0.9438803791999816,Bhoopali,0.9401243805885316,0.0037559986114501,Bhimpalasi,Khamaj,Purba
+MAAND_028,Mohe Aai Na Jag Ki Laaj,"Kheta Khan, Fakira Khan Bhadresh",Maand,Kafi,0.9416285753250122,Pahadi,0.9397408217191696,0.0018877536058425,Desh,Bilaskhani Todi,Malhar
+MAAND_029,Kalali,Latif Khan,Maand,Malkauns,0.918605387210846,Bhairavi,0.9169453680515288,0.001660019159317,Megh,Desh,Ahir Bhairav
+MAAND_030,Kesariya Balam,Raitila (Group),Maand,Yaman Kalyan,0.9277523279190064,Sorath,0.9263315081596376,0.0014208197593688,Purba,Malkauns,Puriya
+MAAND_031,Joori Thaane Na Maare Raad,Jameela Bai & Kulsum Bai,Maand,Yaman Kalyan,0.9218074431022008,Bhimpalasi,0.921154335141182,0.0006531079610189,Bilaskhani Todi,Lalit,Basant
+MAAND_032,Alija Dhola Ekladi,Jameela Bai & Kulsum Bai,Maand,Desh,0.922784427801768,Bhimpalasi,0.9190481901168824,0.0037362376848856,Yaman Kalyan,Bhairavi,
+MAAND_033,Mumal,Jameela Bai & Kulsum Bai,Maand,Purba,0.9342222859462104,Yaman Kalyan,0.9330631362067328,0.0011591497394773,Bhimpalasi,Bhatiyar,Bilaskhani Todi
+MAAND_034,Mhari Sajni Ae,Nand Lal Bhat,Maand,Sorath,0.9439215660095216,Bhairavi,0.9419901967048644,0.0019313693046569,Yaman Kalyan,Puriya,Darbari
+MAAND_035,Rajwadi Mehfil,Nand Lal Bhat,Maand,Alhaiya Bilaval,0.9365302920341492,Marva,0.9363361746072768,0.0001941174268722,Megh,Bhairavi,Basant
+MAAND_036,Thane Samjhaye Sakha Sa,Munshi Khan,Maand,Darbari,0.941951349377632,Puriya,0.9394741058349608,0.0024772435426712,Bibhas,Adana,Basant
+MAAND_037,Padharo Mhare Mehal,Munshi Khan,Maand,Bhupal Todi,0.9444822072982788,Ramkali,0.9417466521263124,0.0027355551719665,Komal Bhairav,Bibhas,Adana
+MAAND_038,Daru Dakha Ro,Munshi Khan,Maand,Gauri,0.9424494504928588,Alhaiya Bilaval,0.9399180114269255,0.0025314390659332,Malhar,Khamaj,Kafi
+MAAND_039,Mahara Sajan Base,Munshi Khan,Maand,Purba,0.9427743554115297,Desh,0.9374676744143168,0.0053066809972127,Yaman Kalyan,Adana,Bhatiyar
+SAMBALPURI_001,Nabu Ki Sambalpur,Human Sagar,Sambalpuri,Ahir Bhairav,0.940687257796526,Malkauns,0.9363131523132324,0.0043741054832935,Pahadi,Bhimpalasi,Desh
+SAMBALPURI_002,Tor Lagi Marijibi,Human Sagar,Sambalpuri,Bilaval,0.9374511675401168,Ahir Bhairav,0.936602214972178,0.0008489525679385,Sorath,Darbari,Desh
+SAMBALPURI_003,Sacha Lover,Human Sagar,Sambalpuri,Basant,0.9391184747219086,Darbari,0.9370030760765076,0.002115398645401,Asavari,Sorath,Marva
+SAMBALPURI_004,Pardesia Raja,Human Sagar,Sambalpuri,Sorath,0.950800120830536,Darbari,0.9491460174322128,0.001654103398323,Bageshree,Desh,Miyan Ki Todi orTodi or Darbari Todi
+SAMBALPURI_005,Lal Sadhi,Human Sagar,Sambalpuri,Bilaval,0.9279064271185132,Desh,0.9253676235675812,0.0025388035509321,Bageshree,Bhairavi,Kedar
+SAMBALPURI_006,Rasia,Mantu Chhuria,Sambalpuri,Bilaval,0.9350665482607756,Bageshree,0.9276258945465088,0.0074406537142667,Bhimpalasi,Asavari,Desh
+SAMBALPURI_007,A Mo Dil,Mantu Chhuria,Sambalpuri,Darbari,0.9364330172538756,Bageshree,0.9329917728900908,0.0034412443637847,Adana,Asavari,Malkauns
+SAMBALPURI_008,Hae Go,Mantu Chhuria,Sambalpuri,Darbari,0.9346748164721898,Megh,0.9345010221004486,0.0001737943717411,Sorath,Bilaval,Ahir Bhairav
+SAMBALPURI_009,Aukaat,Mantu Chhuria,Sambalpuri,Megh,0.9503882655075618,Bhatiyar,0.9495487213134766,0.0008395441940852,Sohni,Bhimpalasi,Asavari
+SAMBALPURI_010,Rani Guri,Mantu Chhuria,Sambalpuri,Bageshree,0.93974632024765,Puriya,0.9367178678512572,0.0030284523963928,Alhaiya Bilaval,Adana,Bhoopali
+SAMBALPURI_011,Gidja Gija Re,Asima Panda,Sambalpuri,Khamaj,0.937895119190216,Bageshree,0.9376343488693236,0.0002607703208923,Bilaval,Adana,Abhogi
+SAMBALPURI_012,Tui Bewafa,Asima Panda,Sambalpuri,Desh,0.9439264743224436,Adana,0.9402000904083252,0.0037263839141182,Miyan Ki Todi orTodi or Darbari Todi,Sorath,Ahir Bhairav
+SAMBALPURI_013,Ramagaru,Asima Panda,Sambalpuri,Sorath,0.9275905013084412,Desh,0.9274719612939016,0.0001185400145393,Alhaiya Bilaval,,
+SAMBALPURI_014,Deewana Banalu Rani,Asima Panda,Sambalpuri,Bageshree,0.9337822794914246,Megh,0.9335423111915588,0.0002399682998657,Rageshree,Ahir Bhairav,Adana
+SAMBALPURI_015,SambalPuri Saiyaan,Asima Panda,Sambalpuri,Sorath,0.9389867410063744,Desh,0.937403604388237,0.0015831366181373,Adana,Miyan Ki Todi orTodi or Darbari Todi,Ahir Bhairav
+SAMBALPURI_016,Anta Halei Halei,Ruku Suna,Sambalpuri,Alhaiya Bilaval,0.9476002305746078,Bhairavi,0.9467254877090454,0.0008747428655624,Pahadi,Darbari,Ahir Bhairav
+SAMBALPURI_017,Chandir Paenjhal,Ruku Suna,Sambalpuri,Adana,0.9446061849594116,Asavari,0.9443323314189912,0.0002738535404205,Desh,Alhaiya Bilaval,Darbari
+SAMBALPURI_018,Prem Paga,Ruku Suna,Sambalpuri,Darbari,0.949158012866974,Asavari,0.946857145854405,0.0023008670125689,Adana,Ahir Bhairav,Pahadi
+SAMBALPURI_019,Rasa Mandara Mali Kahanra,Ruku Suna,Sambalpuri,Megh,0.942675769329071,Hindol,0.9419470032056172,0.0007287661234537,Alhaiya Bilaval,Adana,Nat Bhairav
+SAMBALPURI_020,A Labanga Lata,Ruku Suna,Sambalpuri,Bhairavi,0.9297351837158204,Bhoopali,0.9290882349014282,0.000646948814392,Asavari,Abhogi,Pahadi
+SAMBALPURI_021,Badnam,Prakash Jal,Sambalpuri,Rageshree,0.9225134253501892,Kedar,0.9184682667255402,0.004045158624649,Pahadi,Ahir Bhairav,Yaman or Kalyan
+SAMBALPURI_022,Dil Bhitre Lekhideli,Prakash Jal,Sambalpuri,Pahadi,0.9342225790023804,Ahir Bhairav,0.9319153676430384,0.0023072113593419,,,
+SAMBALPURI_023,Bewafa Mita,Prakash Jal,Sambalpuri,Adana,0.9352829158306122,Durga,0.9339804947376252,0.001302421092987,Bhoopali,Pahadi,Marva
+SAMBALPURI_024,Bheti Aibu Sajani Kalekale,Prakash Jal,Sambalpuri,Pahadi,0.9374100313736842,Nat Bhairav,0.9368460973103842,0.0005639340633,Miyan Ki Todi orTodi or Darbari Todi,Bihag,Ahir Bhairav
+SAMBALPURI_025,Le Le Baula,Antara Chakrabarty,Sambalpuri,Asavari,0.9483652114868164,Adana,0.9466962814331056,0.0016689300537109,Alhaiya Bilaval,Puriya,Ahir Bhairav
+SAMBALPURI_027,Feel My Love,Antara Chakrabarty,Sambalpuri,Marva,0.9429807782173156,Madhuvanti,0.9425018310546877,0.000478947162628,Bhimpalasi,Desh,Darbari
+SAMBALPURI_028,Kulfirani Chocobar,Ira Mohanty,Sambalpuri,Marva,0.9495739579200744,Megh,0.942901998758316,0.0066719591617584,Asavari,Alhaiya Bilaval,
+SAMBALPURI_029,Jhupa Jhupa Baul Jhupa,Ira Mohanty,Sambalpuri,Khamaj,0.9419293659073966,Bageshree,0.9366106688976288,0.0053186970097678,Asavari,Adana,Darbari
+SAMBALPURI_030,Sundri Janha,Ira Mohanty,Sambalpuri,Bageshree,0.9370626211166382,Asavari,0.9356067722493951,0.001455848867243,Ahir Bhairav,Kedar,Darbari
+SAMBALPURI_031,Rangabati,Jitendra Haripal,Sambalpuri,Bahar,0.915116548538208,Kedar,0.9113048017024994,0.0038117468357086,Adana,Rageshree,Bhairav
+SAMBALPURI_032,Aha Mor Galar Malire,Jitendra Haripal,Sambalpuri,Basant,0.9319824675718944,Marva,0.9267431497573853,0.005239317814509,Ahir Bhairav,Sorath,Malkauns
+SAMBALPURI_033,Din Gani Gani,Jitendra Haripal,Sambalpuri,Shree,0.9339962005615234,Alhaiya Bilaval,0.9339066743850708,8.952617645263672e-05,Khamaj,Desi,Asavari
+SAMBALPURI_034,Namo Namo Ago,Jitendra Haripal,Sambalpuri,Bhairav,0.9314431250095369,Kedar,0.9305658340454102,0.0008772909641265,Rageshree,Bhoopali,Puriya

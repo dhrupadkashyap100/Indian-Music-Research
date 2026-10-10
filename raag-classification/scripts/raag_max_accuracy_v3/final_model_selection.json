@@ -1,0 +1,13 @@
+{
+    "BEST_MODEL": "75% Melodic Transition Matrix + 20% Pitch-Class Distribution + 5% F0 Trigram N-Grams (V2 Control Model retained)",
+    "TEMPORAL_AGGREGATION": "Top-50% Sequences",
+    "REFERENCE_AGGREGATION": "MAX Similarity",
+    "TRF_VALIDATION": "36.49%",
+    "SARAGA_ESTIMATED_TONIC": "54.71%",
+    "SARAGA_GT_TONIC": "56.60%",
+    "SEALED_TRF_TEST": "43.10%",
+    "SEALED_TEST_TOP3": "57.32%",
+    "SEALED_TEST_MACRO_F1": "0.373",
+    "V3_CANDIDATE_TRF_TEST": "41.12%",
+    "FINAL_RECOMMENDATION": "The V3 candidate model failed to beat the V2 control model on the sealed Test set. The existing 43.10% V2 model is mathematically retained and permanently frozen for Folk inference."
+}

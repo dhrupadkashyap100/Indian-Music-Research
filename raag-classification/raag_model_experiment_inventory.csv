@@ -1,0 +1,5 @@
+Model name,Current status
+CultureMERT,IMPLEMENTED
+Temporal BiLSTM,IMPLEMENTED
+KNN Cosine Similarity,IMPLEMENTED
+TRF CNN,IMPLEMENTED

@@ -1,0 +1,35 @@
+SARAGA DATASET AUDIT REPORT
+===========================
+1. EXACT SARAGA PATH USED
+D:\Raaga_Recognition_Project\Reference_Model\Raaga_Info\reference_dataset\metadata\saraga_metadata.csv
+
+2. TOTAL DATASET
+Total Files Found & Read: 93
+Total Duration: 2322.48 mins (38.71 hours)
+Number of Unique Raags: 61
+
+3. CLASS IMBALANCE
+Raags with 1 recording: 40
+Raags with 2-3 recordings: 19
+Raags with 4-5 recordings: 2
+Raags with >5 recordings: 0
+
+4. 50-RAAG OVERLAP
+Exact Matches: 19
+Possible Spelling/Alias Matches: 5
+Completely Unsupported: 37
+
+5. DATA SUITABILITY FOR SUPERVISED TRAINING
+Number of unique usable Raag classes (Total): 61
+Number of unique usable Raag classes (Overlapping w/ 50-Raag): 24
+Minimum recordings per class: 1
+Maximum recordings per class: 5
+Median recordings per class: 1.0
+Number of classes with >=3 recordings: 7
+Number of classes with >=5 recordings: 2
+Number of classes with >=10 recordings: 0
+
+ASSESSMENT: PARTIALLY SUITABLE
+Reasoning: Supervised classification typically requires many examples per class. 
+With a median of 1.0 recordings per class, and 40 classes having only 1 recording, 
+learning generalizable features for each Raag is extremely difficult without severe overfitting.

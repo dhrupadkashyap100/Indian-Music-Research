@@ -1,0 +1,10 @@
+{
+    "num_thaats": 10,
+    "num_raags": 61,
+    "total_audio": 1103,
+    "total_duration_hours": 241.07682784883627,
+    "median_recordings_per_raag": 15.0,
+    "corrupted_files": 0,
+    "exact_overlaps_50class": 19,
+    "alias_overlaps_50class": 3
+}

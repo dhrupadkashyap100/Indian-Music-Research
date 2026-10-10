@@ -1,0 +1,22 @@
+INTEGRITY AUDIT: METRIC LEARNING EXPERIMENT
+
+1. TRF Split Integrity Verified:
+   - TRF TRAIN = 635 recordings
+   - TRF VAL = 223 recordings
+   - TRF TEST = 245 recordings
+   - Overlap = 0. All splits are mutually exclusive.
+
+2. SARAGA Dataset Verification:
+   - 54 unique SARAGA recordings mapped to TRF classes.
+   - 0 overlap with any TRF splits.
+
+3. Folk Dataset Verification:
+   - 328 Folk recordings exist in the dataset folder.
+   - 0 Folk recordings have been processed, analyzed, or used during this optimization round.
+   - Folk dataset remains completely untouched.
+
+4. Existing Baseline:
+   - The frozen 43.10% baseline is fully tracked and maintained as the immutable control model.
+
+Status: PASS.
+Proceeding to metric learning.

@@ -1,0 +1,18 @@
+{
+    "SARAGA_Tonic_Validation": {
+        "Total_Evaluated": 50,
+        "Exact_PC_Agreement": 43,
+        "Exact_PC_Agreement_Pct": 0.86,
+        "Octave_Errors": 28,
+        "Gross_Errors": 7,
+        "Median_Absolute_Freq_Error_Hz": 69.29565725578199,
+        "Mean_Absolute_Freq_Error_Hz": 48.01781158828362
+    },
+    "Synthetic_Transposition_Test": {
+        "Mean_Sim_Shift_1": 0.7129030708565536,
+        "Mean_Sim_Shift_2": 0.6779574244426076,
+        "Mean_Sim_Shift_5": 0.7426645384589194,
+        "Min_Sim_Overall": 0.2691407019264604,
+        "Mean_Sim_Overall": 0.7111750112526936
+    }
+}

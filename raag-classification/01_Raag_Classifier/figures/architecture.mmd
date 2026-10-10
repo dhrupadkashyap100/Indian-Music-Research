@@ -1,0 +1,17 @@
+graph TD
+    A[Raw Folk Audio<br/>24kHz Mono] --> B[Segment Chunking<br/>5s Windows / 120k Samples]
+    B --> C[Frozen CultureMERT-95M<br/>No Local Parameter Updates]
+    C --> D[Embedding Extraction<br/>768-D .last_hidden_state.mean]
+    D --> E[Temporal Mean Pooling<br/>12 x 5s Segments = 60s Pool]
+    E --> F[L2 Normalization]
+    F --> G{Class-wise Max Cosine Similarity}
+    
+    H[(TRF Reference Space<br/>61 Canonical Raags<br/>13,931 Sequences)] --> G
+    
+    G --> I[Top-3 Raag Candidates<br/>+ Confidence Margin Tier]
+    
+    style A fill:#f9f9f9,stroke:#333,stroke-width:2px
+    style C fill:#e1d5e7,stroke:#9673a6,stroke-width:2px
+    style H fill:#dae8fc,stroke:#6c8ebf,stroke-width:2px
+    style G fill:#fff2cc,stroke:#d6b656,stroke-width:2px
+    style I fill:#d5e8d4,stroke:#82b366,stroke-width:2px

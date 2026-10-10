@@ -1,0 +1,16 @@
+OPTIMIZATION EXPERIMENT INTEGRITY REPORT
+==================================================
+Timestamp: 2026-08-15T02:18:53
+Total runtime: 111.0s
+CultureMERT TRAIN recordings: 600
+CultureMERT VAL recordings: 215
+CultureMERT TEST recordings: 235
+Swaragram TRAIN recordings: 600
+Swaragram VAL recordings: 215
+Swaragram TEST recordings: 235
+PCA fitted on TRAIN only: Yes
+Test used for model selection: No
+Folk data touched: No
+Total configurations tested: 25
+Selected method: COMBO_BT_BR_ZScore50
+Selection reason: Improvement of 0.0093 in Top-1 and 0.0184 in Macro F1

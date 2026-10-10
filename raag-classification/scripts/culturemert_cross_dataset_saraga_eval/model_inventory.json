@@ -1,0 +1,26 @@
+[
+    {
+        "model_name":"30s_MeanPool",
+        "has_best_f1_ckpt":true,
+        "has_best_loss_ckpt":true,
+        "path":"D:\\Raaga_Recognition_Project\\scripts\\culturemert_full_raag_classifier\\training\\results\\30s_MeanPool"
+    },
+    {
+        "model_name":"30s_BiLSTM",
+        "has_best_f1_ckpt":true,
+        "has_best_loss_ckpt":true,
+        "path":"D:\\Raaga_Recognition_Project\\scripts\\culturemert_full_raag_classifier\\training\\results\\30s_BiLSTM"
+    },
+    {
+        "model_name":"60s_MeanPool",
+        "has_best_f1_ckpt":true,
+        "has_best_loss_ckpt":true,
+        "path":"D:\\Raaga_Recognition_Project\\scripts\\culturemert_full_raag_classifier\\training\\results\\60s_MeanPool"
+    },
+    {
+        "model_name":"60s_BiLSTM",
+        "has_best_f1_ckpt":true,
+        "has_best_loss_ckpt":true,
+        "path":"D:\\Raaga_Recognition_Project\\scripts\\culturemert_full_raag_classifier\\training\\results\\60s_BiLSTM"
+    }
+]

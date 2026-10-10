@@ -1,0 +1,101 @@
+----------------------------------------
+RECORD 1
+----------------------------------------
+Prediction ID: Bhupen Hazarika EIJONI KORENO NASONI এইজনী যোৰহাটৰ নাচনী BIHU
+Predicted Raag: Marva
+
+Original identifier: Bhupen Hazarika EIJONI KORENO NASONI এইজনী যোৰহাটৰ নাচনী BIHU
+Best candidate: Eijoni Koreno Nasoni
+Genre: Bihu
+
+Why it matches: Contains explicit genre keyword "BIHU", artist "Bhupen Hazarika" (famous Assamese singer), and Assamese text.
+Evidence: Confirmed Bhupen Hazarika is synonymous with Assamese/Bihu music.
+
+Final decision: RESOLVED_HIGH
+Confidence: HIGH
+
+----------------------------------------
+RECORD 2
+----------------------------------------
+Prediction ID: Ghotala song  Vaishali Samant   Sagarika Music Marathi
+Predicted Raag: Megh Malhar
+
+Original identifier: Ghotala song  Vaishali Samant   Sagarika Music Marathi
+Best candidate: Ghotala Ghotala Zala
+Genre: Lavani
+
+Why it matches: Matches "Ghotala Ghotala Zala" perfectly. Vaishali Samant is the correct artist for this popular Marathi Lavani.
+Evidence: Known Marathi Lavani song by Vaishali Samant.
+
+Final decision: RESOLVED_HIGH
+Confidence: HIGH
+
+----------------------------------------
+RECORD 3
+----------------------------------------
+Prediction ID: Reshamachya Renghani [Full Marathi Song] Lavani Maharashtrachi- Vol.1
+Predicted Raag: suddha kalyan
+
+Original identifier: Reshamachya Renghani [Full Marathi Song] Lavani Maharashtrachi- Vol.1
+Best candidate: Reshamachya Renghani
+Genre: Lavani
+
+Why it matches: Title explicitly states "Lavani Maharashtrachi" and "Reshamachya Renghani" is a classic Lavani track.
+Evidence: Explicitly stated in YouTube title.
+
+Final decision: RESOLVED_HIGH
+Confidence: HIGH
+
+----------------------------------------
+RECORD 4
+----------------------------------------
+Prediction ID: THEMBA THEMBAN KELAY MALA GAAR  BAYA CHALALI ZHOKAAT - MARATHI DJ MIX  LYRICAL VIDEO
+Predicted Raag: Desh
+
+Original identifier: THEMBA THEMBAN KELAY MALA GAAR  BAYA CHALALI ZHOKAAT - MARATHI DJ MIX  LYRICAL VIDEO
+Best candidate: Themba Themban Kelay Mala Gaar
+Genre: Lavani
+
+Why it matches: Title "Themba Themban Kelay Mala Gaar" is a well-known Marathi Lavani song.
+Evidence: Standard Marathi Lokgeet / Lavani track.
+
+Final decision: RESOLVED_HIGH
+Confidence: HIGH
+
+----------------------------------------
+RECORD 5
+----------------------------------------
+Prediction ID: छबदर छबदर  Pinjra  Sandhya  Super Hit Marathi Movie Song  SuperHit Marathi Movie Song
+Predicted Raag: Marva
+
+Original identifier: छबदर छबदर  Pinjra  Sandhya  Super Hit Marathi Movie Song  SuperHit Marathi Movie Song
+Best candidate: Chhabidar Chhabi (Pinjra)
+Genre: Lavani
+
+Why it matches: Transliteration of "Chhabidar Chhabi" from the Marathi movie "Pinjra" featuring Sandhya, which is one of the most famous Lavani performances in cinema history.
+Evidence: Historical Marathi Cinema Fact (Pinjra 1972 Lavani).
+
+Final decision: RESOLVED_HIGH
+Confidence: HIGH
+
+----------------------------------------
+RECORD 6
+----------------------------------------
+Prediction ID: लवण - झपर मझ ढल  LAAVNI - JHAMPAR MAJHA DHILA  LOK LAAVNI (Marathi) BY SUREKHA PUNEKAR
+Predicted Raag: Darbari
+
+Original identifier: लवण - झपर मझ ढल  LAAVNI - JHAMPAR MAJHA DHILA  LOK LAAVNI (Marathi) BY SUREKHA PUNEKAR
+Best candidate: Jhampar Majha Dhila
+Genre: Lavani
+
+Why it matches: Explicitly states "LAAVNI" and "LOK LAAVNI" and artist Surekha Punekar, the legendary Lavani performer.
+Evidence: Surekha Punekar is a famous Lavani artist.
+
+Final decision: RESOLVED_HIGH
+Confidence: HIGH
+
+TOTAL RESOLVED: 6
+TOTAL HIGH: 6
+TOTAL MEDIUM: 0
+TOTAL LOW: 0
+TOTAL UNRESOLVED: 0

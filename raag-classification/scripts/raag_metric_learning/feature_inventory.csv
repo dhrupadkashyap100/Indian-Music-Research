@@ -1,0 +1,5 @@
+Feature,Dimensions,Num_Sequences_Train,Sparsity_%,Has_NaNs,Has_Infs
+Transition Matrix,144,7524,26.348093508181226,False,False
+Pitch-Class,12,7524,1.1751284777600566,False,False
+N=3 Trigram,1728,7524,81.98318621153051,False,False
+Concatenated,1884,7524,77.21612143335241,False,False

@@ -1,0 +1,46 @@
+{
+    "optimization_status": "FROZEN",
+    "test_status": "EVALUATED_ONCE",
+    "folk_status": "NOT_ACCESSED",
+    "feature_dimensions": {
+        "Transition": 144,
+        "Pitch_Class": 12,
+        "N3_Trigrams": 1728,
+        "Total": 1884
+    },
+    "feature_weights": {
+        "Transition": 0.75,
+        "Pitch_Class": 0.20,
+        "N3_Trigrams": 0.05
+    },
+    "normalization": "L2 normalized per sequence initially. Matrix scaling applied via exact formula: np.hstack([0.75*t, 0.20*p, 0.05*n3]).",
+    "tonic_method": "Pre-existing estimated tonic from extraction pipeline",
+    "sequence_length": 60,
+    "temporal_aggregation": "Top-50% most confident sequences (num_seq = max(1, int(len(rs) * 0.5)))",
+    "reference_bank": "TRF TRAIN (635 recordings)",
+    "MAX_strategy": "Geometric score uses MeanPrototype (mean of references for that training recording) in the frozen 45.02% code.",
+    "svm_parameters": {
+        "C": 10,
+        "gamma": "scale",
+        "probability": true
+    },
+    "probability_calibration_method": "Platt Scaling via 5-fold CV on TRF TRAIN",
+    "fusion_weights": {
+        "Geometric_Score_Weight": 0.75,
+        "SVM_Prob_Weight": 0.25
+    },
+    "output_schema": [
+        "recording_id",
+        "predicted_raag",
+        "top2_raag",
+        "top3_raag",
+        "top1_score",
+        "top2_score",
+        "top3_score",
+        "top1_top2_margin",
+        "confidence_category",
+        "number_of_sequences",
+        "number_of_selected_sequences",
+        "supporting_reference_id"
+    ]
+}

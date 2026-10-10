@@ -1,0 +1,10 @@
+{
+    "total_folk_recordings_analyzed": 328,
+    "classified_recordings": 327,
+    "excluded_recordings": 1,
+    "total_60s_sequences": 2310,
+    "unique_retrieved_raags": 53,
+    "mean_margin": 0.008216281310014284,
+    "median_margin": 0.0018965005874633,
+    "anomalies_found": []
+}

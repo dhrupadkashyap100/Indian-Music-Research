@@ -1,0 +1,6 @@
+Aspect,Assessment
+Number of examples,5-42 recordings per class is sufficient for a baseline supervised experiment.
+Audio duration,Large variation requires consistent chunking (e.g. 5s segments) for models like CNN/CultureMERT.
+Sampling rate,44.1/48 kHz is excellent and can be safely resampled down to 24 kHz for CultureMERT.
+Class imbalance,Imbalance exists (5 vs 42) but is highly manageable via class weights or balanced sampling.
+Label quality,"Assumed reliable (CONFIRMED BY PAPER usage), though provenance/validation method is UNKNOWN."

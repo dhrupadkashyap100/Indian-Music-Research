@@ -1,0 +1,5 @@
+Method,Exact_Match,Octave_Error,Gross_Error,Median_PC_Error_Cents
+Existing,0.25,0.75,0.0,2.5286300342486356e-07
+StrongVoiced,0.25,0.75,0.0,1.908350327539665e-06
+Median,0.75,0.0,0.25,18.691077838684976
+Ensemble,0.25,0.75,0.0,2.5286300342486356e-07

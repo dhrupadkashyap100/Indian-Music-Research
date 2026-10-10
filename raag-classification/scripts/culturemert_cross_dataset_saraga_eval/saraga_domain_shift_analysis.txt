@@ -1,0 +1,6 @@
+DOMAIN SHIFT ANALYSIS
+---------------------
+1. Overall Gap: The TRF->SARAGA Accuracy Gap is 0.0621 and F1 Gap is 0.0267 for the best model (60s_BiLSTM).
+2. Excluded Classes: 39 recordings (31 Raags) were correctly excluded from evaluation because TRF lacked these ontology classes.
+3. Random Chance Context: On 61 classes, random Top-1 chance is 1.6%. The best external model achieved 0.1111, demonstrating signal retention but severe absolute degradation.
+4. Architectures: BiLSTM and longer 60s contexts remain relatively more stable under domain shift compared to 30s MeanPool.

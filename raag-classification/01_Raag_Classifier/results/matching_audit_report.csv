@@ -1,0 +1,328 @@
+recording_id,match_type,matched_str,matched_col,score,genre,candidates,predicted_raag,confidence
+A Labanga Lata __ New Sambalpuri Song __ Ruku Suna & Archana Padhi,SUBSTRING (Meta in Rec),a labanga lata,Song Title,0.35,Sambalpuri,[],Megh Malhar,LOW
+A Mo Dil__ New Sambalpuri Song __ Smith & Sasmita __Mantu Chhuria & Anamika __ Official Full Video,SUBSTRING (Meta in Rec),a mo dil,Song Title,0.1509433962264151,Sambalpuri,[],Darbari,LOW
+Aag Fale Dekhilo Audio Song _ Assamese Song,EXACT,Aag Fale Dekhilo Audio Song _ Assamese Song,Original File Name,1.0,Bihu,[],Bahar,HIGH
+Aai Majhya Lagnachi with lyrics  आई मझय लगनच  Usha Mangeshkar  Dada Kondke  Usha,SUBSTRING (Meta in Rec),aai majhya lagnachi,Song Title,0.3838383838383838,Lavani,[],Darbari,LOW
+Aaji Ei Suprabhate,EXACT,Aaji Ei Suprabhate,Original File Name,1.0,Jhumur,[],Durga,HIGH
+Aghunor Potharot,EXACT,Aghunor Potharot,Original File Name,1.0,Bihu,[],Bhimpalasi,HIGH
+Aha Mor Galar Malire Sambalpuri Song!! Jitendra Haripal!! Sambalpuri Song!!,EXACT,Aha Mor Galar Malire Sambalpuri Song!! Jitendra Haripal!! Sambalpuri Song!!,Original File Name,1.0,Sambalpuri,[],Bhairavi,HIGH
+Aho Rani Koromoti __ Official Full Hd Video __ Amrit Tanti & Jyotika Baruah __ 2023,SUBSTRING (Meta in Rec),koromoti,Song Title,0.17582417582417584,Jhumur,[],Durga,LOW
+Aj Radhar Kunje_আজ রাধার কুঞ্জে,EXACT,Aj Radhar Kunje_আজ রাধার কুঞ্জে,Original File Name,1.0,Dhamail,[],Pahadi,HIGH
+Allah Jilai Bai - Jawai Balha Lagoji,EXACT,Allah Jilai Bai - Jawai Balha Lagoji,Original File Name,1.0,Maand,[],Bihag,HIGH
+Allah Jilai Bai Songs From Rajasthan _ Kesariya Balam Aavo Ni,EXACT,Allah Jilai Bai Songs From Rajasthan _ Kesariya Balam Aavo Ni,Original File Name,1.0,Maand,[],Khamaj,HIGH
+Allah Jilai Bai- Moomal,EXACT,Allah Jilai Bai- Moomal,Original File Name,1.0,Maand,[],Khamaj,HIGH
+Ambran Tu Ayi Hui Hoor Sohniye  The Safri Boyz  Balwinder Safri  full video  OSA Official,EXACT,Ambran Tu Ayi Hui Hoor Sohniye  The Safri Boyz  Balwinder Safri  full video  OSA Official,Original File Name,1.0,Bhangra,[],Bhairavi,HIGH
+Ami Ar Jabona Jole_আর যাবো না জলে,EXACT,Ami Ar Jabona Jole_আর যাবো না জলে,Original File Name,1.0,Dhamail,[],Pahadi,HIGH
+Amona Dhanoke _ Lyrical Video _ Assamese Bihu Song _ Khagen Mahanta _ NK Production,EXACT,Amona Dhanoke _ Lyrical Video _ Assamese Bihu Song _ Khagen Mahanta _ NK Production,Original File Name,1.0,Bihu,[],Megh,HIGH
+Amra Kar Barit_আমরা কার বাড়িত আইলাম,SUBSTRING (Meta in Rec),amra kar barit,English Name,0.56,Dhamail,[],Khamaj,AMBIGUOUS
+Anta Halei Halei __ New Sambalpuri Song __ Ruku Suna __ Baisali __ Archana Padhi __ Full Video __4K,SUBSTRING (Meta in Rec),anta halei halei,Song Title,0.2782608695652174,Sambalpuri,[],Megh Malhar,LOW
+Apna Sangeet-Apna Sangeet Vaje Apna Sangeet (Full Song) HD,EXACT,Apna Sangeet-Apna Sangeet Vaje Apna Sangeet (Full Song) HD,Original File Name,1.0,Bhangra,[],Basant,HIGH
+Apne Desh Ri Aajadi Ra Geet _ ANWAR KHAN _ अपणे देश री आजादी रा गीत _ अनवर खान,SUBSTRING (Meta in Rec),apne desh ri aajadi,Song Title,0.3917525773195876,Maand,[],Jaunpuri,LOW
+"Apsara Aali Full Song  Natarang  Sonalee Kulkarni, Ajay Atul  Marathi Songs",SUBSTRING (Meta in Rec),apsara aali,Song Title,0.2558139534883721,Lavani,[],Basant,LOW
+Aseema Panda & Mantu Chhuria - Rani Guri,EXACT,Aseema Panda & Mantu Chhuria - Rani Guri,Original File Name,1.0,Sambalpuri,[],Pahadi,HIGH
+Asha Bhosle - Bai Mi Patang Udvit Hote,EXACT,Asha Bhosle - Bai Mi Patang Udvit Hote,Original File Name,1.0,Lavani,[],Kafi,HIGH
+Assembled Brass Band - Hatheliyan Re Beech,EXACT,Assembled Brass Band - Hatheliyan Re Beech,Original File Name,1.0,Ghoomar,[],suddha kalyan,HIGH
+Assembled Brass Band - Talariya Magariya Re (Instrumental Version),EXACT,Assembled Brass Band - Talariya Magariya Re (Instrumental Version),Original File Name,1.0,Ghoomar,[],suddha kalyan,HIGH
+Assembled Brass Band - नैणां रा लोभी _  _ Hit Rajasthani Ghoomar Song _ World Record Folk Dance _ Seema Mishra _,SUBSTRING (Meta in Rec),ghoomar,Song Title,0.11764705882352941,Ghoomar,[],Bilaskhani Todi,LOW
+Badila Yahi Rahiyo Saa _ Rajasthani Mand _ Rathodi Geet _ Traditional Folk Song,EXACT,Badila Yahi Rahiyo Saa _ Rajasthani Mand _ Rathodi Geet _ Traditional Folk Song,Original File Name,1.0,Maand,[],Kafi,HIGH
+Badnam _ Sambalpuri Song _ Prakash Jal _ Sambalpuri Video _ Sad Song _ Prakash Jal New Song,EXACT,Badnam _ Sambalpuri Song _ Prakash Jal _ Sambalpuri Video _ Sad Song _ Prakash Jal New Song,Original File Name,1.0,Sambalpuri,[],Darbari,HIGH
+Bai Sa Ra Beera,EXACT,Bai Sa Ra Beera,Original File Name,1.0,Maand,[],Megh Malhar,HIGH
+Bajaiaona more soi go_জাগাইওনা মোরে সই গো,EXACT,Bajaiaona more soi go_জাগাইওনা মোরে সই গো,Original File Name,1.0,Dhamail,[],Bilaskhani Todi,HIGH
+Balwinder Safri - Pao Bhangra 1997 Music Video,EXACT,Balwinder Safri - Pao Bhangra 1997 Music Video,Original File Name,1.0,Bhangra,[],sarang,HIGH
+BARIRE SIMARE _ ZUBEEN GARG _ MANAS ROBIN _ AJIT CHETIA _ CHAMPA _ TEA TRIBE SONG _  ADIVASI SONG,SUBSTRING (Meta in Rec),barire simare,Song Title,0.23636363636363636,Jhumur,[],Malkauns,LOW
+Bashi Bajgo Roiya Roiya_বাঁশি বাজগো রইয়া রইয়া,EXACT,Bashi Bajgo Roiya Roiya_বাঁশি বাজগো রইয়া রইয়া,Original File Name,1.0,Dhamail,[],suddha kalyan,HIGH
+BAUL_001,EXACT,BAUL_001,File Name,1.0,Baul,[],Desh,HIGH
+BAUL_002,EXACT,BAUL_002,File Name,1.0,Baul,[],Pahadi,HIGH
+BAUL_003,EXACT,BAUL_003,File Name,1.0,Baul,[],Kafi,HIGH
+BAUL_004,EXACT,BAUL_004,File Name,1.0,Baul,[],Desh,HIGH
+BAUL_005,EXACT,BAUL_005,File Name,1.0,Baul,[],Poorvi,HIGH
+BAUL_006,EXACT,BAUL_006,File Name,1.0,Baul,[],Desi,HIGH
+BAUL_007,EXACT,BAUL_007,File Name,1.0,Baul,[],Bilaval,HIGH
+BAUL_008,EXACT,BAUL_008,File Name,1.0,Baul,[],Durga,HIGH
+BAUL_009,EXACT,BAUL_009,File Name,1.0,Baul,[],Pahadi,HIGH
+BAUL_010,EXACT,BAUL_010,File Name,1.0,Baul,[],Jaunpuri,HIGH
+BAUL_011,EXACT,BAUL_011,File Name,1.0,Baul,[],Sohni,HIGH
+BAUL_012,EXACT,BAUL_012,File Name,1.0,Baul,[],Komal Rishabh Asavari,HIGH
+BAUL_013,EXACT,BAUL_013,File Name,1.0,Baul,[],Megh Malhar,HIGH
+BAUL_014,EXACT,BAUL_014,File Name,1.0,Baul,[],Yaman or Kalyan,HIGH
+BAUL_015,EXACT,BAUL_015,File Name,1.0,Baul,[],Bageshree,HIGH
+BAUL_016,EXACT,BAUL_016,File Name,1.0,Baul,[],Bhairav Bahar,HIGH
+BAUL_017,EXACT,BAUL_017,File Name,1.0,Baul,[],Bhimpalasi,HIGH
+BAUL_018,EXACT,BAUL_018,File Name,1.0,Baul,[],Darbari,HIGH
+BAUL_019,EXACT,BAUL_019,File Name,1.0,Baul,[],Bilaskhani Todi,HIGH
+BAUL_020,EXACT,BAUL_020,File Name,1.0,Baul,[],Bhairavi,HIGH
+BAUL_021,EXACT,BAUL_021,File Name,1.0,Baul,[],Malkauns,HIGH
+BAUL_022,EXACT,BAUL_022,File Name,1.0,Baul,[],suddha kalyan,HIGH
+BAUL_023,EXACT,BAUL_023,File Name,1.0,Baul,[],Bhairavi,HIGH
+BAUL_024,EXACT,BAUL_024,File Name,1.0,Baul,[],Komal Rishabh Asavari,HIGH
+BAUL_025,EXACT,BAUL_025,File Name,1.0,Baul,[],Alhaiya Bilaval,HIGH
+BAUL_026,EXACT,BAUL_026,File Name,1.0,Baul,[],Kafi,HIGH
+BAUL_027,EXACT,BAUL_027,File Name,1.0,Baul,[],Bhairavi,HIGH
+BAUL_028,EXACT,BAUL_028,File Name,1.0,Baul,[],Desi,HIGH
+BAUL_029,EXACT,BAUL_029,File Name,1.0,Baul,[],Alhaiya Bilaval,HIGH
+BAUL_030,EXACT,BAUL_030,File Name,1.0,Baul,[],Bhimpalasi,HIGH
+Bela Shende - Asa Wajwa Ki,EXACT,Bela Shende - Asa Wajwa Ki,Original File Name,1.0,Lavani,[],Malhar,HIGH
+BHAINA NACHIYAAN - OFFICIAL VIDEO - APNA SANGEET (1995),EXACT,BHAINA NACHIYAAN - OFFICIAL VIDEO - APNA SANGEET (1995),Original File Name,1.0,Bhangra,[],Gujari Todi,HIGH
+Bhupen Hazarika EIJONI KORENO NASONI এইজনী যোৰহাটৰ নাচনী BIHU,KEYWORD_FALLBACK,bihu,Genre Keyword,0.12307692307692308,Bihu,[],Marva,HIGH
+BIHURENU BIRINA _ CHINAKI GEET _ ASSAMESE LYRICAL VIDEO SONG _ BHUPEN HAZARIKA,EXACT,BIHURENU BIRINA _ CHINAKI GEET _ ASSAMESE LYRICAL VIDEO SONG _ BHUPEN HAZARIKA,Original File Name,1.0,Bihu,[],Megh,HIGH
+BOHAGI 2020 BY RUPANKRITA ALANKRITA _ NEW ASSAMESE BIHU SONG _ ANNANYA __SUMI,SUBSTRING (Meta in Rec),bohagi,Song Title,0.14457831325301204,Bihu,[],Bhimpalasi,LOW
+Bol Go Bol Sokhi_বল গো বল সখি,EXACT,Bol Go Bol Sokhi_বল গো বল সখি,Original File Name,1.0,Dhamail,[],Khamaj,HIGH
+Bolo Ta Ra Ra (Lyrical) Daler Mehndi  Punjabi Pop Song  Superhit Punjabi Party Song,SUBSTRING (Meta in Rec),bolo ta ra ra,Song Title,0.2708333333333333,Bhangra,[],Bhatiyar,LOW
+Bondhu Bine Pran Bache_বন্ধু বিনে প্রাণ বাঁচে না,EXACT,Bondhu Bine Pran Bache_বন্ধু বিনে প্রাণ বাঁচে না,Original File Name,1.0,Dhamail,[],Pahadi,HIGH
+Bondhu Outto Jaibay Giya_বন্ধু অতও যাইবায় গিয়া,SUBSTRING (Meta in Rec),bondhu outto jaibay giya,English Name,0.6857142857142857,Dhamail,[],Rageshree,AMBIGUOUS
+Chala Jejurila jau  Lavni  Uttara Kelkar  Live performance Navara majha navsacha movei swarankit,SUBSTRING (Meta in Rec),chala jejurila jau,Song Title,0.3157894736842105,Lavani,[],Ramkali,LOW
+Chaliya Chhodi __ New jhumur Song __ Amrit Tanti __Jyotika,SUBSTRING (Meta in Rec),chaliya chhodi,Song Title,0.3888888888888889,Jhumur,[],Durga,LOW
+Cham Cham Chamke Chunari _ Rajasthani Folk Song _ Ghoomar 2 _ Seema Mishra _ Veena Music,EXACT,Cham Cham Chamke Chunari _ Rajasthani Folk Song _ Ghoomar 2 _ Seema Mishra _ Veena Music,Original File Name,1.0,Ghoomar,[],Pahadi,HIGH
+Chandir Paenjhal _ New Sambalpuri Song _ Ruku Suna & Aseema Panda _ Official Full Song 2025,EXACT,Chandir Paenjhal _ New Sambalpuri Song _ Ruku Suna & Aseema Panda _ Official Full Song 2025,Original File Name,1.0,Sambalpuri,[],Gujari Todi,HIGH
+Channi Raite Aiyo Kala_চান্নি রাইতে আইও কালা,EXACT,Channi Raite Aiyo Kala_চান্নি রাইতে আইও কালা,Original File Name,1.0,Dhamail,[],Desi,HIGH
+Daler Mehndi - Ho Jayegi Ballle Balle  Lyrical Video  Jawahar Wattal  Superhit Punjabi Song,EXACT,Daler Mehndi - Ho Jayegi Ballle Balle  Lyrical Video  Jawahar Wattal  Superhit Punjabi Song,Original File Name,1.0,Bhangra,[],sarang,HIGH
+Daler Mehndi - Saade Dil Te Chhuriyan Chaliyan,EXACT,Daler Mehndi - Saade Dil Te Chhuriyan Chaliyan,Original File Name,1.0,Bhangra,[],Deepak,HIGH
+Dardi Rab Rab Kardi ► Daler Mehndi _ Official Music Video _ DRecords,EXACT,Dardi Rab Rab Kardi ► Daler Mehndi _ Official Music Video _ Drecords,Original File Name,1.0,Bhangra,[],Malkauns,HIGH
+DEEWANA  __ OFFICIAL VIDEO  __ ROMANTIC JHUMUR SONG 2025 __ SHIBANI THAKUR __ JAYANTA TANTI __,SUBSTRING (Meta in Rec),deewana,Song Title,0.13861386138613863,Jhumur,[],Malkauns,LOW
+Deewana Banalu Rani _ New Sambalpuri Song _ Ruku Suna _ Aseema Panda _ Official Studio Version,EXACT,Deewana Banalu Rani _ New Sambalpuri Song _ Ruku Suna _ Aseema Panda _ Official Studio Version,Original File Name,1.0,Sambalpuri,[],Pahadi,HIGH
+Deikhe Aailam Taare_দেইখে আইলাম তারে সইগো,EXACT,Deikhe Aailam Taare_দেইখে আইলাম তারে সইগো,Original File Name,1.0,Dhamail,[],Desh,HIGH
+DEUTAR BOREGHAR _ CHINAKI GEET _ ASSAMESE LYRICAL VIDEO SONG _ BHUPEN HAZARIKA,EXACT,DEUTAR BOREGHAR _ CHINAKI GEET _ ASSAMESE LYRICAL VIDEO SONG _ BHUPEN HAZARIKA,Original File Name,1.0,Bihu,[],Bhairav Bahar,HIGH
+Dhamail Dew Go Chorchori Ma_ধমইল দও গ চড়চড়র ম,EXACT,Dhamail Dew Go Chorchori Ma_ধমইল দও গ চড়চড়র ম,Original File Name,1.0,Dhamail,[],Yaman or Kalyan,HIGH
+Dhamail ses hoia jay_ধামাইল শেষ হইয়া যায়,EXACT,Dhamail ses hoia jay_ধামাইল শেষ হইয়া যায়,Original File Name,1.0,Dhamail,[],Malkauns,HIGH
+Dhanxiri Pare Hoi ( ধনশিৰি পাৰে হৈ.) - by Khagen Mahanta,UNMATCHED,,,0.0,,[],Bhoopali,UNMATCHED
+Dhengkoli _ ধেংকলি _ Navanita Sharma _ Nishita Phukan  _ New Assamese Bihu Song 2025,SUBSTRING (Meta in Rec),dhengkoli,Song Title,0.1935483870967742,Bihu,[],Hemant,LOW
+Dikhow Noi Earibo Nuwaru - দিখৌ নৈ এৰিব নোৱাৰো - Zubeen Garg - বিহু গীত - New Assamese Song 2021,EXACT,Dikhow Noi Earibo Nuwaru - দিখৌ নৈ এৰিব নোৱাৰো - Zubeen Garg - বিহু গীত - New Assamese Song 2021,Original File Name,1.0,Bihu,[],Desi,HIGH
+"Dil Bhitre Lekhideli _ Sambalpuri Romantic Song _ Prakash Jal , Ira Mohanty _ Malaya Mishra",EXACT,"Dil Bhitre Lekhideli _ Sambalpuri Romantic Song _ Prakash Jal , Ira Mohanty _ Malaya Mishra",Original File Name,1.0,Sambalpuri,[],Malkauns,HIGH
+Disla Ga Bai Disla  दसल ग बई दसल  Usha Mangeshkar  Marathi Song  मरठ गण,SUBSTRING (Meta in Rec),disla ga bai disla,Song Title,0.4044943820224719,Lavani,[],Adana,LOW
+"Dolyavar Gogal Lava  Bhirkit  Akshada P, Girish K, Tanaji G  Urmila D  Mangesh K  Shail-Pritesh",SUBSTRING (Meta in Rec),dolyavar gogal lava,Song Title,0.3333333333333333,Lavani,[],Marva,LOW
+Dupatta tera satrang da Surjit Bindrakhia  Dupatta,SUBSTRING (Meta in Rec),dupatta tera satrang da,Song Title,0.6301369863013698,Bhangra,[],sarang,AMBIGUOUS
+Ebela Hale Bau,EXACT,Ebela Hale Bau,Original File Name,1.0,Bihu,[],Megh,HIGH
+Ekadoshi Ratiya,EXACT,Ekadoshi Ratiya,Original File Name,1.0,Jhumur,[],Durga,HIGH
+GABHORU BIHU __ Deeplina Deka __ XUNARU 2019 __ EXCLUSIVE ASSAMESE bihu SINGLE __ 2019,SUBSTRING (Meta in Rec),gabhoru bihu,Song Title,0.24489795918367346,Bihu,[],Megh,LOW
+GARBA_001,EXACT,GARBA_001,File Name,1.0,Garba,[],Durga,HIGH
+GARBA_002,EXACT,GARBA_002,File Name,1.0,Garba,[],Poorvi,HIGH
+GARBA_003,EXACT,GARBA_003,File Name,1.0,Garba,[],sarang,HIGH
+GARBA_004,EXACT,GARBA_004,File Name,1.0,Garba,[],Durga,HIGH
+GARBA_005,EXACT,GARBA_005,File Name,1.0,Garba,[],Darbari,HIGH
+GARBA_006,EXACT,GARBA_006,File Name,1.0,Garba,[],Malkauns,HIGH
+GARBA_007,EXACT,GARBA_007,File Name,1.0,Garba,[],Malkauns,HIGH
+GARBA_008,EXACT,GARBA_008,File Name,1.0,Garba,[],Adana,HIGH
+GARBA_009,EXACT,GARBA_009,File Name,1.0,Garba,[],Megh Malhar,HIGH
+GARBA_010,EXACT,GARBA_010,File Name,1.0,Garba,[],Bhairavi,HIGH
+GARBA_011,EXACT,GARBA_011,File Name,1.0,Garba,[],suddha kalyan,HIGH
+GARBA_012,EXACT,GARBA_012,File Name,1.0,Garba,[],Malkauns,HIGH
+GARBA_013,EXACT,GARBA_013,File Name,1.0,Garba,[],Ahir Bhairav,HIGH
+GARBA_014,EXACT,GARBA_014,File Name,1.0,Garba,[],Megh,HIGH
+GARBA_015,EXACT,GARBA_015,File Name,1.0,Garba,[],Megh,HIGH
+GARBA_016,EXACT,GARBA_016,File Name,1.0,Garba,[],Pahadi,HIGH
+GARBA_017,EXACT,GARBA_017,File Name,1.0,Garba,[],Marva,HIGH
+GARBA_018,EXACT,GARBA_018,File Name,1.0,Garba,[],Megh Malhar,HIGH
+GARBA_019,EXACT,GARBA_019,File Name,1.0,Garba,[],Bhoopali,HIGH
+GARBA_020,EXACT,GARBA_020,File Name,1.0,Garba,[],Megh Malhar,HIGH
+GARBA_021,EXACT,GARBA_021,File Name,1.0,Garba,[],Jaunpuri,HIGH
+GARBA_022,EXACT,GARBA_022,File Name,1.0,Garba,[],Puriya,HIGH
+GARBA_023,EXACT,GARBA_023,File Name,1.0,Garba,[],Barwa,HIGH
+GARBA_024,EXACT,GARBA_024,File Name,1.0,Garba,[],Megh,HIGH
+GARBA_025,EXACT,GARBA_025,File Name,1.0,Garba,[],Malkauns,HIGH
+GARBA_026,EXACT,GARBA_026,File Name,1.0,Garba,[],Megh Malhar,HIGH
+GARBA_027,EXACT,GARBA_027,File Name,1.0,Garba,[],Komal Rishabh Asavari,HIGH
+GARBA_028,EXACT,GARBA_028,File Name,1.0,Garba,[],Bhairav Bahar,HIGH
+GARBA_029,EXACT,GARBA_029,File Name,1.0,Garba,[],Malkauns,HIGH
+GARBA_030,EXACT,GARBA_030,File Name,1.0,Garba,[],Kedar,HIGH
+GARBA_031,EXACT,GARBA_031,File Name,1.0,Garba,[],Khamaj,HIGH
+"Genda Phool _Neel Akash , Micheal Pathor & Jyotika Baruha _ Bikrom Chawrok _ New Jhumoir song",EXACT,"Genda Phool _Neel Akash , Micheal Pathor & Jyotika Baruha _ Bikrom Chawrok _ New Jhumoir song",Original File Name,1.0,Jhumur,[],Durga,HIGH
+Ghotala song  Vaishali Samant   Sagarika Music Marathi,UNMATCHED,,,0.0,,[],Megh Malhar,UNMATCHED
+"Gidja Gija Re _ Sambalpuri Song _ Official Studio Version _ Human Sagar,Asima Panda _ Roul Music",EXACT,"Gidja Gija Re _ Sambalpuri Song _ Official Studio Version _ Human Sagar,Asima Panda _ Roul Music",Original File Name,1.0,Sambalpuri,[],Bhairavi,HIGH
+GOHONA __ A Modern Song 2022-23 __ Amrit Tanti __ Jyotika Baruah __ Amin Tanti __ Bikram Chawrok,SUBSTRING (Meta in Rec),gohona,Song Title,0.11764705882352941,Jhumur,[],Kedar,LOW
+Golden Star - Kurri Garam Jayee (Version-1) HD,EXACT,Golden Star - Kurri Garam Jayee (Version-1) HD,Original File Name,1.0,Bhangra,[],Megh,HIGH
+GOYA By NeeL Akash __ New Adivasi Song 2019,UNMATCHED,,,0.0,,[],sarang,UNMATCHED
+Hae Go _ Official Full Video _ Mantu Chhuria _ New Sambalpuri Song,EXACT,Hae Go _ Official Full Video _ Mantu Chhuria _ New Sambalpuri Song,Original File Name,1.0,Sambalpuri,[],sarang,HIGH
+HARIYA __ AMRIT TANTI,SUBSTRING (Meta in Rec),hariya,Song Title,0.4444444444444444,Jhumur,[],Megh Malhar,LOW
+Hi Natrangi Naar,EXACT,Hi Natrangi Naar,Original File Name,1.0,Lavani,[],Desi,HIGH
+Ita Kita Kare Go Mone_ইতা কিতা করে গো মনে,EXACT,Ita Kita Kare Go Mone_ইতা কিতা করে গো মনে,Original File Name,1.0,Dhamail,[],Bhairav Bahar,HIGH
+Ital Peetal Ro _ Hit Rajasthani Folk Song _ Seema Mishra _ Veena Music,EXACT,Ital Peetal Ro _ Hit Rajasthani Folk Song _ Seema Mishra _ Veena Music,Original File Name,1.0,Ghoomar,[],Pahadi,HIGH
+JA JA RE MINI __ JHUMUR SONG __ NEEL AKASH __ CHANDINI 2017 __,SUBSTRING (Meta in Rec),ja ja re mini,Song Title,0.3466666666666667,Jhumur,[],Shree,LOW
+Jaiyo Na Re Prano_যাইও না রে প্রানো বন্ধু আমারে বুলিয়া,SUBSTRING (Meta in Rec),যাইও না রে প্রানো বন্ধু আমারে বুলিয়া,Song Title,0.8,Dhamail,[],Barwa,AMBIGUOUS
+Janmoni Xopunote Aheba.. Singing by Zubeen Garg,EXACT,Janmoni Xopunote Aheba.. Singing by Zubeen Garg,Original File Name,1.0,Bihu,[],Malkauns,HIGH
+Jano Ni Go Sai_জানো নি গো সই,EXACT,Jano Ni Go Sai_জানো নি গো সই,Original File Name,1.0,Dhamail,[],Malkauns,HIGH
+JATT DI PASAND (HD Video) _ SURJIT BINDRAKHIA _ PUNJABI WEDDING SONGS,EXACT,JATT DI PASAND (HD Video) _ SURJIT BINDRAKHIA _ PUNJABI WEDDING SONGS,Original File Name,1.0,Bhangra,[],Pahadi,HIGH
+Jhuli jhule _ Assamese Jhumur Song _ Zubeen Garg Adivasi Song _@SpicyAssamMultimediaPvt.Ltd.,EXACT,Jhuli jhule _ Assamese Jhumur Song _ Zubeen Garg Adivasi Song _@SpicyAssamMultimediaPvt.Ltd.,Original File Name,1.0,Jhumur,[],Megh,HIGH
+JHUPA JHUPA BAUL JHUPA _ SAMBALPURI BHAJAN_IRA MOHANTY_SONI CREATION,SUBSTRING (Meta in Rec),jhupa jhupa baul jhupa,Song Title,0.4888888888888889,Sambalpuri,[],Darbari,LOW
+Jitendriya Haripal - Din Gani Gani,EXACT,Jitendriya Haripal - Din Gani Gani,Original File Name,1.0,Sambalpuri,[],Shree,HIGH
+Jitendriya Haripal - Namo Namo Ago,EXACT,Jitendriya Haripal - Namo Namo Ago,Original File Name,1.0,Sambalpuri,[],Desi,HIGH
+Jole Giyechilam Shai_জলে গিয়াছিলাম সই,EXACT,Jole Giyechilam Shai_জলে গিয়াছিলাম সই,Original File Name,1.0,Dhamail,[],Deepak,HIGH
+Joler Ghate_জলের ঘাটে,EXACT,Joler Ghate_জলের ঘাটে,Original File Name,1.0,Dhamail,[],Bilaval,HIGH
+Joler Joler Ghate_জলার জলার ঘাটে,EXACT,Joler Joler Ghate_জলার জলার ঘাটে,Original File Name,1.0,Dhamail,[],Miyan Ki Todi orTodi or Darbari Todi,HIGH
+Jugol Milon Hoilo Go_যুগল মিলন হইলো গো,EXACT,Jugol Milon Hoilo Go_যুগল মিলন হইলো গো,Original File Name,1.0,Dhamail,[],Bhimpalasi,HIGH
+Kad Janulee Sasre _ Best Song of Rehana Mirza _ Chandra Shekhar Kalla - Rajasthani Song,EXACT,Kad Janulee Sasre _ Best Song of Rehana Mirza _ Chandra Shekhar Kalla - Rajasthani Song,Original File Name,1.0,Maand,[],suddha kalyan,HIGH
+KAHILI PUWATE _ JAANMONI 2009 _ ASSAMESE MUSIC VIDEO _ ZUBEEN GARG _ BIHU SONG,EXACT,KAHILI PUWATE _ JAANMONI 2009 _ ASSAMESE MUSIC VIDEO _ ZUBEEN GARG _ BIHU SONG,Original File Name,1.0,Bihu,[],Puriya,HIGH
+Kale Gori Muke,EXACT,Kale Gori Muke,Original File Name,1.0,Jhumur,[],Khamaj,HIGH
+Kalidar Kapuri Paan Lyrical  कळदर कपर पन  Sulochana Chavan  Old Marathi Hit Song,SUBSTRING (Meta in Rec),kalidar kapuri paan,Song Title,0.3838383838383838,Lavani,[],Sorath,LOW
+Kansiya।।New jhumor Song।।Amrit Tanti  ।।Jyotika Boruwah।।Bikram Chawrok।।,EXACT,Kansiya।।New jhumor Song।।Amrit Tanti  ।।Jyotika Boruwah।।Bikram Chawrok।।,Original File Name,1.0,Jhumur,[],Durga,HIGH
+Kashi Mi Jau Mathurechya Bajari  Natarang  Atul Kulkarni  Ajay-Atul,SUBSTRING (Meta in Rec),kashi mi jau mathurechya bajari,Song Title,0.6326530612244898,Lavani,[],Bahar,AMBIGUOUS
+"Kashyala Lavato (Lavani Song) - Poshter Girl  Superhit Marathi Song  Rasika  Amitraj, Bela Shende",SUBSTRING (Meta in Rec),kashyala lavato,Song Title,0.26785714285714285,Lavani,[],Yaman or Kalyan,LOW
+Keerthi Sagathia - Chhap Tilak,EXACT,Keerthi Sagathia - Chhap Tilak,Original File Name,1.0,Maand,[],Gujari Todi,HIGH
+Kesariya Balam Aao Ni Padharo Mhare Desh _ Padma Shri Anwar Khan Manganiyar & Pt. Vishwa Mohan Bhatt,EXACT,Kesariya Balam Aao Ni Padharo Mhare Desh _ Padma Shri Anwar Khan Manganiyar & Pt. Vishwa Mohan Bhatt,Original File Name,1.0,Maand,[],Alhaiya Bilaval,HIGH
+Kesariya Balam Aavo_Gavri Devi,EXACT,Kesariya Balam Aavo_Gavri Devi,Original File Name,1.0,Maand,[],Bihag,HIGH
+Kesariya Balam Awo Ni Padharo _ Rajasthani Folk Song _ Seema Mishra _ Veena Music,EXACT,Kesariya Balam Awo Ni Padharo _ Rajasthani Folk Song _ Seema Mishra _ Veena Music,Original File Name,1.0,Maand,[],Bhimpalasi,HIGH
+Kesariya Balam _ Anwar Khan Manganiyar & Troupe _ Dhaka International FolkFest 2015,EXACT,Kesariya Balam _ Anwar Khan Manganiyar & Troupe _ Dhaka International FolkFest 2015,Original File Name,1.0,Maand,[],sarang,HIGH
+"Kesariya Balam _ Vocal_ Anwar Khan Manganiyar,_ Mohan Veena_ Vishwamohan Bhatt - Desert Slide Group",SUBSTRING (Meta in Rec),kesariya balam,Song Title,0.24778761061946902,Maand,[],Bilaval,LOW
+Kesariya Ro Pag - Ghoomar _ Seema Mishra _ Superhit Rajasthani Dance _ Rajputi Dance,EXACT,Kesariya Ro Pag - Ghoomar _ Seema Mishra _ Superhit Rajasthani Dance _ Rajputi Dance,Original File Name,1.0,Maand,[],Desi,HIGH
+KI SAAI ASO _ CHINAKI GEET _ ASSAMESE LYRICAL VIDEO SONG _ BHUPEN HAZARIKA _ BIHU SONG,EXACT,KI SAAI ASO _ CHINAKI GEET _ ASSAMESE LYRICAL VIDEO SONG _ BHUPEN HAZARIKA _ BIHU SONG,Original File Name,1.0,Bihu,[],Bhupal Todi,HIGH
+Kinni Sohni,EXACT,Kinni Sohni,Original File Name,1.0,Bhangra,[],Durga,HIGH
+KINU SAWONIRE _ JAANMONI 2008 _ VOL 1 _ ASSAMESE MUSIC VIDEO _ ZUBEEN GARG _ BIHU SONG,EXACT,KINU SAWONIRE _ JAANMONI 2008 _ VOL 1 _ ASSAMESE MUSIC VIDEO _ ZUBEEN GARG _ BIHU SONG,Original File Name,1.0,Bihu,[],Bhairavi,HIGH
+KOKALOT TONGALI _ JAANMONI 2010 _ ASSAMESE VIDEO SONG _ ZUBEEN GARG _ SHYAMANTIKA SHARMA,EXACT,KOKALOT TONGALI _ JAANMONI 2010 _ ASSAMESE VIDEO SONG _ ZUBEEN GARG _ SHYAMANTIKA SHARMA,Original File Name,1.0,Bihu,[],Malkauns,HIGH
+Koli Juge Alai Doyal,EXACT,Koli Juge Alai Doyal,Original File Name,1.0,Jhumur,[],Durga,HIGH
+Kopou Phool Phulelee,EXACT,Kopou Phool Phulelee,Original File Name,1.0,Bihu,[],Marva,HIGH
+Koromake Akhora Me Priya Ke Dekhi,EXACT,Koromake Akhora Me Priya Ke Dekhi,Original File Name,1.0,Jhumur,[],Durga,HIGH
+Koti khone bole __ Dulal Manki _ Super Hit Old Jhumur Songs __,KEYWORD_FALLBACK,jhumur,Genre Keyword,0.17647058823529413,Jhumur,[],Megh Malhar,HIGH
+Koto Adore Adore_কত আদরে আদরে,EXACT,Koto Adore Adore_কত আদরে আদরে,Original File Name,1.0,Dhamail,[],Bageshree,HIGH
+Kuilu Kuilu _ Jhumur Songs _ Assam,EXACT,Kuilu Kuilu _ Jhumur Songs _ Assam,Original File Name,1.0,Jhumur,[],Desi,HIGH
+Kuldeep Manak  Jugni  Audio  Old Punjabi Tunes,UNMATCHED,,,0.0,,[],Bilaskhani Todi,UNMATCHED
+Kuldeep Manak - Kuriyan Ne Paya Bhangra,EXACT,Kuldeep Manak - Kuriyan Ne Paya Bhangra,Original File Name,1.0,Bhangra,[],Desi,HIGH
+"Kulfirani Chocobar _ New Sambalpuri Song _ Full Video _ Harry, Simran _ Ira Mohanty, Ruku Suna",EXACT,"Kulfirani Chocobar _ New Sambalpuri Song _ Full Video _ Harry, Simran _ Ira Mohanty, Ruku Suna",Original File Name,1.0,Sambalpuri,[],Adana,HIGH
+Kunjero Majhe_কুঞ্জের মাঝে,EXACT,Kunjero Majhe_কুঞ্জের মাঝে,Original File Name,1.0,Dhamail,[],Bageshree,HIGH
+LAAL PARI __ BEJNATH TANTI __ JOON JUNUKA  __ JHUMUR SONG 2024,SUBSTRING (Meta in Rec),laal pari,Song Title,0.2535211267605634,Jhumur,[],Sorath,LOW
+LAJE MORU MORU _ CHINAKI GEET _ ASSAMESE LYRICAL VIDEO SONG _ BHUPEN HAZARIKA _ BIHU SONG,EXACT,LAJE MORU MORU _ CHINAKI GEET _ ASSAMESE LYRICAL VIDEO SONG _ BHUPEN HAZARIKA _ BIHU SONG,Original File Name,1.0,Bihu,[],Malkauns,HIGH
+Le Dekh Nangi Melo _ Rehana Mirza _ Ikram Rajasthani _ Old Rajasthani Song,EXACT,Le Dekh Nangi Melo _ Rehana Mirza _ Ikram Rajasthani _ Old Rajasthani Song,Original File Name,1.0,Maand,[],Bageshree,HIGH
+Le Le Baula _ Full Video _ Sambalpuri Song _ Nikita Mishra & Akan _ Ruku Suna & Antara Chakrabarty,EXACT,Le Le Baula _ Full Video _ Sambalpuri Song _ Nikita Mishra & Akan _ Ruku Suna & Antara Chakrabarty,Original File Name,1.0,Sambalpuri,[],Shree,HIGH
+Lyrical  Kasa Kay Patil Bara Hay Ka_  Old Marathi Song with Lyrics  Sulochana Chavan,SUBSTRING (Meta in Rec),kasa kay patil bara hay ka,Song Title,0.4727272727272727,Lavani,[],Marva,LOW
+Maadal - Bhalo Kore Bajan Re,EXACT,Maadal - Bhalo Kore Bajan Re,Original File Name,1.0,Dhamail,[],Durga,HIGH
+Maadal - Jhiko Jhiko Krodi Re,EXACT,Maadal - Jhiko Jhiko Krodi Re,Original File Name,1.0,Dhamail,[],Khamaj,HIGH
+Maadal - Tora Lowo Go Jol,EXACT,Maadal - Tora Lowo Go Jol,Original File Name,1.0,Dhamail,[],Bhairavi,HIGH
+Majha Taat Kar Aadhi,EXACT,Majha Taat Kar Aadhi,Original File Name,1.0,Lavani,[],Megh Malhar,HIGH
+Mala London Foreign Dakhwa,EXACT,Mala London Foreign Dakhwa,Original File Name,1.0,Lavani,[],Bhimpalasi,HIGH
+Malkit Singh - Chal Hun (Official Music Video)  Revibe  Hindi Songs,SUBSTRING (Meta in Rec),chal hun,Song Title,0.21333333333333335,Bhangra,[],Pahadi,LOW
+Mame Khan - Chaudhary,EXACT,Mame Khan - Chaudhary,Original File Name,1.0,Maand,[],Sorath,HIGH
+Mantu Chhuria - Aukaat,EXACT,Mantu Chhuria - Aukaat,Original File Name,1.0,Sambalpuri,[],Gujari Todi,HIGH
+Mantu Chhuria - Rasia _ New Sambalpuri song _ Full Music Video _ Mantu Chhuria _ Aseema Panda _ Priyambada Swain,EXACT,Mantu Chhuria - Rasia _ New Sambalpuri song _ Full Music Video _ Mantu Chhuria _ Aseema Panda _ Priyambada Swain,Original File Name,1.0,Sambalpuri,[],Malkauns,HIGH
+Mera Yaar Vajay Dhol,EXACT,Mera Yaar Vajay Dhol,Original File Name,1.0,Bhangra,[],Adana,HIGH
+Mharo Gorband Nakhralo _ Rajasthani Ghoomar Song _ Seema Mishra _ Veena Music,EXACT,Mharo Gorband Nakhralo _ Rajasthani Ghoomar Song _ Seema Mishra _ Veena Music,Original File Name,1.0,Ghoomar,[],Bilaval,HIGH
+Mitran Ne Mundri Te  The Safri Boyz  Balwinder Safri  full video  OSA Official,SUBSTRING (Meta in Rec),mitran ne mundri te,Song Title,0.3917525773195876,Bhangra,[],Shree,LOW
+Moner Jwalai Jwole_মনের জ্বালায় জ্বলে মরি,EXACT,Moner Jwalai Jwole_মনের জ্বালায় জ্বলে মরি,Original File Name,1.0,Dhamail,[],Desh,HIGH
+MONORE PHULONITE _ JAANMONI 2006 _ ASSAMESE MUSIC VIDEO _ ZUBEEN GARG _ BIHU SONG,EXACT,MONORE PHULONITE _ JAANMONI 2006 _ ASSAMESE MUSIC VIDEO _ ZUBEEN GARG _ BIHU SONG,Original File Name,1.0,Bihu,[],Megh Malhar,HIGH
+"Moray Aaj Aaye Saiyan _Allah Jilai Bai, Traditional Dadra _ Indian classical music",EXACT,"Moray Aaj Aaye Saiyan _Allah Jilai Bai, Traditional Dadra _ Indian classical music",Original File Name,1.0,Maand,[],Yaman Kalyan,HIGH
+MOROM LOGAI LOGAI _ JAANMONI 2010 _ ASSAMESE VIDEO SONG _ ZUBEEN GARG _ SHYAMANTIKA SHARMA,EXACT,MOROM LOGAI LOGAI _ JAANMONI 2010 _ ASSAMESE VIDEO SONG _ ZUBEEN GARG _ SHYAMANTIKA SHARMA,Original File Name,1.0,Bihu,[],Bhoopali,HIGH
+MUNDA KI MANGDA,EXACT,MUNDA KI MANGDA,Original File Name,1.0,Bhangra,[],Megh Malhar,HIGH
+Munshi Khan - Daru Dakha Ro,EXACT,Munshi Khan - Daru Dakha Ro,Original File Name,1.0,Maand,[],Pahadi,HIGH
+Munshi Khan - Mahara Sajan Base Pardesh,EXACT,Munshi Khan - Mahara Sajan Base Pardesh,Original File Name,1.0,Maand,[],Adana,HIGH
+Munshi Khan - Padharo Mhare Mehal,EXACT,Munshi Khan - Padharo Mhare Mehal,Original File Name,1.0,Maand,[],Megh Malhar,HIGH
+Munshi Khan - Thane Samjhaye Sakha Sa,EXACT,Munshi Khan - Thane Samjhaye Sakha Sa,Original File Name,1.0,Maand,[],Bilaval,HIGH
+"Na Na Na Na Na Re  Rajkummar Rao, Triptii  Daler Mehndi, Gurdeep M  Vicky Vidya Ka Woh Wala Video",SUBSTRING (Meta in Rec),na na na na na re,Song Title,0.2982456140350877,Bhangra,[],Malkauns,LOW
+"Naav Gaav Kashala Pusta- Sulochana Chavan, Film Rangalya Ratri Ashaa",EXACT,"Naav Gaav Kashala Pusta- Sulochana Chavan, Film Rangalya Ratri Ashaa",Original File Name,1.0,Lavani,[],Yaman or Kalyan,HIGH
+"Nabu Ki Sambalpur _ Official Full Video _ Romyanjali ,Manmay _ Human Sagar , Ira Mohanty _ Odia Song",SUBSTRING (Meta in Rec),nabu ki sambalpur,Song Title,0.2905982905982906,Sambalpuri,[],Bhairavi,LOW
+Nand Lal Bhat - Rajwadi Mehfil,EXACT,Nand Lal Bhat - Rajwadi Mehfil,Original File Name,1.0,Maand,[],Miyan Ki Todi orTodi or Darbari Todi,HIGH
+"Navi Navi Navari Mee  Pushpa Pagdhare, Sulochana Chavan, Jaywant Kulkarni  Gulchhadi  Ultra Music",SUBSTRING (Meta in Rec),navi navi navari mee,Song Title,0.3418803418803419,Lavani,[],Yaman or Kalyan,LOW
+Nawan Le Liya Truck Tere Yaar Ne,EXACT,Nawan Le Liya Truck Tere Yaar Ne,Original File Name,1.0,Bhangra,[],Yaman or Kalyan,HIGH
+New Sambalpuri Song__Tor Lagi Marijimi__Human Sagar__Top Sambalpuri,EXACT,New Sambalpuri Song__Tor Lagi Marijimi__Human Sagar__Top Sambalpuri,Original File Name,1.0,Sambalpuri,[],Megh Malhar,HIGH
+NILA NILA AKHORE _ JAANMONI 2007 _ ASSAMESE MUSIC VIDEO _ GOLDEN COLLECTION OF ZUBEEN GARG _ BIHU,SUBSTRING (Meta in Rec),nila nila akhore,Song Title,0.2831858407079646,Bihu,[],Pahadi,LOW
+Nisitei,EXACT,Nisitei,Original File Name,1.0,Jhumur,[],Durga,HIGH
+Nrittangon Sunamganj,EXACT,Nrittangon Sunamganj,Original File Name,1.0,Dhamail,[],Abhogi,HIGH
+O Dehi Oi,EXACT,O Dehi Oi,Original File Name,1.0,Bihu,[],Megh,HIGH
+O Mor Dhoni Go Karam Ker Ratiya _ New Jhumur Cover Song 2026 _ AK Nagpuri Vibes Official,EXACT,O Mor Dhoni Go Karam Ker Ratiya _ New Jhumur Cover Song 2026 _ AK Nagpuri Vibes Official,Original File Name,1.0,Jhumur,[],Megh Malhar,HIGH
+Ochena Ak Rupoboti_অচেনা এক রূপবতী,EXACT,Ochena Ak Rupoboti_অচেনা এক রূপবতী,Original File Name,1.0,Dhamail,[],Durga,HIGH
+Oi Nahor Fular Botor Zubeen Garg Best Song #zubeengargbestsong #zubeen_garg #assamesesong,EXACT,Oi Nahor Fular Botor Zubeen Garg Best Song #zubeengargbestsong #zubeen_garg #assamesesong,Original File Name,1.0,Bihu,[],Pahadi,HIGH
+Padaravarti Jartaricha Mor  पदरवरत जरतरच  Sulochana Chavan  Old Marathi Song  मरठ गण,UNMATCHED,,,0.0,,[],Malkauns,UNMATCHED
+Panjabi MC feat. Kuldeep Manak - Jodi - Big Day Party (Official Video),EXACT,Panjabi MC feat. Kuldeep Manak - Jodi - Big Day Party (Official Video),Original File Name,1.0,Bhangra,[],Hindol,HIGH
+Pardesia Raja Sambalpuri Song __ Joydev Roul & Romyanjali __ Humane Sagar __ Asima Panda _ #pardesia,SUBSTRING (Meta in Rec),pardesia raja,Song Title,0.23008849557522124,Sambalpuri,[],Bhimpalasi,LOW
+PHOOL PHULISE _ JAANMONI 2005 _ ASSAMESE MUSIC VIDEO _ GOLDEN COLLECTION OF ZUBEEN GARG _ BIHU,EXACT,PHOOL PHULISE _ JAANMONI 2005 _ ASSAMESE MUSIC VIDEO _ GOLDEN COLLECTION OF ZUBEEN GARG _ BIHU,Original File Name,1.0,Bihu,[],suddha kalyan,HIGH
+Podulit Bihu __ Rupankrita Alankrita __ Pritom Nath __ Babon Bornil __ New Assamese Lyrical Video,SUBSTRING (Meta in Rec),podulit bihu,Song Title,0.22018348623853212,Bihu,[],Pahadi,LOW
+Porbator Dhekiya _ Junbai 2 _ Zubeen Garg _ Manas Robin _ Bihu _ Parbator dhe dhekiya _ Evergreen,EXACT,Porbator Dhekiya _ Junbai 2 _ Zubeen Garg _ Manas Robin _ Bihu _ Parbator dhe dhekiya _ Evergreen,Original File Name,1.0,Bihu,[],Durga,HIGH
+Pousali Banerjee - Bolo Go Bolo Go Shokhi,EXACT,Pousali Banerjee - Bolo Go Bolo Go Shokhi,Original File Name,1.0,Dhamail,[],Bahar,HIGH
+Prakash Jal - Bewafa Mita,EXACT,Prakash Jal - Bewafa Mita,Original File Name,1.0,Sambalpuri,[],Ahir Bhairav,HIGH
+Prakash Jal - Bheti Aibu Sajani Kalekale,EXACT,Prakash Jal - Bheti Aibu Sajani Kalekale,Original File Name,1.0,Sambalpuri,[],Barwa,HIGH
+Prem Nadi Tire Tire _ Shaan Tanti _ Jyotika Baruah _ New Jhumair 2021 #trending,EXACT,Prem Nadi Tire Tire _ Shaan Tanti _ Jyotika Baruah _ New Jhumair 2021 #trending,Original File Name,1.0,Jhumur,[],Malkauns,HIGH
+Prem Paga _ Ruku Suna & Sipra _ Official Full Video _ Ruku Suna & Arpita Choudhury _Sambalpuri Video,EXACT,Prem Paga _ Ruku Suna & Sipra _ Official Full Video _ Ruku Suna & Arpita Choudhury _Sambalpuri Video,Original File Name,1.0,Sambalpuri,[],sarang,HIGH
+Putt Jattan De - Surinder Shinda  Aman Hayer (2002),SUBSTRING (Meta in Rec),putt jattan de,Song Title,0.4307692307692308,Bhangra,[],Malkauns,LOW
+Raitila Rajasthan - Kesariya Balam _ Rajasthani Folk Song  _ Raitila _,SUBSTRING (Meta in Rec),kesariya balam,Song Title,0.3333333333333333,Maand,[],Alhaiya Bilaval,LOW
+Ramagaru __ Asima panda & Prakash jal __ Sambalpuri 4k video song,SUBSTRING (Meta in Rec),ramagaru,Song Title,0.2191780821917808,Sambalpuri,[],Malkauns,LOW
+Rangabati Re Rangabati sambalpuri alltime hit song Jitendra Harpal & Krishna Patel,EXACT,Rangabati Re Rangabati sambalpuri alltime hit song Jitendra Harpal & Krishna Patel,Original File Name,1.0,Sambalpuri,[],Yaman or Kalyan,HIGH
+Rasa Mandara Mali Kahanra _ New Sambalpuri Song _ Ruku Suna _ Arpita _ Jayshree _ Kamlesh,EXACT,Rasa Mandara Mali Kahanra _ New Sambalpuri Song _ Ruku Suna _ Arpita _ Jayshree _ Kamlesh,Original File Name,1.0,Sambalpuri,[],Malkauns,HIGH
+Raya Chala Ghodyavarti Basu  रय चल घडयवरत बस  Usha Mangeshkar  Songadya  मरठ गण,SUBSTRING (Meta in Rec),raya chala ghodyavarti basu,Song Title,0.5094339622641509,Lavani,[],Nat Bhairav,AMBIGUOUS
+Raya Mala Pavsat Neu Naka with lyrics  रय मल पवसत नऊ नक  Pushpa Pagdhare  Songadya,SUBSTRING (Meta in Rec),raya mala pavsat neu naka,Song Title,0.4672897196261682,Lavani,[],Kafi,LOW
+Rehana Mirza - The To Piyo Sadarudi,EXACT,Rehana Mirza - The To Piyo Sadarudi,Original File Name,1.0,Maand,[],Kafi,HIGH
+Reshamachya Renghani [Full Marathi Song] Lavani Maharashtrachi- Vol.1,KEYWORD_FALLBACK,lavani,Genre Keyword,0.16,Lavani,[],suddha kalyan,HIGH
+ROHARE OI ROHEDOI _ Manas Robin _ Vitali Das _ Assamese Bihu _ Manas Robinor Bihu _ Bihu 2023,EXACT,ROHARE OI ROHEDOI _ Manas Robin _ Vitali Das _ Assamese Bihu _ Manas Robinor Bihu _ Bihu 2023,Original File Name,1.0,Bihu,[],Megh,HIGH
+Rumal Mharo Leta Jaijo Ji Dilda _ Latest Hit Rajasthani Song _ Seema Mishra _ Veena Music,EXACT,Rumal Mharo Leta Jaijo Ji Dilda _ Latest Hit Rajasthani Song _ Seema Mishra _ Veena Music,Original File Name,1.0,Ghoomar,[],Hemant,HIGH
+Saaman Avjad Majha,EXACT,Saaman Avjad Majha,Original File Name,1.0,Lavani,[],Bilaskhani Todi,HIGH
+Sacha Lover _ Sambalpuri Hit Song _ Humane Sagar & Antara Chakrabarty _ Raaz Rock & Jayshree,EXACT,Sacha Lover _ Sambalpuri Hit Song _ Humane Sagar & Antara Chakrabarty _ Raaz Rock & Jayshree,Original File Name,1.0,Sambalpuri,[],Bhoopali,HIGH
+Sajanigo,EXACT,Sajanigo,Original File Name,1.0,Jhumur,[],Durga,HIGH
+SambalPuri Saiyaan _ Official Studio Version _ Odia Dance Song _ Human Sagar _ Asima Panda,SUBSTRING (Meta in Rec),sambalpuri saiyaan,Song Title,0.3333333333333333,Sambalpuri,[],Malkauns,LOW
+SANGOR SIRA PITHA _ CHINAKI GEET _ ASSAMESE LYRICAL VIDEO SONG _ BHUPEN HAZARIKA _ BIHU SONG,EXACT,SANGOR SIRA PITHA _ CHINAKI GEET _ ASSAMESE LYRICAL VIDEO SONG _ BHUPEN HAZARIKA _ BIHU SONG,Original File Name,1.0,Bihu,[],Megh,HIGH
+Sanu Tedi Tedi Takdi Tu (Lyrical)  Surjit Bindrakhia  Atul Sharma  Punjabi Hits,SUBSTRING (Meta in Rec),sanu tedi tedi takdi tu,Song Title,0.45098039215686275,Bhangra,[],Malkauns,LOW
+Sariyan Toon Sohni - The Safri Boyz - Balwinder Safri - Best Song  official HD  OSA Worldwide,SUBSTRING (Meta in Rec),sariyan toon sohni,Song Title,0.32432432432432434,Bhangra,[],sarang,LOW
+Seema Mishra & Gaurav Jain - Chaumaso,EXACT,Seema Mishra & Gaurav Jain - Chaumaso,Original File Name,1.0,Ghoomar,[],Malkauns,HIGH
+Seema Mishra & Rakesh Kala - Moriya Achho Bolyo Re,EXACT,Seema Mishra & Rakesh Kala - Moriya Achho Bolyo Re,Original File Name,1.0,Ghoomar,[],Durga,HIGH
+Seema Mishra - Anndata Leta Ajyoji Ghumer Dar Lanjo,EXACT,Seema Mishra - Anndata Leta Ajyoji Ghumer Dar Lanjo,Original File Name,1.0,Ghoomar,[],Kafi,HIGH
+Seema Mishra - Banna Re Bagan Main Jhula Ghalya,EXACT,Seema Mishra - Banna Re Bagan Main Jhula Ghalya,Original File Name,1.0,Ghoomar,[],Megh Malhar,HIGH
+Seema Mishra - Chirmi,EXACT,Seema Mishra - Chirmi,Original File Name,1.0,Ghoomar,[],sarang,HIGH
+Seema Mishra - Dal Badal Beech Chamke Ji Tara,EXACT,Seema Mishra - Dal Badal Beech Chamke Ji Tara,Original File Name,1.0,Ghoomar,[],Barwa,HIGH
+Seema Mishra - Dheere Chhal Re Panihari,EXACT,Seema Mishra - Dheere Chhal Re Panihari,Original File Name,1.0,Ghoomar,[],Kedar,HIGH
+Seema Mishra - Gangaur,EXACT,Seema Mishra - Gangaur,Original File Name,1.0,Ghoomar,[],Nat Bhairav,HIGH
+Seema Mishra - Ghoomar,EXACT,Seema Mishra - Ghoomar,Original File Name,1.0,Ghoomar,[],Darbari,HIGH
+Seema Mishra - Hichki,EXACT,Seema Mishra - Hichki,Original File Name,1.0,Ghoomar,[],Malkauns,HIGH
+Seema Mishra - Hivde Ro Haar,EXACT,Seema Mishra - Hivde Ro Haar,Original File Name,1.0,Ghoomar,[],suddha kalyan,HIGH
+Seema Mishra - Jeero,EXACT,Seema Mishra - Jeero,Original File Name,1.0,Ghoomar,[],sarang,HIGH
+Seema Mishra - Kangasiyo,EXACT,Seema Mishra - Kangasiyo,Original File Name,1.0,Ghoomar,[],Pahadi,HIGH
+Seema Mishra - Kesariya Ro Pag,EXACT,Seema Mishra - Kesariya Ro Pag,Original File Name,1.0,Ghoomar,[],Desh,HIGH
+Seema Mishra - Lehariyo,EXACT,Seema Mishra - Lehariyo,Original File Name,1.0,Ghoomar,[],Bhoopali,HIGH
+Seema Mishra - Loongan Ro Batwo,EXACT,Seema Mishra - Loongan Ro Batwo,Original File Name,1.0,Ghoomar,[],suddha kalyan,HIGH
+Seema Mishra - More Bole Re,EXACT,Seema Mishra - More Bole Re,Original File Name,1.0,Ghoomar,[],Abhogi,HIGH
+Seema Mishra - Panihari (Original Song) _  Rajasthani Folk Song _ Seema Mishra _ Veena Music,UNMATCHED,,,0.0,,[],Malkauns,UNMATCHED
+Seema Mishra - Podina,EXACT,Seema Mishra - Podina,Original File Name,1.0,Ghoomar,[],Deepak,HIGH
+Seema Mishra - Run Jhun Baje Ghooghara,EXACT,Seema Mishra - Run Jhun Baje Ghooghara,Original File Name,1.0,Ghoomar,[],Durga,HIGH
+Seema Mishra - Samdariyo Lahra Leve Sa,EXACT,Seema Mishra - Samdariyo Lahra Leve Sa,Original File Name,1.0,Ghoomar,[],Yaman or Kalyan,HIGH
+Senai O Tumake Bisari,EXACT,Senai O Tumake Bisari,Original File Name,1.0,Bihu,[],Marva,HIGH
+Shumogo Shumogo Sakhi_শুনোগো শুনোগো সখি,EXACT,Shumogo Shumogo Sakhi_শুনোগো শুনোগো সখি,Original File Name,1.0,Dhamail,[],Pahadi,HIGH
+Shyamare Ekhon Aar_শ্যামরে এখন আর কাদিও না,EXACT,Shyamare Ekhon Aar_শ্যামরে এখন আর কাদিও না,Original File Name,1.0,Dhamail,[],Bhairav Bahar,HIGH
+Soho Road Utey,EXACT,Soho Road Utey,Original File Name,1.0,Bhangra,[],Megh Malhar,HIGH
+Sol Sokhi,EXACT,Sol Sokhi,Original File Name,1.0,Jhumur,[],Megh,HIGH
+Sola Hazarat,EXACT,Sola Hazarat,Original File Name,1.0,Lavani,[],Malkauns,HIGH
+SONAMONI 2 __ AMRIT TANTI __ JYOTIKA BARUAH __ BIKROM CHAWROK __ JHUMUR SONG 2024,SUBSTRING (Meta in Rec),sonamoni,Song Title,0.1797752808988764,Jhumur,[],Bhairavi,LOW
+Sucha Soorma - (Balbiro Bhabhi) - Surinder Shinda,EXACT,Sucha Soorma - (Balbiro Bhabhi) - Surinder Shinda,Original File Name,1.0,Bhangra,[],Darbari,HIGH
+Sundri Janha _ New Sambalpuri Song _ Humane Sagar & Swagatika _ Jayshree & Snehashis _ Kamalesh _,EXACT,Sundri Janha _ New Sambalpuri Song _ Humane Sagar & Swagatika _ Jayshree & Snehashis _ Kamalesh _,Original File Name,1.0,Sambalpuri,[],Malhar,HIGH
+Surinder Shinda  Jeona Morh  Audio Part 1  Old Punjabi Tunes,SUBSTRING (Meta in Rec),jeona morh,Song Title,0.2857142857142857,Bhangra,[],Bilaskhani Todi,LOW
+Surinder Shinda _ Jeona Morh _ Audio Part 1 _ Old Punjabi Tunes,SUBSTRING (Meta in Rec),jeona morh,Song Title,0.273972602739726,Bhangra,[],Bilaskhani Todi,LOW
+Surjit Bindrakhia - Tera Yaar Bolda [Full Song] Surjit Bindrakhia _ Phulkari (feat. The Speacialist),EXACT,Surjit Bindrakhia - Tera Yaar Bolda [Full Song] Surjit Bindrakhia _ Phulkari (feat. The Speacialist),Original File Name,1.0,Bhangra,[],Megh,HIGH
+Swaroop Khan - BALAM,EXACT,Swaroop Khan - BALAM,Original File Name,1.0,Maand,[],Yaman Kalyan,HIGH
+Swaroop Khan Sura - Kuraja Mahra Bhanvr Manae Lav,EXACT,Swaroop Khan Sura - Kuraja Mahra Bhanvr Manae Lav,Original File Name,1.0,Maand,[],suddha kalyan,HIGH
+Taniya Resham Ki  _ तनिया  रेशम की _ Banarasi Babu _ JMD Rajasthani __ Marwadi Geet__Rajwadi Geet,SUBSTRING (Meta in Rec),taniya resham ki,Song Title,0.2831858407079646,Maand,[],Kedar,LOW
+The Jhumur Song,EXACT,The Jhumur Song,Original File Name,1.0,Jhumur,[],Bhatiyar,HIGH
+THEMBA THEMBAN KELAY MALA GAAR  BAYA CHALALI ZHOKAAT - MARATHI DJ MIX  LYRICAL VIDEO,UNMATCHED,,,0.0,,[],Desh,UNMATCHED
+Tohe Gori Nawa Nari _ Jhumur Songs _ Assam,SUBSTRING (Meta in Rec),tohe gori nawa,Song Title,0.5,Jhumur,[],Pahadi,AMBIGUOUS
+TOI NAGINI _ JAANMONI 2010 _ ASSAMESE VIDEO SONG _ ZUBEEN GARG _ SHYAMANTIKA SHARMA,EXACT,TOI NAGINI _ JAANMONI 2010 _ ASSAMESE VIDEO SONG _ ZUBEEN GARG _ SHYAMANTIKA SHARMA,Original File Name,1.0,Bihu,[],suddha kalyan,HIGH
+Tok Dekhi Mor Gaa _ Abhishruti Bezbaruah _ New Assamese Bihu Song _ Official HD Video,EXACT,Tok Dekhi Mor Gaa _ Abhishruti Bezbaruah _ New Assamese Bihu Song _ Official HD Video,Original File Name,1.0,Bihu,[],Malkauns,HIGH
+Tore Bina New  Modern Jhumar  Song 2022 Assam __ Bejnath Tanti & Sujata Kartik,SUBSTRING (Meta in Rec),tore bina,Song Title,0.20689655172413793,Jhumur,[],Pahadi,LOW
+Tui Bewafa Asima Panda & Amar Dash __ Sambalpuri Song,SUBSTRING (Meta in Rec),tui bewafa,Song Title,0.31746031746031744,Sambalpuri,[],Megh Malhar,LOW
+"Tujha Usala Lagal Kolha , Sulochana Chavan (1)",EXACT,"Tujha Usala Lagal Kolha , Sulochana Chavan (1)",Original File Name,1.0,Lavani,[],Bhairav,HIGH
+TUMAKE LOGOT _ JAANMONI 2010 _ ASSAMESE VIDEO SONG _ ZUBEEN GARG _ SHYAMANTIKA SHARMA,EXACT,TUMAKE LOGOT _ JAANMONI 2010 _ ASSAMESE VIDEO SONG _ ZUBEEN GARG _ SHYAMANTIKA SHARMA,Original File Name,1.0,Bihu,[],Malkauns,HIGH
+Tunak Tunak Tun Video _ Daler Mehndi _ Full Song _ Daler Mehndi Music,EXACT,Tunak Tunak Tun Video _ Daler Mehndi _ Full Song _ Daler Mehndi Music,Original File Name,1.0,Bhangra,[],Desh,HIGH
+"Tutak Tutak Tutiya Title Song  Full Video   Malkit Singh, Kanika Kapoor, Sonu Sood",SUBSTRING (Meta in Rec),tutak tutak tutiya,Song Title,0.36,Bhangra,[],Desi,LOW
+Tute Bajudan Ri Loom _ Rajasthani Ghoomar Song _ Ghoomar Dance Song _ Seema Mishra _ Veena Music,EXACT,Tute Bajudan Ri Loom _ Rajasthani Ghoomar Song _ Ghoomar Dance Song _ Seema Mishra _ Veena Music,Original File Name,1.0,Ghoomar,[],Megh,HIGH
+Ugavali Shukrachi Chandani  De Dhakka  Full Song  Aarati Ankalikar  Gauri Vaidya,UNMATCHED,,,0.0,,[],Bhairav,UNMATCHED
+Umakant Barik - Feel My Love,EXACT,Umakant Barik - Feel My Love,Original File Name,1.0,Sambalpuri,[],Desi,HIGH
+Usha Mangeshkar - Pikala Jambhul Todu Naka,EXACT,Usha Mangeshkar - Pikala Jambhul Todu Naka,Original File Name,1.0,Lavani,[],Darbari,HIGH
+Ustad Mame Khan _ Raag Maand _ Soulful Rajasthani Folk Performance,EXACT,Ustad Mame Khan _ Raag Maand _ Soulful Rajasthani Folk Performance,Original File Name,1.0,Maand,[],Bageshree,HIGH
+Ustad Mame Khan _ Rajasthani Folk Songs & Raag Maand Bandish,EXACT,Ustad Mame Khan _ Rajasthani Folk Songs & Raag Maand Bandish,Original File Name,1.0,Maand,[],Bhairav Bahar,HIGH
+Various Artist - Petore Juruni Bhat,EXACT,Various Artist - Petore Juruni Bhat,Original File Name,1.0,Bihu,[],Deepak,HIGH
+Wajle Ki Bara  Natarang  Amruta Khanvilkar  Ajay-Atul  Lavani Songs,SUBSTRING (Meta in Rec),wajle ki bara,Song Title,0.325,Lavani,[],Kedar,LOW
+WANG WARGI KUDI (Full Video)  SURJIT BINDRAKHIA  Evergreen Punjabi Songs  T-Series,SUBSTRING (Meta in Rec),wang wargi kudi,Song Title,0.30927835051546393,Bhangra,[],Pahadi,LOW
+XUNJONI NUXUDIBA _ JAANMONI 2005 _ ASSAMESE MUSIC VIDEO _ GOLDEN COLLECTION OF ZUBEEN GARG,EXACT,XUNJONI NUXUDIBA _ JAANMONI 2005 _ ASSAMESE MUSIC VIDEO _ GOLDEN COLLECTION OF ZUBEEN GARG,Original File Name,1.0,Bihu,[],suddha kalyan,HIGH
+"Zubeen Garg, Zubeen Garg, Zubeen Garg - Tumi Nasoni __ Assamese Old Bihu Song, Zubeen Garg And Shanta Uzir __",EXACT,"Zubeen Garg, Zubeen Garg, Zubeen Garg - Tumi Nasoni __ Assamese Old Bihu Song, Zubeen Garg And Shanta Uzir __",Original File Name,1.0,Bihu,[],suddha kalyan,HIGH
+आलीजा ढोला एकलड़ी  _मांड_ Jamila & Kulsum Bai,UNMATCHED,,,0.0,,[],Pahadi,UNMATCHED
+कुर्जा म्हारी भंवर मिलादे __ राजस्थानी सोंग __ Kurja Mhari Bhanwar Milade __ गायक सिकंदर खान बारू,SUBSTRING (Meta in Rec),kurja mhari bhanwar milade,Song Title,0.42276422764227645,Maand,[],suddha kalyan,LOW
+केसरिया बालम पधारो म्हारे देश __ KESARIYA BALAM __ भूंगर खान,SUBSTRING (Meta in Rec),kesariya balam,Song Title,0.3783783783783784,Maand,[],Alhaiya Bilaval,LOW
+घूमर __ पद्म श्री अल्लाह जिलाई बाई __ ALLAH JILAI BAI __ GHOOMAR,SUBSTRING (Meta in Rec),ghoomar,Song Title,0.19718309859154928,Ghoomar,[],Megh,LOW
+छबदर छबदर  Pinjra  Sandhya  Super Hit Marathi Movie Song  SuperHit Marathi Movie Song,UNMATCHED,,,0.0,,[],Marva,UNMATCHED
+तारां री चूनड़ी _ Taran Ri Chundari _ Rajasthani Ghoomar Song _ Baisa Ra Beera Jaipur Jaijo Ji,SUBSTRING (Meta in Rec),ghoomar,Song Title,0.14,Ghoomar,[],Deepak,LOW
+दारूड़े रो रोग लागियो __ New Mehfil Song __ Darude Ro Rog Lagiyo __ गायक सिकंदर खान बारू,SUBSTRING (Meta in Rec),darude ro rog lagiyo,Song Title,0.37383177570093457,Maand,[],suddha kalyan,LOW
+नक डळ छन Naki Doli Chhaan Song  रम रम गगरम Ram Ram Gangaram  दद कडक Dada Kondke,SUBSTRING (Meta in Rec),naki doli chhaan,Song Title,0.3368421052631579,Lavani,[],Nat Bhairav,LOW
+बई मझ करगळ मडल  Bai Mazi Karangali Modali  Asha Bhosle  Marathi Lavani  मरठ गण,SUBSTRING (Meta in Rec),bai mazi karangali modali,Song Title,0.4854368932038835,Lavani,[],Durga,LOW
+मोहे आई ना जग की लाज _ खेताखान फकीरा खान जुगल्बन्धी _ Kheta Fakira _ Fakira Khan Bhadresh _ newsong,UNMATCHED,,,0.0,,[],Bhairav Bahar,UNMATCHED
+म्हारी सजनी ऐ आज तो बादिला घर आसी !! Rajasthani रज़वाड़ी Mand !! Singer- Nandlal Bhat !! लाईव ननावद,UNMATCHED,,,0.0,,[],Bhoopali,UNMATCHED
+रनमध एकटच डलतय नग (लवण)  Raanamandi Ekatach Dultoy  Lavani Song  Sharyat  Bhargavi,KEYWORD_FALLBACK,lavani,Genre Keyword,0.13636363636363635,Lavani,[],Bhairav Bahar,HIGH
+रय मल छतश कवळन धर (लवण)- सरख पणकर RAYA MALA CHHATISHI KAVLUN DHARA -SUREKHA PUNEKAR,EXACT,रय मल छतश कवळन धर (लवण)- सरख पणकर RAYA MALA CHHATISHI KAVLUN DHARA -SUREKHA PUNEKAR,Original File Name,1.0,Lavani,[],Desh,HIGH
+राजपुती सोंग _ कलाली _ Kalali New Song _ Rajasthani New Song _ लतीफ खांन _ Marwadi Geet,SUBSTRING (Meta in Rec),kalali,Song Title,0.12903225806451613,Maand,[],Abhogi,LOW
+राजस्थानी ओल्ड मांड लोकगीत। जूरी -थारे  ना मारे राड  ।स्वर -जमीला बाई &कुलसुम बाई। Audio,UNMATCHED,,,0.0,,[],Desh,UNMATCHED
+"राजस्थानी मांड ओल्ड लोकगीत _ Mumal _ Jameela Bai, Kulsum Bai _ मूमल _ Rajasthani Mp3 Song _ Marwadi",EXACT,"राजस्थानी मांड ओल्ड लोकगीत _ Mumal _ Jameela Bai, Kulsum Bai _ मूमल _ Rajasthani Mp3 Song _ Marwadi",Original File Name,1.0,Maand,[],Khamaj,HIGH
+लवण - झपर मझ ढल  LAAVNI - JHAMPAR MAJHA DHILA  LOK LAAVNI (Marathi) BY SUREKHA PUNEKAR,UNMATCHED,,,0.0,,[],Darbari,UNMATCHED
+"सळव वरस धकयच  Solava Varis Dhokyacha  Lavani  Sulochana C Jayshree Gadkar, Arun Sarnaik",SUBSTRING (Meta in Rec),solava varis dhokyacha,Song Title,0.4036697247706422,Lavani,[],Alhaiya Bilaval,LOW
+ঝাটকা _Jhatka _ New Jhumur Folk Song 2025 _ Amrit Tanti & Jyotti Karmakar _ JHUMOR Video Song 2025,EXACT,ঝাটকা _Jhatka _ New Jhumur Folk Song 2025 _ Amrit Tanti & Jyotti Karmakar _ JHUMOR Video Song 2025,Original File Name,1.0,Jhumur,[],Bhimpalasi,HIGH
+ব'হাগ আহিল বুলি __ Bohag Ahil Buli __ শান্তা উজীৰ __ Shanta Uzir,SUBSTRING (Meta in Rec),bohag ahil buli,Song Title,0.379746835443038,Bihu,[],Malhar,LOW
+মই তো যাবো কাম জাৰি _ Moi to Jabo Kam Jari _ Zubeen Garg Jhumur Song,EXACT,মই তো যাবো কাম জাৰি _ Moi to Jabo Kam Jari _ Zubeen Garg Jhumur Song,Original File Name,1.0,Jhumur,[],Megh Malhar,HIGH
+ଲାଲ୍ ଶାଢ଼ୀ _ Lal Sadhi _ Full Video Song _ Humane Sagar _ Pradeep _ Richa Sharma _ Sambalpuri Song,SUBSTRING (Meta in Rec),lal sadhi,Song Title,0.16822429906542055,Sambalpuri,[],Khamaj,LOW

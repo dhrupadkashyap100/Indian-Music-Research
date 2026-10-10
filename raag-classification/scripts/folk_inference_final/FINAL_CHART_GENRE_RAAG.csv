@@ -1,0 +1,198 @@
+folk_genre,predicted_raag_top1,Count
+Baul,Bhairavi,3
+Baul,Alhaiya Bilaval,2
+Baul,Bhimpalasi,2
+Baul,Desh,2
+Baul,Desi,2
+Baul,Kafi,2
+Baul,Komal Rishabh Asavari,2
+Baul,Pahadi,2
+Baul,Bageshree,1
+Baul,Bhairav Bahar,1
+Baul,Bilaskhani Todi,1
+Baul,Bilaval,1
+Baul,Darbari,1
+Baul,Durga,1
+Baul,Jaunpuri,1
+Baul,Malkauns,1
+Baul,Megh Malhar,1
+Baul,Poorvi,1
+Baul,Sohni,1
+Baul,Yaman or Kalyan,1
+Baul,suddha kalyan,1
+Bhangra,Malkauns,4
+Bhangra,sarang,4
+Bhangra,Bilaskhani Todi,3
+Bhangra,Pahadi,3
+Bhangra,Desi,2
+Bhangra,Megh,2
+Bhangra,Megh Malhar,2
+Bhangra,Adana,1
+Bhangra,Basant,1
+Bhangra,Bhairavi,1
+Bhangra,Bhatiyar,1
+Bhangra,Darbari,1
+Bhangra,Deepak,1
+Bhangra,Desh,1
+Bhangra,Durga,1
+Bhangra,Gujari Todi,1
+Bhangra,Hindol,1
+Bhangra,Shree,1
+Bhangra,Yaman or Kalyan,1
+Bihu,Megh,7
+Bihu,Malkauns,5
+Bihu,suddha kalyan,4
+Bihu,Marva,3
+Bihu,Pahadi,3
+Bihu,Bhimpalasi,2
+Bihu,Bhoopali,2
+Bihu,Bahar,1
+Bihu,Bhairav Bahar,1
+Bihu,Bhairavi,1
+Bihu,Bhupal Todi,1
+Bihu,Deepak,1
+Bihu,Desi,1
+Bihu,Durga,1
+Bihu,Hemant,1
+Bihu,Malhar,1
+Bihu,Megh Malhar,1
+Bihu,Puriya,1
+Dhamail,Pahadi,4
+Dhamail,Khamaj,3
+Dhamail,Bageshree,2
+Dhamail,Bhairav Bahar,2
+Dhamail,Desh,2
+Dhamail,Durga,2
+Dhamail,Malkauns,2
+Dhamail,Abhogi,1
+Dhamail,Bahar,1
+Dhamail,Barwa,1
+Dhamail,Bhairavi,1
+Dhamail,Bhimpalasi,1
+Dhamail,Bilaskhani Todi,1
+Dhamail,Bilaval,1
+Dhamail,Deepak,1
+Dhamail,Desi,1
+Dhamail,Miyan Ki Todi orTodi or Darbari Todi,1
+Dhamail,Rageshree,1
+Dhamail,Yaman or Kalyan,1
+Dhamail,suddha kalyan,1
+Garba,Malkauns,5
+Garba,Megh Malhar,4
+Garba,Megh,3
+Garba,Durga,2
+Garba,Adana,1
+Garba,Ahir Bhairav,1
+Garba,Barwa,1
+Garba,Bhairav Bahar,1
+Garba,Bhairavi,1
+Garba,Bhoopali,1
+Garba,Darbari,1
+Garba,Jaunpuri,1
+Garba,Kedar,1
+Garba,Khamaj,1
+Garba,Komal Rishabh Asavari,1
+Garba,Marva,1
+Garba,Pahadi,1
+Garba,Poorvi,1
+Garba,Puriya,1
+Garba,sarang,1
+Garba,suddha kalyan,1
+Ghoomar,suddha kalyan,4
+Ghoomar,Malkauns,3
+Ghoomar,Pahadi,3
+Ghoomar,Deepak,2
+Ghoomar,Durga,2
+Ghoomar,sarang,2
+Ghoomar,Abhogi,1
+Ghoomar,Barwa,1
+Ghoomar,Bhoopali,1
+Ghoomar,Bilaskhani Todi,1
+Ghoomar,Bilaval,1
+Ghoomar,Darbari,1
+Ghoomar,Desh,1
+Ghoomar,Hemant,1
+Ghoomar,Kafi,1
+Ghoomar,Kedar,1
+Ghoomar,Megh,1
+Ghoomar,Megh Malhar,1
+Ghoomar,Nat Bhairav,1
+Ghoomar,Yaman or Kalyan,1
+Jhumur,Durga,10
+Jhumur,Megh Malhar,4
+Jhumur,Malkauns,3
+Jhumur,Megh,2
+Jhumur,Pahadi,2
+Jhumur,Bhairavi,1
+Jhumur,Bhatiyar,1
+Jhumur,Bhimpalasi,1
+Jhumur,Desi,1
+Jhumur,Kedar,1
+Jhumur,Khamaj,1
+Jhumur,Shree,1
+Jhumur,Sorath,1
+Jhumur,sarang,1
+Lavani,Darbari,3
+Lavani,Marva,3
+Lavani,Yaman or Kalyan,3
+Lavani,Bhairav,2
+Lavani,Desh,2
+Lavani,Kafi,2
+Lavani,Malkauns,2
+Lavani,Megh Malhar,2
+Lavani,Nat Bhairav,2
+Lavani,Adana,1
+Lavani,Alhaiya Bilaval,1
+Lavani,Bahar,1
+Lavani,Basant,1
+Lavani,Bhairav Bahar,1
+Lavani,Bhimpalasi,1
+Lavani,Bilaskhani Todi,1
+Lavani,Desi,1
+Lavani,Durga,1
+Lavani,Kedar,1
+Lavani,Malhar,1
+Lavani,Ramkali,1
+Lavani,Sorath,1
+Lavani,suddha kalyan,1
+Maand,suddha kalyan,4
+Maand,Alhaiya Bilaval,3
+Maand,Khamaj,3
+Maand,Bageshree,2
+Maand,Bhairav Bahar,2
+Maand,Bihag,2
+Maand,Bilaval,2
+Maand,Kafi,2
+Maand,Megh Malhar,2
+Maand,Pahadi,2
+Maand,Yaman Kalyan,2
+Maand,Abhogi,1
+Maand,Adana,1
+Maand,Bhimpalasi,1
+Maand,Bhoopali,1
+Maand,Desh,1
+Maand,Desi,1
+Maand,Gujari Todi,1
+Maand,Jaunpuri,1
+Maand,Kedar,1
+Maand,Megh,1
+Maand,Miyan Ki Todi orTodi or Darbari Todi,1
+Maand,Sorath,1
+Maand,sarang,1
+Sambalpuri,Malkauns,5
+Sambalpuri,Megh Malhar,4
+Sambalpuri,Bhairavi,3
+Sambalpuri,Darbari,3
+Sambalpuri,Desi,2
+Sambalpuri,Gujari Todi,2
+Sambalpuri,Pahadi,2
+Sambalpuri,Shree,2
+Sambalpuri,sarang,2
+Sambalpuri,Adana,1
+Sambalpuri,Ahir Bhairav,1
+Sambalpuri,Barwa,1
+Sambalpuri,Bhimpalasi,1
+Sambalpuri,Bhoopali,1
+Sambalpuri,Khamaj,1
+Sambalpuri,Malhar,1
+Sambalpuri,Yaman or Kalyan,1

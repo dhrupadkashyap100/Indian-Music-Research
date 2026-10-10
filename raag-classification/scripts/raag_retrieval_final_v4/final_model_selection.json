@@ -1,0 +1,15 @@
+{
+    "STATUS": "V4 NON-NEURAL OPTIMIZATION REJECTED",
+    "BEST_MODEL": "EXISTING 43.10% CONTROL MODEL",
+    "REASON": "No V4 candidate (prototypes, K-Means clustering, reference aggregation, normalizations, or sequence penalties) provided a meaningful improvement on TRF Validation over the control model. The control's simple query-wise Z-score MAX similarity geometry generalizes best.",
+    "FROZEN_ARCHITECTURE": {
+        "features": {
+            "Transition_Matrix": 0.75,
+            "Pitch_Class": 0.20,
+            "N3_Trigrams": 0.05
+        },
+        "temporal_aggregation": "Top-50% most confident sequences",
+        "reference_aggregation": "MAX similarity against TRF TRAIN",
+        "score_normalization": "Query-wise Z-score normalization"
+    }
+}

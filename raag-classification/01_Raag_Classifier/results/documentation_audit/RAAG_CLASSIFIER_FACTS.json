@@ -1,0 +1,87 @@
+{
+    "project": "Analyzing the Raag Origins of Indian Traditional Folk Music",
+    "datasets": [
+        "TRF",
+        "SARAGA",
+        "Folk Music"
+    ],
+    "classical_dataset": {
+        "name": "TRF (Thaat and Raga Forest)",
+        "classes": 61,
+        "sequences": 13931,
+        "role": "Geometric Anchor Space"
+    },
+    "saraga_dataset": {
+        "instances": 53,
+        "role": "Independent Test Domain"
+    },
+    "folk_dataset": {
+        "target_files": 328,
+        "processed_files": 327,
+        "genres": 10
+    },
+    "preprocessing": {
+        "sampling_rate": 24000,
+        "channels": "Mono",
+        "window_seconds": 5,
+        "window_samples": 120000,
+        "overlap": "None (Contiguous chunking)"
+    },
+    "features": {
+        "model": "ntua-slp/CultureMERT-95M",
+        "status": "Frozen (requires_grad=False)",
+        "extraction": ".last_hidden_state.mean(dim=1)",
+        "dimensionality": 768,
+        "temporal_pooling": "60-second mean pooling (12 x 5s windows)",
+        "normalization": "L2 Vector Normalization"
+    },
+    "models": {
+        "final_model": "Zero-Shot Geometric Retrieval",
+        "retrieval_mechanism": "Class-wise Maximum Cosine Similarity",
+        "classical_baselines": [
+            "SVM",
+            "ExtraTrees"
+        ],
+        "hybrid": [
+            "Temporal BiLSTM"
+        ]
+    },
+    "experiments": {
+        "classical_results": {
+            "CultureMERT": {
+                "Val_Top1": 39.23,
+                "Val_Top3": 58.37,
+                "SARAGA_Top1": 56.60,
+                "SARAGA_Top3": 84.91
+            },
+            "SVM_C10_scale": {
+                "Val_Top1": 36.36,
+                "SARAGA_Top1": 50.94
+            },
+            "ExtraTrees": {
+                "Val_Top1": 28.23,
+                "SARAGA_Top1": 37.74,
+                "Train_Acc": 99.6
+            }
+        }
+    },
+    "folk_inference": {
+        "top1_predictions": {
+            "Malkauns": 30,
+            "Pahadi": 22,
+            "Megh Malhar": 21,
+            "Durga": 20,
+            "Megh": 16
+        },
+        "confidence_tiers": {
+            "AMBIGUOUS": 283,
+            "MODERATE": 38,
+            "HIGH": 6
+        }
+    },
+    "limitations": [
+        "Implicit singer-identity overlap between datasets remains undocumented.",
+        "Confidence tiers are heuristic margin categories, not softmax probabilities.",
+        "No ground-truth human annotations exist for the Folk Raag associations."
+    ]
+}

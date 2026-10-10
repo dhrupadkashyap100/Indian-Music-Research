@@ -1,0 +1,11 @@
+{
+    "total_recordings_processed": 1103,
+    "total_recordings_failed": 0,
+    "total_raags": 61,
+    "total_thaats": 10,
+    "total_audio_duration_hours": 241.07682784883627,
+    "total_5s_windows": 173050,
+    "total_30s_sequences": 28361,
+    "total_60s_sequences": 13931,
+    "integrity_passed": true
+}

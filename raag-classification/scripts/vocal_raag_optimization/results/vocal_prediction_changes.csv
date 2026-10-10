@@ -1,0 +1,216 @@
+Recording,GroundTruth,Original_Pred,Vocal_Pred,Change_Type
+Asavari (thaat)_Adana_1.mp3,Adana,Bilaval,Desi,Unchanged Incorrect
+Asavari (thaat)_Adana_19.mp3,Adana,Asavari,Rageshree,Unchanged Incorrect
+Asavari (thaat)_Adana_20.mp3,Adana,Adana,Bhoopali,Correct -> Wrong
+Asavari (thaat)_Adana_7.mp3,Adana,Adana,Deepak,Correct -> Wrong
+Asavari (thaat)_Adana_8.mp3,Adana,Barwa,Barwa,Unchanged Incorrect
+Asavari (thaat)_Asavari_0.mp3,Asavari,Rageshree,Rageshree,Unchanged Incorrect
+Asavari (thaat)_Asavari_8.mp3,Asavari,Asavari,Rageshree,Correct -> Wrong
+Asavari (thaat)_Asavari_asavari03.wav,Asavari,Asavari,Asavari,Unchanged Correct
+Asavari (thaat)_Asavari_asavari25.wav,Asavari,Asavari,Asavari,Unchanged Correct
+Asavari (thaat)_Asavari_asavari3.wav,Asavari,Asavari,Komal Rishabh Asavari,Correct -> Wrong
+Asavari (thaat)_Asavari_asavari30.wav,Asavari,Asavari,Asavari,Unchanged Correct
+Asavari (thaat)_Darbari_12.mp3,Darbari,sarang,Komal Rishabh Asavari,Unchanged Incorrect
+Asavari (thaat)_Darbari_2.mp3,Darbari,Puriya,Ramkali,Unchanged Incorrect
+Asavari (thaat)_Darbari_5.mp3,Darbari,Asavari,Desh,Unchanged Incorrect
+Asavari (thaat)_Darbari_DKanada04.wav,Darbari,Darbari,Bhairavi,Correct -> Wrong
+Asavari (thaat)_Darbari_darbari5.wav,Darbari,Darbari,Rageshree,Correct -> Wrong
+Asavari (thaat)_Desi_6.mp3,Desi,sarang,Komal Rishabh Asavari,Unchanged Incorrect
+Asavari (thaat)_Desi_8.mp3,Desi,Lalit,Bhatiyar,Unchanged Incorrect
+Asavari (thaat)_Jaunpuri_0.mp3,Jaunpuri,Desh,Khamaj,Unchanged Incorrect
+Asavari (thaat)_Jaunpuri_13.mp3,Jaunpuri,Barwa,Desi,Unchanged Incorrect
+Asavari (thaat)_Jaunpuri_8.mp3,Jaunpuri,Bhoopali,Multani,Unchanged Incorrect
+Bhairav (thaat)_Ahir Bhairav_0.mp3,Ahir Bhairav,Basant Mukhari,Komal Rishabh Asavari,Unchanged Incorrect
+Bhairav (thaat)_Ahir Bhairav_2.mp3,Ahir Bhairav,Adana,Miyan Ki Todi orTodi or Darbari Todi,Unchanged Incorrect
+Bhairav (thaat)_Ahir Bhairav_5.mp3,Ahir Bhairav,Gujari Todi,sarang,Unchanged Incorrect
+Bhairav (thaat)_Basant Mukhari_6.mp3,Basant Mukhari,Pahadi,Miyan Ki Todi orTodi or Darbari Todi,Unchanged Incorrect
+Bhairav (thaat)_Basant Mukhari_8.mp3,Basant Mukhari,Purba,Multani,Unchanged Incorrect
+Bhairav (thaat)_Bhairav Bahar_2.mp3,Bhairav Bahar,Yaman Kalyan,Komal Rishabh Asavari,Unchanged Incorrect
+Bhairav (thaat)_Bhairav Bahar_7.mp3,Bhairav Bahar,Bilaval,Poorvi,Unchanged Incorrect
+Bhairav (thaat)_Bhairav Bahar_8.mp3,Bhairav Bahar,Bhairav,Deepak,Unchanged Incorrect
+Bhairav (thaat)_Bhairav_0.mp3,Bhairav,Bilaval,Miyan Ki Todi orTodi or Darbari Todi,Unchanged Incorrect
+Bhairav (thaat)_Bhairav_13.mp3,Bhairav,Bhairav,Deepak,Correct -> Wrong
+Bhairav (thaat)_Bhairav_8.mp3,Bhairav,Nat Bhairav,Komal Rishabh Asavari,Unchanged Incorrect
+Bhairav (thaat)_Bibhas_2.mp3,Bibhas,Durga,Bhimpalasi,Unchanged Incorrect
+Bhairav (thaat)_Bibhas_7.mp3,Bibhas,Miyan Ki Todi orTodi or Darbari Todi,Bhairav,Unchanged Incorrect
+Bhairav (thaat)_Bibhas_8.mp3,Bibhas,Desh,Miyan Ki Todi orTodi or Darbari Todi,Unchanged Incorrect
+Bhairav (thaat)_Komal Bhairav_1.mp3,Komal Bhairav,Miyan Ki Todi orTodi or Darbari Todi,Megh Malhar,Unchanged Incorrect
+Bhairav (thaat)_Nat Bhairav_2.mp3,Nat Bhairav,Bhimpalasi,Puriya,Unchanged Incorrect
+Bhairav (thaat)_Nat Bhairav_7.mp3,Nat Bhairav,Barwa,Barwa,Unchanged Incorrect
+Bhairav (thaat)_Nat Bhairav_8.mp3,Nat Bhairav,Barwa,Madhuvanti,Unchanged Incorrect
+Bhairav (thaat)_Ramkali_0.mp3,Ramkali,Malkauns,Komal Rishabh Asavari,Unchanged Incorrect
+Bhairav (thaat)_Ramkali_13.mp3,Ramkali,Barwa,Ramkali,Wrong -> Correct
+Bhairav (thaat)_Ramkali_8.mp3,Ramkali,Poorvi,Deepak,Unchanged Incorrect
+Bhairavi (thaat)_Bhairavi_14.mp3,Bhairavi,Darbari,Darbari,Unchanged Incorrect
+Bhairavi (thaat)_Bhairavi_16.mp3,Bhairavi,Bhairavi,Deepak,Correct -> Wrong
+Bhairavi (thaat)_Bhairavi_2.mp3,Bhairavi,Bhairavi,Bhairavi,Unchanged Correct
+Bhairavi (thaat)_Bhairavi_5.mp3,Bhairavi,Alhaiya Bilaval,Bhatiyar,Unchanged Incorrect
+Bhairavi (thaat)_Bhairavi_bhairavi3.wav,Bhairavi,Asavari,Darbari,Unchanged Incorrect
+Bhairavi (thaat)_Bhupal Todi_0.mp3,Bhupal Todi,Bhimpalasi,Komal Rishabh Asavari,Unchanged Incorrect
+Bhairavi (thaat)_Bhupal Todi_13.mp3,Bhupal Todi,Bhairav,Gujari Todi,Unchanged Incorrect
+Bhairavi (thaat)_Bhupal Todi_8.mp3,Bhupal Todi,Kafi,Deepak,Unchanged Incorrect
+Bhairavi (thaat)_Bilaskhani Todi_0.mp3,Bilaskhani Todi,Rageshree,Rageshree,Unchanged Incorrect
+Bhairavi (thaat)_Bilaskhani Todi_13.mp3,Bilaskhani Todi,Rageshree,Rageshree,Unchanged Incorrect
+Bhairavi (thaat)_Bilaskhani Todi_8.mp3,Bilaskhani Todi,sarang,Rageshree,Unchanged Incorrect
+Bhairavi (thaat)_Komal Rishabh Asavari_0.mp3,Komal Rishabh Asavari,Bilaskhani Todi,Deepak,Unchanged Incorrect
+Bhairavi (thaat)_Komal Rishabh Asavari_2.mp3,Komal Rishabh Asavari,Adana,sarang,Unchanged Incorrect
+Bhairavi (thaat)_Komal Rishabh Asavari_5.mp3,Komal Rishabh Asavari,Bilaskhani Todi,Marva,Unchanged Incorrect
+Bhairavi (thaat)_Malkauns_14.mp3,Malkauns,Megh,sarang,Unchanged Incorrect
+Bhairavi (thaat)_Malkauns_16.mp3,Malkauns,Malkauns,Bageshree,Correct -> Wrong
+Bhairavi (thaat)_Malkauns_2.mp3,Malkauns,Deepak,Bhatiyar,Unchanged Incorrect
+Bhairavi (thaat)_Malkauns_5.mp3,Malkauns,Yaman or Kalyan,Yaman or Kalyan,Unchanged Incorrect
+Bhairavi (thaat)_Malkauns_Malkauns4.wav,Malkauns,Malkauns,Komal Rishabh Asavari,Correct -> Wrong
+Bilaval (thaat)_Alhaiya Bilaval_0.mp3,Alhaiya Bilaval,Adana,Puriya,Unchanged Incorrect
+Bilaval (thaat)_Alhaiya Bilaval_2.mp3,Alhaiya Bilaval,Megh Malhar,Ramkali,Unchanged Incorrect
+Bilaval (thaat)_Alhaiya Bilaval_5.mp3,Alhaiya Bilaval,Jaunpuri,Jaunpuri,Unchanged Incorrect
+Bilaval (thaat)_Bhinna Shadja_0.mp3,Bhinna Shadja,Abhogi,Desh,Unchanged Incorrect
+Bilaval (thaat)_Bhinna Shadja_2.mp3,Bhinna Shadja,Puriya,Deepak,Unchanged Incorrect
+Bilaval (thaat)_Bhinna Shadja_5.mp3,Bhinna Shadja,Bhatiyar,Madhuvanti,Unchanged Incorrect
+Bilaval (thaat)_Bihag_1.mp3,Bihag,Yaman or Kalyan,Miyan Ki Todi orTodi or Darbari Todi,Unchanged Incorrect
+Bilaval (thaat)_Bihag_16.mp3,Bihag,sarang,Multani,Unchanged Incorrect
+Bilaval (thaat)_Bihag_19.mp3,Bihag,Malkauns,Komal Rishabh Asavari,Unchanged Incorrect
+Bilaval (thaat)_Bihag_4.mp3,Bihag,Miyan Ki Todi orTodi or Darbari Todi,Rageshree,Unchanged Incorrect
+Bilaval (thaat)_Bilaval_2.mp3,Bilaval,Adana,Basant Mukhari,Unchanged Incorrect
+Bilaval (thaat)_Bilaval_7.mp3,Bilaval,Basant,Desh,Unchanged Incorrect
+Bilaval (thaat)_Bilaval_8.mp3,Bilaval,Marva,Rageshree,Unchanged Incorrect
+Bilaval (thaat)_Durga_0.mp3,Durga,Alhaiya Bilaval,Alhaiya Bilaval,Unchanged Incorrect
+Bilaval (thaat)_Durga_13.mp3,Durga,Bhairav,Komal Rishabh Asavari,Unchanged Incorrect
+Bilaval (thaat)_Durga_8.mp3,Durga,Nat Bhairav,Alhaiya Bilaval,Unchanged Incorrect
+Bilaval (thaat)_Hemant_0.mp3,Hemant,Hemant,Hemant,Unchanged Correct
+Bilaval (thaat)_Hemant_13.mp3,Hemant,Bhinna Shadja,sarang,Unchanged Incorrect
+Bilaval (thaat)_Hemant_8.mp3,Hemant,Bhairav Bahar,Basant,Unchanged Incorrect
+Bilaval (thaat)_Pahadi_0.mp3,Pahadi,Bhimpalasi,Deepak,Unchanged Incorrect
+Bilaval (thaat)_Pahadi_13.mp3,Pahadi,Barwa,Deepak,Unchanged Incorrect
+Bilaval (thaat)_Pahadi_8.mp3,Pahadi,Marva,Pahadi,Wrong -> Correct
+Kafi (thaat)_Abhogi_0.mp3,Abhogi,Barwa,Bhupal Todi,Unchanged Incorrect
+Kafi (thaat)_Abhogi_2.mp3,Abhogi,Megh,sarang,Unchanged Incorrect
+Kafi (thaat)_Abhogi_5.mp3,Abhogi,Barwa,Bhairavi,Unchanged Incorrect
+Kafi (thaat)_Bageshree_12.mp3,Bageshree,Alhaiya Bilaval,Deepak,Unchanged Incorrect
+Kafi (thaat)_Bageshree_14.mp3,Bageshree,Bhairav,Desh,Unchanged Incorrect
+Kafi (thaat)_Bageshree_2.mp3,Bageshree,Bageshree,Bageshree,Unchanged Correct
+Kafi (thaat)_Bageshree_6.mp3,Bageshree,Miyan Ki Todi orTodi or Darbari Todi,Bhatiyar,Unchanged Incorrect
+Kafi (thaat)_Bageshree_9.mp3,Bageshree,Bageshree,Rageshree,Correct -> Wrong
+Kafi (thaat)_Bageshree_bageshree01.wav,Bageshree,Bageshree,Malkauns,Correct -> Wrong
+Kafi (thaat)_Bageshree_bageshree3.wav,Bageshree,Bageshree,Komal Rishabh Asavari,Correct -> Wrong
+Kafi (thaat)_Bahar_1.mp3,Bahar,Bhairav Bahar,Marva,Unchanged Incorrect
+Kafi (thaat)_Bahar_19.mp3,Bahar,Bahar,Rageshree,Correct -> Wrong
+Kafi (thaat)_Bahar_20.mp3,Bahar,Hindol,Komal Rishabh Asavari,Unchanged Incorrect
+Kafi (thaat)_Bahar_7.mp3,Bahar,Poorvi,Rageshree,Unchanged Incorrect
+Kafi (thaat)_Bahar_8.mp3,Bahar,Gujari Todi,Gujari Todi,Unchanged Incorrect
+Kafi (thaat)_Barwa_6.mp3,Barwa,Gauri,Gauri,Unchanged Incorrect
+Kafi (thaat)_Barwa_8.mp3,Barwa,Deepak,Deepak,Unchanged Incorrect
+Kafi (thaat)_Bhimpalasi_1.mp3,Bhimpalasi,Asavari,Desi,Unchanged Incorrect
+Kafi (thaat)_Bhimpalasi_16.mp3,Bhimpalasi,Barwa,Desi,Unchanged Incorrect
+Kafi (thaat)_Bhimpalasi_3.mp3,Bhimpalasi,Bahar,Komal Rishabh Asavari,Unchanged Incorrect
+Kafi (thaat)_Bhimpalasi_8.mp3,Bhimpalasi,Puriya,Puriya,Unchanged Incorrect
+Kafi (thaat)_Kafi_11.mp3,Kafi,Desi,Ramkali,Unchanged Incorrect
+Kafi (thaat)_Kafi_13.mp3,Kafi,Ahir Bhairav,Komal Rishabh Asavari,Unchanged Incorrect
+Kafi (thaat)_Kafi_16.mp3,Kafi,Abhogi,Komal Rishabh Asavari,Unchanged Incorrect
+Kafi (thaat)_Kafi_8.mp3,Kafi,Bhimpalasi,Rageshree,Unchanged Incorrect
+Kafi (thaat)_Malhar_0.mp3,Malhar,Bilaval,Kafi,Unchanged Incorrect
+Kafi (thaat)_Malhar_13.mp3,Malhar,Bahar,Basant,Unchanged Incorrect
+Kafi (thaat)_Malhar_8.mp3,Malhar,Deepak,Malkauns,Unchanged Incorrect
+Kafi (thaat)_Megh Malhar_0.mp3,Megh Malhar,Komal Bhairav,Puriya,Unchanged Incorrect
+Kafi (thaat)_Megh Malhar_13.mp3,Megh Malhar,Desi,Ramkali,Unchanged Incorrect
+Kafi (thaat)_Megh Malhar_8.mp3,Megh Malhar,Megh,Komal Rishabh Asavari,Unchanged Incorrect
+Kafi (thaat)_Megh_0.mp3,Megh,Gauri,Desh,Unchanged Incorrect
+Kafi (thaat)_Megh_13.mp3,Megh,Bhimpalasi,Deepak,Unchanged Incorrect
+Kafi (thaat)_Megh_8.mp3,Megh,sarang,Ramkali,Unchanged Incorrect
+Kafi (thaat)_sarang_12.mp3,sarang,Bhatiyar,Bhatiyar,Unchanged Incorrect
+Kafi (thaat)_sarang_3.mp3,sarang,Yaman or Kalyan,Komal Rishabh Asavari,Unchanged Incorrect
+Kafi (thaat)_sarang_8.mp3,sarang,Bhairavi,Bilaskhani Todi,Unchanged Incorrect
+Kafi (thaat)_sarang_sarang02.wav,sarang,Yaman or Kalyan,Bageshree,Unchanged Incorrect
+Kafi (thaat)_sarang_sarang04.wav,sarang,Yaman or Kalyan,Bageshree,Unchanged Incorrect
+Kafi (thaat)_sarang_sarang1.wav,sarang,Asavari,Asavari,Unchanged Incorrect
+Kalyan (thaat)_Bhoopali_12.mp3,Bhoopali,Rageshree,Rageshree,Unchanged Incorrect
+Kalyan (thaat)_Bhoopali_13.mp3,Bhoopali,Bahar,Adana,Unchanged Incorrect
+Kalyan (thaat)_Bhoopali_2.mp3,Bhoopali,Poorvi,Rageshree,Unchanged Incorrect
+Kalyan (thaat)_Bhoopali_bhoop02.wav,Bhoopali,Malkauns,Bhairav Bahar,Unchanged Incorrect
+Kalyan (thaat)_Bhoopali_ibhoop06.wav,Bhoopali,Bhoopali,Desi,Correct -> Wrong
+Kalyan (thaat)_Hindol_0.mp3,Hindol,Bhinna Shadja,Shree,Unchanged Incorrect
+Kalyan (thaat)_Hindol_2.mp3,Hindol,Yaman Kalyan,Lalit,Unchanged Incorrect
+Kalyan (thaat)_Hindol_5.mp3,Hindol,sarang,Desh,Unchanged Incorrect
+Kalyan (thaat)_Kedar_1.mp3,Kedar,Kafi,Rageshree,Unchanged Incorrect
+Kalyan (thaat)_Kedar_16.mp3,Kedar,Desh,Desh,Unchanged Incorrect
+Kalyan (thaat)_Kedar_19.mp3,Kedar,Bhimpalasi,Madhuvanti,Unchanged Incorrect
+Kalyan (thaat)_Kedar_5.mp3,Kedar,Puriya,Puriya,Unchanged Incorrect
+Kalyan (thaat)_Yaman Kalyan_0.mp3,Yaman Kalyan,Yaman or Kalyan,Yaman or Kalyan,Unchanged Incorrect
+Kalyan (thaat)_Yaman Kalyan_2.mp3,Yaman Kalyan,Yaman or Kalyan,sarang,Unchanged Incorrect
+Kalyan (thaat)_Yaman Kalyan_5.mp3,Yaman Kalyan,Bilaskhani Todi,Sohni,Unchanged Incorrect
+Kalyan (thaat)_Yaman or Kalyan_12.mp3,Yaman or Kalyan,Yaman Kalyan,Deepak,Unchanged Incorrect
+Kalyan (thaat)_Yaman or Kalyan_14.mp3,Yaman or Kalyan,Bihag,Multani,Unchanged Incorrect
+Kalyan (thaat)_Yaman or Kalyan_4.mp3,Yaman or Kalyan,Bihag,Rageshree,Unchanged Incorrect
+Kalyan (thaat)_Yaman or Kalyan_5.mp3,Yaman or Kalyan,Bhairavi,Rageshree,Unchanged Incorrect
+Kalyan (thaat)_Yaman or Kalyan_7.mp3,Yaman or Kalyan,Basant,Desh,Unchanged Incorrect
+Kalyan (thaat)_Yaman or Kalyan_Yaman08.wav,Yaman or Kalyan,Yaman or Kalyan,Darbari,Correct -> Wrong
+Kalyan (thaat)_Yaman or Kalyan_Yaman10.wav,Yaman or Kalyan,Yaman or Kalyan,Adana,Correct -> Wrong
+Kalyan (thaat)_Yaman or Kalyan_yaman05.wav,Yaman or Kalyan,Yaman or Kalyan,Bageshree,Correct -> Wrong
+Kalyan (thaat)_suddha kalyan_6.mp3,suddha kalyan,Basant Mukhari,Desh,Unchanged Incorrect
+Kalyan (thaat)_suddha kalyan_8.mp3,suddha kalyan,Alhaiya Bilaval,Ramkali,Unchanged Incorrect
+Khamaj (thaat)_Desh_0.mp3,Desh,Bhimpalasi,Rageshree,Unchanged Incorrect
+Khamaj (thaat)_Desh_1.mp3,Desh,Adana,Adana,Unchanged Incorrect
+Khamaj (thaat)_Desh_10.mp3,Desh,Jaunpuri,Rageshree,Unchanged Incorrect
+Khamaj (thaat)_Desh_16.mp3,Desh,Basant Mukhari,Bhimpalasi,Unchanged Incorrect
+Khamaj (thaat)_Desh_4.mp3,Desh,Kafi,Bageshree,Unchanged Incorrect
+Khamaj (thaat)_Jhinjhoti_6.mp3,Jhinjhoti,Bhinna Shadja,Komal Rishabh Asavari,Unchanged Incorrect
+Khamaj (thaat)_Jhinjhoti_8.mp3,Jhinjhoti,Bibhas,Desh,Unchanged Incorrect
+Khamaj (thaat)_Khamaj_1.mp3,Khamaj,Puriya,Bhatiyar,Unchanged Incorrect
+Khamaj (thaat)_Khamaj_16.mp3,Khamaj,Kafi,Bageshree,Unchanged Incorrect
+Khamaj (thaat)_Khamaj_19.mp3,Khamaj,Bilaval,Rageshree,Unchanged Incorrect
+Khamaj (thaat)_Khamaj_4.mp3,Khamaj,Puriya,Puriya,Unchanged Incorrect
+Khamaj (thaat)_Rageshree_0.mp3,Rageshree,Kafi,Komal Bhairav,Unchanged Incorrect
+Khamaj (thaat)_Rageshree_2.mp3,Rageshree,Kedar,sarang,Unchanged Incorrect
+Khamaj (thaat)_Rageshree_5.mp3,Rageshree,Barwa,Deepak,Unchanged Incorrect
+Khamaj (thaat)_Sorath_4.mp3,Sorath,Pahadi,Komal Rishabh Asavari,Unchanged Incorrect
+Khamaj (thaat)_Sorath_9.mp3,Sorath,Poorvi,Bihag,Unchanged Incorrect
+Marva (thaat)_Bhatiyar_11.mp3,Bhatiyar,Desi,Ramkali,Unchanged Incorrect
+Marva (thaat)_Bhatiyar_13.mp3,Bhatiyar,Bhairavi,Bhoopali,Unchanged Incorrect
+Marva (thaat)_Bhatiyar_16.mp3,Bhatiyar,Adana,Abhogi,Unchanged Incorrect
+Marva (thaat)_Bhatiyar_8.mp3,Bhatiyar,Bibhas,Puriya,Unchanged Incorrect
+Marva (thaat)_Marva_11.mp3,Marva,Puriya,Rageshree,Unchanged Incorrect
+Marva (thaat)_Marva_13.mp3,Marva,Alhaiya Bilaval,Komal Rishabh Asavari,Unchanged Incorrect
+Marva (thaat)_Marva_16.mp3,Marva,Hemant,Desh,Unchanged Incorrect
+Marva (thaat)_Marva_8.mp3,Marva,Malhar,Malkauns,Unchanged Incorrect
+Marva (thaat)_Purba_5.mp3,Purba,suddha kalyan,Khamaj,Unchanged Incorrect
+Marva (thaat)_Purba_8.mp3,Purba,Puriya,Bageshree,Unchanged Incorrect
+Marva (thaat)_Puriya_16.mp3,Puriya,Nat Bhairav,Bhoopali,Unchanged Incorrect
+Marva (thaat)_Puriya_4.mp3,Puriya,Bhoopali,Bhoopali,Unchanged Incorrect
+Marva (thaat)_Puriya_8.mp3,Puriya,Desh,Rageshree,Unchanged Incorrect
+Marva (thaat)_Sohni_0.mp3,Sohni,Hindol,Malkauns,Unchanged Incorrect
+Marva (thaat)_Sohni_13.mp3,Sohni,Komal Rishabh Asavari,Komal Rishabh Asavari,Unchanged Incorrect
+Marva (thaat)_Sohni_8.mp3,Sohni,Megh Malhar,Megh Malhar,Unchanged Incorrect
+Poorvi (thaat)_Basant_0.mp3,Basant,Bahar,Desh,Unchanged Incorrect
+Poorvi (thaat)_Basant_13.mp3,Basant,Megh,Madhuvanti,Unchanged Incorrect
+Poorvi (thaat)_Basant_19.mp3,Basant,Ramkali,Gujari Todi,Unchanged Incorrect
+Poorvi (thaat)_Basant_20.mp3,Basant,Bilaskhani Todi,Multani,Unchanged Incorrect
+Poorvi (thaat)_Basant_8.mp3,Basant,Multani,Multani,Unchanged Incorrect
+Poorvi (thaat)_Deepak_0.mp3,Deepak,Basant,Basant,Unchanged Incorrect
+Poorvi (thaat)_Deepak_13.mp3,Deepak,Yaman Kalyan,Komal Rishabh Asavari,Unchanged Incorrect
+Poorvi (thaat)_Deepak_19.mp3,Deepak,Deepak,Komal Rishabh Asavari,Correct -> Wrong
+Poorvi (thaat)_Deepak_20.mp3,Deepak,Bhimpalasi,Bhimpalasi,Unchanged Incorrect
+Poorvi (thaat)_Deepak_8.mp3,Deepak,Bhoopali,Bhoopali,Unchanged Incorrect
+Poorvi (thaat)_Gauri_0.mp3,Gauri,Gauri,Rageshree,Correct -> Wrong
+Poorvi (thaat)_Gauri_13.mp3,Gauri,Bibhas,Desi,Unchanged Incorrect
+Poorvi (thaat)_Gauri_8.mp3,Gauri,Poorvi,Desi,Unchanged Incorrect
+Poorvi (thaat)_Lalit_0.mp3,Lalit,Lalit,Lalit,Unchanged Correct
+Poorvi (thaat)_Lalit_2.mp3,Lalit,Poorvi,Deepak,Unchanged Incorrect
+Poorvi (thaat)_Lalit_5.mp3,Lalit,Madhuvanti,Multani,Unchanged Incorrect
+Poorvi (thaat)_Poorvi_0.mp3,Poorvi,Ahir Bhairav,Puriya,Unchanged Incorrect
+Poorvi (thaat)_Poorvi_13.mp3,Poorvi,Bhinna Shadja,Desi,Unchanged Incorrect
+Poorvi (thaat)_Poorvi_8.mp3,Poorvi,Poorvi,Poorvi,Unchanged Correct
+Poorvi (thaat)_Shree_0.mp3,Shree,Kedar,Komal Rishabh Asavari,Unchanged Incorrect
+Poorvi (thaat)_Shree_2.mp3,Shree,Multani,Bilaskhani Todi,Unchanged Incorrect
+Poorvi (thaat)_Shree_5.mp3,Shree,Yaman Kalyan,Desi,Unchanged Incorrect
+Todi (thaat)_Gujari Todi_0.mp3,Gujari Todi,Malkauns,Deepak,Unchanged Incorrect
+Todi (thaat)_Gujari Todi_2.mp3,Gujari Todi,Darbari,Rageshree,Unchanged Incorrect
+Todi (thaat)_Gujari Todi_5.mp3,Gujari Todi,Desi,Bhatiyar,Unchanged Incorrect
+Todi (thaat)_Madhuvanti_0.mp3,Madhuvanti,Bhimpalasi,Rageshree,Unchanged Incorrect
+Todi (thaat)_Madhuvanti_2.mp3,Madhuvanti,Darbari,sarang,Unchanged Incorrect
+Todi (thaat)_Madhuvanti_5.mp3,Madhuvanti,Bilaskhani Todi,Ramkali,Unchanged Incorrect
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_1.mp3,Miyan Ki Todi orTodi or Darbari Todi,Bhairav,Rageshree,Unchanged Incorrect
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_16.mp3,Miyan Ki Todi orTodi or Darbari Todi,Bihag,Malkauns,Unchanged Incorrect
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_3.mp3,Miyan Ki Todi orTodi or Darbari Todi,Darbari,Bhimpalasi,Unchanged Incorrect
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_8.mp3,Miyan Ki Todi orTodi or Darbari Todi,Jhinjhoti,Pahadi,Unchanged Incorrect
+Todi (thaat)_Multani_0.mp3,Multani,Bhinna Shadja,Desi,Unchanged Incorrect
+Todi (thaat)_Multani_13.mp3,Multani,Miyan Ki Todi orTodi or Darbari Todi,Gujari Todi,Unchanged Incorrect
+Todi (thaat)_Multani_8.mp3,Multani,Puriya,Deepak,Unchanged Incorrect

@@ -1,0 +1,1 @@
+All TRF and SARAGA metadata locked. No training executed. Completely deterministic cosine similarity.

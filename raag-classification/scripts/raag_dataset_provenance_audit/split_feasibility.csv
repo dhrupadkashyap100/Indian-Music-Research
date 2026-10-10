@@ -1,0 +1,62 @@
+Raag,Total_Files,Independent_Performances_Known,Feasible_Strategy,Reasoning
+Adana,26,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Asavari,29,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Darbari,31,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Desi,12,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Jaunpuri,14,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Ahir Bhairav,13,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Basant Mukhari,12,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Bhairav,15,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Bhairav Bahar,16,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Bibhas,16,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Komal Bhairav,5,0,INSUFFICIENT for standard split. Leave-one-out only.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Nat Bhairav,16,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Ramkali,15,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Bhairavi,37,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Bhupal Todi,14,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Bilaskhani Todi,14,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Komal Rishabh Asavari,13,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Malkauns,37,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Alhaiya Bilaval,13,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Bhinna Shadja,13,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Bihag,21,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Bilaval,16,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Durga,15,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Hemant,14,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Pahadi,14,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Abhogi,13,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Bageshree,38,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Bahar,26,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Barwa,12,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Bhimpalasi,22,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Kafi,18,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Malhar,15,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Megh,15,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Megh Malhar,14,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+sarang,33,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Bhoopali,31,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Hindol,13,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Kedar,20,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Yaman Kalyan,13,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Yaman or Kalyan,42,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+suddha kalyan,12,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Desh,23,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Jhinjhoti,12,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Khamaj,21,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Rageshree,13,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Sorath,11,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Bhatiyar,18,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Marva,18,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Purba,10,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Puriya,17,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Sohni,14,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Basant,25,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Deepak,25,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Gauri,15,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Lalit,13,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Poorvi,15,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Shree,13,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Gujari Todi,13,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Madhuvanti,13,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Miyan Ki Todi orTodi or Darbari Todi,22,0,STRATEGY B (60/20/20) possible but highly risky due to unknown performance overlap.,Cannot guarantee independence of files. Random splitting will likely cause leakage.
+Multani,14,0,STRATEGY A (70/15/15) marginally possible but risky.,Cannot guarantee independence of files. Random splitting will likely cause leakage.

@@ -1,0 +1,6 @@
+SPLIT INTEGRITY AUDIT
+Train ∩ Validation empty: True
+Train ∩ Test empty: True
+Validation ∩ Test empty: True
+Total Train: 837, Val: 133, Test: 133
+Overall Status: PASS

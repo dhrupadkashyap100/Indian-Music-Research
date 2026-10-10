@@ -1,0 +1,20 @@
+FINAL PRODUCTION INTEGRITY AUDIT
+
+1. Dataset Manifests Verified:
+TRF TRAIN = 635 recordings
+TRF VALIDATION = 223 recordings
+TRF TEST = 245 recordings
+FOLK = 328 recordings
+
+2. Split Isolation Verified:
+TRAIN ∩ VAL = 0
+TRAIN ∩ TEST = 0
+VAL ∩ TEST = 0
+SARAGA ∩ TRF = 0
+FOLK ∩ TRF = 0
+FOLK ∩ SARAGA = 0
+
+3. Folk Data Protection Verified:
+The 328 Folk recordings have absolutely NOT been accessed, processed, feature-extracted, or used for threshold/parameter tuning during any part of the algorithmic optimization phases.
+
+STATUS: GREEN (PASS)

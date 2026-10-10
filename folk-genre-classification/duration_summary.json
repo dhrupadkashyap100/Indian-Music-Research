@@ -1,0 +1,59 @@
+{
+    "total_songs": 328,
+    "total_duration_sec": 113185.57428727331,
+    "total_duration_hhmmss": "1 day, 7:26:25",
+    "average_duration_sec": 345.0779703880284,
+    "average_duration_hhmmss": "0:05:45",
+    "longest_song": {
+        "name": "\u092e\u094d\u0939\u093e\u0930\u0940 \u0938\u091c\u0928\u0940 \u0910 \u0906\u091c \u0924\u094b \u092c\u093e\u0926\u093f\u0932\u093e \u0918\u0930 \u0906\u0938\u0940 !! Rajasthani \u0930\u095b\u0935\u093e\u095c\u0940 Mand !! Singer- Nandlal Bhat !! \u0932\u093e\u0908\u0935 \u0928\u0928\u093e\u0935\u0926.mp3",
+        "duration": 1200.6186848072562
+    },
+    "shortest_song": {
+        "name": "CHAHANEWALI _ New Sambalpuri song _ Song by Antara Chakrabarti and Ashish Kumbhar.mp3",
+        "duration": 15.018684807256236
+    },
+    "corrupted_files": [],
+    "duplicates": [],
+    "genre_stats": {
+        "Baul": {
+            "count": 30,
+            "total_duration": 8670.484897959184
+        },
+        "Bhangra": {
+            "count": 32,
+            "total_duration": 9336.823969812925
+        },
+        "Bihu": {
+            "count": 37,
+            "total_duration": 11323.982607709753
+        },
+        "Dhamail": {
+            "count": 30,
+            "total_duration": 11417.013242630388
+        },
+        "Garba": {
+            "count": 31,
+            "total_duration": 13970.230566893428
+        },
+        "Ghoomar": {
+            "count": 30,
+            "total_duration": 10940.490045351475
+        },
+        "Jhumur": {
+            "count": 30,
+            "total_duration": 9301.854353741497
+        },
+        "Lavani": {
+            "count": 35,
+            "total_duration": 9029.92691609977
+        },
+        "Maand": {
+            "count": 39,
+            "total_duration": 18156.305102040813
+        },
+        "Sambalpuri": {
+            "count": 34,
+            "total_duration": 11038.462585034014
+        }
+    }
+}

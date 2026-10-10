@@ -1,0 +1,10 @@
+{
+    "processed": 914,
+    "failed": 0,
+    "skipped": 189,
+    "generated_sequences": 11355,
+    "nan_in_features": 0,
+    "inf_in_features": 0,
+    "total_extraction_time_sec": 2279.8264541625977,
+    "average_time_per_recording": 2.494339665385774
+}

@@ -1,0 +1,110 @@
+{
+    "total_recordings_attempted": 328,
+    "total_recordings_processed": 327,
+    "failed_recordings": 1,
+    "confidence_counts": {
+        "HIGH": 6,
+        "MODERATE": 38,
+        "AMBIGUOUS": 283
+    },
+    "confidence_percentages": {
+        "HIGH": 1.834862385321101,
+        "MODERATE": 11.62079510703364,
+        "AMBIGUOUS": 86.54434250764525
+    },
+    "agreement_counts": {
+        "Complete_Agreement": 54,
+        "Disagreement": 273
+    },
+    "top_predicted_raags": [
+        {
+            "Raag": "Malkauns",
+            "Predicted_Count": 30,
+            "Percentage": 9.174311926605505,
+            "HIGH_Count": 2,
+            "MODERATE_Count": 10,
+            "AMBIGUOUS_Count": 18
+        },
+        {
+            "Raag": "Pahadi",
+            "Predicted_Count": 22,
+            "Percentage": 6.727828746177369,
+            "HIGH_Count": 0,
+            "MODERATE_Count": 1,
+            "AMBIGUOUS_Count": 21
+        },
+        {
+            "Raag": "Megh Malhar",
+            "Predicted_Count": 21,
+            "Percentage": 6.422018348623854,
+            "HIGH_Count": 0,
+            "MODERATE_Count": 3,
+            "AMBIGUOUS_Count": 18
+        },
+        {
+            "Raag": "Durga",
+            "Predicted_Count": 20,
+            "Percentage": 6.116207951070336,
+            "HIGH_Count": 1,
+            "MODERATE_Count": 2,
+            "AMBIGUOUS_Count": 17
+        },
+        {
+            "Raag": "suddha kalyan",
+            "Predicted_Count": 16,
+            "Percentage": 4.892966360856269,
+            "HIGH_Count": 0,
+            "MODERATE_Count": 1,
+            "AMBIGUOUS_Count": 15
+        }
+    ],
+    "major_ambiguous_pairs": [
+        {
+            "Raag A": "Pahadi",
+            "Raag B": "suddha kalyan",
+            "Occurrences": 14,
+            "Average_Margin": 0.0107192126547848,
+            "Average_Top1_Score": 0.0771268256966935
+        },
+        {
+            "Raag A": "Megh",
+            "Raag B": "Megh Malhar",
+            "Occurrences": 7,
+            "Average_Margin": 0.025371847395852,
+            "Average_Top1_Score": 0.0955330161518889
+        },
+        {
+            "Raag A": "Durga",
+            "Raag B": "Pahadi",
+            "Occurrences": 6,
+            "Average_Margin": 0.0193314276361252,
+            "Average_Top1_Score": 0.0776786187442896
+        },
+        {
+            "Raag A": "Bhairavi",
+            "Raag B": "Megh Malhar",
+            "Occurrences": 5,
+            "Average_Margin": 0.0171756064866421,
+            "Average_Top1_Score": 0.0823222299091495
+        },
+        {
+            "Raag A": "Bilaskhani Todi",
+            "Raag B": "Komal Rishabh Asavari",
+            "Occurrences": 5,
+            "Average_Margin": 0.007690367035653,
+            "Average_Top1_Score": 0.0744950030215594
+        }
+    ],
+    "key_limitations": [
+        "61-class closed-set classification assumes forced choices.",
+        "Domain shift from pure classical (TRF) to folk melodies.",
+        "Lack of Folk ground truth for accuracy verification.",
+        "Cultural and regional variation is not encoded in classical metadata."
+    ],
+    "key_scientific_conclusions": [
+        "The model predicts Folk music is fundamentally OOD relative to pure classical Raags.",
+        "When forced, the model maps Folk structures to historically folk-adjacent Raags like Malkauns and Pahadi.",
+        "Model disagreement is a primary indicator of structural instability."
+    ],
+    "disclaimer": "Folk predictions are model-based hypotheses about possible structural similarities, not verified ground truth annotations."
+}

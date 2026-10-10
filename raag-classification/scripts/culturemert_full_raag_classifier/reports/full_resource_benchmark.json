@@ -1,0 +1,9 @@
+{
+    "total_extraction_time_hours": 1.8472165599134234,
+    "avg_time_per_5s_segment_sec": 0.03842808214786665,
+    "gpu_memory_usage_gb": 0.537936384,
+    "disk_usage_mb": 507.1170654296875,
+    "processed_files": 1103,
+    "failed_files": 0,
+    "discarded_fragments": 1103
+}

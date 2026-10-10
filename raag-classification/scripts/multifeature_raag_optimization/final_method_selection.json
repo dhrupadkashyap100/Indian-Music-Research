@@ -1,0 +1,27 @@
+{
+    "selected_features": [
+        "CultureMERT"
+    ],
+    "feature_dimensions": [
+        128
+    ],
+    "audio_preprocessing": "24kHz Mono 60s windows",
+    "temporal_context": "60s Mean Pooled",
+    "PCA_configuration": "PCA-128 + Whitening fit on TRF Train",
+    "normalization_method": "L2 normalization",
+    "similarity_normalization": "None",
+    "fusion_weights": "N/A",
+    "reference_aggregation": "Max (Top-1)",
+    "temporal_aggregation": "Mean",
+    "validation_results": {
+        "Top1": 0.125,
+        "Margin": 0.084
+    },
+    "test_results": {
+        "Top1": 0.1276595744680851
+    },
+    "saraga_results": {
+        "Top1": 0.09259259259259259
+    },
+    "reason_for_selection": "CASE B: Multi-feature (Pitch Dominant) gave a tiny validation improvement (+0.9%) but caused a massive degradation in margin separation (0.084 -> 0.045). SARAGA generalizability remained stagnant. Therefore, rejected fusion and retained CultureMERT."
+}

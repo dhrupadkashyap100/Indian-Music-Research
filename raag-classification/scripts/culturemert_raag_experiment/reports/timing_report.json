@@ -1,0 +1,86 @@
+[
+    {
+        "audio_path": "D:\\Raaga_Recognition_Project\\Thaat and Raga Forest (TRF) Dataset\\Poorvi (thaat)\\Shree\\0.mp3",
+        "process_time": 8.807981014251709,
+        "num_windows": 126,
+        "time_per_window": 0.06990461122421991
+    },
+    {
+        "audio_path": "D:\\Raaga_Recognition_Project\\Thaat and Raga Forest (TRF) Dataset\\Poorvi (thaat)\\Shree\\1.mp3",
+        "process_time": 5.61750054359436,
+        "num_windows": 153,
+        "time_per_window": 0.03671568982741412
+    },
+    {
+        "audio_path": "D:\\Raaga_Recognition_Project\\Thaat and Raga Forest (TRF) Dataset\\Bhairavi (thaat)\\Malkauns\\0.mp3",
+        "process_time": 2.5361201763153076,
+        "num_windows": 67,
+        "time_per_window": 0.03785253994500459
+    },
+    {
+        "audio_path": "D:\\Raaga_Recognition_Project\\Thaat and Raga Forest (TRF) Dataset\\Bhairavi (thaat)\\Malkauns\\1.mp3",
+        "process_time": 1.6368961334228516,
+        "num_windows": 43,
+        "time_per_window": 0.038067351940066316
+    },
+    {
+        "audio_path": "D:\\Raaga_Recognition_Project\\Reference_Model\\Raaga_Info\\reference_dataset\\Saraga\\saraga1.5_hindustani\\Raag Marwa & Shree by Omkar Dadarkar\\Raag Shree\\Raag Shree.mp3.mp3",
+        "process_time": 18.03695058822632,
+        "num_windows": 450,
+        "time_per_window": 0.040082112418280705
+    },
+    {
+        "audio_path": "D:\\Raaga_Recognition_Project\\Reference_Model\\Raaga_Info\\reference_dataset\\Saraga\\saraga1.5_hindustani\\Raag Shree by Deborshee Bhattacharya\\Raag Shree\\Raag Shree.mp3.mp3",
+        "process_time": 24.000463008880615,
+        "num_windows": 610,
+        "time_per_window": 0.0393450213260338
+    },
+    {
+        "audio_path": "D:\\Raaga_Recognition_Project\\Reference_Model\\Raaga_Info\\reference_dataset\\Saraga\\saraga1.5_hindustani\\Geetinandan _ Part-3 by Ajoy Chakrabarty\\Todi\\Todi.mp3.mp3",
+        "process_time": 4.262864589691162,
+        "num_windows": 108,
+        "time_per_window": 0.03947096842306631
+    },
+    {
+        "audio_path": "D:\\Raaga_Recognition_Project\\Reference_Model\\Raaga_Info\\reference_dataset\\Saraga\\saraga1.5_hindustani\\Raag Ahir Bhairon & Todi by Omkar Dadarkar\\Raag Todi\\Raag Todi.mp3.mp3",
+        "process_time": 8.29986572265625,
+        "num_windows": 211,
+        "time_per_window": 0.039335856505479855
+    },
+    {
+        "audio_path": "D:\\Raaga_Recognition_Project\\Reference_Model\\Raaga_Info\\reference_dataset\\Saraga\\saraga1.5_hindustani\\Hindustani Alaps by Kaustuv Kanti Ganguli\\Raag Marwa\\Raag Marwa.mp3.mp3",
+        "process_time": 3.0266308784484863,
+        "num_windows": 78,
+        "time_per_window": 0.0388029599801088
+    },
+    {
+        "audio_path": "D:\\Raaga_Recognition_Project\\Reference_Model\\Raaga_Info\\reference_dataset\\Saraga\\saraga1.5_hindustani\\Raag Marwa & Hameer by Sameehan Kashalkar\\Raag Marwa\\Raag Marwa.mp3.mp3",
+        "process_time": 15.80299973487854,
+        "num_windows": 407,
+        "time_per_window": 0.03882800917660575
+    },
+    {
+        "audio_path": "D:\\Raaga_Recognition_Project\\Reference_Model\\Raaga_Info\\reference_dataset\\Saraga\\saraga1.5_hindustani\\Raag Jog & Hameer by Brajeshwar Mukherjee\\Raag Jog\\Raag Jog.mp3.mp3",
+        "process_time": 15.62203049659729,
+        "num_windows": 402,
+        "time_per_window": 0.038860772379595246
+    },
+    {
+        "audio_path": "D:\\Raaga_Recognition_Project\\Reference_Model\\Raaga_Info\\reference_dataset\\Saraga\\saraga1.5_hindustani\\Raag Jog & Kirwani Bhajan by Kaustuv Kanti Ganguli\\Raag Jog\\Raag Jog.mp3.mp3",
+        "process_time": 23.272193431854248,
+        "num_windows": 584,
+        "time_per_window": 0.03984964628742166
+    },
+    {
+        "audio_path": "D:\\Raaga_Recognition_Project\\Reference_Model\\Raaga_Info\\reference_dataset\\Saraga\\saraga1.5_hindustani\\Geetinandan _ Part-3 by Ajoy Chakrabarty\\Malkauns\\Malkauns.mp3.mp3",
+        "process_time": 2.621121644973755,
+        "num_windows": 66,
+        "time_per_window": 0.039713964317784164
+    },
+    {
+        "audio_path": "D:\\Raaga_Recognition_Project\\Reference_Model\\Raaga_Info\\reference_dataset\\Saraga\\saraga1.5_hindustani\\Raag Malkauns, Chandrakauns & Majh Khamaj Thumri by Satyasheel Deshpande\\Raag Malkauns\\Raag Malkauns.mp3.mp3",
+        "process_time": 18.00824809074402,
+        "num_windows": 457,
+        "time_per_window": 0.03940535687252521
+    }
+]

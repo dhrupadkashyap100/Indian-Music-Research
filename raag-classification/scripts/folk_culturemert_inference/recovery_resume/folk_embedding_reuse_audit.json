@@ -1,0 +1,9 @@
+{
+    "total_npy_files_discovered": 45650,
+    "total_successfully_mapped": 447,
+    "total_unmapped": 45203,
+    "total_ambiguous": 0,
+    "total_invalid": 0,
+    "canonical_recordings_represented": 328,
+    "augmentation_variants_represented": 1
+}

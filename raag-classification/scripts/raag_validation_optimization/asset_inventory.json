@@ -1,0 +1,8 @@
+{
+    "TRF_Embeddings": true,
+    "TRF_Metadata": true,
+    "TRF_Manifest": true,
+    "SARAGA_Embeddings": true,
+    "SARAGA_Manifest": true,
+    "SARAGA_Mapping": true
+}

@@ -1,0 +1,7 @@
+TRF PAPER METHODOLOGY NOTES
+===========================
+- CONFIRMED BY PAPER: The dataset was created specifically for training CNN-based models on Mel Spectrograms, STFT, and Chromagrams for Thaat and Raag identification.
+- CONFIRMED BY PAPER: The dataset comprises "solos, performances, choruses, instrumentals, and movie songs".
+- UNKNOWN: The paper abstract/README does not explicitly clarify if a "recording" is a full concert, a Youtube rip, or a computationally segmented chunk.
+- UNKNOWN: The methodology of how ground-truth Raag labels were established is not detailed in the public abstract/README.
+- UNKNOWN: How the authors handled train/test splitting (e.g. if they split by random files, potentially causing leakage, or if they had grouped metadata internally).

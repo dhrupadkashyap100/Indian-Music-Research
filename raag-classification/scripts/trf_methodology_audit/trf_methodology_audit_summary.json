@@ -1,0 +1,6 @@
+{
+    "total_raags": 61,
+    "training_suitability": "GO",
+    "final_decision": "YES, START BUILDING CLASSIFIER",
+    "recommended_next_step": "Create TRF training manifest and extract CultureMERT embeddings."
+}

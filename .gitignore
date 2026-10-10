@@ -1,0 +1,39 @@
+# Audio files
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.ogg
+*.aac
+*.wma
+*.aiff
+*.aif
+*.au
+*.opus
+*.webm
+
+# Environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# Log files
+*.log
+
+# Sensitive info / Secrets
+.env
+*.pem
+*.key
+secrets/
+
+# Large binaries / obsolete features (unless managed by LFS)
+# *.pth
+# *.pt
+# *.h5

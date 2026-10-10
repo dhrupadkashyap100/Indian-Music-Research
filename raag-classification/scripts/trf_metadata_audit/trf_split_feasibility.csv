@@ -1,0 +1,2 @@
+Method,Feasible,Reason
+Random Split,NO,Track-level metadata is completely absent. Performance independence cannot be established.

@@ -1,0 +1,216 @@
+Recording,GroundTruth,Pred_Top1,Pred_Top2,Pred_Top3,Margin_1_2,Correct
+Asavari (thaat)_Adana_1.mp3,Adana,Desi,Komal Rishabh Asavari,Bhairavi,0.007045716047286987,False
+Asavari (thaat)_Adana_19.mp3,Adana,Rageshree,Komal Rishabh Asavari,Puriya,0.0743309507767359,False
+Asavari (thaat)_Adana_20.mp3,Adana,Bhoopali,Komal Rishabh Asavari,Rageshree,0.0867377959191799,False
+Asavari (thaat)_Adana_7.mp3,Adana,Deepak,Adana,Gujari Todi,0.06058874939169201,False
+Asavari (thaat)_Adana_8.mp3,Adana,Barwa,Bhairav Bahar,Bihag,0.05369621077004599,False
+Asavari (thaat)_Asavari_0.mp3,Asavari,Rageshree,Desi,Komal Rishabh Asavari,0.1685742437839508,False
+Asavari (thaat)_Asavari_8.mp3,Asavari,Rageshree,Bhairavi,Miyan Ki Todi orTodi or Darbari Todi,0.0790265599886576,False
+Asavari (thaat)_Asavari_asavari03.wav,Asavari,Asavari,Malkauns,Deepak,0.04428469141324365,True
+Asavari (thaat)_Asavari_asavari25.wav,Asavari,Asavari,Bageshree,Yaman or Kalyan,0.20944815874099731,True
+Asavari (thaat)_Asavari_asavari3.wav,Asavari,Komal Rishabh Asavari,Desi,Rageshree,0.006801903247833252,False
+Asavari (thaat)_Asavari_asavari30.wav,Asavari,Asavari,Bageshree,Yaman or Kalyan,0.19276881217956543,True
+Asavari (thaat)_Darbari_12.mp3,Darbari,Komal Rishabh Asavari,Rageshree,Bhairavi,0.010015059601176879,False
+Asavari (thaat)_Darbari_2.mp3,Darbari,Ramkali,Miyan Ki Todi orTodi or Darbari Todi,Bhatiyar,0.022993412613868724,False
+Asavari (thaat)_Darbari_5.mp3,Darbari,Desh,Deepak,Ramkali,0.05236212909221649,False
+Asavari (thaat)_Darbari_DKanada04.wav,Darbari,Bhairavi,Darbari,Bhairav,0.05591994524002075,False
+Asavari (thaat)_Darbari_darbari5.wav,Darbari,Rageshree,Desi,Komal Rishabh Asavari,0.01608980695406592,False
+Asavari (thaat)_Desi_6.mp3,Desi,Komal Rishabh Asavari,Rageshree,Deepak,0.007437165334539642,False
+Asavari (thaat)_Desi_8.mp3,Desi,Bhatiyar,Hemant,Komal Rishabh Asavari,0.0511992930301598,False
+Asavari (thaat)_Jaunpuri_0.mp3,Jaunpuri,Khamaj,Poorvi,Jhinjhoti,0.004545316100120544,False
+Asavari (thaat)_Jaunpuri_13.mp3,Jaunpuri,Desi,Bihag,Bhatiyar,0.012408359597126661,False
+Asavari (thaat)_Jaunpuri_8.mp3,Jaunpuri,Multani,Desh,Jaunpuri,0.03223266825079918,False
+Bhairav (thaat)_Ahir Bhairav_0.mp3,Ahir Bhairav,Komal Rishabh Asavari,Miyan Ki Todi orTodi or Darbari Todi,Bhairavi,0.007477793842554092,False
+Bhairav (thaat)_Ahir Bhairav_2.mp3,Ahir Bhairav,Miyan Ki Todi orTodi or Darbari Todi,Desi,Bhatiyar,0.01201314851641655,False
+Bhairav (thaat)_Ahir Bhairav_5.mp3,Ahir Bhairav,sarang,Desh,Rageshree,0.057251026233037294,False
+Bhairav (thaat)_Basant Mukhari_6.mp3,Basant Mukhari,Miyan Ki Todi orTodi or Darbari Todi,Komal Rishabh Asavari,Bhatiyar,0.013322392106056236,False
+Bhairav (thaat)_Basant Mukhari_8.mp3,Basant Mukhari,Multani,Desh,Jaunpuri,0.03223266825079918,False
+Bhairav (thaat)_Bhairav Bahar_2.mp3,Bhairav Bahar,Komal Rishabh Asavari,Rageshree,Desi,0.0018152568874687525,False
+Bhairav (thaat)_Bhairav Bahar_7.mp3,Bhairav Bahar,Poorvi,Deepak,Bilaval,0.034929586308343086,False
+Bhairav (thaat)_Bhairav Bahar_8.mp3,Bhairav Bahar,Deepak,Abhogi,Ramkali,0.039035035805268736,False
+Bhairav (thaat)_Bhairav_0.mp3,Bhairav,Miyan Ki Todi orTodi or Darbari Todi,Bhairavi,Rageshree,0.05593481659889221,False
+Bhairav (thaat)_Bhairav_13.mp3,Bhairav,Deepak,Rageshree,Bhairav,0.03898828104138374,False
+Bhairav (thaat)_Bhairav_8.mp3,Bhairav,Komal Rishabh Asavari,Desi,Rageshree,0.010114824230020747,False
+Bhairav (thaat)_Bibhas_2.mp3,Bibhas,Bhimpalasi,Desh,Madhuvanti,0.019221013784408547,False
+Bhairav (thaat)_Bibhas_7.mp3,Bibhas,Bhairav,Madhuvanti,Lalit,0.009758015473683657,False
+Bhairav (thaat)_Bibhas_8.mp3,Bibhas,Miyan Ki Todi orTodi or Darbari Todi,Sohni,Rageshree,0.003685012459754944,False
+Bhairav (thaat)_Komal Bhairav_1.mp3,Komal Bhairav,Megh Malhar,Bhinna Shadja,Yaman Kalyan,0.01474286209453235,False
+Bhairav (thaat)_Nat Bhairav_2.mp3,Nat Bhairav,Puriya,Malhar,Bhimpalasi,0.008304040879011154,False
+Bhairav (thaat)_Nat Bhairav_7.mp3,Nat Bhairav,Barwa,Ramkali,Deepak,0.010066694539526244,False
+Bhairav (thaat)_Nat Bhairav_8.mp3,Nat Bhairav,Madhuvanti,Bhimpalasi,Bageshree,0.020028182864189115,False
+Bhairav (thaat)_Ramkali_0.mp3,Ramkali,Komal Rishabh Asavari,Rageshree,Miyan Ki Todi orTodi or Darbari Todi,0.010241478681564331,False
+Bhairav (thaat)_Ramkali_13.mp3,Ramkali,Ramkali,Barwa,Bhatiyar,0.001395790491785287,True
+Bhairav (thaat)_Ramkali_8.mp3,Ramkali,Deepak,Komal Rishabh Asavari,Ramkali,0.03466597861713833,False
+Bhairavi (thaat)_Bhairavi_14.mp3,Bhairavi,Darbari,Malkauns,Desh,0.02257728110998869,False
+Bhairavi (thaat)_Bhairavi_16.mp3,Bhairavi,Deepak,Ramkali,Desh,0.014981215650385071,False
+Bhairavi (thaat)_Bhairavi_2.mp3,Bhairavi,Bhairavi,Deepak,Pahadi,0.37677420675754547,True
+Bhairavi (thaat)_Bhairavi_5.mp3,Bhairavi,Bhatiyar,Komal Rishabh Asavari,Bhairavi,0.01966068645318353,False
+Bhairavi (thaat)_Bhairavi_bhairavi3.wav,Bhairavi,Darbari,Asavari,Sohni,0.013153791427612305,False
+Bhairavi (thaat)_Bhupal Todi_0.mp3,Bhupal Todi,Komal Rishabh Asavari,Rageshree,Miyan Ki Todi orTodi or Darbari Todi,0.010241478681564331,False
+Bhairavi (thaat)_Bhupal Todi_13.mp3,Bhupal Todi,Gujari Todi,Bibhas,Bhairav,0.01497514545917511,False
+Bhairavi (thaat)_Bhupal Todi_8.mp3,Bhupal Todi,Deepak,Desh,Yaman Kalyan,0.06514567732810972,False
+Bhairavi (thaat)_Bilaskhani Todi_0.mp3,Bilaskhani Todi,Rageshree,Sohni,Bahar,0.12428501745065051,False
+Bhairavi (thaat)_Bilaskhani Todi_13.mp3,Bilaskhani Todi,Rageshree,Ramkali,Marva,0.05240068797554287,False
+Bhairavi (thaat)_Bilaskhani Todi_8.mp3,Bilaskhani Todi,Rageshree,Ramkali,Komal Rishabh Asavari,0.01177762821316719,False
+Bhairavi (thaat)_Komal Rishabh Asavari_0.mp3,Komal Rishabh Asavari,Deepak,Ramkali,Bhimpalasi,0.04455507795015973,False
+Bhairavi (thaat)_Komal Rishabh Asavari_2.mp3,Komal Rishabh Asavari,sarang,Bageshree,Gujari Todi,0.08202695101499557,False
+Bhairavi (thaat)_Komal Rishabh Asavari_5.mp3,Komal Rishabh Asavari,Marva,Bilaskhani Todi,Ramkali,0.024811764558156257,False
+Bhairavi (thaat)_Malkauns_14.mp3,Malkauns,sarang,Madhuvanti,Bageshree,0.053671115501360445,False
+Bhairavi (thaat)_Malkauns_16.mp3,Malkauns,Bageshree,Bhimpalasi,Bhairavi,0.01592173746653963,False
+Bhairavi (thaat)_Malkauns_2.mp3,Malkauns,Bhatiyar,Komal Rishabh Asavari,Miyan Ki Todi orTodi or Darbari Todi,0.03957154154777526,False
+Bhairavi (thaat)_Malkauns_5.mp3,Malkauns,Yaman or Kalyan,Pahadi,Deepak,0.003741323947906494,False
+Bhairavi (thaat)_Malkauns_Malkauns4.wav,Malkauns,Komal Rishabh Asavari,Desi,Rageshree,0.006596997380256653,False
+Bilaval (thaat)_Alhaiya Bilaval_0.mp3,Alhaiya Bilaval,Puriya,Adana,Komal Bhairav,0.0011850595474243164,False
+Bilaval (thaat)_Alhaiya Bilaval_2.mp3,Alhaiya Bilaval,Ramkali,Bhairavi,Bhimpalasi,0.027250438928604126,False
+Bilaval (thaat)_Alhaiya Bilaval_5.mp3,Alhaiya Bilaval,Jaunpuri,Bhatiyar,Bhoopali,0.1090746525497664,False
+Bilaval (thaat)_Bhinna Shadja_0.mp3,Bhinna Shadja,Desh,Abhogi,Deepak,0.018757423758506808,False
+Bilaval (thaat)_Bhinna Shadja_2.mp3,Bhinna Shadja,Deepak,Bhoopali,Ramkali,0.05324707712445936,False
+Bilaval (thaat)_Bhinna Shadja_5.mp3,Bhinna Shadja,Madhuvanti,Rageshree,Puriya,0.011962691942850712,False
+Bilaval (thaat)_Bihag_1.mp3,Bihag,Miyan Ki Todi orTodi or Darbari Todi,Bhairavi,Bhoopali,0.01858955125013989,False
+Bilaval (thaat)_Bihag_16.mp3,Bihag,Multani,Puriya,Bageshree,0.0020926987582987056,False
+Bilaval (thaat)_Bihag_19.mp3,Bihag,Komal Rishabh Asavari,Rageshree,Bhatiyar,0.024816138403756183,False
+Bilaval (thaat)_Bihag_4.mp3,Bihag,Rageshree,Miyan Ki Todi orTodi or Darbari Todi,Komal Rishabh Asavari,0.007734775543212891,False
+Bilaval (thaat)_Bilaval_2.mp3,Bilaval,Basant Mukhari,Khamaj,Puriya,0.0033731609582901,False
+Bilaval (thaat)_Bilaval_7.mp3,Bilaval,Desh,Basant,Bhimpalasi,0.06082399828093393,False
+Bilaval (thaat)_Bilaval_8.mp3,Bilaval,Rageshree,Desi,Komal Rishabh Asavari,0.016037005186080977,False
+Bilaval (thaat)_Durga_0.mp3,Durga,Alhaiya Bilaval,Kedar,Darbari,0.02186090499162674,False
+Bilaval (thaat)_Durga_13.mp3,Durga,Komal Rishabh Asavari,Desi,Deepak,0.01975704067283207,False
+Bilaval (thaat)_Durga_8.mp3,Durga,Alhaiya Bilaval,sarang,Bhairav,0.021256595849990845,False
+Bilaval (thaat)_Hemant_0.mp3,Hemant,Hemant,Puriya,Khamaj,0.1357537110646566,True
+Bilaval (thaat)_Hemant_13.mp3,Hemant,sarang,Multani,Bilaskhani Todi,0.02742848131391734,False
+Bilaval (thaat)_Hemant_8.mp3,Hemant,Basant,Malkauns,Sohni,0.10560664534568787,False
+Bilaval (thaat)_Pahadi_0.mp3,Pahadi,Deepak,Ahir Bhairav,Ramkali,0.00566437840461731,False
+Bilaval (thaat)_Pahadi_13.mp3,Pahadi,Deepak,Ramkali,Sohni,0.07758614793419838,False
+Bilaval (thaat)_Pahadi_8.mp3,Pahadi,Pahadi,Bhoopali,Desh,0.051854394376277924,True
+Kafi (thaat)_Abhogi_0.mp3,Abhogi,Bhupal Todi,Basant,Deepak,0.040801820570024905,False
+Kafi (thaat)_Abhogi_2.mp3,Abhogi,sarang,Bhatiyar,Bhairavi,0.0017643909562717885,False
+Kafi (thaat)_Abhogi_5.mp3,Abhogi,Bhairavi,Miyan Ki Todi orTodi or Darbari Todi,Komal Rishabh Asavari,0.0033510143266004544,False
+Kafi (thaat)_Bageshree_12.mp3,Bageshree,Deepak,Bhoopali,Komal Rishabh Asavari,0.046203491480454106,False
+Kafi (thaat)_Bageshree_14.mp3,Bageshree,Desh,Bhimpalasi,Rageshree,0.02145425478617352,False
+Kafi (thaat)_Bageshree_2.mp3,Bageshree,Bageshree,Desh,Bhimpalasi,0.04600540796915692,True
+Kafi (thaat)_Bageshree_6.mp3,Bageshree,Bhatiyar,Miyan Ki Todi orTodi or Darbari Todi,Komal Rishabh Asavari,0.05116020515561104,False
+Kafi (thaat)_Bageshree_9.mp3,Bageshree,Rageshree,Desi,Komal Rishabh Asavari,0.053858980536460876,False
+Kafi (thaat)_Bageshree_bageshree01.wav,Bageshree,Malkauns,Bhairav,Pahadi,0.013095211237668991,False
+Kafi (thaat)_Bageshree_bageshree3.wav,Bageshree,Komal Rishabh Asavari,Desi,Rageshree,0.012465588748455048,False
+Kafi (thaat)_Bahar_1.mp3,Bahar,Marva,Puriya,Poorvi,0.03561714291572571,False
+Kafi (thaat)_Bahar_19.mp3,Bahar,Rageshree,Bahar,Puriya,0.00995243787765504,False
+Kafi (thaat)_Bahar_20.mp3,Bahar,Komal Rishabh Asavari,Rageshree,Desi,0.004775055817195284,False
+Kafi (thaat)_Bahar_7.mp3,Bahar,Rageshree,Poorvi,Asavari,0.006568387150764465,False
+Kafi (thaat)_Bahar_8.mp3,Bahar,Gujari Todi,Madhuvanti,Bhimpalasi,0.01645459912040015,False
+Kafi (thaat)_Barwa_6.mp3,Barwa,Gauri,Bilaskhani Todi,Pahadi,0.10879858411275423,False
+Kafi (thaat)_Barwa_8.mp3,Barwa,Deepak,Bhinna Shadja,Malhar,0.04602400693174913,False
+Kafi (thaat)_Bhimpalasi_1.mp3,Bhimpalasi,Desi,Komal Rishabh Asavari,Bhairavi,0.05560218095779418,False
+Kafi (thaat)_Bhimpalasi_16.mp3,Bhimpalasi,Desi,Komal Rishabh Asavari,Bhairavi,0.0022949682814734085,False
+Kafi (thaat)_Bhimpalasi_3.mp3,Bhimpalasi,Komal Rishabh Asavari,Desi,Bhatiyar,0.007480257087283615,False
+Kafi (thaat)_Bhimpalasi_8.mp3,Bhimpalasi,Puriya,Gujari Todi,Rageshree,0.06386937946081161,False
+Kafi (thaat)_Kafi_11.mp3,Kafi,Ramkali,Pahadi,Bhairavi,0.019876714795827866,False
+Kafi (thaat)_Kafi_13.mp3,Kafi,Komal Rishabh Asavari,Desi,Bhatiyar,0.012582778930664062,False
+Kafi (thaat)_Kafi_16.mp3,Kafi,Komal Rishabh Asavari,Desi,Ramkali,0.04422615095973015,False
+Kafi (thaat)_Kafi_8.mp3,Kafi,Rageshree,Desi,Komal Rishabh Asavari,0.0573294460773468,False
+Kafi (thaat)_Malhar_0.mp3,Malhar,Kafi,Bhairavi,Rageshree,0.018161453306674957,False
+Kafi (thaat)_Malhar_13.mp3,Malhar,Basant,Desh,Miyan Ki Todi orTodi or Darbari Todi,0.02407909631729127,False
+Kafi (thaat)_Malhar_8.mp3,Malhar,Malkauns,Bageshree,Multani,0.022764315207799257,False
+Kafi (thaat)_Megh Malhar_0.mp3,Megh Malhar,Puriya,Komal Bhairav,Bihag,0.022393683592478453,False
+Kafi (thaat)_Megh Malhar_13.mp3,Megh Malhar,Ramkali,Bhairavi,Miyan Ki Todi orTodi or Darbari Todi,0.034602182136999615,False
+Kafi (thaat)_Megh Malhar_8.mp3,Megh Malhar,Komal Rishabh Asavari,Desi,Bhatiyar,0.006312340497970581,False
+Kafi (thaat)_Megh_0.mp3,Megh,Desh,Puriya,Komal Rishabh Asavari,0.029141328164509372,False
+Kafi (thaat)_Megh_13.mp3,Megh,Deepak,Rageshree,Ramkali,0.03470965474843979,False
+Kafi (thaat)_Megh_8.mp3,Megh,Ramkali,Bilaval,Deepak,0.018912629647688417,False
+Kafi (thaat)_sarang_12.mp3,sarang,Bhatiyar,Ramkali,Adana,0.06677750125527382,False
+Kafi (thaat)_sarang_3.mp3,sarang,Komal Rishabh Asavari,Desi,Bhatiyar,0.008405804634094238,False
+Kafi (thaat)_sarang_8.mp3,sarang,Bilaskhani Todi,Ramkali,Bhairavi,0.0020377979828761217,False
+Kafi (thaat)_sarang_sarang02.wav,sarang,Bageshree,Deepak,Asavari,0.07728961110115051,False
+Kafi (thaat)_sarang_sarang04.wav,sarang,Bageshree,Bihag,Basant,0.02295372635126114,False
+Kafi (thaat)_sarang_sarang1.wav,sarang,Asavari,Sohni,sarang,0.013836016257604,False
+Kalyan (thaat)_Bhoopali_12.mp3,Bhoopali,Rageshree,Miyan Ki Todi orTodi or Darbari Todi,Deepak,0.0002017199993133434,False
+Kalyan (thaat)_Bhoopali_13.mp3,Bhoopali,Adana,Bahar,Rageshree,0.029380202293395996,False
+Kalyan (thaat)_Bhoopali_2.mp3,Bhoopali,Rageshree,Miyan Ki Todi orTodi or Darbari Todi,Komal Rishabh Asavari,0.008876991325191097,False
+Kalyan (thaat)_Bhoopali_bhoop02.wav,Bhoopali,Bhairav Bahar,Malkauns,Rageshree,0.022973686456680298,False
+Kalyan (thaat)_Bhoopali_ibhoop06.wav,Bhoopali,Desi,Bhatiyar,Komal Rishabh Asavari,0.005895665713718912,False
+Kalyan (thaat)_Hindol_0.mp3,Hindol,Shree,Gujari Todi,Miyan Ki Todi orTodi or Darbari Todi,0.0947889366320201,False
+Kalyan (thaat)_Hindol_2.mp3,Hindol,Lalit,Rageshree,Puriya,0.012256256465254134,False
+Kalyan (thaat)_Hindol_5.mp3,Hindol,Desh,Bhimpalasi,Bageshree,0.038147455453872714,False
+Kalyan (thaat)_Kedar_1.mp3,Kedar,Rageshree,Desi,Miyan Ki Todi orTodi or Darbari Todi,0.14214083055655158,False
+Kalyan (thaat)_Kedar_16.mp3,Kedar,Desh,Puriya,Komal Rishabh Asavari,0.028473514318466175,False
+Kalyan (thaat)_Kedar_19.mp3,Kedar,Madhuvanti,Bibhas,sarang,0.042089538914816704,False
+Kalyan (thaat)_Kedar_5.mp3,Kedar,Puriya,Marva,Malkauns,0.020271559556325258,False
+Kalyan (thaat)_Yaman Kalyan_0.mp3,Yaman Kalyan,Yaman or Kalyan,Pahadi,Bhimpalasi,0.12711083889007563,False
+Kalyan (thaat)_Yaman Kalyan_2.mp3,Yaman Kalyan,sarang,Sohni,Yaman or Kalyan,0.025373101234436035,False
+Kalyan (thaat)_Yaman Kalyan_5.mp3,Yaman Kalyan,Sohni,sarang,Ramkali,4.35603516442673e-05,False
+Kalyan (thaat)_Yaman or Kalyan_12.mp3,Yaman or Kalyan,Deepak,Desi,Bhatiyar,0.024168208241462708,False
+Kalyan (thaat)_Yaman or Kalyan_14.mp3,Yaman or Kalyan,Multani,sarang,Shree,0.011005674799283327,False
+Kalyan (thaat)_Yaman or Kalyan_4.mp3,Yaman or Kalyan,Rageshree,Yaman or Kalyan,Bhatiyar,0.016204367081324278,False
+Kalyan (thaat)_Yaman or Kalyan_5.mp3,Yaman or Kalyan,Rageshree,Bhairavi,Miyan Ki Todi orTodi or Darbari Todi,0.006505747636159298,False
+Kalyan (thaat)_Yaman or Kalyan_7.mp3,Yaman or Kalyan,Desh,Puriya,Basant,0.002075083553791046,False
+Kalyan (thaat)_Yaman or Kalyan_Yaman08.wav,Yaman or Kalyan,Darbari,Asavari,Malkauns,0.026927808920542418,False
+Kalyan (thaat)_Yaman or Kalyan_Yaman10.wav,Yaman or Kalyan,Adana,Pahadi,Bhoopali,0.006069670120875004,False
+Kalyan (thaat)_Yaman or Kalyan_yaman05.wav,Yaman or Kalyan,Bageshree,Miyan Ki Todi orTodi or Darbari Todi,Asavari,0.020811058580875397,False
+Kalyan (thaat)_suddha kalyan_6.mp3,suddha kalyan,Desh,sarang,Bhimpalasi,0.003965001021112746,False
+Kalyan (thaat)_suddha kalyan_8.mp3,suddha kalyan,Ramkali,Desh,Alhaiya Bilaval,0.0001492240401201883,False
+Khamaj (thaat)_Desh_0.mp3,Desh,Rageshree,Miyan Ki Todi orTodi or Darbari Todi,Komal Rishabh Asavari,0.013329525788625118,False
+Khamaj (thaat)_Desh_1.mp3,Desh,Adana,Yaman or Kalyan,Kedar,0.03828227519989014,False
+Khamaj (thaat)_Desh_10.mp3,Desh,Rageshree,Desi,Komal Rishabh Asavari,0.02458098530769348,False
+Khamaj (thaat)_Desh_16.mp3,Desh,Bhimpalasi,Multani,Puriya,0.051120142141977964,False
+Khamaj (thaat)_Desh_4.mp3,Desh,Bageshree,Komal Rishabh Asavari,Hemant,0.028573036193847656,False
+Khamaj (thaat)_Jhinjhoti_6.mp3,Jhinjhoti,Komal Rishabh Asavari,Bhairavi,Miyan Ki Todi orTodi or Darbari Todi,0.014244437217712402,False
+Khamaj (thaat)_Jhinjhoti_8.mp3,Jhinjhoti,Desh,Shree,Ramkali,0.011255130171775818,False
+Khamaj (thaat)_Khamaj_1.mp3,Khamaj,Bhatiyar,Puriya,Hemant,0.03287079930305481,False
+Khamaj (thaat)_Khamaj_16.mp3,Khamaj,Bageshree,Puriya,Bhimpalasi,0.01613163948059082,False
+Khamaj (thaat)_Khamaj_19.mp3,Khamaj,Rageshree,Bhairavi,Bhatiyar,0.01005062460899353,False
+Khamaj (thaat)_Khamaj_4.mp3,Khamaj,Puriya,Ahir Bhairav,Jaunpuri,0.06641487280527753,False
+Khamaj (thaat)_Rageshree_0.mp3,Rageshree,Komal Bhairav,Deepak,Rageshree,0.08378241956233978,False
+Khamaj (thaat)_Rageshree_2.mp3,Rageshree,sarang,Sohni,Yaman or Kalyan,0.025373101234436035,False
+Khamaj (thaat)_Rageshree_5.mp3,Rageshree,Deepak,Basant,Malkauns,0.03366828759511309,False
+Khamaj (thaat)_Sorath_4.mp3,Sorath,Komal Rishabh Asavari,Desi,Bhatiyar,0.01006487163446712,False
+Khamaj (thaat)_Sorath_9.mp3,Sorath,Bihag,Malkauns,Desh,0.017263084650039673,False
+Marva (thaat)_Bhatiyar_11.mp3,Bhatiyar,Ramkali,Komal Rishabh Asavari,Deepak,0.04871578514575958,False
+Marva (thaat)_Bhatiyar_13.mp3,Bhatiyar,Bhoopali,Deepak,Bhairavi,0.058136360211805904,False
+Marva (thaat)_Bhatiyar_16.mp3,Bhatiyar,Abhogi,Bhoopali,Deepak,0.06387280258867473,False
+Marva (thaat)_Bhatiyar_8.mp3,Bhatiyar,Puriya,Desh,Shree,0.00040988458527457805,False
+Marva (thaat)_Marva_11.mp3,Marva,Rageshree,Desi,Komal Rishabh Asavari,0.004316639900207531,False
+Marva (thaat)_Marva_13.mp3,Marva,Komal Rishabh Asavari,Desi,Bhoopali,0.008866389592488644,False
+Marva (thaat)_Marva_16.mp3,Marva,Desh,Deepak,Ramkali,0.0032961004628584978,False
+Marva (thaat)_Marva_8.mp3,Marva,Malkauns,Puriya,Bihag,0.0014998657362801926,False
+Marva (thaat)_Purba_5.mp3,Purba,Khamaj,Deepak,Ramkali,0.011572657719902402,False
+Marva (thaat)_Purba_8.mp3,Purba,Bageshree,Bhimpalasi,Rageshree,0.0017338931560516024,False
+Marva (thaat)_Puriya_16.mp3,Puriya,Bhoopali,Megh Malhar,Deepak,0.013017809225453258,False
+Marva (thaat)_Puriya_4.mp3,Puriya,Bhoopali,Shree,Marva,0.05434147516886395,False
+Marva (thaat)_Puriya_8.mp3,Puriya,Rageshree,Bhairavi,Bhatiyar,0.00040198649678907517,False
+Marva (thaat)_Sohni_0.mp3,Sohni,Malkauns,Deepak,Bihag,0.005868487060070038,False
+Marva (thaat)_Sohni_13.mp3,Sohni,Komal Rishabh Asavari,Ramkali,Deepak,0.005341307322184241,False
+Marva (thaat)_Sohni_8.mp3,Sohni,Megh Malhar,Poorvi,Hemant,0.014707329869270314,False
+Poorvi (thaat)_Basant_0.mp3,Basant,Desh,Basant Mukhari,Bhimpalasi,0.03392632305622101,False
+Poorvi (thaat)_Basant_13.mp3,Basant,Madhuvanti,Rageshree,sarang,0.02536220670636019,False
+Poorvi (thaat)_Basant_19.mp3,Basant,Gujari Todi,Deepak,Madhuvanti,0.008369967341423035,False
+Poorvi (thaat)_Basant_20.mp3,Basant,Multani,Desh,Poorvi,0.015257426670619412,False
+Poorvi (thaat)_Basant_8.mp3,Basant,Multani,Sohni,Puriya,0.17050718665122988,False
+Poorvi (thaat)_Deepak_0.mp3,Deepak,Basant,Shree,Deepak,0.03641936182975769,False
+Poorvi (thaat)_Deepak_13.mp3,Deepak,Komal Rishabh Asavari,Desi,Rageshree,0.011258021990458222,False
+Poorvi (thaat)_Deepak_19.mp3,Deepak,Komal Rishabh Asavari,Desi,Miyan Ki Todi orTodi or Darbari Todi,0.0035817126433055346,False
+Poorvi (thaat)_Deepak_20.mp3,Deepak,Bhimpalasi,Desh,Durga,0.009122068683306395,False
+Poorvi (thaat)_Deepak_8.mp3,Deepak,Bhoopali,Bhimpalasi,Desh,0.046822428703308105,False
+Poorvi (thaat)_Gauri_0.mp3,Gauri,Rageshree,Desi,Komal Rishabh Asavari,0.010410999709909552,False
+Poorvi (thaat)_Gauri_13.mp3,Gauri,Desi,Komal Rishabh Asavari,Rageshree,0.0013816621568467635,False
+Poorvi (thaat)_Gauri_8.mp3,Gauri,Desi,Bhatiyar,Komal Rishabh Asavari,0.006803472836812374,False
+Poorvi (thaat)_Lalit_0.mp3,Lalit,Lalit,Ramkali,Gujari Todi,0.019444137811660767,True
+Poorvi (thaat)_Lalit_2.mp3,Lalit,Deepak,Ramkali,Bhairavi,0.0035480175699506566,False
+Poorvi (thaat)_Lalit_5.mp3,Lalit,Multani,Madhuvanti,Bahar,0.01883109360933305,False
+Poorvi (thaat)_Poorvi_0.mp3,Poorvi,Puriya,Ahir Bhairav,Asavari,0.055773377418518066,False
+Poorvi (thaat)_Poorvi_13.mp3,Poorvi,Desi,Komal Rishabh Asavari,Rageshree,0.005809716880321503,False
+Poorvi (thaat)_Poorvi_8.mp3,Poorvi,Poorvi,Deepak,Desh,0.06188385486602782,True
+Poorvi (thaat)_Shree_0.mp3,Shree,Komal Rishabh Asavari,Desi,Rageshree,0.009284603595733687,False
+Poorvi (thaat)_Shree_2.mp3,Shree,Bilaskhani Todi,Multani,Bhoopali,0.07016542282971472,False
+Poorvi (thaat)_Shree_5.mp3,Shree,Desi,Komal Rishabh Asavari,Rageshree,0.010637031661139607,False
+Todi (thaat)_Gujari Todi_0.mp3,Gujari Todi,Deepak,Bhimpalasi,Desi,0.04028906822204592,False
+Todi (thaat)_Gujari Todi_2.mp3,Gujari Todi,Rageshree,Desi,Bhatiyar,0.005962918202082279,False
+Todi (thaat)_Gujari Todi_5.mp3,Gujari Todi,Bhatiyar,Ramkali,Deepak,0.007557004690170288,False
+Todi (thaat)_Madhuvanti_0.mp3,Madhuvanti,Rageshree,Yaman or Kalyan,Sohni,0.02215393384297687,False
+Todi (thaat)_Madhuvanti_2.mp3,Madhuvanti,sarang,Sohni,Puriya,0.041016481816768646,False
+Todi (thaat)_Madhuvanti_5.mp3,Madhuvanti,Ramkali,Deepak,Abhogi,0.03740815983878243,False
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_1.mp3,Miyan Ki Todi orTodi or Darbari Todi,Rageshree,Sohni,Bhairavi,0.05876644253730773,False
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_16.mp3,Miyan Ki Todi orTodi or Darbari Todi,Malkauns,Miyan Ki Todi orTodi or Darbari Todi,Rageshree,0.01929258487441321,False
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_3.mp3,Miyan Ki Todi orTodi or Darbari Todi,Bhimpalasi,Ramkali,Desh,0.008503973484039307,False
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_8.mp3,Miyan Ki Todi orTodi or Darbari Todi,Pahadi,Rageshree,Komal Rishabh Asavari,0.050563911596933964,False
+Todi (thaat)_Multani_0.mp3,Multani,Desi,Komal Rishabh Asavari,Rageshree,4.6888987223381307e-05,False
+Todi (thaat)_Multani_13.mp3,Multani,Gujari Todi,Komal Rishabh Asavari,Bhatiyar,0.0006358504295349565,False
+Todi (thaat)_Multani_8.mp3,Multani,Deepak,Bhinna Shadja,Sohni,0.008726692199707065,False

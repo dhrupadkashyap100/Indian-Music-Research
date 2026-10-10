@@ -1,0 +1,16 @@
+Original Song ID,Genre,Top-1 Raag,Top-1 Similarity,Top-2 Raag,Top-2 Similarity,Top-1/Top-2 Margin,Top-5 Raags
+BAUL_023,Baul,Purba,0.9455066283543904,,0.0,0.9455066283543904,Purba
+GARBA_023,Garba,Purba,0.9347563755512236,,0.0,0.9347563755512236,Purba
+GHOOMAR_019,Ghoomar,Alhaiya Bilaval,0.936007823885941,suddha kalyan,0.9204554756482444,0.0155523482376966,"Alhaiya Bilaval, suddha kalyan, Pahadi, Bhimpalasi, Adana"
+BHANGRA_007,Bhangra,Megh,0.9486719965934752,Deepak,0.9359232783317566,0.0127487182617187,"Megh, Deepak, Bhatiyar, Bilaskhani Todi, sarang"
+DHAMAIL_021,Dhamail,Bihag,0.9413678646087646,Yaman Kalyan,0.9299077093601228,0.0114601552486419,"Bihag, Yaman Kalyan, Kedar, Nat Bhairav, Darbari"
+JHUMUR_0012,Jhumur,Malkauns,0.9293084144592284,Madhuvanti,0.9191690683364868,0.0101393461227417,"Malkauns, Madhuvanti, Bilaval, Asavari, Sorath"
+BHANGRA_031,Bhangra,Rageshree,0.9378849665323892,Khamaj,0.9288759529590608,0.0090090135733286,"Rageshree, Khamaj, Bilaval, Sorath, Bhairavi"
+BAUL_024,Baul,Purba,0.9334065094590188,Bageshree,0.9245622754096984,0.0088442340493202,"Purba, Bageshree, Desh"
+LAVANI_017,Lavani,Barwa,0.9222913682460784,Darbari,0.9137349327405294,0.008556435505549,"Barwa, Darbari, Alhaiya Bilaval, Ahir Bhairav, Kafi"
+LAVANI_012,Lavani,Puriya,0.9578474164009094,Kedar,0.9494200348854064,0.0084273815155029,"Puriya, Kedar, Bageshree, Megh, Bihag"
+BAUL_021,Baul,Purba,0.9417316913604736,Gauri,0.9333698932941144,0.0083617980663592,"Purba, Gauri, Bageshree"
+BIHU_019,Bihu,Megh,0.94159068663915,Bhairavi,0.933493435382843,0.008097251256307,"Megh, Bhairavi, Desh, Bahar, Bageshree"
+BHANGRA_024,Bhangra,Bilaval,0.9225921630859376,Desh,0.914510816335678,0.0080813467502594,"Bilaval, Desh, Ahir Bhairav, Bageshree, Darbari"
+BHANGRA_014,Bhangra,Gujari Todi,0.938441514968872,Megh,0.9303874969482422,0.0080540180206298,"Gujari Todi, Megh, Puriya, Bilaskhani Todi, Miyan Ki Todi orTodi or Darbari Todi"
+MAAND_010,Maand,Gauri,0.953689992427826,Bageshree,0.9456642270088196,0.0080257654190063,"Gauri, Bageshree, Adana, Desh, Khamaj"

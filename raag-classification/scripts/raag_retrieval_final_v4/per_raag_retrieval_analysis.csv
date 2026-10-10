@@ -1,0 +1,62 @@
+Raag,Val_Count,Top1,Confusion
+Abhogi,3,0.0,Khamaj
+Adana,4,0.5,Bahar
+Ahir Bhairav,3,0.3333333333333333,Basant Mukhari
+Alhaiya Bilaval,3,0.3333333333333333,Malkauns
+Asavari,6,0.6666666666666666,Bhairavi
+Bageshree,7,0.2857142857142857,Adana
+Bahar,5,0.0,Kedar
+Barwa,2,0.0,Bhimpalasi
+Basant,5,0.2,Marva
+Basant Mukhari,2,0.0,Basant
+Bhairav,3,0.3333333333333333,Komal Bhairav
+Bhairav Bahar,3,0.3333333333333333,Basant
+Bhairavi,5,0.6,Alhaiya Bilaval
+Bhatiyar,4,0.0,Bhairav Bahar
+Bhimpalasi,4,0.75,Megh
+Bhinna Shadja,3,0.0,Alhaiya Bilaval
+Bhoopali,5,0.6,Bahar
+Bhupal Todi,3,1.0,None
+Bibhas,3,0.0,Bhatiyar
+Bihag,3,0.0,Jaunpuri
+Bilaskhani Todi,3,0.3333333333333333,Basant
+Bilaval,3,0.3333333333333333,Gauri
+Darbari,5,0.6,Adana
+Deepak,5,0.2,Basant
+Desh,5,0.2,Bahar
+Desi,2,1.0,None
+Durga,2,0.0,Pahadi
+Gauri,3,0.3333333333333333,Bhairavi
+Gujari Todi,3,0.6666666666666666,Miyan Ki Todi orTodi or Darbari Todi
+Hemant,3,0.3333333333333333,Yaman or Kalyan
+Hindol,3,0.3333333333333333,Basant
+Jaunpuri,3,0.3333333333333333,Adana
+Jhinjhoti,2,0.5,Rageshree
+Kafi,3,0.0,Durga
+Kedar,4,0.5,Malhar
+Khamaj,4,0.0,Bhimpalasi
+Komal Bhairav,1,0.0,Puriya
+Komal Rishabh Asavari,3,0.0,Asavari
+Lalit,3,0.3333333333333333,Gujari Todi
+Madhuvanti,3,0.6666666666666666,Nat Bhairav
+Malhar,3,0.0,Adana
+Malkauns,5,0.8,Malhar
+Marva,3,0.3333333333333333,Poorvi
+Megh,3,0.3333333333333333,Megh Malhar
+Megh Malhar,3,0.0,Bhoopali
+Miyan Ki Todi orTodi or Darbari Todi,4,0.25,Bhairavi
+Multani,3,0.3333333333333333,Bhairav Bahar
+Nat Bhairav,3,0.3333333333333333,Ahir Bhairav
+Pahadi,3,0.6666666666666666,Kedar
+Poorvi,2,1.0,None
+Purba,2,0.0,Bageshree
+Puriya,3,0.0,Deepak
+Rageshree,3,0.0,Bhimpalasi
+Ramkali,3,0.6666666666666666,Bhoopali
+Shree,3,0.3333333333333333,Basant
+Sohni,3,0.0,Puriya
+Sorath,2,0.0,Bhimpalasi
+Yaman Kalyan,3,0.6666666666666666,Yaman or Kalyan
+Yaman or Kalyan,8,0.375,Bahar
+sarang,6,0.3333333333333333,Barwa
+suddha kalyan,2,0.5,Khamaj

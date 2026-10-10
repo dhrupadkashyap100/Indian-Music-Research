@@ -1,0 +1,62 @@
+Observed_Raag_Label,Thaat,Recording_Count,Possible_Normalized_Label,Potential_Alias,Needs_Manual_Verification
+Adana,Asavari (thaat),26,adana,,False
+Asavari,Asavari (thaat),29,asavari,,False
+Darbari,Asavari (thaat),31,darbari,DarbariKanada,True
+Desi,Asavari (thaat),12,desi,,False
+Jaunpuri,Asavari (thaat),14,jaunpuri,,False
+Ahir Bhairav,Bhairav (thaat),13,ahirbhairav,AheerBhairav,True
+Basant Mukhari,Bhairav (thaat),12,basantmukhari,,False
+Bhairav,Bhairav (thaat),15,bhairav,Bhairav,False
+Bhairav Bahar,Bhairav (thaat),16,bhairavbahar,,False
+Bibhas,Bhairav (thaat),16,bibhas,,False
+Komal Bhairav,Bhairav (thaat),5,komalbhairav,,False
+Nat Bhairav,Bhairav (thaat),16,natbhairav,,False
+Ramkali,Bhairav (thaat),15,ramkali,,False
+Bhairavi,Bhairavi (thaat),37,bhairavi,Bhairavi,False
+Bhupal Todi,Bhairavi (thaat),14,bhupaltodi,,False
+Bilaskhani Todi,Bhairavi (thaat),14,bilaskhanitodi,,False
+Komal Rishabh Asavari,Bhairavi (thaat),13,komalrishabhasavari,,False
+Malkauns,Bhairavi (thaat),37,malkauns,Malkauns,False
+Alhaiya Bilaval,Bilaval (thaat),13,alhaiyabilaval,,False
+Bhinna Shadja,Bilaval (thaat),13,bhinnashadja,,False
+Bihag,Bilaval (thaat),21,bihag,Bihag,False
+Bilaval,Bilaval (thaat),16,bilaval,,False
+Durga,Bilaval (thaat),15,durga,Durga,False
+Hemant,Bilaval (thaat),14,hemant,,False
+Pahadi,Bilaval (thaat),14,pahadi,,False
+Abhogi,Kafi (thaat),13,abhogi,,False
+Bageshree,Kafi (thaat),38,bageshree,Bageshree,False
+Bahar,Kafi (thaat),26,bahar,Bahar,False
+Barwa,Kafi (thaat),12,barwa,,False
+Bhimpalasi,Kafi (thaat),22,bhimpalasi,Bheempalasi,True
+Kafi,Kafi (thaat),18,kafi,Kafi,False
+Malhar,Kafi (thaat),15,malhar,Malhar,False
+Megh,Kafi (thaat),15,megh,,False
+Megh Malhar,Kafi (thaat),14,meghmalhar,,False
+sarang,Kafi (thaat),33,sarang,Sarang,False
+Bhoopali,Kalyan (thaat),31,bhoopali,Bhoopali,False
+Hindol,Kalyan (thaat),13,hindol,Hindol,False
+Kedar,Kalyan (thaat),20,kedar,Kedar,False
+suddha kalyan,Kalyan (thaat),12,suddhakalyan,,False
+Yaman Kalyan,Kalyan (thaat),13,yamankalyan,,False
+Yaman or Kalyan,Kalyan (thaat),42,yamanorkalyan,,False
+Desh,Khamaj (thaat),23,desh,,False
+Jhinjhoti,Khamaj (thaat),12,jhinjhoti,,False
+Khamaj,Khamaj (thaat),21,khamaj,Khamaj,False
+Rageshree,Khamaj (thaat),13,rageshree,,False
+Sorath,Khamaj (thaat),11,sorath,,False
+Bhatiyar,Marva (thaat),18,bhatiyar,,False
+Marva,Marva (thaat),18,marva,,False
+Purba,Marva (thaat),10,purba,,False
+Puriya,Marva (thaat),17,puriya,,False
+Sohni,Marva (thaat),14,sohni,,False
+Basant,Poorvi (thaat),25,basant,Basant,False
+Deepak,Poorvi (thaat),25,deepak,,False
+Gauri,Poorvi (thaat),15,gauri,,False
+Lalit,Poorvi (thaat),13,lalit,Lalit,False
+Poorvi,Poorvi (thaat),15,poorvi,,False
+Shree,Poorvi (thaat),13,shree,Shree,False
+Gujari Todi,Todi (thaat),13,gujaritodi,,False
+Madhuvanti,Todi (thaat),13,madhuvanti,Madhuvanti,False
+Miyan Ki Todi orTodi or Darbari Todi,Todi (thaat),22,miyankitodiortodiordarbaritodi,,False
+Multani,Todi (thaat),14,multani,Multani,False

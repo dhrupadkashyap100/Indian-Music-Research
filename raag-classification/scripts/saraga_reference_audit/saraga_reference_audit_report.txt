@@ -1,0 +1,52 @@
+SARAGA REFERENCE AUDIT REPORT
+=============================
+A. Total SARAGA recordings: 93
+B. Total SARAGA Raags: 61
+C. Number of exact overlaps: 19
+D. Number of possible alias overlaps: 5
+E. Number of unsupported Raags: 37
+
+F. Reference Quality of Exact-Overlap Raags:
+   - Shree: 5 recordings, 16043.72s total -> GOOD REFERENCE
+   - Jog: 3 recordings, 8084.45s total -> LIMITED REFERENCE
+   - Todi: 3 recordings, 5862.72s total -> LIMITED REFERENCE
+   - Marwa: 3 recordings, 4370.56s total -> LIMITED REFERENCE
+   - Bihag: 2 recordings, 6457.35s total -> LIMITED REFERENCE
+   - Bairagi: 2 recordings, 3411.95s total -> LIMITED REFERENCE
+   - Multani: 2 recordings, 3192.67s total -> LIMITED REFERENCE
+   - Dhani: 2 recordings, 2896.90s total -> LIMITED REFERENCE
+   - Malkauns: 2 recordings, 2651.15s total -> LIMITED REFERENCE
+   - Hameer: 2 recordings, 2032.65s total -> LIMITED REFERENCE
+   - Kedar: 1 recordings, 2727.01s total -> VERY LIMITED REFERENCE
+   - Bageshree: 1 recordings, 2293.50s total -> VERY LIMITED REFERENCE
+   - Bahar: 1 recordings, 1670.15s total -> VERY LIMITED REFERENCE
+   - Bhairav: 1 recordings, 1457.59s total -> VERY LIMITED REFERENCE
+   - Khamaj: 1 recordings, 1165.57s total -> VERY LIMITED REFERENCE
+   - MaruBihag: 1 recordings, 961.05s total -> VERY LIMITED REFERENCE
+   - Madhukauns: 1 recordings, 565.37s total -> VERY LIMITED REFERENCE
+   - Des: 1 recordings, 386.89s total -> VERY LIMITED REFERENCE
+   - Chandrakauns: 1 recordings, 239.07s total -> VERY LIMITED REFERENCE
+
+G. Recommended classes for first similarity experiment:
+   - Shree
+
+H. Classes that should be excluded (Very Limited Reference):
+   - Kedar
+   - Bageshree
+   - Bahar
+   - Bhairav
+   - Khamaj
+   - MaruBihag
+   - Madhukauns
+   - Des
+   - Chandrakauns
+
+I. Why conventional supervised training is currently inappropriate:
+   Most overlapping Raags (like Bairagi, Multani, Marwa) only have a single recording in SARAGA.
+   A supervised classifier trained on one recording will perfectly memorize the singer's voice, tempo, and instruments, but completely fail to generalize to a different artist or genre (like the Folk dataset). There is zero intra-class variance.
+
+J. Why segment-level splitting would cause leakage:
+   Taking a single 15-minute recording, cutting it into 5-second segments, and randomly dividing them into Train/Validation/Test sets causes massive data leakage. The model will see segments from the exact same singer/recording session in both training and testing, artificially inflating accuracy without learning true musical invariants.
+
+K. Important limitations of using SARAGA as a reference bank:
+   SARAGA contains high-quality long-form classical performances, but lacks the dataset diversity needed for robust Raag reference. A single recording may focus heavily on a specific movement (e.g., Alap) and not capture the full melodic progression of the Raag. Comparing lively, rhythmic 2-minute Folk songs to a single 20-minute slow classical Alap using basic acoustic features could yield poor similarity scores due to tempo and stylistic mismatch rather than Raag mismatch.

@@ -1,0 +1,182 @@
+PROJECT PROGRESS SUMMARY
+========================
+
+1. Project Information
+----------------------
+Project Title: AI-Based Analysis of Indian Traditional Folk Music
+Objective: To accurately classify Indian traditional folk music into distinct regional genres using advanced deep learning techniques, specifically through multi-feature fusion and attention mechanisms.
+Problem Statement: Indian folk music exhibits complex rhythmic structures, region-specific instrumentation, and microtonal nuances that are challenging for standard convolutional networks to classify using single-domain features.
+Motivation: Standard CNNs struggle to isolate discriminative frequency bins and temporal events in densely packed spectrograms of folk music. Utilizing attention mechanisms (CBAM) and multi-domain audio features (Mel-Spectrogram + Chromagram) aims to solve this limitation.
+Internship Context: Research-grade deep learning project involving architectural enhancements, rigorous evaluation, and strict reproducibility standards.
+Current Completion Status: 100% (Final Research Packaging Complete).
+
+2. Dataset
+----------
+Dataset Source: Indian Traditional Folk Music collection.
+Number of Classes: 10
+Class Names: Baul, Bhangra, Bihu, Dhamail, Garba, Ghoomar, Jhumur, Lavani, Maand, Sambalpuri.
+Number of Samples per Class: Variable (e.g., in Test Set: Maand has 714 segments, Bhangra has 185 segments, Garba has 528). Total test segments: 3607.
+Train/Validation/Test Split: 70% Training, 15% Validation, 15% Testing.
+Metadata Format: CSV (master_dataset.csv, mel_metadata.csv, chroma_metadata.csv).
+Preprocessing Performed: 
+- Standardization to 22,050 Hz sampling rate, 1 channel (mono), 16-bit PCM WAV.
+- Silence removal (threshold 1e-4), normalization (peak 0.99).
+- Segmentation into 10-second overlapping clips (5-second overlap), skipping first 10% intro.
+Any Class Imbalance: Yes, significant class imbalance exists. For instance, Maand is heavily represented, while Bhangra has fewer segments.
+Challenges with the Dataset: Class imbalance significantly impacts minority class recall. Highly percussive genres like Garba overlap acoustically with other rhythmic genres, making temporal disambiguation difficult.
+
+3. Feature Extraction
+---------------------
+Mel Spectrogram Generation: Extracts the timbral and rhythmic envelope of the music.
+Chromagram Generation: Extracts the pitch-class profile and harmonic progression.
+Parameters Used:
+- Sampling Rate: 22,050 Hz
+- N_FFT: 2048
+- Window Length: 2048
+- Hop Length: 512
+- Mel Bands (N_MELS): 128
+- Target Frames: 938
+- Input Image Size: (128, 938)
+Normalization: Applied during processing.
+Augmentations: Pitch shifting (-2 to +2 steps), Time stretching (0.9x to 1.1x), Noise addition (factor 0.003), Gain adjustments (0.8x to 1.2x).
+
+4. Model Architecture
+---------------------
+EfficientNet Variant: EfficientNet-B0
+Multi-Feature Pipeline: The network accepts two inputs (Mel-Spectrogram and Chromagram).
+Mel Branch & Chroma Branch: Both are stacked/concatenated early in the network along the channel dimension.
+Feature Fusion: The concatenated 2-channel input is passed through an initial 1x1 convolution block (with BatchNorm and ReLU) to fuse it into a 1-channel representation.
+CBAM Placement: The Convolutional Block Attention Module (CBAM) is placed immediately after the initial multi-feature fusion block and before the EfficientNet-B0 backbone.
+Classifier Head: A fully connected linear layer outputting probabilities for 10 classes.
+
+5. Training Configuration
+-------------------------
+Optimizer: Adam
+Learning Rate: 0.001
+Scheduler: ReduceLROnPlateau (factor=0.5, patience=5 tracking validation loss)
+Batch Size: 32
+Epochs: 40
+Loss Function: Cross-Entropy Loss
+Label Smoothing: 0.1
+Dropout: Enabled in EfficientNet backbone
+Weight Decay: Not explicitly available (default Adam behavior).
+SpecAugment: Enabled (Time mask prob 0.5, Freq mask prob 0.5).
+Test-Time Augmentation: Enabled (3 passes, time shift 10).
+Early Stopping: Implemented via observation (best model checkpointing).
+Hardware Used: CUDA-enabled GPU.
+
+6. Experiments Performed
+------------------------
+1. Baseline EfficientNet: To establish baseline performance using single features.
+2. Multi-feature model: To evaluate the benefit of combining Mel-Spectrograms and Chromagrams.
+3. Regularization experiments: Introduced SpecAugment and Label Smoothing to combat overfitting.
+4. CBAM experiment: Integrated attention mechanisms to selectively emphasize important spatial and channel features.
+5. Crash Recovery: Handled an unexpected system crash during Epoch 40 of CBAM training by performing a read-only audit to rescue the optimal Epoch 33 checkpoint.
+6. Final Evaluation: Evaluated the untouched best checkpoint on the test set to finalize results without data leakage.
+
+7. Results (CBAM Model)
+-----------------------
+Training (Best Epoch): Accuracy ~97.8%, Loss ~0.63
+Validation (Best Epoch): Accuracy 70.78%, Loss 1.2751
+Testing: Accuracy 68.70%, Loss 1.0559
+Confusion Matrix Summary: Strongest separation in Sambalpuri and Lavani. Weakest separation in Garba and Dhamail. Jhumur sees high recall but low precision.
+Classification Report Summary:
+- Macro Precision: 0.6783
+- Macro Recall: 0.7108
+- Macro F1: 0.6788
+- Weighted F1: 0.6699
+Best Checkpoint: best_cbam_classifier.pth
+Best Epoch: 33
+
+8. Baseline vs CBAM Comparison
+------------------------------
+Metric                  | Baseline (Multi-Feature) | CBAM Model      | Relative Improvement
+Validation Accuracy     | 67.44%                   | 70.78%          | +3.34%
+Test Accuracy           | 65.07%                   | 68.70%          | +3.63%
+Macro Precision         | 0.6579                   | 0.6783          | +2.04%
+Macro Recall            | 0.6847                   | 0.7108          | +2.61%
+Macro F1                | 0.6556                   | 0.6788          | +2.32%
+Total Parameters        | 4,025,351                | 4,025,577       | N/A
+Extra Parameters        | N/A                      | +226            | N/A
+Relative Param Increase | N/A                      | +0.0056%        | N/A
+
+9. Engineering Work
+-------------------
+- Developed complete preprocessing and segmentation pipelines.
+- Implemented EfficientNet backbone and Multi-feature fusion logic.
+- Implemented and integrated the CBAM attention mechanism.
+- Handled unexpected system crash through a rigorous Read-Only Emergency Recovery Audit.
+- Generated comprehensive Python scripts for visualization, packaging, and reproducibility.
+- Executed strict repository cleanup (archiving scratch files to `archive/development_tools/`).
+- Authored professional README, Engineering Report, Research Report, and Checklists.
+
+10. Challenges Faced
+--------------------
+- Dataset Issues / Class Imbalance: Garba has high support but terrible recall (0.2178), constantly misclassified as similar percussive genres. Resolved partially by CBAM, but remains an open challenge.
+- System Crash: The laptop crashed during Epoch 40 of CBAM training. Resolved by writing custom audit scripts to verify the integrity of the Epoch 33 checkpoint, preventing data loss and retraining.
+- Feature Disambiguation: Distinguishing genres solely on spatial/channel features is hard when rhythms overlap. Resolved by fusing Pitch (Chroma) and Timbre (Mel) before attention.
+
+11. Repository Structure
+------------------------
+Folk_Music_Classifier/
+├── .venv/                      
+├── archive/
+│   └── development_tools/      
+├── checkpoints/                
+├── datasets/                   
+├── docs/                       
+├── models/                     
+├── notebooks/                  
+├── outputs/                    
+├── results/                    
+│   ├── baseline/               
+│   ├── cbam/                   
+│   ├── figures/                
+│   ├── logs/                   
+│   ├── metrics/                
+│   └── reports/                
+├── scripts/                    
+├── utils/                      
+├── PROJECT_STRUCTURE.md
+├── requirements.txt            
+├── SUBMISSION_CHECKLIST.md
+└── README.md                   
+
+12. Deliverables Generated
+--------------------------
+- Reports: cbam_research_report.md, cbam_final_engineering_report.md, statistical_summary.md
+- Figures: accuracy_vs_epoch_comparison.png, loss_vs_epoch_comparison.png, performance_comparison_bar.png, confusion_matrix.png
+- Checkpoints: best_multi_feature_classifier.pth, best_cbam_classifier.pth
+- Metrics: baseline_eval_report.json, cbam_classification_report.json
+- Logs: multi_feature_training_log.csv, cbam_training_log.csv
+- Documentation: README.md, PROJECT_STRUCTURE.md, SUBMISSION_CHECKLIST.md
+- Environment: requirements.txt
+
+13. Current Status
+------------------
+What has been completed: The entire CBAM experiment, evaluation, mathematical verification, engineering audit, and research packaging.
+What remains: Nothing required for submission.
+Is the project reproducible: Yes, completely reproducible using the provided README and requirements.txt.
+Is the baseline preserved: Yes, the baseline model and logs remain 100% untouched.
+Is the CBAM experiment finalized: Yes.
+
+14. Future Work
+----------------
+- Implement Hard-Negative Mining or targeted augmentation (time-stretching) specifically for the poorly performing Garba class.
+- Integrate Temporal Attention Mechanisms (Transformers / LSTMs) to capture sequential rhythm progression across the 30-second clips.
+- Perform an Ablation Study placing the CBAM module deeper inside the EfficientNet mobile-inverted bottleneck blocks instead of early fusion.
+- Explore late-fusion architectures where Mel and Chroma have independent CNN backbones before fusion.
+
+15. Important Figures
+---------------------
+- Accuracy Curves: results/figures/accuracy_vs_epoch_comparison.png (and .pdf)
+- Loss Curves: results/figures/loss_vs_epoch_comparison.png (and .pdf)
+- Metric Bar Chart: results/figures/performance_comparison_bar.png (and .pdf)
+- Confusion Matrix: results/figures/confusion_matrix.png
+
+16. References
+--------------
+- Dataset: Indian Traditional Folk Music Collection
+- Libraries: PyTorch, Torchaudio, Pandas, Matplotlib, Seaborn, Scikit-learn
+- Models: EfficientNet-B0 (pretrained on ImageNet)
+- Research Papers/Mechanisms: Convolutional Block Attention Module (CBAM)

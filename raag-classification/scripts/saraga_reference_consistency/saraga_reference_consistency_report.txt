@@ -1,0 +1,32 @@
+SARAGA REFERENCE CONSISTENCY REPORT
+===================================
+Raag: Shree -> PARTIALLY CONSISTENT (Top-5: 22.1%)
+Raag: Jog -> INCONSISTENT (Top-5: 12.6%)
+Raag: Todi -> INCONSISTENT (Top-5: 10.3%)
+Raag: Marwa -> INCONSISTENT (Top-5: 9.2%)
+Raag: Bihag -> PARTIALLY CONSISTENT (Top-5: 43.5%)
+Raag: Bairagi -> PARTIALLY CONSISTENT (Top-5: 35.8%)
+Raag: Multani -> PARTIALLY CONSISTENT (Top-5: 18.5%)
+Raag: Dhani -> PARTIALLY CONSISTENT (Top-5: 16.3%)
+Raag: Malkauns -> PARTIALLY CONSISTENT (Top-5: 46.1%)
+Raag: Hameer -> INCONSISTENT (Top-5: 13.5%)
+
+FINAL DECISION SUPPORT
+======================
+1. Does the pretrained model show enough consistency on SARAGA to justify using it as a reference model for the Folk dataset?
+   No, it is highly inconsistent. It repeatedly fails to recognize its own training classes on high-quality classical audio.
+
+2. Which SARAGA Raags does the model recognize most consistently?
+   None significantly.
+
+3. Which Raags are consistently confused?
+   Jog, Todi, Marwa, Hameer.
+
+4. Is the model collapsing toward a small number of output classes?
+   Yes, it shows bias. For example, KaushikDhwani represents 9.2% of all predictions across all reference classes.
+
+5. Based on this experiment, should we:
+   A. Proceed with the pretrained model for Folk candidate-label generation,
+   B. Use it only as a weak reference,
+   C. Abandon it completely and move to another approach?
+   Recommendation: C. Abandon it completely and move to another approach.

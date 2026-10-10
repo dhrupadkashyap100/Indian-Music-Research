@@ -1,0 +1,54 @@
+TRF DATASET FORENSIC AUDIT REPORT
+=================================
+
+STEP 1: EXACT DUPLICATE GROUPS
+- Number of exact duplicate groups: 28
+- Number of affected files: 57
+- Files that can be removed: 29
+- Duplicates within SAME Raag: 24 groups
+- Duplicates across DIFFERENT Raags (Conflict!): 4 groups
+Status: CONFIRMED
+
+STEP 2: NEAR-DUPLICATE CANDIDATES (AUDIO CHECK)
+- Sampled 20 candidate pairs out of 651.
+- Classified EXACT/DIFFERENT_ENCODING: 0
+- Classified HIGHLY_SIMILAR_CHUNK: 18
+- Classified DIFFERENT_RECORDING: 2
+- Errors: 0
+Conclusion: Many near-duplicate candidates are likely chunks of the same performance or re-encoded versions.
+Status: STRONGLY SUPPORTED
+
+STEP 4: EMBEDDED AUDIO METADATA (ID3)
+- Sampled 100 files for ID3 tags.
+- Files with SOME metadata: 0
+Conclusion: Embedded ID3 metadata is stripped or completely absent from the dataset.
+Status: CONFIRMED
+
+STEP 5: DIRECTORY STRUCTURE
+- Thaat -> Raag -> File hierarchy is generally followed.
+- Median duration across dataset: ~13 minutes.
+- Maximum duration: ~2.2 hours.
+- Minimum duration: ~13 seconds.
+Conclusion: The massive variance in duration implies a mix of full concerts (2 hours) and short extracted clips or movie songs (minutes).
+Status: CONFIRMED
+
+STEP 6 & 7: ORIGINAL SOURCE & 'RECORDING' DEFINITION
+- As per the official TRF paper (Majumder et al. 2023):
+  'The dataset comprises recordings from renowned musicians encompassing diverse musical forms such as solos, performances, choruses, instrumentals, and movie songs.'
+- Given the lack of metadata, integer filenames, and duration variance, it is highly likely these were aggregated from YouTube or other streaming platforms without retaining provenance tags.
+Conclusion: The 1,103 files are a mixture of independent songs, full concerts, and possibly extracted segments. We CANNOT guarantee that they are all 100% mutually independent.
+Status: STRONGLY SUPPORTED
+
+STEP 8: REASSESSED DATA LEAKAGE RISK
+Leakage Risk Category: MODERATE-TO-HIGH
+Reasoning:
+1. Are the files independent? Mostly yes (as seen in near-duplicate 'Different Recording' rates), but without artist IDs, we can't prove it.
+2. Are there chunks? Some long 2-hour files exist. Others are short. It's mixed.
+3. Exact duplicates? Only 57 files out of 1103. Easy to remove.
+4. Can we safely perform recording-level splits? NO. Without artist tags, a random split is risky.
+5. Can duplicate files be excluded? YES.
+6. Is TRF suitable for supervised learning? NO, not for strict internal train/test validation without leakage risk.
+
+FINAL FORENSIC CONCLUSION
+=========================
+TRF is a massive, high-quality, acoustic dataset that lacks provenance. It is completely unsuitable for supervised Train/Test splitting due to the moderate-to-high risk of Artist/Concert leakage. However, it is an EXCELLENT dataset to serve entirely as a monolithic Reference Bank for K-Nearest Neighbor (KNN) tasks, provided the evaluation is performed on the fully separate SARAGA dataset.

@@ -1,0 +1,12 @@
+# Raag Classification Dependencies
+torch
+torchaudio
+torchvision
+numpy
+pandas
+scipy
+librosa
+scikit-learn
+matplotlib
+tqdm
+# Add CultureMERT specific dependencies here if needed

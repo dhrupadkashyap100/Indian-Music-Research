@@ -1,0 +1,29 @@
+duplicate_group_id,files_involved,raags_involved,is_conflict,action_recommendation
+1,2,Asavari,False,Remove all but one copy
+2,2,Asavari,False,Remove all but one copy
+3,2,Asavari,False,Remove all but one copy
+4,2,Asavari,False,Remove all but one copy
+5,2,Darbari,False,Remove all but one copy
+6,2,Basant Mukhari | Basant,True,Remove entirely from dataset to prevent label noise
+7,2,Bhairav | Bhatiyar,True,Remove entirely from dataset to prevent label noise
+8,2,Bhairavi,False,Remove all but one copy
+9,2,Bhairavi,False,Remove all but one copy
+10,2,Bhairavi,False,Remove all but one copy
+11,2,Bhairavi,False,Remove all but one copy
+12,2,Bhairavi,False,Remove all but one copy
+13,2,Bhairavi,False,Remove all but one copy
+14,3,Malkauns,False,Remove all but one copy
+15,2,Bageshree,False,Remove all but one copy
+16,2,Bageshree,False,Remove all but one copy
+17,2,Bageshree,False,Remove all but one copy
+18,2,Bageshree,False,Remove all but one copy
+19,2,Bageshree,False,Remove all but one copy
+20,2,Malhar | Megh Malhar,True,Remove entirely from dataset to prevent label noise
+21,2,Malhar | Megh Malhar,True,Remove entirely from dataset to prevent label noise
+22,2,sarang,False,Remove all but one copy
+23,2,sarang,False,Remove all but one copy
+24,2,sarang,False,Remove all but one copy
+25,2,sarang,False,Remove all but one copy
+26,2,Yaman or Kalyan,False,Remove all but one copy
+27,2,Yaman or Kalyan,False,Remove all but one copy
+28,2,Yaman or Kalyan,False,Remove all but one copy

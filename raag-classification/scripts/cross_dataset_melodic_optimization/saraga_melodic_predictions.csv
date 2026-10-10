@@ -1,0 +1,55 @@
+Recording_ID,True_Label,Pred_Label,Correct
+REC_0008_EST,Komal Rishabh Asavari,Desi,False
+REC_0009_EST,Gauri,Ramkali,False
+REC_0011_EST,Gauri,Basant,False
+REC_0012_EST,Sohni,Yaman Kalyan,False
+REC_0015_EST,Ahir Bhairav,Rageshree,False
+REC_0017_EST,Bilaskhani Todi,Rageshree,False
+REC_0019_EST,Malkauns,Rageshree,False
+REC_0021_EST,Multani,Rageshree,False
+REC_0022_EST,Nat Bhairav,Rageshree,False
+REC_0023_EST,Rageshree,Rageshree,True
+REC_0024_EST,suddha kalyan,Rageshree,False
+REC_0026_EST,Miyan Ki Todi orTodi or Darbari Todi,Rageshree,False
+REC_0027_EST,Bilaskhani Todi,Miyan Ki Todi orTodi or Darbari Todi,False
+REC_0028_EST,Desh,Bageshree,False
+REC_0029_EST,Lalit,Deepak,False
+REC_0031_EST,Marva,Miyan Ki Todi orTodi or Darbari Todi,False
+REC_0034_EST,Yaman Kalyan,Barwa,False
+REC_0035_EST,Bhairavi,Asavari,False
+REC_0038_EST,Abhogi,Bageshree,False
+REC_0039_EST,Megh,Desi,False
+REC_0040_EST,Abhogi,suddha kalyan,False
+REC_0041_EST,Khamaj,Desh,False
+REC_0042_EST,Rageshree,Abhogi,False
+REC_0043_EST,Ahir Bhairav,Puriya,False
+REC_0044_EST,Miyan Ki Todi orTodi or Darbari Todi,Miyan Ki Todi orTodi or Darbari Todi,True
+REC_0045_EST,Bhairavi,Desi,False
+REC_0046_EST,Bageshree,Barwa,False
+REC_0047_EST,Bahar,Bahar,True
+REC_0049_EST,Yaman Kalyan,Bhimpalasi,False
+REC_0050_EST,Bhairav,Gauri,False
+REC_0052_EST,Bhairavi,Miyan Ki Todi orTodi or Darbari Todi,False
+REC_0053_EST,Bhatiyar,Hindol,False
+REC_0054_EST,Bhimpalasi,suddha kalyan,False
+REC_0055_EST,Multani,Multani,True
+REC_0056_EST,Bhoopali,Yaman or Kalyan,False
+REC_0058_EST,Bhairavi,Bilaskhani Todi,False
+REC_0059_EST,Bihag,Miyan Ki Todi orTodi or Darbari Todi,False
+REC_0060_EST,Bihag,Barwa,False
+REC_0065_EST,Bhimpalasi,Barwa,False
+REC_0067_EST,Yaman or Kalyan,Marva,False
+REC_0069_EST,Kedar,Durga,False
+REC_0072_EST,Bibhas,Bhairav Bahar,False
+REC_0073_EST,Lalit,Ramkali,False
+REC_0076_EST,Malkauns,Bhinna Shadja,False
+REC_0078_EST,Marva,Poorvi,False
+REC_0079_EST,Marva,Bhairav Bahar,False
+REC_0080_EST,Shree,Jaunpuri,False
+REC_0085_EST,Shree,Gujari Todi,False
+REC_0086_EST,Shree,Miyan Ki Todi orTodi or Darbari Todi,False
+REC_0087_EST,Bhairavi,Alhaiya Bilaval,False
+REC_0089_EST,Shree,Miyan Ki Todi orTodi or Darbari Todi,False
+REC_0090_EST,Miyan Ki Todi orTodi or Darbari Todi,Adana,False
+REC_0091_EST,Lalit,Lalit,True
+REC_0092_EST,Shree,Miyan Ki Todi orTodi or Darbari Todi,False

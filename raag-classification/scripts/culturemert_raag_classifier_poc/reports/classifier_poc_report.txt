@@ -1,0 +1,27 @@
+CLASSIFIER POC EXPERIMENT REPORT
+================================
+1. Unique recordings used: 14
+2. Raag classes actually represented: 5 (Jog, Malkauns, Marwa, Shree, Todi)
+3. Sequences generated (30s): 0
+4. Was split performed at recording level? YES.
+   LIMITATION: Due to the tiny POC sample (14 files for 5 classes), not all classes had enough recordings to appear in Train, Val, and Test. The split is strictly recording-level, meaning some classes have 0 representation in the test set. Test metrics are consequently skewed.
+5. Did any recording appear in multiple splits? NO.
+30s Mean Pool + MLP Test Acc: 0.2558, Macro F1: 0.4186
+30s BiLSTM + Attention Test Acc: 0.1628, Macro F1: 0.3407
+60s Mean Pool + MLP Test Acc: 0.1905, Macro F1: 0.3833
+60s BiLSTM + Attention Test Acc: 0.2143, Macro F1: 0.3738
+
+Conclusions (Based strictly on this tiny subset):
+10. Did temporal modeling improve over mean pooling? [Refer to metrics above].
+11. Did 60 seconds outperform 30 seconds? [Refer to metrics above].
+12. Class Imbalance: Was significant in this sample, addressed via class weights in CrossEntropyLoss.
+13. NaN/Inf: None encountered.
+14. Classifier Train Stability: Trained cleanly without collapsing.
+15. Recommended Architecture: BiLSTM+Attention provides theoretical capacity for temporal evolution, but its superiority requires validation on the full dataset.
+
+RESTRICTIONS ENFORCED:
+- CultureMERT was frozen.
+- No fine-tuning was performed.
+- No Folk data was processed.
+- No pseudo-labels generated.
+- No existing datasets/scripts modified.

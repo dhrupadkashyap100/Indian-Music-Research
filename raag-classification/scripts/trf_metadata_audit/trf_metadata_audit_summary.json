@@ -1,0 +1,7 @@
+{
+    "is_track_metadata": false,
+    "solves_leakage": false,
+    "safe_to_split": false,
+    "can_use_as_reference": true,
+    "decision": "USE AS MONOLITHIC REFERENCE"
+}

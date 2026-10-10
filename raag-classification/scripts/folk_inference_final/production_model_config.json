@@ -1,0 +1,18 @@
+{
+    "model": "Hybrid SVM B",
+    "test_accuracy": "45.02%",
+    "geometric_weight": 0.75,
+    "svm_weight": 0.25,
+    "svm_C": 10,
+    "svm_gamma": "scale",
+    "feature_representation": 1884,
+    "transition_weight": 0.75,
+    "pitch_class_weight": 0.20,
+    "n3_weight": 0.05,
+    "temporal_aggregation": "Top-50%",
+    "reference_aggregation": "MAX",
+    "confidence_thresholds": {
+        "HIGH": 0.12,
+        "MODERATE": 0.05
+    }
+}

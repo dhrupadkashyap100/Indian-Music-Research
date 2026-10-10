@@ -1,0 +1,17 @@
+FINAL FOLK DATASET INTEGRITY AUDIT
+===================================
+Original Folk recordings = 328: PASS (328)
+Successful predictions = 327: PASS (327)
+Failed recordings = 1: PASS (1)
+Math check (327 + 1 = 328): PASS
+Zero duplicate recording IDs: PASS
+Zero duplicate filenames: PASS
+Zero missing valid predictions: PASS
+Every Top-1 has Top-2 and Top-3: PASS
+Score margins are correct (Top1 - Top2): PASS
+Score ordering correct (Top1 >= Top2 >= Top3): PASS
+Confidence tiers match frozen thresholds exactly: PASS
+No predictions were manually modified: PASS
+Frozen model configuration is unchanged: PASS
+TRF TEST was not accessed: PASS
+No Folk ground-truth labels were assumed: PASS

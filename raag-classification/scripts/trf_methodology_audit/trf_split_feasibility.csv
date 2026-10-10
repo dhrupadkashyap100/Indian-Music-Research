@@ -1,0 +1,4 @@
+Method,Feasibility,Reasoning
+Artist/Source Grouped Split,IMPOSSIBLE,"Artist, concert, and source IDs are completely absent from the dataset (UNKNOWN)."
+Random File Split (70/15/15),RISKY BUT PRACTICAL,"Without source metadata, a random file-level split is the ONLY way to train/val split TRF internally. It risks leakage if files are chunks, but it is standard practice for opaque datasets."
+"TRF as Train, SARAGA as Test",HIGHLY DEFENSIBLE,Using TRF 100% for training/reference and a completely independent dataset (SARAGA) for testing guarantees zero data leakage.

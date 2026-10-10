@@ -1,0 +1,15 @@
+dataset,raag,thaat,audio_path,duration,sample_rate,channels
+TRF,Shree,Poorvi (thaat),D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Poorvi (thaat)\Shree\0.mp3,630.7004081632653,44100,2
+TRF,Shree,Poorvi (thaat),D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Poorvi (thaat)\Shree\1.mp3,769.4164172335601,44100,2
+TRF,Malkauns,Bhairavi (thaat),D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Bhairavi (thaat)\Malkauns\0.mp3,335.06395833333335,48000,2
+TRF,Malkauns,Bhairavi (thaat),D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Bhairavi (thaat)\Malkauns\1.mp3,215.85066666666663,48000,2
+SARAGA,Shree,,D:\Raaga_Recognition_Project\Reference_Model\Raaga_Info\reference_dataset\Saraga\saraga1.5_hindustani\Raag Marwa & Shree by Omkar Dadarkar\Raag Shree\Raag Shree.mp3.mp3,2250.3063718820863,44100,2
+SARAGA,Shree,,D:\Raaga_Recognition_Project\Reference_Model\Raaga_Info\reference_dataset\Saraga\saraga1.5_hindustani\Raag Shree by Deborshee Bhattacharya\Raag Shree\Raag Shree.mp3.mp3,3053.562970521542,44100,2
+SARAGA,Todi,,D:\Raaga_Recognition_Project\Reference_Model\Raaga_Info\reference_dataset\Saraga\saraga1.5_hindustani\Geetinandan _ Part-3 by Ajoy Chakrabarty\Todi\Todi.mp3.mp3,540.92,44100,2
+SARAGA,Todi,,D:\Raaga_Recognition_Project\Reference_Model\Raaga_Info\reference_dataset\Saraga\saraga1.5_hindustani\Raag Ahir Bhairon & Todi by Omkar Dadarkar\Raag Todi\Raag Todi.mp3.mp3,1056.144739229025,44100,2
+SARAGA,Marwa,,D:\Raaga_Recognition_Project\Reference_Model\Raaga_Info\reference_dataset\Saraga\saraga1.5_hindustani\Hindustani Alaps by Kaustuv Kanti Ganguli\Raag Marwa\Raag Marwa.mp3.mp3,393.0872562358277,44100,2
+SARAGA,Marwa,,D:\Raaga_Recognition_Project\Reference_Model\Raaga_Info\reference_dataset\Saraga\saraga1.5_hindustani\Raag Marwa & Hameer by Sameehan Kashalkar\Raag Marwa\Raag Marwa.mp3.mp3,2039.6920833333334,48000,2
+SARAGA,Jog,,D:\Raaga_Recognition_Project\Reference_Model\Raaga_Info\reference_dataset\Saraga\saraga1.5_hindustani\Raag Jog & Hameer by Brajeshwar Mukherjee\Raag Jog\Raag Jog.mp3.mp3,2013.454126984127,44100,2
+SARAGA,Jog,,D:\Raaga_Recognition_Project\Reference_Model\Raaga_Info\reference_dataset\Saraga\saraga1.5_hindustani\Raag Jog & Kirwani Bhajan by Kaustuv Kanti Ganguli\Raag Jog\Raag Jog.mp3.mp3,2923.664739229025,44100,2
+SARAGA,Malkauns,,D:\Raaga_Recognition_Project\Reference_Model\Raaga_Info\reference_dataset\Saraga\saraga1.5_hindustani\Geetinandan _ Part-3 by Ajoy Chakrabarty\Malkauns\Malkauns.mp3.mp3,332.8,44100,2
+SARAGA,Malkauns,,"D:\Raaga_Recognition_Project\Reference_Model\Raaga_Info\reference_dataset\Saraga\saraga1.5_hindustani\Raag Malkauns, Chandrakauns & Majh Khamaj Thumri by Satyasheel Deshpande\Raag Malkauns\Raag Malkauns.mp3.mp3",2318.3542176870747,44100,2

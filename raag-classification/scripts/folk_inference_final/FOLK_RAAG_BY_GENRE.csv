@@ -1,0 +1,11 @@
+folk_genre,total_recordings,successful_recordings,failed_recordings,Top-1_predicted_Raag,Top-2_predicted_Raag,Top-3_predicted_Raag,HIGH_count,MODERATE_count,AMBIGUOUS_count
+Baul,30,30,0,Bhairavi,Desh,Pahadi,0,2,28
+Bhangra,32,32,0,sarang,Malkauns,Pahadi,2,1,29
+Bihu,37,37,0,Megh,Malkauns,suddha kalyan,1,7,29
+Dhamail,30,30,0,Pahadi,Khamaj,Desh,0,2,28
+Garba,31,31,0,Malkauns,Megh Malhar,Megh,0,4,27
+Ghoomar,30,30,0,suddha kalyan,Pahadi,Malkauns,0,5,25
+Jhumur,30,30,0,Durga,Megh Malhar,Malkauns,2,4,24
+Lavani,35,35,0,Darbari,Marva,Yaman or Kalyan,1,2,32
+Maand,39,39,0,suddha kalyan,Khamaj,Alhaiya Bilaval,0,4,35
+Sambalpuri,34,33,1,Malkauns,Megh Malhar,Darbari,0,7,26

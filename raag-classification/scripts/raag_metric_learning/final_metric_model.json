@@ -1,0 +1,15 @@
+{
+    "STATUS": "METRIC LEARNING REJECTED",
+    "BEST_MODEL": "EXISTING 43.10% CONTROL MODEL",
+    "REASON": "Supervised metric learning failed to outperform the hand-engineered cosine retrieval control model on both TRF Validation and SARAGA Generalization sets. The models overfitted the small dataset. Per explicit stop conditions, the existing control is permanently retained.",
+    "FROZEN_ARCHITECTURE": {
+        "features": {
+            "Transition_Matrix": 0.75,
+            "Pitch_Class": 0.20,
+            "N3_Trigrams": 0.05
+        },
+        "temporal_aggregation": "Top-50% most confident sequences",
+        "reference_aggregation": "MAX similarity against TRF TRAIN",
+        "trainable_parameters": 0
+    }
+}

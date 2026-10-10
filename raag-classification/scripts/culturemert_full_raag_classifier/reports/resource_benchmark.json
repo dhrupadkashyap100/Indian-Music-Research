@@ -1,0 +1,10 @@
+{
+    "culturemert_load_time_sec": 26.559287309646606,
+    "dry_run_extraction_time_sec": 164.70301246643066,
+    "avg_time_per_5s_segment_sec": 0.07161000542018725,
+    "gpu_memory_usage_gb": 0.537936384,
+    "total_embeddings_generated": 2300,
+    "discarded_fragments": 15,
+    "projected_full_dataset_extraction_hours": 3.4527025897873433,
+    "projected_full_dataset_disk_mb": 508.5214337436391
+}

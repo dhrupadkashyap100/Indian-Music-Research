@@ -1,0 +1,35 @@
+DATASET PROVENANCE & LEAKAGE AUDIT REPORT
+=========================================
+
+1. Dataset size: ~17 GB
+2. Number of Raags: 61
+3. Recordings per Raag: Mean 18.1, Median 15.0
+4. Duplicate count (Exact SHA256): 57 files involved in exact duplication.
+5. Near-duplicate count: 651 candidate pairs with highly similar duration/size.
+6. Number of suspected shared performances: UNKNOWN (Metadata missing).
+7. Artist diversity: UNKNOWN (No artist metadata provided).
+8. Source/concert diversity: UNKNOWN.
+9. Raags with insufficient independent recordings: 1 (Based on strict independence rules, all are insufficient as independence is 0).
+10. Raags suitable for strong reference experiments: NONE (Requires verified independence).
+11. Leakage risk: HIGH. The dataset lacks any provenance metadata. Filenames are integers (e.g., '1.mp3').
+12. Whether recording-level splitting is possible: NO. Since we don't know if '1.mp3' and '2.mp3' are from the same concert, splitting them into Train/Test guarantees massive data leakage.
+
+13. Recommended evaluation strategy:
+    Use TRF as a monolithic reference database. Do NOT use it to train and test a supervised classifier via random splits.
+    Extract CultureMERT embeddings for TRF. Use TRF *only* as the training/reference bank. Evaluate the recognition accuracy on the COMPLETELY SEPARATE, held-out SARAGA dataset, because SARAGA has known labels and guaranteed independence from TRF.
+    Once validated on SARAGA, apply the KNN reference bank to the unlabeled Folk dataset.
+
+14. Overall Decision:
+    GO WITH CAUTION.
+    The dataset is musically rich and large enough for reference embedding extraction. However, the complete lack of metadata means it CANNOT be internally split into train/test sets without violating scientific validity. It must be used entirely as a reference set and evaluated against an external dataset (SARAGA).
+
+CONFIRMED BY AUDIT:
+- Audio files are real, decodable, and not corrupted.
+- Large volume of data is present.
+- Exact and near duplicates exist but are relatively minor.
+
+INFERRED:
+- The dataset is likely scraped from YouTube or a continuous streaming source, given the sequential integer naming convention and lack of ID3 tags/metadata files.
+
+CANNOT BE DETERMINED:
+- Artist, Concert, Album, Year, and true independence of performances.

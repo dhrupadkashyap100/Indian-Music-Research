@@ -1,0 +1,8 @@
+{
+    "svm_audit_status": "PASS",
+    "training_data": "TRF TRAIN only (635 recordings).",
+    "test_data_leakage": "NONE. TRF TEST was unsealed exactly once after the model was completely fit and frozen.",
+    "folk_data_leakage": "NONE.",
+    "saraga_leakage": "NONE. SARAGA was used only for evaluation.",
+    "platt_scaling_calibration": "Platt scaling (`probability=True` in sklearn.svm.SVC) is fitted using an internal 5-fold cross-validation on the provided training data ONLY. Since the training data provided to `fit()` was strictly TRF TRAIN, the calibration is mathematically isolated and uncontaminated by TRF TEST or FOLK."
+}

@@ -1,0 +1,1151 @@
+recording_id,dataset,split,raag,n_sequences,tonic_type
+Asavari (thaat)_Adana_0.mp3,TRF,TEST,Adana,8,EST
+Asavari (thaat)_Adana_10.mp3,TRF,TEST,Adana,16,EST
+Asavari (thaat)_Adana_1.mp3,TRF,VAL,Adana,1,EST
+Asavari (thaat)_Adana_13.mp3,TRF,TEST,Adana,24,EST
+Asavari (thaat)_Adana_14.mp3,TRF,TRAIN,Adana,2,EST
+Asavari (thaat)_Adana_11.mp3,TRF,TRAIN,Adana,20,EST
+Asavari (thaat)_Adana_12.mp3,TRF,TRAIN,Adana,19,EST
+Asavari (thaat)_Adana_16.mp3,TRF,TEST,Adana,3,EST
+Asavari (thaat)_Adana_15.mp3,TRF,TRAIN,Adana,3,EST
+Asavari (thaat)_Adana_18.mp3,TRF,TRAIN,Adana,18,EST
+Asavari (thaat)_Adana_20.mp3,TRF,VAL,Adana,20,EST
+Asavari (thaat)_Adana_2.mp3,TRF,TRAIN,Adana,10,EST
+Asavari (thaat)_Adana_21.mp3,TRF,TRAIN,Adana,6,EST
+Asavari (thaat)_Adana_22.mp3,TRF,TRAIN,Adana,11,EST
+Asavari (thaat)_Adana_25.mp3,TRF,TRAIN,Adana,6,EST
+Asavari (thaat)_Adana_3.mp3,TRF,TRAIN,Adana,7,EST
+Asavari (thaat)_Adana_24.mp3,TRF,TRAIN,Adana,28,EST
+Asavari (thaat)_Adana_8.mp3,TRF,VAL,Adana,17,EST
+Asavari (thaat)_Asavari_0.mp3,TRF,VAL,Asavari,2,EST
+Asavari (thaat)_Asavari_1.mp3,TRF,TRAIN,Asavari,5,EST
+Asavari (thaat)_Asavari_5.mp3,TRF,TRAIN,Asavari,3,EST
+Asavari (thaat)_Asavari_4.mp3,TRF,TRAIN,Asavari,3,EST
+Asavari (thaat)_Asavari_2.mp3,TRF,TRAIN,Asavari,6,EST
+Asavari (thaat)_Asavari_3.mp3,TRF,TRAIN,Asavari,5,EST
+Asavari (thaat)_Asavari_6.mp3,TRF,TRAIN,Asavari,5,EST
+Asavari (thaat)_Asavari_7.mp3,TRF,TRAIN,Asavari,3,EST
+Asavari (thaat)_Asavari_8.mp3,TRF,VAL,Asavari,3,EST
+Asavari (thaat)_Asavari_9.mp3,TRF,TEST,Asavari,4,EST
+Asavari (thaat)_Asavari_asavari04.wav,TRF,TEST,Asavari,3,EST
+Asavari (thaat)_Asavari_asavari01.wav,TRF,TRAIN,Asavari,4,EST
+Asavari (thaat)_Asavari_asavari05.wav,TRF,TEST,Asavari,4,EST
+Asavari (thaat)_Asavari_asavari03.wav,TRF,VAL,Asavari,3,EST
+Asavari (thaat)_Asavari_asavari2.wav,TRF,TEST,Asavari,5,EST
+Asavari (thaat)_Asavari_asavari1.wav,TRF,TRAIN,Asavari,5,EST
+Asavari (thaat)_Asavari_asavari25.wav,TRF,VAL,Asavari,1,EST
+Asavari (thaat)_Asavari_asavari27.wav,TRF,TRAIN,Asavari,1,EST
+Asavari (thaat)_Adana_23.mp3,TRF,TEST,Adana,5,EST
+Asavari (thaat)_Adana_19.mp3,TRF,VAL,Adana,3,EST
+Asavari (thaat)_Asavari_asavari6.wav,TRF,TRAIN,Asavari,1,EST
+Asavari (thaat)_Asavari_asavari7.wav,TRF,TEST,Asavari,1,EST
+Asavari (thaat)_Adana_4.mp3,TRF,TRAIN,Adana,12,EST
+Asavari (thaat)_Adana_7.mp3,TRF,VAL,Adana,14,EST
+Asavari (thaat)_Adana_6.mp3,TRF,TRAIN,Adana,10,EST
+Asavari (thaat)_Adana_9.mp3,TRF,TRAIN,Adana,26,EST
+Asavari (thaat)_Adana_17.mp3,TRF,TEST,Adana,11,EST
+Asavari (thaat)_Asavari_asavari3.wav,TRF,VAL,Asavari,5,EST
+Asavari (thaat)_Asavari_asavari29.wav,TRF,TRAIN,Asavari,1,EST
+Asavari (thaat)_Asavari_asavari28.wav,TRF,TRAIN,Asavari,1,EST
+Asavari (thaat)_Asavari_asavari5.wav,TRF,TRAIN,Asavari,5,EST
+Asavari (thaat)_Asavari_asavari30.wav,TRF,VAL,Asavari,1,EST
+Asavari (thaat)_Asavari_asavari4.wav,TRF,TRAIN,Asavari,5,EST
+Asavari (thaat)_Asavari_asavari9.wav,TRF,TRAIN,Asavari,1,EST
+Asavari (thaat)_Asavari_asavari8.wav,TRF,TEST,Asavari,1,EST
+Asavari (thaat)_Darbari_1.mp3,TRF,TRAIN,Darbari,6,EST
+Asavari (thaat)_Darbari_10.mp3,TRF,TRAIN,Darbari,31,EST
+Asavari (thaat)_Darbari_11.mp3,TRF,TRAIN,Darbari,10,EST
+Asavari (thaat)_Darbari_6.mp3,TRF,TEST,Darbari,4,EST
+Asavari (thaat)_Darbari_5.mp3,TRF,VAL,Darbari,2,EST
+Asavari (thaat)_Darbari_0.mp3,TRF,TEST,Darbari,6,EST
+Asavari (thaat)_Darbari_4.mp3,TRF,TRAIN,Darbari,7,EST
+Asavari (thaat)_Darbari_12.mp3,TRF,VAL,Darbari,10,EST
+Asavari (thaat)_Darbari_2.mp3,TRF,VAL,Darbari,4,EST
+Asavari (thaat)_Darbari_3.mp3,TRF,TRAIN,Darbari,3,EST
+Asavari (thaat)_Darbari_7.mp3,TRF,TRAIN,Darbari,7,EST
+Asavari (thaat)_Darbari_9.mp3,TRF,TEST,Darbari,10,EST
+Asavari (thaat)_Darbari_8.mp3,TRF,TRAIN,Darbari,18,EST
+Asavari (thaat)_Adana_5.mp3,TRF,TRAIN,Adana,9,EST
+Asavari (thaat)_Darbari_darbari2.wav,TRF,TRAIN,Darbari,3,EST
+Asavari (thaat)_Darbari_darbari3.wav,TRF,TRAIN,Darbari,3,EST
+Asavari (thaat)_Darbari_darbari4.wav,TRF,TEST,Darbari,3,EST
+Asavari (thaat)_Darbari_darbari5.wav,TRF,VAL,Darbari,3,EST
+Asavari (thaat)_Darbari_DKanada01.wav,TRF,TRAIN,Darbari,2,EST
+Asavari (thaat)_Darbari_DKanada02.wav,TRF,TEST,Darbari,2,EST
+Asavari (thaat)_Darbari_DKanada03.wav,TRF,TRAIN,Darbari,3,EST
+Asavari (thaat)_Darbari_DKanada05.wav,TRF,TRAIN,Darbari,2,EST
+Asavari (thaat)_Darbari_DKanada04.wav,TRF,VAL,Darbari,2,EST
+Asavari (thaat)_Desi_0.mp3,TRF,TEST,Desi,3,EST
+Asavari (thaat)_Desi_1.mp3,TRF,TRAIN,Desi,55,EST
+Asavari (thaat)_Desi_11.mp3,TRF,TRAIN,Desi,21,EST
+Asavari (thaat)_Desi_10.mp3,TRF,TRAIN,Desi,13,EST
+Asavari (thaat)_Desi_2.mp3,TRF,TRAIN,Desi,36,EST
+Asavari (thaat)_Desi_3.mp3,TRF,TEST,Desi,3,EST
+Asavari (thaat)_Desi_5.mp3,TRF,TRAIN,Desi,10,EST
+Asavari (thaat)_Desi_4.mp3,TRF,TRAIN,Desi,43,EST
+Asavari (thaat)_Desi_6.mp3,TRF,VAL,Desi,52,EST
+Asavari (thaat)_Desi_8.mp3,TRF,VAL,Desi,27,EST
+Asavari (thaat)_Desi_7.mp3,TRF,TEST,Desi,29,EST
+Asavari (thaat)_Desi_9.mp3,TRF,TRAIN,Desi,18,EST
+Asavari (thaat)_Jaunpuri_11.mp3,TRF,TRAIN,Jaunpuri,49,EST
+Asavari (thaat)_Jaunpuri_12.mp3,TRF,TRAIN,Jaunpuri,41,EST
+Asavari (thaat)_Jaunpuri_0.mp3,TRF,VAL,Jaunpuri,6,EST
+Asavari (thaat)_Jaunpuri_1.mp3,TRF,TRAIN,Jaunpuri,19,EST
+Asavari (thaat)_Jaunpuri_13.mp3,TRF,VAL,Jaunpuri,60,EST
+Asavari (thaat)_Jaunpuri_2.mp3,TRF,TRAIN,Jaunpuri,2,EST
+Asavari (thaat)_Jaunpuri_4.mp3,TRF,TEST,Jaunpuri,19,EST
+Asavari (thaat)_Jaunpuri_3.mp3,TRF,TRAIN,Jaunpuri,22,EST
+Asavari (thaat)_Jaunpuri_5.mp3,TRF,TEST,Jaunpuri,3,EST
+Asavari (thaat)_Jaunpuri_6.mp3,TRF,TRAIN,Jaunpuri,48,EST
+Asavari (thaat)_Jaunpuri_7.mp3,TRF,TEST,Jaunpuri,22,EST
+Asavari (thaat)_Jaunpuri_8.mp3,TRF,VAL,Jaunpuri,16,EST
+Asavari (thaat)_Jaunpuri_9.mp3,TRF,TRAIN,Jaunpuri,4,EST
+Bhairav (thaat)_Ahir Bhairav_0.mp3,TRF,VAL,Ahir Bhairav,4,EST
+Bhairav (thaat)_Ahir Bhairav_1.mp3,TRF,TRAIN,Ahir Bhairav,7,EST
+Bhairav (thaat)_Ahir Bhairav_11.mp3,TRF,TRAIN,Ahir Bhairav,4,EST
+Bhairav (thaat)_Ahir Bhairav_10.mp3,TRF,TEST,Ahir Bhairav,9,EST
+Bhairav (thaat)_Ahir Bhairav_12.mp3,TRF,TRAIN,Ahir Bhairav,15,EST
+Bhairav (thaat)_Ahir Bhairav_3.mp3,TRF,TRAIN,Ahir Bhairav,3,EST
+Bhairav (thaat)_Ahir Bhairav_2.mp3,TRF,VAL,Ahir Bhairav,3,EST
+Bhairav (thaat)_Ahir Bhairav_5.mp3,TRF,VAL,Ahir Bhairav,6,EST
+Bhairav (thaat)_Ahir Bhairav_4.mp3,TRF,TRAIN,Ahir Bhairav,5,EST
+Bhairav (thaat)_Ahir Bhairav_7.mp3,TRF,TRAIN,Ahir Bhairav,5,EST
+Bhairav (thaat)_Ahir Bhairav_6.mp3,TRF,TEST,Ahir Bhairav,16,EST
+Bhairav (thaat)_Ahir Bhairav_9.mp3,TRF,TRAIN,Ahir Bhairav,7,EST
+Bhairav (thaat)_Ahir Bhairav_8.mp3,TRF,TEST,Ahir Bhairav,10,EST
+Bhairav (thaat)_Basant Mukhari_0.mp3,TRF,TEST,Basant Mukhari,3,EST
+Bhairav (thaat)_Basant Mukhari_1.mp3,TRF,TRAIN,Basant Mukhari,4,EST
+Bhairav (thaat)_Basant Mukhari_10.mp3,TRF,TRAIN,Basant Mukhari,10,EST
+Bhairav (thaat)_Basant Mukhari_11.mp3,TRF,TRAIN,Basant Mukhari,6,EST
+Bhairav (thaat)_Basant Mukhari_2.mp3,TRF,TRAIN,Basant Mukhari,4,EST
+Bhairav (thaat)_Basant Mukhari_4.mp3,TRF,TRAIN,Basant Mukhari,10,EST
+Bhairav (thaat)_Basant Mukhari_3.mp3,TRF,TEST,Basant Mukhari,10,EST
+Bhairav (thaat)_Basant Mukhari_5.mp3,TRF,TRAIN,Basant Mukhari,25,EST
+Bhairav (thaat)_Basant Mukhari_6.mp3,TRF,VAL,Basant Mukhari,5,EST
+Bhairav (thaat)_Basant Mukhari_7.mp3,TRF,TEST,Basant Mukhari,6,EST
+Bhairav (thaat)_Basant Mukhari_8.mp3,TRF,VAL,Basant Mukhari,65,EST
+Bhairav (thaat)_Basant Mukhari_9.mp3,TRF,TRAIN,Basant Mukhari,8,EST
+Bhairav (thaat)_Bhairav_0.mp3,TRF,VAL,Bhairav,4,EST
+Bhairav (thaat)_Bhairav_1.mp3,TRF,TRAIN,Bhairav,4,EST
+Bhairav (thaat)_Bhairav_10.mp3,TRF,TRAIN,Bhairav,8,EST
+Bhairav (thaat)_Bhairav_11.mp3,TRF,TRAIN,Bhairav,14,EST
+Bhairav (thaat)_Bhairav_12.mp3,TRF,TRAIN,Bhairav,32,EST
+Bhairav (thaat)_Bhairav_13.mp3,TRF,VAL,Bhairav,64,EST
+Bhairav (thaat)_Bhairav_14.mp3,TRF,TRAIN,Bhairav,30,EST
+Bhairav (thaat)_Bhairav_2.mp3,TRF,TRAIN,Bhairav,5,EST
+Asavari (thaat)_Jaunpuri_10.mp3,TRF,TRAIN,Jaunpuri,6,EST
+Bhairav (thaat)_Bhairav_3.mp3,TRF,TEST,Bhairav,3,EST
+Bhairav (thaat)_Bhairav_4.mp3,TRF,TEST,Bhairav,5,EST
+Bhairav (thaat)_Bhairav_5.mp3,TRF,TRAIN,Bhairav,89,EST
+Bhairav (thaat)_Bhairav_6.mp3,TRF,TEST,Bhairav,32,EST
+Bhairav (thaat)_Bhairav_7.mp3,TRF,TRAIN,Bhairav,4,EST
+Bhairav (thaat)_Bhairav_8.mp3,TRF,VAL,Bhairav,11,EST
+Bhairav (thaat)_Bhairav_9.mp3,TRF,TRAIN,Bhairav,8,EST
+Bhairav (thaat)_Bhairav Bahar_1.mp3,TRF,TEST,Bhairav Bahar,4,EST
+Bhairav (thaat)_Bhairav Bahar_0.mp3,TRF,TEST,Bhairav Bahar,11,EST
+Bhairav (thaat)_Bhairav Bahar_10.mp3,TRF,TRAIN,Bhairav Bahar,14,EST
+Bhairav (thaat)_Bhairav Bahar_11.mp3,TRF,TRAIN,Bhairav Bahar,23,EST
+Bhairav (thaat)_Bhairav Bahar_12.mp3,TRF,TRAIN,Bhairav Bahar,10,EST
+Bhairav (thaat)_Bhairav Bahar_13.mp3,TRF,TEST,Bhairav Bahar,30,EST
+Bhairav (thaat)_Bhairav Bahar_14.mp3,TRF,TRAIN,Bhairav Bahar,48,EST
+Bhairav (thaat)_Bhairav Bahar_15.mp3,TRF,TRAIN,Bhairav Bahar,7,EST
+Bhairav (thaat)_Bhairav Bahar_2.mp3,TRF,VAL,Bhairav Bahar,29,EST
+Bhairav (thaat)_Bhairav Bahar_3.mp3,TRF,TRAIN,Bhairav Bahar,30,EST
+Bhairav (thaat)_Bhairav Bahar_4.mp3,TRF,TRAIN,Bhairav Bahar,29,EST
+Bhairav (thaat)_Bhairav Bahar_5.mp3,TRF,TEST,Bhairav Bahar,52,EST
+Bhairav (thaat)_Bhairav Bahar_6.mp3,TRF,TRAIN,Bhairav Bahar,60,EST
+Bhairav (thaat)_Bhairav Bahar_7.mp3,TRF,VAL,Bhairav Bahar,7,EST
+Bhairav (thaat)_Bhairav Bahar_8.mp3,TRF,VAL,Bhairav Bahar,22,EST
+Bhairav (thaat)_Bhairav Bahar_9.mp3,TRF,TRAIN,Bhairav Bahar,6,EST
+Bhairav (thaat)_Bibhas_0.mp3,TRF,TEST,Bibhas,3,EST
+Bhairav (thaat)_Bibhas_1.mp3,TRF,TEST,Bibhas,1,EST
+Bhairav (thaat)_Bibhas_10.mp3,TRF,TRAIN,Bibhas,4,EST
+Bhairav (thaat)_Bibhas_11.mp3,TRF,TRAIN,Bibhas,26,EST
+Bhairav (thaat)_Bibhas_12.mp3,TRF,TRAIN,Bibhas,15,EST
+Bhairav (thaat)_Bibhas_13.mp3,TRF,TEST,Bibhas,62,EST
+Bhairav (thaat)_Bibhas_14.mp3,TRF,TRAIN,Bibhas,26,EST
+Bhairav (thaat)_Bibhas_15.mp3,TRF,TRAIN,Bibhas,25,EST
+Bhairav (thaat)_Bibhas_2.mp3,TRF,VAL,Bibhas,5,EST
+Bhairav (thaat)_Bibhas_3.mp3,TRF,TRAIN,Bibhas,18,EST
+Bhairav (thaat)_Bibhas_4.mp3,TRF,TRAIN,Bibhas,14,EST
+Bhairav (thaat)_Bibhas_5.mp3,TRF,TEST,Bibhas,8,EST
+Bhairav (thaat)_Bibhas_6.mp3,TRF,TRAIN,Bibhas,22,EST
+Bhairav (thaat)_Bibhas_7.mp3,TRF,VAL,Bibhas,3,EST
+Bhairav (thaat)_Bibhas_8.mp3,TRF,VAL,Bibhas,7,EST
+Bhairav (thaat)_Bibhas_9.mp3,TRF,TRAIN,Bibhas,18,EST
+Bhairav (thaat)_Komal Bhairav_0.mp3,TRF,TRAIN,Komal Bhairav,3,EST
+Bhairav (thaat)_Komal Bhairav_1.mp3,TRF,VAL,Komal Bhairav,11,EST
+Bhairav (thaat)_Komal Bhairav_2.mp3,TRF,TRAIN,Komal Bhairav,5,EST
+Bhairav (thaat)_Komal Bhairav_3.mp3,TRF,TRAIN,Komal Bhairav,8,EST
+Bhairav (thaat)_Komal Bhairav_4.mp3,TRF,TEST,Komal Bhairav,3,EST
+Bhairav (thaat)_Nat Bhairav_0.mp3,TRF,TEST,Nat Bhairav,23,EST
+Bhairav (thaat)_Nat Bhairav_1.mp3,TRF,TEST,Nat Bhairav,10,EST
+Bhairav (thaat)_Nat Bhairav_10.mp3,TRF,TRAIN,Nat Bhairav,12,EST
+Bhairav (thaat)_Nat Bhairav_11.mp3,TRF,TRAIN,Nat Bhairav,6,EST
+Bhairav (thaat)_Nat Bhairav_12.mp3,TRF,TRAIN,Nat Bhairav,23,EST
+Bhairav (thaat)_Nat Bhairav_13.mp3,TRF,TEST,Nat Bhairav,9,EST
+Bhairav (thaat)_Nat Bhairav_15.mp3,TRF,TRAIN,Nat Bhairav,4,EST
+Bhairav (thaat)_Nat Bhairav_2.mp3,TRF,VAL,Nat Bhairav,3,EST
+Bhairav (thaat)_Nat Bhairav_3.mp3,TRF,TRAIN,Nat Bhairav,17,EST
+Bhairav (thaat)_Nat Bhairav_4.mp3,TRF,TRAIN,Nat Bhairav,41,EST
+Bhairav (thaat)_Nat Bhairav_5.mp3,TRF,TEST,Nat Bhairav,10,EST
+Bhairav (thaat)_Ramkali_0.mp3,TRF,VAL,Ramkali,4,EST
+Bhairav (thaat)_Nat Bhairav_6.mp3,TRF,TRAIN,Nat Bhairav,5,EST
+Bhairav (thaat)_Ramkali_1.mp3,TRF,TRAIN,Ramkali,4,EST
+Bhairav (thaat)_Ramkali_7.mp3,TRF,TRAIN,Ramkali,3,EST
+Bhairav (thaat)_Nat Bhairav_8.mp3,TRF,VAL,Nat Bhairav,10,EST
+Bhairav (thaat)_Ramkali_11.mp3,TRF,TRAIN,Ramkali,12,EST
+Bhairav (thaat)_Ramkali_9.mp3,TRF,TRAIN,Ramkali,5,EST
+Bhairav (thaat)_Ramkali_6.mp3,TRF,TEST,Ramkali,10,EST
+Bhairav (thaat)_Ramkali_5.mp3,TRF,TRAIN,Ramkali,13,EST
+Bhairavi (thaat)_Bhairavi_0.mp3,TRF,TRAIN,Bhairavi,6,EST
+Bhairav (thaat)_Ramkali_2.mp3,TRF,TRAIN,Ramkali,17,EST
+Bhairavi (thaat)_Bhairavi_1.mp3,TRF,TRAIN,Bhairavi,5,EST
+Bhairav (thaat)_Nat Bhairav_7.mp3,TRF,VAL,Nat Bhairav,23,EST
+Bhairavi (thaat)_Bhairavi_10.mp3,TRF,TRAIN,Bhairavi,8,EST
+Bhairav (thaat)_Ramkali_12.mp3,TRF,TRAIN,Ramkali,24,EST
+Bhairav (thaat)_Ramkali_10.mp3,TRF,TRAIN,Ramkali,23,EST
+Bhairavi (thaat)_Bhairavi_11.mp3,TRF,TRAIN,Bhairavi,7,EST
+Bhairav (thaat)_Ramkali_8.mp3,TRF,VAL,Ramkali,18,EST
+Bhairavi (thaat)_Bhairavi_2.mp3,TRF,VAL,Bhairavi,2,EST
+Bhairavi (thaat)_Bhairavi_3.mp3,TRF,TRAIN,Bhairavi,2,EST
+Bhairavi (thaat)_Bhairavi_13.mp3,TRF,TRAIN,Bhairavi,10,EST
+Bhairavi (thaat)_Bhairavi_4.mp3,TRF,TRAIN,Bhairavi,2,EST
+Bhairavi (thaat)_Bhairavi_5.mp3,TRF,VAL,Bhairavi,3,EST
+Bhairavi (thaat)_Bhairavi_12.mp3,TRF,TEST,Bhairavi,11,EST
+Bhairav (thaat)_Ramkali_4.mp3,TRF,TEST,Ramkali,30,EST
+Bhairavi (thaat)_Bhairavi_6.mp3,TRF,TEST,Bhairavi,5,EST
+Bhairavi (thaat)_Bhairavi_15.mp3,TRF,TRAIN,Bhairavi,8,EST
+Bhairavi (thaat)_Bhairavi_Bhairavi01.wav,TRF,TEST,Bhairavi,4,EST
+Bhairavi (thaat)_Bhairavi_Bhairavi02.wav,TRF,TRAIN,Bhairavi,4,EST
+Bhairavi (thaat)_Bhairavi_Bhairavi03.wav,TRF,TRAIN,Bhairavi,4,EST
+Bhairavi (thaat)_Bhairavi_bhairavi1.wav,TRF,TRAIN,Bhairavi,2,EST
+Bhairavi (thaat)_Bhairavi_bhairavi3.wav,TRF,VAL,Bhairavi,2,EST
+Bhairavi (thaat)_Bhairavi_16.mp3,TRF,VAL,Bhairavi,10,EST
+Bhairavi (thaat)_Bhairavi_bhairavi4.wav,TRF,TEST,Bhairavi,2,EST
+Bhairavi (thaat)_Bhairavi_Bhairavi04.wav,TRF,TRAIN,Bhairavi,4,EST
+Bhairavi (thaat)_Bhairavi_Bhairavi05.wav,TRF,TRAIN,Bhairavi,4,EST
+Bhairavi (thaat)_Bhairavi_bhairavi5.wav,TRF,TRAIN,Bhairavi,2,EST
+Bhairav (thaat)_Ramkali_13.mp3,TRF,VAL,Ramkali,35,EST
+Bhairavi (thaat)_Bhairavi_bhairavi9.wav,TRF,TRAIN,Bhairavi,2,EST
+Bhairavi (thaat)_Bhairavi_7.mp3,TRF,TRAIN,Bhairavi,11,EST
+Bhairavi (thaat)_Bhairavi_9.mp3,TRF,TEST,Bhairavi,12,EST
+Bhairavi (thaat)_Bhupal Todi_2.mp3,TRF,TRAIN,Bhupal Todi,5,EST
+Bhairavi (thaat)_Bhupal Todi_1.mp3,TRF,TRAIN,Bhupal Todi,7,EST
+Bhairavi (thaat)_Bhupal Todi_11.mp3,TRF,TRAIN,Bhupal Todi,7,EST
+Bhairav (thaat)_Nat Bhairav_9.mp3,TRF,TRAIN,Nat Bhairav,45,EST
+Bhairavi (thaat)_Bhairavi_8.mp3,TRF,TEST,Bhairavi,19,EST
+Bhairavi (thaat)_Bhupal Todi_6.mp3,TRF,TRAIN,Bhupal Todi,5,EST
+Bhairavi (thaat)_Bhupal Todi_7.mp3,TRF,TEST,Bhupal Todi,5,EST
+Bhairavi (thaat)_Bhairavi_14.mp3,TRF,VAL,Bhairavi,32,EST
+Bhairav (thaat)_Ramkali_14.mp3,TRF,TRAIN,Ramkali,52,EST
+Bhairavi (thaat)_Bilaskhani Todi_0.mp3,TRF,VAL,Bilaskhani Todi,6,EST
+Bhairavi (thaat)_Bhupal Todi_5.mp3,TRF,TEST,Bhupal Todi,12,EST
+Bhairavi (thaat)_Bhupal Todi_3.mp3,TRF,TRAIN,Bhupal Todi,14,EST
+Bhairavi (thaat)_Bilaskhani Todi_1.mp3,TRF,TRAIN,Bilaskhani Todi,6,EST
+Bhairavi (thaat)_Bhupal Todi_10.mp3,TRF,TRAIN,Bhupal Todi,18,EST
+Bhairavi (thaat)_Bhupal Todi_4.mp3,TRF,TEST,Bhupal Todi,16,EST
+Bhairavi (thaat)_Bilaskhani Todi_5.mp3,TRF,TEST,Bilaskhani Todi,2,EST
+Bhairavi (thaat)_Bilaskhani Todi_10.mp3,TRF,TRAIN,Bilaskhani Todi,7,EST
+Bhairavi (thaat)_Bilaskhani Todi_11.mp3,TRF,TRAIN,Bilaskhani Todi,7,EST
+Bhairavi (thaat)_Bilaskhani Todi_12.mp3,TRF,TRAIN,Bilaskhani Todi,5,EST
+Bhairav (thaat)_Ramkali_3.mp3,TRF,TEST,Ramkali,60,EST
+Bhairavi (thaat)_Bilaskhani Todi_4.mp3,TRF,TEST,Bilaskhani Todi,11,EST
+Bhairavi (thaat)_Bhupal Todi_8.mp3,TRF,VAL,Bhupal Todi,20,EST
+Bhairavi (thaat)_Bilaskhani Todi_13.mp3,TRF,VAL,Bilaskhani Todi,14,EST
+Bhairavi (thaat)_Bilaskhani Todi_3.mp3,TRF,TRAIN,Bilaskhani Todi,14,EST
+Bhairavi (thaat)_Bilaskhani Todi_7.mp3,TRF,TEST,Bilaskhani Todi,8,EST
+Bhairavi (thaat)_Komal Rishabh Asavari_0.mp3,TRF,VAL,Komal Rishabh Asavari,6,EST
+Bhairavi (thaat)_Bhupal Todi_12.mp3,TRF,TRAIN,Bhupal Todi,35,EST
+Bhairavi (thaat)_Bhupal Todi_9.mp3,TRF,TRAIN,Bhupal Todi,28,EST
+Bhairavi (thaat)_Komal Rishabh Asavari_2.mp3,TRF,VAL,Komal Rishabh Asavari,8,EST
+Bhairavi (thaat)_Komal Rishabh Asavari_5.mp3,TRF,VAL,Komal Rishabh Asavari,3,EST
+Bhairavi (thaat)_Komal Rishabh Asavari_1.mp3,TRF,TRAIN,Komal Rishabh Asavari,12,EST
+Bhairavi (thaat)_Komal Rishabh Asavari_12.mp3,TRF,TRAIN,Komal Rishabh Asavari,9,EST
+Bhairavi (thaat)_Bilaskhani Todi_8.mp3,TRF,VAL,Bilaskhani Todi,19,EST
+Bhairavi (thaat)_Komal Rishabh Asavari_7.mp3,TRF,TRAIN,Komal Rishabh Asavari,2,EST
+Bhairavi (thaat)_Bilaskhani Todi_2.mp3,TRF,TRAIN,Bilaskhani Todi,27,EST
+Bhairavi (thaat)_Komal Rishabh Asavari_8.mp3,TRF,TEST,Komal Rishabh Asavari,3,EST
+Bhairavi (thaat)_Komal Rishabh Asavari_3.mp3,TRF,TRAIN,Komal Rishabh Asavari,15,EST
+Bhairavi (thaat)_Malkauns_1.mp3,TRF,TRAIN,Malkauns,3,EST
+Bhairavi (thaat)_Bilaskhani Todi_9.mp3,TRF,TRAIN,Bilaskhani Todi,25,EST
+Bhairavi (thaat)_Malkauns_0.mp3,TRF,TRAIN,Malkauns,5,EST
+Bhairavi (thaat)_Bhupal Todi_13.mp3,TRF,VAL,Bhupal Todi,49,EST
+Bhairavi (thaat)_Komal Rishabh Asavari_4.mp3,TRF,TRAIN,Komal Rishabh Asavari,13,EST
+Bhairavi (thaat)_Komal Rishabh Asavari_9.mp3,TRF,TRAIN,Komal Rishabh Asavari,7,EST
+Bhairavi (thaat)_Malkauns_11.mp3,TRF,TRAIN,Malkauns,4,EST
+Bhairavi (thaat)_Bhupal Todi_0.mp3,TRF,VAL,Bhupal Todi,54,EST
+Bhairavi (thaat)_Malkauns_2.mp3,TRF,VAL,Malkauns,5,EST
+Bhairavi (thaat)_Malkauns_15.mp3,TRF,TRAIN,Malkauns,6,EST
+Bhairavi (thaat)_Malkauns_3.mp3,TRF,TRAIN,Malkauns,4,EST
+Bhairavi (thaat)_Malkauns_5.mp3,TRF,VAL,Malkauns,2,EST
+Bhairavi (thaat)_Malkauns_16.mp3,TRF,VAL,Malkauns,7,EST
+Bhairavi (thaat)_Malkauns_4.mp3,TRF,TRAIN,Malkauns,6,EST
+Bhairavi (thaat)_Malkauns_13.mp3,TRF,TRAIN,Malkauns,10,EST
+Bhairavi (thaat)_Malkauns_6.mp3,TRF,TEST,Malkauns,5,EST
+Bhairavi (thaat)_Malkauns_8.mp3,TRF,TEST,Malkauns,5,EST
+Bhairavi (thaat)_Malkauns_malkauns01.wav,TRF,TEST,Malkauns,5,EST
+Bhairavi (thaat)_Malkauns_malkauns02.wav,TRF,TRAIN,Malkauns,5,EST
+Bhairavi (thaat)_Malkauns_malkauns03.wav,TRF,TRAIN,Malkauns,4,EST
+Bhairavi (thaat)_Malkauns_malkauns04.wav,TRF,TRAIN,Malkauns,4,EST
+Bhairavi (thaat)_Malkauns_9.mp3,TRF,TEST,Malkauns,8,EST
+Bhairavi (thaat)_Malkauns_Malkauns06.wav,TRF,TRAIN,Malkauns,4,EST
+Bhairavi (thaat)_Malkauns_Malkauns07.wav,TRF,TRAIN,Malkauns,4,EST
+Bhairavi (thaat)_Malkauns_malkauns05.wav,TRF,TRAIN,Malkauns,5,EST
+Bhairavi (thaat)_Malkauns_Malkauns1.wav,TRF,TEST,Malkauns,5,EST
+Bhairavi (thaat)_Malkauns_Malkauns4.wav,TRF,VAL,Malkauns,4,EST
+Bilaval (thaat)_Alhaiya Bilaval_12.mp3,TRF,TRAIN,Alhaiya Bilaval,1,EST
+Bhairavi (thaat)_Malkauns_7.mp3,TRF,TRAIN,Malkauns,13,EST
+Bhairavi (thaat)_Malkauns_Malkauns2.wav,TRF,TRAIN,Malkauns,6,EST
+Bhairavi (thaat)_Malkauns_14.mp3,TRF,VAL,Malkauns,22,EST
+Bilaval (thaat)_Alhaiya Bilaval_1.mp3,TRF,TRAIN,Alhaiya Bilaval,6,EST
+Bilaval (thaat)_Alhaiya Bilaval_2.mp3,TRF,VAL,Alhaiya Bilaval,3,EST
+Bilaval (thaat)_Alhaiya Bilaval_0.mp3,TRF,VAL,Alhaiya Bilaval,8,EST
+Bilaval (thaat)_Alhaiya Bilaval_6.mp3,TRF,TEST,Alhaiya Bilaval,3,EST
+Bhairavi (thaat)_Komal Rishabh Asavari_11.mp3,TRF,TRAIN,Komal Rishabh Asavari,44,EST
+Bhairavi (thaat)_Komal Rishabh Asavari_10.mp3,TRF,TEST,Komal Rishabh Asavari,44,EST
+Bilaval (thaat)_Alhaiya Bilaval_3.mp3,TRF,TRAIN,Alhaiya Bilaval,10,EST
+Bhairavi (thaat)_Malkauns_12.mp3,TRF,TEST,Malkauns,34,EST
+Bhairavi (thaat)_Malkauns_10.mp3,TRF,TRAIN,Malkauns,37,EST
+Bilaval (thaat)_Bhinna Shadja_10.mp3,TRF,TEST,Bhinna Shadja,3,EST
+Bilaval (thaat)_Alhaiya Bilaval_8.mp3,TRF,TEST,Alhaiya Bilaval,11,EST
+Bilaval (thaat)_Bhinna Shadja_0.mp3,TRF,VAL,Bhinna Shadja,10,EST
+Bhairavi (thaat)_Bilaskhani Todi_6.mp3,TRF,TRAIN,Bilaskhani Todi,62,EST
+Bilaval (thaat)_Bhinna Shadja_12.mp3,TRF,TRAIN,Bhinna Shadja,6,EST
+Bhairavi (thaat)_Komal Rishabh Asavari_6.mp3,TRF,TEST,Komal Rishabh Asavari,49,EST
+Bilaval (thaat)_Bhinna Shadja_2.mp3,TRF,VAL,Bhinna Shadja,7,EST
+Bilaval (thaat)_Bhinna Shadja_3.mp3,TRF,TRAIN,Bhinna Shadja,8,EST
+Bilaval (thaat)_Alhaiya Bilaval_11.mp3,TRF,TRAIN,Alhaiya Bilaval,27,EST
+Bilaval (thaat)_Alhaiya Bilaval_7.mp3,TRF,TRAIN,Alhaiya Bilaval,21,EST
+Bilaval (thaat)_Bihag_0.mp3,TRF,TEST,Bihag,3,EST
+Bilaval (thaat)_Alhaiya Bilaval_10.mp3,TRF,TEST,Alhaiya Bilaval,32,EST
+Bilaval (thaat)_Bhinna Shadja_1.mp3,TRF,TRAIN,Bhinna Shadja,23,EST
+Bilaval (thaat)_Bihag_10.mp3,TRF,TRAIN,Bihag,3,EST
+Bilaval (thaat)_Bihag_1.mp3,TRF,VAL,Bihag,6,EST
+Bilaval (thaat)_Bhinna Shadja_5.mp3,TRF,VAL,Bhinna Shadja,15,EST
+Bilaval (thaat)_Bihag_11.mp3,TRF,TEST,Bihag,5,EST
+Bilaval (thaat)_Bhinna Shadja_4.mp3,TRF,TRAIN,Bhinna Shadja,19,EST
+Bilaval (thaat)_Bihag_14.mp3,TRF,TRAIN,Bihag,3,EST
+Bilaval (thaat)_Bhinna Shadja_7.mp3,TRF,TRAIN,Bhinna Shadja,14,EST
+Bilaval (thaat)_Bihag_18.mp3,TRF,TRAIN,Bihag,2,EST
+Bilaval (thaat)_Bihag_15.mp3,TRF,TRAIN,Bihag,5,EST
+Bilaval (thaat)_Alhaiya Bilaval_9.mp3,TRF,TRAIN,Alhaiya Bilaval,31,EST
+Bilaval (thaat)_Bihag_12.mp3,TRF,TRAIN,Bihag,7,EST
+Bilaval (thaat)_Bhinna Shadja_6.mp3,TRF,TEST,Bhinna Shadja,19,EST
+Bilaval (thaat)_Bihag_13.mp3,TRF,TEST,Bihag,9,EST
+Bilaval (thaat)_Bihag_3.mp3,TRF,TRAIN,Bihag,2,EST
+Bilaval (thaat)_Bihag_5.mp3,TRF,TRAIN,Bihag,2,EST
+Bilaval (thaat)_Bihag_19.mp3,TRF,VAL,Bihag,7,EST
+Bilaval (thaat)_Bihag_20.mp3,TRF,TRAIN,Bihag,5,EST
+Bilaval (thaat)_Bihag_7.mp3,TRF,TEST,Bihag,2,EST
+Bilaval (thaat)_Bihag_6.mp3,TRF,TEST,Bihag,4,EST
+Bilaval (thaat)_Bihag_8.mp3,TRF,TRAIN,Bihag,2,EST
+Bilaval (thaat)_Alhaiya Bilaval_5.mp3,TRF,VAL,Alhaiya Bilaval,42,EST
+Bilaval (thaat)_Bilaval_1.mp3,TRF,TEST,Bilaval,3,EST
+Bilaval (thaat)_Bihag_16.mp3,TRF,VAL,Bihag,11,EST
+Bilaval (thaat)_Bihag_9.mp3,TRF,TRAIN,Bihag,4,EST
+Bilaval (thaat)_Bihag_2.mp3,TRF,TRAIN,Bihag,9,EST
+Bilaval (thaat)_Bilaval_10.mp3,TRF,TRAIN,Bilaval,4,EST
+Bilaval (thaat)_Bilaval_13.mp3,TRF,TEST,Bilaval,2,EST
+Bilaval (thaat)_Bilaval_12.mp3,TRF,TRAIN,Bilaval,3,EST
+Bilaval (thaat)_Bilaval_0.mp3,TRF,TEST,Bilaval,6,EST
+Bilaval (thaat)_Bilaval_14.mp3,TRF,TRAIN,Bilaval,3,EST
+Bilaval (thaat)_Bilaval_4.mp3,TRF,TRAIN,Bilaval,3,EST
+Bilaval (thaat)_Bilaval_5.mp3,TRF,TEST,Bilaval,3,EST
+Bilaval (thaat)_Bilaval_11.mp3,TRF,TRAIN,Bilaval,6,EST
+Bilaval (thaat)_Bilaval_2.mp3,TRF,VAL,Bilaval,4,EST
+Bilaval (thaat)_Bilaval_3.mp3,TRF,TRAIN,Bilaval,4,EST
+Bilaval (thaat)_Bhinna Shadja_8.mp3,TRF,TEST,Bhinna Shadja,29,EST
+Bilaval (thaat)_Bihag_17.mp3,TRF,TRAIN,Bihag,18,EST
+Bilaval (thaat)_Durga_0.mp3,TRF,VAL,Durga,4,EST
+Bilaval (thaat)_Bilaval_8.mp3,TRF,VAL,Bilaval,5,EST
+Bilaval (thaat)_Bilaval_7.mp3,TRF,VAL,Bilaval,7,EST
+Bilaval (thaat)_Durga_11.mp3,TRF,TRAIN,Durga,4,EST
+Bilaval (thaat)_Durga_12.mp3,TRF,TRAIN,Durga,3,EST
+Bilaval (thaat)_Durga_1.mp3,TRF,TRAIN,Durga,5,EST
+Bilaval (thaat)_Bilaval_9.mp3,TRF,TRAIN,Bilaval,9,EST
+Bilaval (thaat)_Alhaiya Bilaval_4.mp3,TRF,TRAIN,Alhaiya Bilaval,53,EST
+Bilaval (thaat)_Bhinna Shadja_11.mp3,TRF,TRAIN,Bhinna Shadja,47,EST
+Bilaval (thaat)_Hemant_0.mp3,TRF,VAL,Hemant,3,EST
+Bilaval (thaat)_Durga_13.mp3,TRF,VAL,Durga,9,EST
+Bilaval (thaat)_Bilaval_6.mp3,TRF,TRAIN,Bilaval,14,EST
+Bilaval (thaat)_Hemant_1.mp3,TRF,TRAIN,Hemant,4,EST
+Bilaval (thaat)_Durga_4.mp3,TRF,TEST,Durga,11,EST
+Bilaval (thaat)_Durga_9.mp3,TRF,TRAIN,Durga,10,EST
+Bilaval (thaat)_Durga_7.mp3,TRF,TRAIN,Durga,13,EST
+Bilaval (thaat)_Hemant_12.mp3,TRF,TRAIN,Hemant,5,EST
+Bilaval (thaat)_Durga_6.mp3,TRF,TEST,Durga,14,EST
+Bilaval (thaat)_Durga_5.mp3,TRF,TRAIN,Durga,15,EST
+Bilaval (thaat)_Hemant_3.mp3,TRF,TRAIN,Hemant,2,EST
+Bilaval (thaat)_Durga_10.mp3,TRF,TRAIN,Durga,20,EST
+Bilaval (thaat)_Hemant_8.mp3,TRF,VAL,Hemant,1,EST
+Bilaval (thaat)_Hemant_4.mp3,TRF,TEST,Hemant,2,EST
+Bilaval (thaat)_Hemant_11.mp3,TRF,TRAIN,Hemant,11,EST
+Bilaval (thaat)_Hemant_2.mp3,TRF,TRAIN,Hemant,7,EST
+Bilaval (thaat)_Pahadi_1.mp3,TRF,TRAIN,Pahadi,4,EST
+Bilaval (thaat)_Hemant_6.mp3,TRF,TRAIN,Hemant,7,EST
+Bilaval (thaat)_Pahadi_0.mp3,TRF,VAL,Pahadi,6,EST
+Bilaval (thaat)_Hemant_9.mp3,TRF,TRAIN,Hemant,10,EST
+Bilaval (thaat)_Durga_14.mp3,TRF,TRAIN,Durga,28,EST
+Bilaval (thaat)_Pahadi_11.mp3,TRF,TRAIN,Pahadi,7,EST
+Bilaval (thaat)_Durga_3.mp3,TRF,TEST,Durga,29,EST
+Bilaval (thaat)_Pahadi_12.mp3,TRF,TRAIN,Pahadi,9,EST
+Bilaval (thaat)_Pahadi_2.mp3,TRF,TRAIN,Pahadi,7,EST
+Bilaval (thaat)_Pahadi_4.mp3,TRF,TEST,Pahadi,3,EST
+Bilaval (thaat)_Hemant_5.mp3,TRF,TEST,Hemant,19,EST
+Bilaval (thaat)_Pahadi_5.mp3,TRF,TEST,Pahadi,6,EST
+Bilaval (thaat)_Pahadi_9.mp3,TRF,TRAIN,Pahadi,5,EST
+Bilaval (thaat)_Durga_2.mp3,TRF,TRAIN,Durga,35,EST
+Bilaval (thaat)_Pahadi_3.mp3,TRF,TRAIN,Pahadi,10,EST
+Bilaval (thaat)_Hemant_13.mp3,TRF,VAL,Hemant,27,EST
+Kafi (thaat)_Abhogi_1.mp3,TRF,TRAIN,Abhogi,2,EST
+Bilaval (thaat)_Pahadi_7.mp3,TRF,TEST,Pahadi,8,EST
+Bilaval (thaat)_Pahadi_8.mp3,TRF,VAL,Pahadi,8,EST
+Bilaval (thaat)_Hemant_7.mp3,TRF,TEST,Hemant,23,EST
+Bilaval (thaat)_Pahadi_13.mp3,TRF,VAL,Pahadi,16,EST
+Bilaval (thaat)_Bhinna Shadja_9.mp3,TRF,TRAIN,Bhinna Shadja,74,EST
+Kafi (thaat)_Abhogi_12.mp3,TRF,TRAIN,Abhogi,5,EST
+Kafi (thaat)_Abhogi_3.mp3,TRF,TRAIN,Abhogi,4,EST
+Bilaval (thaat)_Pahadi_6.mp3,TRF,TRAIN,Pahadi,15,EST
+Kafi (thaat)_Bageshree_1.mp3,TRF,TRAIN,Bageshree,1,EST
+Kafi (thaat)_Bageshree_0.mp3,TRF,TRAIN,Bageshree,2,EST
+Kafi (thaat)_Bageshree_10.mp3,TRF,TRAIN,Bageshree,3,EST
+Bilaval (thaat)_Pahadi_10.mp3,TRF,TRAIN,Pahadi,30,EST
+Kafi (thaat)_Abhogi_4.mp3,TRF,TRAIN,Abhogi,13,EST
+Kafi (thaat)_Abhogi_6.mp3,TRF,TEST,Abhogi,12,EST
+Bilaval (thaat)_Hemant_10.mp3,TRF,TRAIN,Hemant,45,EST
+Kafi (thaat)_Abhogi_5.mp3,TRF,VAL,Abhogi,17,EST
+Kafi (thaat)_Abhogi_9.mp3,TRF,TRAIN,Abhogi,14,EST
+Kafi (thaat)_Bageshree_2.mp3,TRF,VAL,Bageshree,3,EST
+Kafi (thaat)_Bageshree_15.mp3,TRF,TRAIN,Bageshree,7,EST
+Kafi (thaat)_Bageshree_3.mp3,TRF,TRAIN,Bageshree,1,EST
+Kafi (thaat)_Bageshree_14.mp3,TRF,VAL,Bageshree,8,EST
+Kafi (thaat)_Bageshree_4.mp3,TRF,TRAIN,Bageshree,4,EST
+Kafi (thaat)_Abhogi_0.mp3,TRF,VAL,Abhogi,28,EST
+Kafi (thaat)_Bageshree_7.mp3,TRF,TRAIN,Bageshree,2,EST
+Kafi (thaat)_Bageshree_5.mp3,TRF,TEST,Bageshree,7,EST
+Kafi (thaat)_Bageshree_bageshree01.wav,TRF,VAL,Bageshree,4,EST
+Kafi (thaat)_Bageshree_9.mp3,TRF,VAL,Bageshree,4,EST
+Kafi (thaat)_Bageshree_6.mp3,TRF,VAL,Bageshree,6,EST
+Kafi (thaat)_Bageshree_8.mp3,TRF,TEST,Bageshree,5,EST
+Kafi (thaat)_Bageshree_bageshree10.wav,TRF,TRAIN,Bageshree,1,EST
+Kafi (thaat)_Abhogi_2.mp3,TRF,VAL,Abhogi,32,EST
+Kafi (thaat)_Bageshree_bageshree02.wav,TRF,TRAIN,Bageshree,4,EST
+Kafi (thaat)_Bageshree_bageshree11.wav,TRF,TRAIN,Bageshree,1,EST
+Kafi (thaat)_Bageshree_bageshree03.wav,TRF,TEST,Bageshree,4,EST
+Kafi (thaat)_Bageshree_12.mp3,TRF,VAL,Bageshree,23,EST
+Kafi (thaat)_Bageshree_bageshree05.wav,TRF,TRAIN,Bageshree,4,EST
+Kafi (thaat)_Bageshree_bageshree1.wav,TRF,TRAIN,Bageshree,4,EST
+Kafi (thaat)_Bageshree_bageshree25.wav,TRF,TEST,Bageshree,1,EST
+Kafi (thaat)_Abhogi_11.mp3,TRF,TRAIN,Abhogi,35,EST
+Kafi (thaat)_Bageshree_bageshree28.wav,TRF,TRAIN,Bageshree,1,EST
+Kafi (thaat)_Bageshree_bageshree29.wav,TRF,TRAIN,Bageshree,1,EST
+Kafi (thaat)_Bageshree_bageshree24.wav,TRF,TRAIN,Bageshree,2,EST
+Kafi (thaat)_Bageshree_bageshree30.wav,TRF,TRAIN,Bageshree,1,EST
+Kafi (thaat)_Bageshree_bageshree31.wav,TRF,TRAIN,Bageshree,1,EST
+Kafi (thaat)_Bageshree_bageshree8.wav,TRF,TEST,Bageshree,1,EST
+Kafi (thaat)_Bageshree_bageshree9.wav,TRF,TRAIN,Bageshree,1,EST
+Kafi (thaat)_Bageshree_bageshree2.wav,TRF,TEST,Bageshree,4,EST
+Kafi (thaat)_Bageshree_bageshree5.wav,TRF,TRAIN,Bageshree,3,EST
+Kafi (thaat)_Bageshree_bageshree3.wav,TRF,VAL,Bageshree,4,EST
+Kafi (thaat)_Bageshree_bageshree4.wav,TRF,TEST,Bageshree,4,EST
+Kafi (thaat)_Abhogi_8.mp3,TRF,TEST,Abhogi,34,EST
+Kafi (thaat)_Abhogi_7.mp3,TRF,TRAIN,Abhogi,38,EST
+Kafi (thaat)_Bageshree_11.mp3,TRF,TRAIN,Bageshree,32,EST
+Kafi (thaat)_Bahar_15.mp3,TRF,TRAIN,Bahar,3,EST
+Kafi (thaat)_Bahar_0.mp3,TRF,TEST,Bahar,6,EST
+Kafi (thaat)_Bahar_16.mp3,TRF,TEST,Bahar,4,EST
+Kafi (thaat)_Bahar_18.mp3,TRF,TRAIN,Bahar,3,EST
+Kafi (thaat)_Bageshree_16.mp3,TRF,TEST,Bageshree,28,EST
+Kafi (thaat)_Bahar_17.mp3,TRF,TEST,Bahar,3,EST
+Kafi (thaat)_Bahar_1.mp3,TRF,VAL,Bahar,10,EST
+Kafi (thaat)_Bahar_19.mp3,TRF,VAL,Bahar,5,EST
+Kafi (thaat)_Abhogi_10.mp3,TRF,TEST,Abhogi,50,EST
+Kafi (thaat)_Bahar_11.mp3,TRF,TRAIN,Bahar,14,EST
+Kafi (thaat)_Bahar_2.mp3,TRF,TRAIN,Bahar,8,EST
+Kafi (thaat)_Bahar_12.mp3,TRF,TRAIN,Bahar,14,EST
+Kafi (thaat)_Bahar_3.mp3,TRF,TRAIN,Bahar,3,EST
+Kafi (thaat)_Bahar_5.mp3,TRF,TRAIN,Bahar,6,EST
+Kafi (thaat)_Bahar_10.mp3,TRF,TEST,Bahar,20,EST
+Kafi (thaat)_Bahar_7.mp3,TRF,VAL,Bahar,6,EST
+Kafi (thaat)_Bahar_20.mp3,TRF,VAL,Bahar,14,EST
+Kafi (thaat)_Bahar_24.mp3,TRF,TRAIN,Bahar,12,EST
+Kafi (thaat)_Bahar_22.mp3,TRF,TRAIN,Bahar,15,EST
+Kafi (thaat)_Bahar_9.mp3,TRF,TRAIN,Bahar,4,EST
+Kafi (thaat)_Bahar_6.mp3,TRF,TRAIN,Bahar,10,EST
+Kafi (thaat)_Barwa_0.mp3,TRF,TEST,Barwa,4,EST
+Kafi (thaat)_Bahar_25.mp3,TRF,TRAIN,Bahar,16,EST
+Kafi (thaat)_Bahar_8.mp3,TRF,VAL,Bahar,11,EST
+Kafi (thaat)_Barwa_5.mp3,TRF,TRAIN,Barwa,5,EST
+Kafi (thaat)_Barwa_7.mp3,TRF,TEST,Barwa,2,EST
+Kafi (thaat)_Barwa_3.mp3,TRF,TEST,Barwa,7,EST
+Kafi (thaat)_Bahar_14.mp3,TRF,TRAIN,Bahar,31,EST
+Kafi (thaat)_Barwa_9.mp3,TRF,TRAIN,Barwa,4,EST
+Kafi (thaat)_Barwa_2.mp3,TRF,TRAIN,Barwa,11,EST
+Kafi (thaat)_Barwa_1.mp3,TRF,TRAIN,Barwa,14,EST
+Kafi (thaat)_Barwa_4.mp3,TRF,TRAIN,Barwa,12,EST
+Kafi (thaat)_Bahar_13.mp3,TRF,TEST,Bahar,36,EST
+Kafi (thaat)_Bhimpalasi_11.mp3,TRF,TEST,Bhimpalasi,3,EST
+Kafi (thaat)_Bhimpalasi_10.mp3,TRF,TRAIN,Bhimpalasi,5,EST
+Kafi (thaat)_Bhimpalasi_15.mp3,TRF,TRAIN,Bhimpalasi,2,EST
+Kafi (thaat)_Bhimpalasi_0.mp3,TRF,TEST,Bhimpalasi,8,EST
+Kafi (thaat)_Bhimpalasi_1.mp3,TRF,VAL,Bhimpalasi,10,EST
+Kafi (thaat)_Bhimpalasi_12.mp3,TRF,TRAIN,Bhimpalasi,8,EST
+Kafi (thaat)_Bahar_23.mp3,TRF,TEST,Bahar,35,EST
+Kafi (thaat)_Bhimpalasi_13.mp3,TRF,TEST,Bhimpalasi,7,EST
+Kafi (thaat)_Bhimpalasi_17.mp3,TRF,TRAIN,Bhimpalasi,5,EST
+Kafi (thaat)_Bhimpalasi_14.mp3,TRF,TRAIN,Bhimpalasi,7,EST
+Kafi (thaat)_Bageshree_13.mp3,TRF,TRAIN,Bageshree,69,EST
+Kafi (thaat)_Bhimpalasi_21.mp3,TRF,TRAIN,Bhimpalasi,2,EST
+Kafi (thaat)_Bahar_21.mp3,TRF,TRAIN,Bahar,41,EST
+Kafi (thaat)_Bhimpalasi_19.mp3,TRF,TEST,Bhimpalasi,7,EST
+Kafi (thaat)_Bhimpalasi_8.mp3,TRF,VAL,Bhimpalasi,4,EST
+Kafi (thaat)_Bhimpalasi_3.mp3,TRF,VAL,Bhimpalasi,9,EST
+Kafi (thaat)_Bhimpalasi_5.mp3,TRF,TRAIN,Bhimpalasi,8,EST
+Kafi (thaat)_Kafi_1.mp3,TRF,TEST,Kafi,4,EST
+Kafi (thaat)_Kafi_0.mp3,TRF,TEST,Kafi,4,EST
+Kafi (thaat)_Bhimpalasi_18.mp3,TRF,TRAIN,Bhimpalasi,16,EST
+Kafi (thaat)_Kafi_10.mp3,TRF,TRAIN,Kafi,5,EST
+Kafi (thaat)_Bhimpalasi_9.mp3,TRF,TRAIN,Bhimpalasi,9,EST
+Kafi (thaat)_Barwa_10.mp3,TRF,TRAIN,Barwa,38,EST
+Kafi (thaat)_Kafi_14.mp3,TRF,TRAIN,Kafi,2,EST
+Kafi (thaat)_Kafi_12.mp3,TRF,TRAIN,Kafi,7,EST
+Kafi (thaat)_Bhimpalasi_2.mp3,TRF,TRAIN,Bhimpalasi,22,EST
+Kafi (thaat)_Kafi_11.mp3,TRF,VAL,Kafi,7,EST
+Kafi (thaat)_Kafi_15.mp3,TRF,TRAIN,Kafi,7,EST
+Kafi (thaat)_Kafi_16.mp3,TRF,VAL,Kafi,7,EST
+Kafi (thaat)_Kafi_2.mp3,TRF,TRAIN,Kafi,4,EST
+Kafi (thaat)_Kafi_4.mp3,TRF,TRAIN,Kafi,3,EST
+Kafi (thaat)_Kafi_13.mp3,TRF,VAL,Kafi,12,EST
+Kafi (thaat)_Kafi_3.mp3,TRF,TRAIN,Kafi,5,EST
+Kafi (thaat)_Kafi_8.mp3,TRF,VAL,Kafi,1,EST
+Kafi (thaat)_Kafi_6.mp3,TRF,TRAIN,Kafi,3,EST
+Kafi (thaat)_Barwa_11.mp3,TRF,TRAIN,Barwa,50,EST
+Kafi (thaat)_Kafi_7.mp3,TRF,TEST,Kafi,3,EST
+Kafi (thaat)_Kafi_9.mp3,TRF,TRAIN,Kafi,4,EST
+Kafi (thaat)_Malhar_11.mp3,TRF,TRAIN,Malhar,1,EST
+Kafi (thaat)_Malhar_0.mp3,TRF,VAL,Malhar,4,EST
+Kafi (thaat)_Malhar_1.mp3,TRF,TRAIN,Malhar,3,EST
+Kafi (thaat)_Bhimpalasi_20.mp3,TRF,TEST,Bhimpalasi,31,EST
+Kafi (thaat)_Malhar_3.mp3,TRF,TEST,Malhar,3,EST
+Kafi (thaat)_Malhar_14.mp3,TRF,TRAIN,Malhar,5,EST
+Kafi (thaat)_Malhar_13.mp3,TRF,VAL,Malhar,4,EST
+Kafi (thaat)_Malhar_2.mp3,TRF,TRAIN,Malhar,4,EST
+Kafi (thaat)_Kafi_5.mp3,TRF,TEST,Kafi,12,EST
+Kafi (thaat)_Barwa_6.mp3,TRF,VAL,Barwa,52,EST
+Kafi (thaat)_Malhar_10.mp3,TRF,TRAIN,Malhar,8,EST
+Kafi (thaat)_Malhar_6.mp3,TRF,TEST,Malhar,1,EST
+Kafi (thaat)_Malhar_8.mp3,TRF,VAL,Malhar,2,EST
+Kafi (thaat)_Malhar_5.mp3,TRF,TRAIN,Malhar,4,EST
+Kafi (thaat)_Kafi_17.mp3,TRF,TRAIN,Kafi,20,EST
+Kafi (thaat)_Megh_12.mp3,TRF,TRAIN,Megh,2,EST
+Kafi (thaat)_Megh_0.mp3,TRF,VAL,Megh,7,EST
+Kafi (thaat)_Megh_1.mp3,TRF,TRAIN,Megh,7,EST
+Kafi (thaat)_Malhar_7.mp3,TRF,TRAIN,Malhar,7,EST
+Kafi (thaat)_Megh_11.mp3,TRF,TRAIN,Megh,5,EST
+Kafi (thaat)_Megh_14.mp3,TRF,TRAIN,Megh,4,EST
+Kafi (thaat)_Megh_10.mp3,TRF,TRAIN,Megh,9,EST
+Kafi (thaat)_Malhar_9.mp3,TRF,TRAIN,Malhar,10,EST
+Kafi (thaat)_Megh_5.mp3,TRF,TRAIN,Megh,6,EST
+Kafi (thaat)_Megh Malhar_0.mp3,TRF,VAL,Megh Malhar,3,EST
+Kafi (thaat)_Bhimpalasi_7.mp3,TRF,TRAIN,Bhimpalasi,49,EST
+Kafi (thaat)_Megh_9.mp3,TRF,TRAIN,Megh,8,EST
+Kafi (thaat)_Bhimpalasi_6.mp3,TRF,TRAIN,Bhimpalasi,52,EST
+Kafi (thaat)_Megh Malhar_1.mp3,TRF,TRAIN,Megh Malhar,3,EST
+Kafi (thaat)_Megh_8.mp3,TRF,VAL,Megh,11,EST
+Kafi (thaat)_Bhimpalasi_16.mp3,TRF,VAL,Bhimpalasi,63,EST
+Kafi (thaat)_Barwa_8.mp3,TRF,VAL,Barwa,73,EST
+Kafi (thaat)_Malhar_12.mp3,TRF,TRAIN,Malhar,31,EST
+Kafi (thaat)_Megh Malhar_2.mp3,TRF,TRAIN,Megh Malhar,4,EST
+Kafi (thaat)_Megh Malhar_11.mp3,TRF,TRAIN,Megh Malhar,7,EST
+Kafi (thaat)_Megh Malhar_12.mp3,TRF,TRAIN,Megh Malhar,6,EST
+Kafi (thaat)_Megh_13.mp3,TRF,VAL,Megh,21,EST
+Kafi (thaat)_Malhar_4.mp3,TRF,TEST,Malhar,31,EST
+Kafi (thaat)_sarang_0.mp3,TRF,TEST,sarang,2,EST
+Kafi (thaat)_Megh Malhar_6.mp3,TRF,TRAIN,Megh Malhar,7,EST
+Kafi (thaat)_Megh Malhar_7.mp3,TRF,TEST,Megh Malhar,8,EST
+Kafi (thaat)_Megh_3.mp3,TRF,TEST,Megh,29,EST
+Kafi (thaat)_sarang_1.mp3,TRF,TRAIN,sarang,7,EST
+Kafi (thaat)_Megh_6.mp3,TRF,TEST,Megh,29,EST
+Kafi (thaat)_sarang_10.mp3,TRF,TRAIN,sarang,5,EST
+Kafi (thaat)_Megh Malhar_9.mp3,TRF,TRAIN,Megh Malhar,13,EST
+Kafi (thaat)_Megh Malhar_8.mp3,TRF,VAL,Megh Malhar,16,EST
+Kafi (thaat)_sarang_3.mp3,TRF,VAL,sarang,3,EST
+Kafi (thaat)_sarang_2.mp3,TRF,TRAIN,sarang,3,EST
+Kafi (thaat)_sarang_11.mp3,TRF,TRAIN,sarang,9,EST
+Kafi (thaat)_sarang_12.mp3,TRF,VAL,sarang,8,EST
+Kafi (thaat)_Megh_7.mp3,TRF,TRAIN,Megh,38,EST
+Kafi (thaat)_Megh_2.mp3,TRF,TRAIN,Megh,46,EST
+Kafi (thaat)_Megh Malhar_3.mp3,TRF,TRAIN,Megh Malhar,34,EST
+Kafi (thaat)_sarang_13.mp3,TRF,TEST,sarang,20,EST
+Kafi (thaat)_sarang_8.mp3,TRF,VAL,sarang,12,EST
+Kafi (thaat)_sarang_sarang02.wav,TRF,VAL,sarang,4,EST
+Kafi (thaat)_sarang_6.mp3,TRF,TRAIN,sarang,15,EST
+Kafi (thaat)_Megh Malhar_13.mp3,TRF,VAL,Megh Malhar,36,EST
+Kafi (thaat)_sarang_sarang03.wav,TRF,TEST,sarang,4,EST
+Kafi (thaat)_Megh Malhar_10.mp3,TRF,TRAIN,Megh Malhar,42,EST
+Kafi (thaat)_sarang_sarang04.wav,TRF,VAL,sarang,4,EST
+Kafi (thaat)_sarang_sarang05.wav,TRF,TRAIN,sarang,4,EST
+Kalyan (thaat)_Bhoopali_0.mp3,TRF,TEST,Bhoopali,3,EST
+Kafi (thaat)_sarang_sarang1.wav,TRF,VAL,sarang,6,EST
+Kafi (thaat)_sarang_sarang3.wav,TRF,TRAIN,sarang,6,EST
+Kalyan (thaat)_Bhoopali_13.mp3,TRF,VAL,Bhoopali,1,EST
+Kafi (thaat)_sarang_sarang4.wav,TRF,TEST,sarang,7,EST
+Kafi (thaat)_sarang_sarang5.wav,TRF,TRAIN,sarang,7,EST
+Kalyan (thaat)_Bhoopali_11.mp3,TRF,TRAIN,Bhoopali,4,EST
+Kalyan (thaat)_Bhoopali_14.mp3,TRF,TRAIN,Bhoopali,3,EST
+Kalyan (thaat)_Bhoopali_1.mp3,TRF,TRAIN,Bhoopali,6,EST
+Kalyan (thaat)_Bhoopali_3.mp3,TRF,TEST,Bhoopali,2,EST
+Kalyan (thaat)_Bhoopali_6.mp3,TRF,TEST,Bhoopali,2,EST
+Kalyan (thaat)_Bhoopali_15.mp3,TRF,TRAIN,Bhoopali,6,EST
+Kalyan (thaat)_Bhoopali_4.mp3,TRF,TRAIN,Bhoopali,4,EST
+Kalyan (thaat)_Bhoopali_7.mp3,TRF,TRAIN,Bhoopali,4,EST
+Kafi (thaat)_sarang_5.mp3,TRF,TRAIN,sarang,30,EST
+Kalyan (thaat)_Bhoopali_9.mp3,TRF,TEST,Bhoopali,1,EST
+Kalyan (thaat)_Bhoopali_5.mp3,TRF,TRAIN,Bhoopali,6,EST
+Kalyan (thaat)_Bhoopali_bhoop01.wav,TRF,TEST,Bhoopali,4,EST
+Kalyan (thaat)_Bhoopali_8.mp3,TRF,TRAIN,Bhoopali,3,EST
+Kafi (thaat)_sarang_7.mp3,TRF,TEST,sarang,31,EST
+Kalyan (thaat)_Bhoopali_bhoop03.wav,TRF,TRAIN,Bhoopali,3,EST
+Kalyan (thaat)_Bhoopali_bhoop04.wav,TRF,TRAIN,Bhoopali,3,EST
+Kalyan (thaat)_Bhoopali_bhoop05.wav,TRF,TRAIN,Bhoopali,3,EST
+Kalyan (thaat)_Bhoopali_bhoop02.wav,TRF,VAL,Bhoopali,4,EST
+Kalyan (thaat)_Bhoopali_ibhoop02.wav,TRF,TRAIN,Bhoopali,6,EST
+Kalyan (thaat)_Bhoopali_ibhoop03.wav,TRF,TEST,Bhoopali,6,EST
+Kalyan (thaat)_Bhoopali_ibhoop05.wav,TRF,TRAIN,Bhoopali,6,EST
+Kalyan (thaat)_Bhoopali_ibhoop06.wav,TRF,VAL,Bhoopali,7,EST
+Kalyan (thaat)_Bhoopali_ibhoop07.wav,TRF,TRAIN,Bhoopali,7,EST
+Kalyan (thaat)_Hindol_0.mp3,TRF,VAL,Hindol,7,EST
+Kafi (thaat)_Megh Malhar_5.mp3,TRF,TEST,Megh Malhar,59,EST
+Kafi (thaat)_sarang_14.mp3,TRF,TRAIN,sarang,46,EST
+Kafi (thaat)_Megh Malhar_4.mp3,TRF,TEST,Megh Malhar,62,EST
+Kalyan (thaat)_Hindol_10.mp3,TRF,TEST,Hindol,7,EST
+Kalyan (thaat)_Bhoopali_12.mp3,TRF,VAL,Bhoopali,25,EST
+Kafi (thaat)_sarang_9.mp3,TRF,TRAIN,sarang,41,EST
+Kalyan (thaat)_Hindol_5.mp3,TRF,VAL,Hindol,5,EST
+Kalyan (thaat)_Kedar_0.mp3,TRF,TEST,Kedar,2,EST
+Kalyan (thaat)_Kedar_1.mp3,TRF,VAL,Kedar,3,EST
+Kalyan (thaat)_Hindol_3.mp3,TRF,TRAIN,Hindol,12,EST
+Kalyan (thaat)_Kedar_10.mp3,TRF,TRAIN,Kedar,3,EST
+Kafi (thaat)_sarang_4.mp3,TRF,TEST,sarang,51,EST
+Kalyan (thaat)_Hindol_8.mp3,TRF,TEST,Hindol,8,EST
+Kalyan (thaat)_Hindol_7.mp3,TRF,TRAIN,Hindol,9,EST
+Kalyan (thaat)_Kedar_12.mp3,TRF,TRAIN,Kedar,4,EST
+Kalyan (thaat)_Kedar_15.mp3,TRF,TRAIN,Kedar,3,EST
+Kalyan (thaat)_Kedar_13.mp3,TRF,TEST,Kedar,4,EST
+Kalyan (thaat)_Kedar_14.mp3,TRF,TRAIN,Kedar,4,EST
+Kalyan (thaat)_Hindol_4.mp3,TRF,TRAIN,Hindol,17,EST
+Kalyan (thaat)_Kedar_18.mp3,TRF,TRAIN,Kedar,1,EST
+Kalyan (thaat)_Kedar_16.mp3,TRF,VAL,Kedar,5,EST
+Kalyan (thaat)_Kedar_3.mp3,TRF,TRAIN,Kedar,2,EST
+Kalyan (thaat)_Kedar_2.mp3,TRF,TRAIN,Kedar,3,EST
+Kalyan (thaat)_Hindol_9.mp3,TRF,TRAIN,Hindol,16,EST
+Kalyan (thaat)_Kedar_5.mp3,TRF,VAL,Kedar,3,EST
+Kalyan (thaat)_Kedar_17.mp3,TRF,TRAIN,Kedar,8,EST
+Kalyan (thaat)_Kedar_19.mp3,TRF,VAL,Kedar,7,EST
+Kalyan (thaat)_Kedar_6.mp3,TRF,TRAIN,Kedar,4,EST
+Kalyan (thaat)_Kedar_7.mp3,TRF,TEST,Kedar,4,EST
+Kalyan (thaat)_Kedar_4.mp3,TRF,TRAIN,Kedar,7,EST
+Kalyan (thaat)_Kedar_9.mp3,TRF,TRAIN,Kedar,3,EST
+Kalyan (thaat)_Hindol_12.mp3,TRF,TRAIN,Hindol,27,EST
+Kalyan (thaat)_suddha kalyan_0.mp3,TRF,TEST,suddha kalyan,3,EST
+Kalyan (thaat)_Kedar_8.mp3,TRF,TRAIN,Kedar,5,EST
+Kalyan (thaat)_Hindol_6.mp3,TRF,TEST,Hindol,23,EST
+Kalyan (thaat)_suddha kalyan_1.mp3,TRF,TRAIN,suddha kalyan,2,EST
+Kalyan (thaat)_Hindol_2.mp3,TRF,VAL,Hindol,29,EST
+Kalyan (thaat)_suddha kalyan_3.mp3,TRF,TEST,suddha kalyan,3,EST
+Kalyan (thaat)_suddha kalyan_2.mp3,TRF,TRAIN,suddha kalyan,3,EST
+Kalyan (thaat)_Hindol_11.mp3,TRF,TRAIN,Hindol,33,EST
+Kalyan (thaat)_Yaman Kalyan_0.mp3,TRF,VAL,Yaman Kalyan,3,EST
+Kalyan (thaat)_Yaman Kalyan_1.mp3,TRF,TRAIN,Yaman Kalyan,4,EST
+Kalyan (thaat)_suddha kalyan_6.mp3,TRF,VAL,suddha kalyan,7,EST
+Kalyan (thaat)_suddha kalyan_9.mp3,TRF,TRAIN,suddha kalyan,7,EST
+Kalyan (thaat)_Yaman Kalyan_3.mp3,TRF,TRAIN,Yaman Kalyan,3,EST
+Kalyan (thaat)_Kedar_11.mp3,TRF,TEST,Kedar,29,EST
+Kalyan (thaat)_Bhoopali_2.mp3,TRF,VAL,Bhoopali,56,EST
+Kalyan (thaat)_Yaman Kalyan_2.mp3,TRF,VAL,Yaman Kalyan,5,EST
+Kalyan (thaat)_Hindol_1.mp3,TRF,TRAIN,Hindol,48,EST
+Kalyan (thaat)_Yaman Kalyan_10.mp3,TRF,TEST,Yaman Kalyan,14,EST
+Kalyan (thaat)_Yaman Kalyan_5.mp3,TRF,VAL,Yaman Kalyan,7,EST
+Kalyan (thaat)_Yaman Kalyan_7.mp3,TRF,TRAIN,Yaman Kalyan,9,EST
+Kalyan (thaat)_Yaman or Kalyan_0.mp3,TRF,TRAIN,Yaman or Kalyan,4,EST
+Kalyan (thaat)_Yaman Kalyan_6.mp3,TRF,TEST,Yaman Kalyan,12,EST
+Kalyan (thaat)_suddha kalyan_4.mp3,TRF,TRAIN,suddha kalyan,28,EST
+Kalyan (thaat)_Yaman or Kalyan_10.mp3,TRF,TRAIN,Yaman or Kalyan,4,EST
+Kalyan (thaat)_Yaman or Kalyan_11.mp3,TRF,TRAIN,Yaman or Kalyan,5,EST
+Kalyan (thaat)_Yaman or Kalyan_12.mp3,TRF,VAL,Yaman or Kalyan,3,EST
+Kalyan (thaat)_Yaman or Kalyan_13.mp3,TRF,TRAIN,Yaman or Kalyan,2,EST
+Kalyan (thaat)_Yaman Kalyan_11.mp3,TRF,TRAIN,Yaman Kalyan,27,EST
+Kalyan (thaat)_suddha kalyan_5.mp3,TRF,TRAIN,suddha kalyan,35,EST
+Kalyan (thaat)_Yaman or Kalyan_14.mp3,TRF,VAL,Yaman or Kalyan,6,EST
+Kalyan (thaat)_Yaman or Kalyan_16.mp3,TRF,TEST,Yaman or Kalyan,7,EST
+Kalyan (thaat)_Yaman or Kalyan_19.mp3,TRF,TRAIN,Yaman or Kalyan,4,EST
+Kalyan (thaat)_suddha kalyan_8.mp3,TRF,VAL,suddha kalyan,42,EST
+Kalyan (thaat)_Yaman or Kalyan_18.mp3,TRF,TRAIN,Yaman or Kalyan,9,EST
+Kalyan (thaat)_Yaman or Kalyan_20.mp3,TRF,TEST,Yaman or Kalyan,6,EST
+Kalyan (thaat)_suddha kalyan_7.mp3,TRF,TEST,suddha kalyan,45,EST
+Kalyan (thaat)_suddha kalyan_10.mp3,TRF,TRAIN,suddha kalyan,48,EST
+Kalyan (thaat)_Yaman or Kalyan_1.mp3,TRF,TRAIN,Yaman or Kalyan,26,EST
+Kalyan (thaat)_Yaman Kalyan_8.mp3,TRF,TEST,Yaman Kalyan,34,EST
+Kalyan (thaat)_Yaman or Kalyan_4.mp3,TRF,VAL,Yaman or Kalyan,2,EST
+Kalyan (thaat)_Yaman or Kalyan_3.mp3,TRF,TEST,Yaman or Kalyan,4,EST
+Kalyan (thaat)_Yaman or Kalyan_5.mp3,TRF,VAL,Yaman or Kalyan,3,EST
+Kalyan (thaat)_Yaman or Kalyan_15.mp3,TRF,TRAIN,Yaman or Kalyan,21,EST
+Kalyan (thaat)_suddha kalyan_11.mp3,TRF,TRAIN,suddha kalyan,53,EST
+Kalyan (thaat)_Yaman or Kalyan_21.mp3,TRF,TRAIN,Yaman or Kalyan,6,EST
+Kalyan (thaat)_Yaman or Kalyan_7.mp3,TRF,VAL,Yaman or Kalyan,4,EST
+Kalyan (thaat)_Yaman or Kalyan_8.mp3,TRF,TRAIN,Yaman or Kalyan,3,EST
+Kalyan (thaat)_Yaman or Kalyan_9.mp3,TRF,TRAIN,Yaman or Kalyan,3,EST
+Kalyan (thaat)_Yaman or Kalyan_6.mp3,TRF,TRAIN,Yaman or Kalyan,6,EST
+Kalyan (thaat)_Yaman or Kalyan_yaman01.wav,TRF,TRAIN,Yaman or Kalyan,4,EST
+Kalyan (thaat)_Yaman or Kalyan_17.mp3,TRF,TEST,Yaman or Kalyan,21,EST
+Kalyan (thaat)_Yaman or Kalyan_yaman21.wav,TRF,TRAIN,Yaman or Kalyan,1,EST
+Kalyan (thaat)_Yaman or Kalyan_Yaman08.wav,TRF,VAL,Yaman or Kalyan,3,EST
+Kalyan (thaat)_Yaman Kalyan_4.mp3,TRF,TRAIN,Yaman Kalyan,41,EST
+Kalyan (thaat)_Yaman or Kalyan_Yaman09.wav,TRF,TRAIN,Yaman or Kalyan,3,EST
+Kalyan (thaat)_Yaman or Kalyan_yaman02.wav,TRF,TRAIN,Yaman or Kalyan,5,EST
+Kalyan (thaat)_Yaman or Kalyan_yaman03.wav,TRF,TRAIN,Yaman or Kalyan,4,EST
+Kalyan (thaat)_Yaman or Kalyan_Yaman10.wav,TRF,VAL,Yaman or Kalyan,3,EST
+Kalyan (thaat)_Yaman or Kalyan_yaman04.wav,TRF,TEST,Yaman or Kalyan,4,EST
+Kalyan (thaat)_Yaman or Kalyan_yaman23.wav,TRF,TEST,Yaman or Kalyan,1,EST
+Kalyan (thaat)_Yaman or Kalyan_yaman24.wav,TRF,TRAIN,Yaman or Kalyan,1,EST
+Kalyan (thaat)_Yaman or Kalyan_yaman05.wav,TRF,VAL,Yaman or Kalyan,4,EST
+Kalyan (thaat)_Yaman or Kalyan_yaman26.wav,TRF,TRAIN,Yaman or Kalyan,1,EST
+Kalyan (thaat)_Yaman or Kalyan_yaman25.wav,TRF,TRAIN,Yaman or Kalyan,1,EST
+Kalyan (thaat)_Yaman or Kalyan_yaman27.wav,TRF,TRAIN,Yaman or Kalyan,1,EST
+Kalyan (thaat)_Yaman or Kalyan_yaman5.wav,TRF,TEST,Yaman or Kalyan,1,EST
+Kalyan (thaat)_Yaman or Kalyan_yaman3.wav,TRF,TRAIN,Yaman or Kalyan,1,EST
+Kalyan (thaat)_Yaman or Kalyan_yaman6.wav,TRF,TRAIN,Yaman or Kalyan,1,EST
+Kalyan (thaat)_Yaman or Kalyan_yaman7.wav,TRF,TRAIN,Yaman or Kalyan,1,EST
+Khamaj (thaat)_Desh_14.mp3,TRF,TRAIN,Desh,1,EST
+Kalyan (thaat)_Yaman or Kalyan_Yaman14.wav,TRF,TEST,Yaman or Kalyan,4,EST
+Kalyan (thaat)_Yaman or Kalyan_Yaman15.wav,TRF,TRAIN,Yaman or Kalyan,4,EST
+Khamaj (thaat)_Desh_0.mp3,TRF,VAL,Desh,3,EST
+Khamaj (thaat)_Desh_12.mp3,TRF,TRAIN,Desh,3,EST
+Khamaj (thaat)_Desh_11.mp3,TRF,TRAIN,Desh,3,EST
+Khamaj (thaat)_Desh_16.mp3,TRF,VAL,Desh,3,EST
+Khamaj (thaat)_Desh_10.mp3,TRF,VAL,Desh,4,EST
+Khamaj (thaat)_Desh_1.mp3,TRF,VAL,Desh,4,EST
+Khamaj (thaat)_Desh_13.mp3,TRF,TEST,Desh,4,EST
+Khamaj (thaat)_Desh_15.mp3,TRF,TRAIN,Desh,4,EST
+Khamaj (thaat)_Desh_4.mp3,TRF,VAL,Desh,2,EST
+Khamaj (thaat)_Desh_6.mp3,TRF,TRAIN,Desh,3,EST
+Khamaj (thaat)_Desh_2.mp3,TRF,TEST,Desh,5,EST
+Khamaj (thaat)_Desh_7.mp3,TRF,TRAIN,Desh,3,EST
+Khamaj (thaat)_Desh_5.mp3,TRF,TRAIN,Desh,5,EST
+Khamaj (thaat)_Desh_9.mp3,TRF,TRAIN,Desh,2,EST
+Khamaj (thaat)_Desh_18.mp3,TRF,TRAIN,Desh,9,EST
+Khamaj (thaat)_Desh_8.mp3,TRF,TRAIN,Desh,3,EST
+Khamaj (thaat)_Desh_22.mp3,TRF,TEST,Desh,8,EST
+Khamaj (thaat)_Jhinjhoti_0.mp3,TRF,TEST,Jhinjhoti,4,EST
+Kalyan (thaat)_Yaman Kalyan_9.mp3,TRF,TRAIN,Yaman Kalyan,49,EST
+Khamaj (thaat)_Jhinjhoti_1.mp3,TRF,TRAIN,Jhinjhoti,4,EST
+Khamaj (thaat)_Desh_3.mp3,TRF,TRAIN,Desh,10,EST
+Khamaj (thaat)_Jhinjhoti_2.mp3,TRF,TRAIN,Jhinjhoti,3,EST
+Khamaj (thaat)_Jhinjhoti_3.mp3,TRF,TEST,Jhinjhoti,4,EST
+Khamaj (thaat)_Desh_21.mp3,TRF,TRAIN,Desh,12,EST
+Khamaj (thaat)_Desh_17.mp3,TRF,TEST,Desh,15,EST
+Khamaj (thaat)_Jhinjhoti_7.mp3,TRF,TEST,Jhinjhoti,3,EST
+Kalyan (thaat)_Yaman or Kalyan_2.mp3,TRF,TEST,Yaman or Kalyan,34,EST
+Khamaj (thaat)_Jhinjhoti_10.mp3,TRF,TRAIN,Jhinjhoti,6,EST
+Khamaj (thaat)_Khamaj_1.mp3,TRF,VAL,Khamaj,3,EST
+Khamaj (thaat)_Jhinjhoti_6.mp3,TRF,VAL,Jhinjhoti,7,EST
+Khamaj (thaat)_Khamaj_12.mp3,TRF,TRAIN,Khamaj,4,EST
+Khamaj (thaat)_Jhinjhoti_11.mp3,TRF,TRAIN,Jhinjhoti,11,EST
+Khamaj (thaat)_Khamaj_10.mp3,TRF,TRAIN,Khamaj,5,EST
+Khamaj (thaat)_Khamaj_11.mp3,TRF,TEST,Khamaj,5,EST
+Kalyan (thaat)_Yaman Kalyan_12.mp3,TRF,TRAIN,Yaman Kalyan,71,EST
+Khamaj (thaat)_Khamaj_0.mp3,TRF,TEST,Khamaj,7,EST
+Khamaj (thaat)_Khamaj_2.mp3,TRF,TRAIN,Khamaj,1,EST
+Khamaj (thaat)_Khamaj_14.mp3,TRF,TRAIN,Khamaj,4,EST
+Khamaj (thaat)_Khamaj_18.mp3,TRF,TRAIN,Khamaj,3,EST
+Khamaj (thaat)_Khamaj_19.mp3,TRF,VAL,Khamaj,4,EST
+Khamaj (thaat)_Jhinjhoti_5.mp3,TRF,TRAIN,Jhinjhoti,13,EST
+Khamaj (thaat)_Jhinjhoti_9.mp3,TRF,TRAIN,Jhinjhoti,12,EST
+Khamaj (thaat)_Khamaj_3.mp3,TRF,TRAIN,Khamaj,3,EST
+Khamaj (thaat)_Jhinjhoti_4.mp3,TRF,TRAIN,Jhinjhoti,15,EST
+Khamaj (thaat)_Khamaj_16.mp3,TRF,VAL,Khamaj,7,EST
+Khamaj (thaat)_Jhinjhoti_8.mp3,TRF,VAL,Jhinjhoti,15,EST
+Khamaj (thaat)_Khamaj_5.mp3,TRF,TRAIN,Khamaj,2,EST
+Khamaj (thaat)_Khamaj_4.mp3,TRF,VAL,Khamaj,3,EST
+Khamaj (thaat)_Khamaj_6.mp3,TRF,TEST,Khamaj,3,EST
+Khamaj (thaat)_Desh_20.mp3,TRF,TEST,Desh,27,EST
+Khamaj (thaat)_Khamaj_7.mp3,TRF,TEST,Khamaj,3,EST
+Khamaj (thaat)_Khamaj_17.mp3,TRF,TRAIN,Khamaj,9,EST
+Khamaj (thaat)_Khamaj_9.mp3,TRF,TRAIN,Khamaj,3,EST
+Khamaj (thaat)_Rageshree_0.mp3,TRF,VAL,Rageshree,4,EST
+Khamaj (thaat)_Khamaj_13.mp3,TRF,TEST,Khamaj,12,EST
+Khamaj (thaat)_Rageshree_1.mp3,TRF,TRAIN,Rageshree,3,EST
+Khamaj (thaat)_Rageshree_3.mp3,TRF,TRAIN,Rageshree,3,EST
+Khamaj (thaat)_Khamaj_8.mp3,TRF,TRAIN,Khamaj,6,EST
+Khamaj (thaat)_Khamaj_15.mp3,TRF,TRAIN,Khamaj,12,EST
+Khamaj (thaat)_Rageshree_6.mp3,TRF,TEST,Rageshree,3,EST
+Khamaj (thaat)_Rageshree_4.mp3,TRF,TRAIN,Rageshree,3,EST
+Khamaj (thaat)_Rageshree_10.mp3,TRF,TEST,Rageshree,7,EST
+Khamaj (thaat)_Sorath_0.mp3,TRF,TEST,Sorath,3,EST
+Khamaj (thaat)_Rageshree_12.mp3,TRF,TRAIN,Rageshree,8,EST
+Khamaj (thaat)_Khamaj_20.mp3,TRF,TRAIN,Khamaj,16,EST
+Khamaj (thaat)_Rageshree_7.mp3,TRF,TRAIN,Rageshree,10,EST
+Khamaj (thaat)_Sorath_3.mp3,TRF,TRAIN,Sorath,8,EST
+Khamaj (thaat)_Sorath_6.mp3,TRF,TRAIN,Sorath,2,EST
+Khamaj (thaat)_Sorath_1.mp3,TRF,TRAIN,Sorath,11,EST
+Khamaj (thaat)_Rageshree_9.mp3,TRF,TRAIN,Rageshree,12,EST
+Marva (thaat)_Bhatiyar_1.mp3,TRF,TEST,Bhatiyar,2,EST
+Khamaj (thaat)_Sorath_10.mp3,TRF,TEST,Sorath,13,EST
+Khamaj (thaat)_Sorath_7.mp3,TRF,TRAIN,Sorath,8,EST
+Khamaj (thaat)_Sorath_2.mp3,TRF,TRAIN,Sorath,15,EST
+Marva (thaat)_Bhatiyar_0.mp3,TRF,TEST,Bhatiyar,5,EST
+Khamaj (thaat)_Rageshree_8.mp3,TRF,TEST,Rageshree,19,EST
+Khamaj (thaat)_Sorath_9.mp3,TRF,VAL,Sorath,9,EST
+Khamaj (thaat)_Desh_19.mp3,TRF,TRAIN,Desh,53,EST
+Khamaj (thaat)_Sorath_5.mp3,TRF,TRAIN,Sorath,19,EST
+Khamaj (thaat)_Rageshree_11.mp3,TRF,TRAIN,Rageshree,28,EST
+Marva (thaat)_Bhatiyar_3.mp3,TRF,TRAIN,Bhatiyar,1,EST
+Marva (thaat)_Bhatiyar_15.mp3,TRF,TRAIN,Bhatiyar,6,EST
+Marva (thaat)_Bhatiyar_12.mp3,TRF,TRAIN,Bhatiyar,10,EST
+Marva (thaat)_Bhatiyar_2.mp3,TRF,TRAIN,Bhatiyar,3,EST
+Marva (thaat)_Bhatiyar_14.mp3,TRF,TRAIN,Bhatiyar,9,EST
+Khamaj (thaat)_Rageshree_5.mp3,TRF,VAL,Rageshree,29,EST
+Marva (thaat)_Bhatiyar_13.mp3,TRF,VAL,Bhatiyar,11,EST
+Marva (thaat)_Bhatiyar_10.mp3,TRF,TRAIN,Bhatiyar,12,EST
+Marva (thaat)_Bhatiyar_5.mp3,TRF,TEST,Bhatiyar,3,EST
+Marva (thaat)_Marva_0.mp3,TRF,TEST,Marva,2,EST
+Khamaj (thaat)_Sorath_8.mp3,TRF,TEST,Sorath,21,EST
+Marva (thaat)_Bhatiyar_7.mp3,TRF,TEST,Bhatiyar,6,EST
+Marva (thaat)_Marva_1.mp3,TRF,TEST,Marva,5,EST
+Marva (thaat)_Marva_10.mp3,TRF,TRAIN,Marva,5,EST
+Marva (thaat)_Bhatiyar_8.mp3,TRF,VAL,Bhatiyar,9,EST
+Marva (thaat)_Marva_11.mp3,TRF,VAL,Marva,5,EST
+Marva (thaat)_Marva_13.mp3,TRF,VAL,Marva,6,EST
+Marva (thaat)_Marva_12.mp3,TRF,TRAIN,Marva,8,EST
+Marva (thaat)_Marva_14.mp3,TRF,TRAIN,Marva,7,EST
+Marva (thaat)_Bhatiyar_9.mp3,TRF,TRAIN,Bhatiyar,14,EST
+Marva (thaat)_Marva_3.mp3,TRF,TRAIN,Marva,3,EST
+Marva (thaat)_Bhatiyar_11.mp3,TRF,VAL,Bhatiyar,27,EST
+Marva (thaat)_Marva_2.mp3,TRF,TRAIN,Marva,5,EST
+Marva (thaat)_Marva_5.mp3,TRF,TEST,Marva,6,EST
+Marva (thaat)_Marva_4.mp3,TRF,TRAIN,Marva,7,EST
+Marva (thaat)_Bhatiyar_17.mp3,TRF,TRAIN,Bhatiyar,30,EST
+Marva (thaat)_Marva_8.mp3,TRF,VAL,Marva,7,EST
+Marva (thaat)_Marva_9.mp3,TRF,TRAIN,Marva,6,EST
+Marva (thaat)_Marva_17.mp3,TRF,TRAIN,Marva,18,EST
+Marva (thaat)_Bhatiyar_16.mp3,TRF,VAL,Bhatiyar,36,EST
+Marva (thaat)_Bhatiyar_4.mp3,TRF,TRAIN,Bhatiyar,30,EST
+Marva (thaat)_Bhatiyar_6.mp3,TRF,TRAIN,Bhatiyar,28,EST
+Marva (thaat)_Marva_15.mp3,TRF,TRAIN,Marva,21,EST
+Marva (thaat)_Puriya_0.mp3,TRF,TEST,Puriya,3,EST
+Marva (thaat)_Puriya_1.mp3,TRF,TEST,Puriya,5,EST
+Marva (thaat)_Puriya_10.mp3,TRF,TRAIN,Puriya,4,EST
+Khamaj (thaat)_Sorath_4.mp3,TRF,VAL,Sorath,59,EST
+Marva (thaat)_Purba_0.mp3,TRF,TEST,Purba,19,EST
+Marva (thaat)_Puriya_12.mp3,TRF,TRAIN,Puriya,8,EST
+Marva (thaat)_Puriya_14.mp3,TRF,TRAIN,Puriya,5,EST
+Marva (thaat)_Marva_7.mp3,TRF,TEST,Marva,30,EST
+Marva (thaat)_Purba_8.mp3,TRF,VAL,Purba,20,EST
+Marva (thaat)_Purba_3.mp3,TRF,TRAIN,Purba,24,EST
+Marva (thaat)_Purba_5.mp3,TRF,VAL,Purba,23,EST
+Marva (thaat)_Puriya_2.mp3,TRF,TRAIN,Puriya,5,EST
+Marva (thaat)_Puriya_4.mp3,TRF,VAL,Puriya,3,EST
+Marva (thaat)_Puriya_5.mp3,TRF,TRAIN,Puriya,3,EST
+Marva (thaat)_Puriya_6.mp3,TRF,TRAIN,Puriya,2,EST
+Marva (thaat)_Purba_6.mp3,TRF,TRAIN,Purba,29,EST
+Marva (thaat)_Purba_7.mp3,TRF,TRAIN,Purba,28,EST
+Marva (thaat)_Puriya_7.mp3,TRF,TEST,Puriya,6,EST
+Marva (thaat)_Puriya_9.mp3,TRF,TRAIN,Puriya,5,EST
+Marva (thaat)_Sohni_1.mp3,TRF,TRAIN,Sohni,3,EST
+Marva (thaat)_Sohni_0.mp3,TRF,VAL,Sohni,4,EST
+Marva (thaat)_Puriya_8.mp3,TRF,VAL,Puriya,7,EST
+Marva (thaat)_Puriya_16.mp3,TRF,VAL,Puriya,18,EST
+Marva (thaat)_Sohni_2.mp3,TRF,TRAIN,Sohni,4,EST
+Marva (thaat)_Puriya_13.mp3,TRF,TEST,Puriya,29,EST
+Marva (thaat)_Sohni_11.mp3,TRF,TRAIN,Sohni,6,EST
+Marva (thaat)_Sohni_3.mp3,TRF,TRAIN,Sohni,5,EST
+Marva (thaat)_Sohni_5.mp3,TRF,TEST,Sohni,5,EST
+Marva (thaat)_Sohni_4.mp3,TRF,TEST,Sohni,6,EST
+Marva (thaat)_Marva_6.mp3,TRF,TRAIN,Marva,58,EST
+Marva (thaat)_Sohni_9.mp3,TRF,TRAIN,Sohni,3,EST
+Marva (thaat)_Sohni_7.mp3,TRF,TEST,Sohni,8,EST
+Marva (thaat)_Sohni_13.mp3,TRF,VAL,Sohni,14,EST
+Marva (thaat)_Sohni_6.mp3,TRF,TRAIN,Sohni,9,EST
+Poorvi (thaat)_Basant_0.mp3,TRF,VAL,Basant,6,EST
+Marva (thaat)_Sohni_8.mp3,TRF,VAL,Sohni,10,EST
+Marva (thaat)_Puriya_11.mp3,TRF,TRAIN,Puriya,50,EST
+Poorvi (thaat)_Basant_1.mp3,TRF,TEST,Basant,7,EST
+Marva (thaat)_Purba_1.mp3,TRF,TEST,Purba,67,EST
+Poorvi (thaat)_Basant_11.mp3,TRF,TRAIN,Basant,9,EST
+Poorvi (thaat)_Basant_17.mp3,TRF,TEST,Basant,1,EST
+Poorvi (thaat)_Basant_15.mp3,TRF,TRAIN,Basant,5,EST
+Poorvi (thaat)_Basant_14.mp3,TRF,TRAIN,Basant,6,EST
+Marva (thaat)_Sohni_10.mp3,TRF,TRAIN,Sohni,29,EST
+Poorvi (thaat)_Basant_19.mp3,TRF,VAL,Basant,2,EST
+Poorvi (thaat)_Basant_18.mp3,TRF,TRAIN,Basant,5,EST
+Marva (thaat)_Puriya_3.mp3,TRF,TRAIN,Puriya,43,EST
+Poorvi (thaat)_Basant_22.mp3,TRF,TRAIN,Basant,3,EST
+Poorvi (thaat)_Basant_20.mp3,TRF,VAL,Basant,6,EST
+Poorvi (thaat)_Basant_2.mp3,TRF,TRAIN,Basant,7,EST
+Poorvi (thaat)_Basant_23.mp3,TRF,TEST,Basant,5,EST
+Poorvi (thaat)_Basant_10.mp3,TRF,TRAIN,Basant,21,EST
+Marva (thaat)_Puriya_15.mp3,TRF,TRAIN,Puriya,54,EST
+Poorvi (thaat)_Basant_21.mp3,TRF,TRAIN,Basant,10,EST
+Poorvi (thaat)_Basant_5.mp3,TRF,TRAIN,Basant,4,EST
+Poorvi (thaat)_Basant_7.mp3,TRF,TEST,Basant,4,EST
+Poorvi (thaat)_Basant_16.mp3,TRF,TEST,Basant,20,EST
+Poorvi (thaat)_Deepak_0.mp3,TRF,VAL,Deepak,1,EST
+Khamaj (thaat)_Rageshree_2.mp3,TRF,VAL,Rageshree,134,EST
+Poorvi (thaat)_Basant_24.mp3,TRF,TRAIN,Basant,9,EST
+Poorvi (thaat)_Basant_3.mp3,TRF,TRAIN,Basant,10,EST
+Poorvi (thaat)_Deepak_1.mp3,TRF,TEST,Deepak,2,EST
+Poorvi (thaat)_Basant_12.mp3,TRF,TRAIN,Basant,27,EST
+Poorvi (thaat)_Basant_4.mp3,TRF,TRAIN,Basant,10,EST
+Poorvi (thaat)_Deepak_16.mp3,TRF,TEST,Deepak,3,EST
+Poorvi (thaat)_Deepak_11.mp3,TRF,TRAIN,Deepak,6,EST
+Poorvi (thaat)_Deepak_17.mp3,TRF,TEST,Deepak,2,EST
+Poorvi (thaat)_Basant_8.mp3,TRF,VAL,Basant,10,EST
+Poorvi (thaat)_Deepak_19.mp3,TRF,VAL,Deepak,3,EST
+Marva (thaat)_Purba_2.mp3,TRF,TRAIN,Purba,89,EST
+Poorvi (thaat)_Deepak_18.mp3,TRF,TRAIN,Deepak,3,EST
+Poorvi (thaat)_Deepak_22.mp3,TRF,TRAIN,Deepak,1,EST
+Poorvi (thaat)_Deepak_24.mp3,TRF,TRAIN,Deepak,1,EST
+Poorvi (thaat)_Deepak_20.mp3,TRF,VAL,Deepak,6,EST
+Poorvi (thaat)_Deepak_21.mp3,TRF,TRAIN,Deepak,6,EST
+Poorvi (thaat)_Deepak_3.mp3,TRF,TRAIN,Deepak,6,EST
+Poorvi (thaat)_Deepak_4.mp3,TRF,TRAIN,Deepak,5,EST
+Poorvi (thaat)_Deepak_12.mp3,TRF,TRAIN,Deepak,16,EST
+Poorvi (thaat)_Deepak_6.mp3,TRF,TRAIN,Deepak,6,EST
+Poorvi (thaat)_Deepak_5.mp3,TRF,TRAIN,Deepak,7,EST
+Poorvi (thaat)_Deepak_23.mp3,TRF,TEST,Deepak,11,EST
+Poorvi (thaat)_Basant_6.mp3,TRF,TRAIN,Basant,25,EST
+Poorvi (thaat)_Deepak_8.mp3,TRF,VAL,Deepak,5,EST
+Poorvi (thaat)_Deepak_9.mp3,TRF,TRAIN,Deepak,8,EST
+Poorvi (thaat)_Basant_9.mp3,TRF,TRAIN,Basant,27,EST
+Poorvi (thaat)_Gauri_11.mp3,TRF,TRAIN,Gauri,4,EST
+Poorvi (thaat)_Deepak_14.mp3,TRF,TRAIN,Deepak,26,EST
+Poorvi (thaat)_Deepak_10.mp3,TRF,TRAIN,Deepak,28,EST
+Poorvi (thaat)_Gauri_13.mp3,TRF,VAL,Gauri,9,EST
+Poorvi (thaat)_Gauri_2.mp3,TRF,TRAIN,Gauri,10,EST
+Poorvi (thaat)_Gauri_5.mp3,TRF,TRAIN,Gauri,3,EST
+Poorvi (thaat)_Gauri_1.mp3,TRF,TRAIN,Gauri,15,EST
+Poorvi (thaat)_Gauri_8.mp3,TRF,VAL,Gauri,3,EST
+Poorvi (thaat)_Gauri_12.mp3,TRF,TRAIN,Gauri,16,EST
+Marva (thaat)_Sohni_12.mp3,TRF,TRAIN,Sohni,77,EST
+Poorvi (thaat)_Gauri_0.mp3,TRF,VAL,Gauri,22,EST
+Poorvi (thaat)_Gauri_3.mp3,TRF,TEST,Gauri,15,EST
+Poorvi (thaat)_Gauri_14.mp3,TRF,TRAIN,Gauri,16,EST
+Poorvi (thaat)_Lalit_0.mp3,TRF,VAL,Lalit,3,EST
+Poorvi (thaat)_Gauri_7.mp3,TRF,TRAIN,Gauri,10,EST
+Poorvi (thaat)_Gauri_9.mp3,TRF,TRAIN,Gauri,9,EST
+Poorvi (thaat)_Lalit_10.mp3,TRF,TEST,Lalit,5,EST
+Poorvi (thaat)_Lalit_12.mp3,TRF,TRAIN,Lalit,4,EST
+Poorvi (thaat)_Lalit_11.mp3,TRF,TRAIN,Lalit,5,EST
+Poorvi (thaat)_Deepak_13.mp3,TRF,VAL,Deepak,45,EST
+Poorvi (thaat)_Basant_13.mp3,TRF,VAL,Basant,66,EST
+Poorvi (thaat)_Lalit_2.mp3,TRF,VAL,Lalit,6,EST
+Poorvi (thaat)_Gauri_4.mp3,TRF,TEST,Gauri,21,EST
+Poorvi (thaat)_Gauri_6.mp3,TRF,TEST,Gauri,22,EST
+Poorvi (thaat)_Lalit_9.mp3,TRF,TRAIN,Lalit,7,EST
+Poorvi (thaat)_Gauri_10.mp3,TRF,TRAIN,Gauri,33,EST
+Poorvi (thaat)_Lalit_8.mp3,TRF,TEST,Lalit,11,EST
+Poorvi (thaat)_Deepak_15.mp3,TRF,TRAIN,Deepak,56,EST
+Poorvi (thaat)_Lalit_1.mp3,TRF,TRAIN,Lalit,21,EST
+Poorvi (thaat)_Poorvi_11.mp3,TRF,TRAIN,Poorvi,11,EST
+Poorvi (thaat)_Poorvi_2.mp3,TRF,TRAIN,Poorvi,8,EST
+Poorvi (thaat)_Poorvi_13.mp3,TRF,VAL,Poorvi,10,EST
+Poorvi (thaat)_Poorvi_5.mp3,TRF,TRAIN,Poorvi,5,EST
+Poorvi (thaat)_Poorvi_10.mp3,TRF,TRAIN,Poorvi,17,EST
+Poorvi (thaat)_Lalit_4.mp3,TRF,TRAIN,Lalit,22,EST
+Poorvi (thaat)_Poorvi_1.mp3,TRF,TRAIN,Poorvi,21,EST
+Poorvi (thaat)_Poorvi_8.mp3,TRF,VAL,Poorvi,5,EST
+Poorvi (thaat)_Poorvi_6.mp3,TRF,TEST,Poorvi,7,EST
+Poorvi (thaat)_Lalit_3.mp3,TRF,TRAIN,Lalit,36,EST
+Poorvi (thaat)_Shree_0.mp3,TRF,VAL,Shree,10,EST
+Poorvi (thaat)_Poorvi_7.mp3,TRF,TRAIN,Poorvi,12,EST
+Poorvi (thaat)_Poorvi_3.mp3,TRF,TEST,Poorvi,17,EST
+Poorvi (thaat)_Shree_12.mp3,TRF,TRAIN,Shree,3,EST
+Poorvi (thaat)_Shree_10.mp3,TRF,TEST,Shree,9,EST
+Poorvi (thaat)_Shree_1.mp3,TRF,TRAIN,Shree,12,EST
+Poorvi (thaat)_Poorvi_12.mp3,TRF,TRAIN,Poorvi,29,EST
+Poorvi (thaat)_Shree_7.mp3,TRF,TRAIN,Shree,3,EST
+Poorvi (thaat)_Poorvi_14.mp3,TRF,TRAIN,Poorvi,28,EST
+Poorvi (thaat)_Shree_8.mp3,TRF,TEST,Shree,2,EST
+Poorvi (thaat)_Shree_2.mp3,TRF,VAL,Shree,11,EST
+Todi (thaat)_Gujari Todi_1.mp3,TRF,TRAIN,Gujari Todi,3,EST
+Poorvi (thaat)_Shree_5.mp3,TRF,VAL,Shree,9,EST
+Todi (thaat)_Gujari Todi_0.mp3,TRF,VAL,Gujari Todi,5,EST
+Poorvi (thaat)_Shree_3.mp3,TRF,TRAIN,Shree,13,EST
+Poorvi (thaat)_Shree_11.mp3,TRF,TRAIN,Shree,18,EST
+Poorvi (thaat)_Shree_4.mp3,TRF,TRAIN,Shree,13,EST
+Todi (thaat)_Gujari Todi_11.mp3,TRF,TRAIN,Gujari Todi,4,EST
+Todi (thaat)_Gujari Todi_2.mp3,TRF,VAL,Gujari Todi,3,EST
+Todi (thaat)_Gujari Todi_3.mp3,TRF,TRAIN,Gujari Todi,2,EST
+Poorvi (thaat)_Shree_6.mp3,TRF,TEST,Shree,15,EST
+Poorvi (thaat)_Lalit_5.mp3,TRF,VAL,Lalit,49,EST
+Todi (thaat)_Gujari Todi_5.mp3,TRF,VAL,Gujari Todi,7,EST
+Todi (thaat)_Madhuvanti_0.mp3,TRF,VAL,Madhuvanti,3,EST
+Todi (thaat)_Madhuvanti_1.mp3,TRF,TRAIN,Madhuvanti,2,EST
+Todi (thaat)_Gujari Todi_10.mp3,TRF,TEST,Gujari Todi,14,EST
+Todi (thaat)_Gujari Todi_8.mp3,TRF,TEST,Gujari Todi,10,EST
+Poorvi (thaat)_Poorvi_4.mp3,TRF,TEST,Poorvi,47,EST
+Todi (thaat)_Madhuvanti_2.mp3,TRF,VAL,Madhuvanti,4,EST
+Todi (thaat)_Gujari Todi_12.mp3,TRF,TRAIN,Gujari Todi,19,EST
+Poorvi (thaat)_Poorvi_9.mp3,TRF,TRAIN,Poorvi,44,EST
+Todi (thaat)_Madhuvanti_4.mp3,TRF,TRAIN,Madhuvanti,4,EST
+Todi (thaat)_Gujari Todi_9.mp3,TRF,TRAIN,Gujari Todi,16,EST
+Todi (thaat)_Madhuvanti_3.mp3,TRF,TRAIN,Madhuvanti,6,EST
+Todi (thaat)_Madhuvanti_6.mp3,TRF,TEST,Madhuvanti,4,EST
+Todi (thaat)_Madhuvanti_11.mp3,TRF,TRAIN,Madhuvanti,15,EST
+Poorvi (thaat)_Lalit_6.mp3,TRF,TEST,Lalit,68,EST
+Todi (thaat)_Gujari Todi_6.mp3,TRF,TEST,Gujari Todi,24,EST
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_0.mp3,TRF,TEST,Miyan Ki Todi orTodi or Darbari Todi,3,EST
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_11.mp3,TRF,TEST,Miyan Ki Todi orTodi or Darbari Todi,2,EST
+Todi (thaat)_Gujari Todi_4.mp3,TRF,TRAIN,Gujari Todi,28,EST
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_1.mp3,TRF,VAL,Miyan Ki Todi orTodi or Darbari Todi,5,EST
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_10.mp3,TRF,TRAIN,Miyan Ki Todi orTodi or Darbari Todi,5,EST
+Poorvi (thaat)_Lalit_7.mp3,TRF,TRAIN,Lalit,75,EST
+Todi (thaat)_Madhuvanti_9.mp3,TRF,TRAIN,Madhuvanti,9,EST
+Todi (thaat)_Madhuvanti_12.mp3,TRF,TRAIN,Madhuvanti,23,EST
+Todi (thaat)_Madhuvanti_7.mp3,TRF,TRAIN,Madhuvanti,13,EST
+Poorvi (thaat)_Shree_9.mp3,TRF,TRAIN,Shree,48,EST
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_16.mp3,TRF,VAL,Miyan Ki Todi orTodi or Darbari Todi,11,EST
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_2.mp3,TRF,TRAIN,Miyan Ki Todi orTodi or Darbari Todi,5,EST
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_18.mp3,TRF,TRAIN,Miyan Ki Todi orTodi or Darbari Todi,10,EST
+Todi (thaat)_Madhuvanti_5.mp3,TRF,VAL,Madhuvanti,27,EST
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_3.mp3,TRF,VAL,Miyan Ki Todi orTodi or Darbari Todi,3,EST
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_17.mp3,TRF,TRAIN,Miyan Ki Todi orTodi or Darbari Todi,13,EST
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_4.mp3,TRF,TRAIN,Miyan Ki Todi orTodi or Darbari Todi,1,EST
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_6.mp3,TRF,TRAIN,Miyan Ki Todi orTodi or Darbari Todi,3,EST
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_8.mp3,TRF,VAL,Miyan Ki Todi orTodi or Darbari Todi,3,EST
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_20.mp3,TRF,TEST,Miyan Ki Todi orTodi or Darbari Todi,7,EST
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_7.mp3,TRF,TRAIN,Miyan Ki Todi orTodi or Darbari Todi,2,EST
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_5.mp3,TRF,TRAIN,Miyan Ki Todi orTodi or Darbari Todi,5,EST
+Todi (thaat)_Multani_1.mp3,TRF,TRAIN,Multani,1,EST
+Todi (thaat)_Multani_0.mp3,TRF,VAL,Multani,3,EST
+Todi (thaat)_Multani_11.mp3,TRF,TRAIN,Multani,3,EST
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_9.mp3,TRF,TRAIN,Miyan Ki Todi orTodi or Darbari Todi,5,EST
+Todi (thaat)_Gujari Todi_7.mp3,TRF,TRAIN,Gujari Todi,53,EST
+Todi (thaat)_Madhuvanti_10.mp3,TRF,TEST,Madhuvanti,46,EST
+Todi (thaat)_Multani_13.mp3,TRF,VAL,Multani,5,EST
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_14.mp3,TRF,TRAIN,Miyan Ki Todi orTodi or Darbari Todi,26,EST
+Todi (thaat)_Multani_10.mp3,TRF,TRAIN,Multani,9,EST
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_12.mp3,TRF,TRAIN,Miyan Ki Todi orTodi or Darbari Todi,29,EST
+Todi (thaat)_Multani_2.mp3,TRF,TRAIN,Multani,6,EST
+Todi (thaat)_Multani_6.mp3,TRF,TRAIN,Multani,5,EST
+Todi (thaat)_Multani_4.mp3,TRF,TEST,Multani,7,EST
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_19.mp3,TRF,TEST,Miyan Ki Todi orTodi or Darbari Todi,28,EST
+Todi (thaat)_Multani_9.mp3,TRF,TRAIN,Multani,8,EST
+REC_0012,SARAGA,TEST,Sohni,1,EST
+REC_0012,SARAGA,TEST,Sohni,1,GT
+Todi (thaat)_Multani_7.mp3,TRF,TEST,Multani,10,EST
+Todi (thaat)_Multani_8.mp3,TRF,VAL,Multani,15,EST
+Todi (thaat)_Multani_12.mp3,TRF,TRAIN,Multani,22,EST
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_15.mp3,TRF,TRAIN,Miyan Ki Todi orTodi or Darbari Todi,42,EST
+REC_0019,SARAGA,TEST,Malkauns,5,EST
+REC_0019,SARAGA,TEST,Malkauns,5,GT
+REC_0015,SARAGA,TEST,Ahir Bhairav,9,EST
+REC_0015,SARAGA,TEST,Ahir Bhairav,9,GT
+Todi (thaat)_Madhuvanti_8.mp3,TRF,TEST,Madhuvanti,60,EST
+REC_0009,SARAGA,TEST,Gauri,16,EST
+REC_0009,SARAGA,TEST,Gauri,16,GT
+REC_0023,SARAGA,TEST,Rageshree,8,EST
+REC_0023,SARAGA,TEST,Rageshree,8,GT
+REC_0011,SARAGA,TEST,Gauri,17,EST
+REC_0011,SARAGA,TEST,Gauri,17,GT
+REC_0017,SARAGA,TEST,Bilaskhani Todi,14,EST
+REC_0017,SARAGA,TEST,Bilaskhani Todi,14,GT
+REC_0022,SARAGA,TEST,Nat Bhairav,10,EST
+REC_0022,SARAGA,TEST,Nat Bhairav,10,GT
+REC_0021,SARAGA,TEST,Multani,11,EST
+REC_0021,SARAGA,TEST,Multani,11,GT
+REC_0027,SARAGA,TEST,Bilaskhani Todi,6,EST
+REC_0027,SARAGA,TEST,Bilaskhani Todi,6,GT
+Todi (thaat)_Multani_5.mp3,TRF,TEST,Multani,36,EST
+REC_0026,SARAGA,TEST,Miyan Ki Todi orTodi or Darbari Todi,9,EST
+REC_0026,SARAGA,TEST,Miyan Ki Todi orTodi or Darbari Todi,9,GT
+REC_0008,SARAGA,TEST,Komal Rishabh Asavari,23,EST
+REC_0008,SARAGA,TEST,Komal Rishabh Asavari,23,GT
+REC_0028,SARAGA,TEST,Desh,6,EST
+REC_0028,SARAGA,TEST,Desh,6,GT
+REC_0029,SARAGA,TEST,Lalit,6,EST
+REC_0029,SARAGA,TEST,Lalit,6,GT
+REC_0034,SARAGA,TEST,Yaman Kalyan,5,EST
+REC_0034,SARAGA,TEST,Yaman Kalyan,5,GT
+REC_0031,SARAGA,TEST,Marva,6,EST
+REC_0031,SARAGA,TEST,Marva,6,GT
+REC_0024,SARAGA,TEST,suddha kalyan,15,EST
+REC_0024,SARAGA,TEST,suddha kalyan,15,GT
+REC_0035,SARAGA,TEST,Bhairavi,6,EST
+REC_0035,SARAGA,TEST,Bhairavi,6,GT
+Todi (thaat)_Multani_3.mp3,TRF,TRAIN,Multani,56,EST
+REC_0045,SARAGA,TEST,Bhairavi,14,EST
+REC_0045,SARAGA,TEST,Bhairavi,14,GT
+REC_0044,SARAGA,TEST,Miyan Ki Todi orTodi or Darbari Todi,17,EST
+REC_0044,SARAGA,TEST,Miyan Ki Todi orTodi or Darbari Todi,17,GT
+REC_0041,SARAGA,TEST,Khamaj,19,EST
+REC_0041,SARAGA,TEST,Khamaj,19,GT
+REC_0049,SARAGA,TEST,Yaman Kalyan,18,EST
+REC_0049,SARAGA,TEST,Yaman Kalyan,18,GT
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_13.mp3,TRF,TEST,Miyan Ki Todi orTodi or Darbari Todi,93,EST
+REC_0052,SARAGA,TEST,Bhairavi,10,EST
+REC_0052,SARAGA,TEST,Bhairavi,10,GT
+Todi (thaat)_Miyan Ki Todi orTodi or Darbari Todi_21.mp3,TRF,TRAIN,Miyan Ki Todi orTodi or Darbari Todi,89,EST
+REC_0039,SARAGA,TEST,Megh,29,EST
+REC_0039,SARAGA,TEST,Megh,29,GT
+REC_0038,SARAGA,TEST,Abhogi,31,EST
+REC_0038,SARAGA,TEST,Abhogi,31,GT
+REC_0047,SARAGA,TEST,Bahar,27,EST
+REC_0047,SARAGA,TEST,Bahar,27,GT
+REC_0042,SARAGA,TEST,Rageshree,35,EST
+REC_0042,SARAGA,TEST,Rageshree,35,GT
+REC_0058,SARAGA,TEST,Bhairavi,10,EST
+REC_0058,SARAGA,TEST,Bhairavi,10,GT
+REC_0050,SARAGA,TEST,Bhairav,24,EST
+REC_0050,SARAGA,TEST,Bhairav,24,GT
+REC_0046,SARAGA,TEST,Bageshree,38,EST
+REC_0046,SARAGA,TEST,Bageshree,38,GT
+REC_0043,SARAGA,TEST,Ahir Bhairav,39,EST
+REC_0043,SARAGA,TEST,Ahir Bhairav,39,GT
+REC_0040,SARAGA,TEST,Abhogi,41,EST
+REC_0040,SARAGA,TEST,Abhogi,41,GT
+REC_0054,SARAGA,TEST,Bhimpalasi,26,EST
+REC_0054,SARAGA,TEST,Bhimpalasi,26,GT
+REC_0072,SARAGA,TEST,Bibhas,14,EST
+REC_0072,SARAGA,TEST,Bibhas,14,GT
+REC_0053,SARAGA,TEST,Bhatiyar,37,EST
+REC_0053,SARAGA,TEST,Bhatiyar,37,GT
+REC_0065,SARAGA,TEST,Bhimpalasi,31,EST
+REC_0065,SARAGA,TEST,Bhimpalasi,31,GT
+REC_0055,SARAGA,TEST,Multani,42,EST
+REC_0055,SARAGA,TEST,Multani,42,GT
+REC_0067,SARAGA,TEST,Yaman or Kalyan,33,EST
+REC_0067,SARAGA,TEST,Yaman or Kalyan,33,GT
+REC_0059,SARAGA,TEST,Bihag,41,EST
+REC_0059,SARAGA,TEST,Bihag,41,GT
+REC_0078,SARAGA,TEST,Marva,33,EST
+REC_0078,SARAGA,TEST,Marva,33,GT
+REC_0079,SARAGA,TEST,Marva,32,EST
+REC_0079,SARAGA,TEST,Marva,32,GT
+REC_0073,SARAGA,TEST,Lalit,40,EST
+REC_0073,SARAGA,TEST,Lalit,40,GT
+REC_0087,SARAGA,TEST,Bhairavi,19,EST
+REC_0087,SARAGA,TEST,Bhairavi,19,GT
+REC_0056,SARAGA,TEST,Bhoopali,55,EST
+REC_0056,SARAGA,TEST,Bhoopali,55,GT
+REC_0076,SARAGA,TEST,Malkauns,38,EST
+REC_0076,SARAGA,TEST,Malkauns,38,GT
+REC_0069,SARAGA,TEST,Kedar,44,EST
+REC_0069,SARAGA,TEST,Kedar,44,GT
+REC_0080,SARAGA,TEST,Shree,37,EST
+REC_0080,SARAGA,TEST,Shree,37,GT
+REC_0060,SARAGA,TEST,Bihag,65,EST
+REC_0060,SARAGA,TEST,Bihag,65,GT
+REC_0085,SARAGA,TEST,Shree,50,EST
+REC_0085,SARAGA,TEST,Shree,50,GT
+REC_0086,SARAGA,TEST,Shree,63,EST
+REC_0086,SARAGA,TEST,Shree,63,GT
+REC_0092,SARAGA,TEST,Shree,49,EST
+REC_0092,SARAGA,TEST,Shree,49,GT
+REC_0091,SARAGA,TEST,Lalit,60,EST
+REC_0091,SARAGA,TEST,Lalit,60,GT
+REC_0089,SARAGA,TEST,Shree,66,EST
+REC_0089,SARAGA,TEST,Shree,66,GT
+REC_0090,SARAGA,TEST,Miyan Ki Todi orTodi or Darbari Todi,71,EST
+REC_0090,SARAGA,TEST,Miyan Ki Todi orTodi or Darbari Todi,71,GT

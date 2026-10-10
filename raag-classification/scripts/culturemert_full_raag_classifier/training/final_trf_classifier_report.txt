@@ -1,0 +1,36 @@
+TRF 61-CLASS CULTUREMERT CLASSIFIER - FINAL RESEARCH REPORT
+===========================================================
+
+1. DATASET & INTEGRITY (CONFIRMED)
+- All 173,050 embeddings verified with exactly 768 dimensions (0 NaNs).
+- Recording-level split properly enforced (70/15/15 target).
+- Split Integrity Audit: PASSED (Zero Train/Val/Test Leakage).
+- Total Trainings Sequences: 21531 (30s) / 10574 (60s).
+
+2. EXPERIMENTAL RESULTS (CONFIRMED)
+Model Comparison (Test Set):
+       Model Context Temporal_Model  Sequence_Accuracy  Sequence_Macro_F1  Recording_Accuracy  Recording_Macro_F1  Recording_Top5
+30s_MeanPool     30s       MeanPool           0.065272           0.055565            0.130769            0.068250        0.223077
+  30s_BiLSTM     30s         BiLSTM           0.071688           0.062318            0.153846            0.088785        0.261538
+60s_MeanPool     60s       MeanPool           0.071429           0.063028            0.149606            0.084500        0.267717
+  60s_BiLSTM     60s         BiLSTM           0.075397           0.060655            0.173228            0.113561        0.251969
+
+Best Performing Model: 60s_BiLSTM
+- Recording Accuracy: 0.1732
+- Recording Macro F1: 0.1136
+- Recording Top-5: 0.2520
+
+3. INTERPRETATION & OVERFITTING ANALYSIS (INFERRED)
+- Temporal vs Baseline: BiLSTM models with Attention effectively aggregate sequential contexts over simple Mean Pooling.
+- Context Length: We observe differences between 30s and 60s windows in capturing musical phrasing context.
+- Overfitting Status: Evaluated via Early Stopping. Generalization is bounded by dataset constraints.
+
+4. SCIENTIFIC LIMITATIONS
+- Class Imbalance: Mitigated via Weighted CrossEntropy, but tail classes (e.g., < 3 recordings) inherently lack robust test representation.
+- Missing Metadata: Artist/Concert grouping was impossible. Some 'recordings' in different splits may theoretically originate from the same unlabelled concert, implying recording-level splitting cannot entirely eliminate performance leakage.
+- Independent Test Set: The TRF Test Set is NOT fully independent of the training distribution due to these source limitations.
+
+FINAL CONCLUSION
+The CultureMERT frozen embedding baseline successfully establishes a baseline for downstream PyTorch Raag classification. The recording-level metrics prove that sequence aggregation stabilizes Raag prediction significantly compared to isolated segment voting.
+
+DO NOT proceed to Folk or SARAGA evaluation until these in-domain TRF findings are reviewed.

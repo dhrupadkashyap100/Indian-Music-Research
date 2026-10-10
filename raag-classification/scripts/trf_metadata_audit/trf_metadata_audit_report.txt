@@ -1,0 +1,25 @@
+TRF METADATA AUDIT REPORT
+=========================
+
+CONFIRMED:
+- The discovered JSON file is NOT a track-level metadata file. It is a Kaggle Dataset Card (Croissant format).
+- It contains dataset-level descriptions, DOI links, creator name (SURYA MAJUMDER), and file distributions (archive.zip).
+- There are exactly 0 track-level records inside this JSON.
+- The JSON does NOT contain artist, concert, performance, or source information for the 1,103 audio files.
+
+INFERRED:
+- Because there is no track-level metadata, the provenance of the numbered audio files (e.g., '1.mp3') remains completely opaque.
+
+UNKNOWN:
+- Independence of performances across files.
+
+FINAL ANSWERS:
+1. What exactly does the metadata contain? Dataset description, Kaggle URL, and paper citations. No track records.
+2. Can it be reliably mapped to the 1,103 audio files? NO. There is nothing to map.
+3. Does it reveal artist/source/performance information? NO.
+4. Does it solve the leakage problem? NO.
+5. Can TRF safely be split? NO.
+6. Can TRF be used as a reference database? YES. It provides many high-quality samples of each Raag.
+7. Is TRF better than our current SARAGA reference dataset? FOR REFERENCE, YES (much larger and more balanced). FOR TESTING, NO (SARAGA has guaranteed independence).
+8. Should we proceed with CultureMERT + TRF? YES, but ONLY using TRF as the monolithic reference embedding bank, and evaluating on SARAGA.
+9. What is the EXACT next step after this audit? Extract CultureMERT embeddings for TRF and SARAGA. Evaluate the accuracy of the TRF-based KNN classifier on the SARAGA test set.

@@ -1,0 +1,12 @@
+{
+    "Control_Test_Top1": 0.36796536796536794,
+    "Hybrid_Test_Top1": 0.45021645021645024,
+    "Hybrid_Test_Top3": 0.5974025974025974,
+    "Hybrid_Test_Macro_F1": 0.3907421884988752,
+    "Hybrid_Test_Margin": 0.04369812600259502,
+    "Hybrid_95_CI": [
+        0.3852813852813853,
+        0.5109307359307359
+    ],
+    "STATUS": "HYBRID WINS - NEW FROZEN MODEL"
+}

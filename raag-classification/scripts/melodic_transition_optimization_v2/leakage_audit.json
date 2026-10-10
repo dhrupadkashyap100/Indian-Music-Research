@@ -1,0 +1,11 @@
+{
+    "TRF_Train_Count": 635,
+    "TRF_Val_Count": 223,
+    "TRF_Test_Count": 245,
+    "Train_Val_Overlap": 0,
+    "Train_Test_Overlap": 0,
+    "Val_Test_Overlap": 0,
+    "SARAGA_TRF_Overlap": 0,
+    "PCA_or_Learned_Norm_Used": false,
+    "Leakage_Status": "PASS"
+}

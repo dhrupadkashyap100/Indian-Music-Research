@@ -1,0 +1,4 @@
+relative_path,file_name,extension,size_mb,last_modified,probable_purpose,referenced_by_other_files,status,notes
+.,hindustani_dataset_manifest.csv,.csv,0.4,2026,Dataset Metadata,YES,PRESENT,
+scripts,folk_inference_pipeline.py,.py,0.01,2026,Inference,YES,PRESENT,
+scripts,run_phase3.py,.py,0.01,2026,Tonic Validation,YES,PRESENT,

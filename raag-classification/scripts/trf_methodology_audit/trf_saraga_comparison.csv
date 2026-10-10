@@ -1,0 +1,7 @@
+Metric,TRF,SARAGA
+Total Recordings,~1103,~93
+Total Duration,~241 hours,~39 hours
+Recordings/Class,Median 15 (Min 5),Median 1 (Min 1)
+Label Quality,"CONFIRMED BY PAPER, but opaque provenance",Highly curated (CompMusic)
+Metadata,Absent,"Rich (Artist, Concert)"
+Role,Excellent for Training/Reference Bank,Excellent for strict isolated Evaluation/Test

@@ -1,0 +1,20 @@
+{
+    "consistent_classes": [],
+    "partially_consistent_classes": [
+        "Shree",
+        "Bihag",
+        "Bairagi",
+        "Multani",
+        "Dhani",
+        "Malkauns"
+    ],
+    "inconsistent_classes": [
+        "Jog",
+        "Todi",
+        "Marwa",
+        "Hameer"
+    ],
+    "overall_top_prediction": "KaushikDhwani",
+    "overall_top_prediction_percentage": 9.205973411036242,
+    "recommendation": "Abandon completely"
+}

@@ -1,0 +1,18 @@
+IMPROVED MAPPING METHODOLOGY
+==========================
+1. Normalization: Removed file extensions, lowercased, unicode NFKD normalized, stripped noise stopwords (official, HD, video, etc).
+2. Features: Extracted clean titles alongside raw identifiers.
+3. Multi-stage: Tested exact raw, exact clean, and multi-metric fuzzy (token overlap, Jaccard, SequenceMatcher, containment).
+4. Multi-evidence: Generated top 3 unique genre candidates to detect true ambiguity (score diff <= 0.1).
+
+RESULTS
+=======
+Total: 327
+High Conf: 321
+Medium Conf: 2
+Low Conf: 2
+Ambiguous: 0
+Unmatched: 2
+Newly Resolved (from prev unmatched): 10
+Mappings that changed genre: 1
+Previous weak matches upgraded: 69

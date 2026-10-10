@@ -1,0 +1,11 @@
+id,dataset,split,raag,path
+Asavari (thaat)_Adana_11.mp3,TRF,TRAIN,Adana,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Adana\11.mp3
+Asavari (thaat)_Adana_12.mp3,TRF,TRAIN,Adana,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Adana\12.mp3
+Asavari (thaat)_Adana_14.mp3,TRF,TRAIN,Adana,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Adana\14.mp3
+Asavari (thaat)_Adana_15.mp3,TRF,TRAIN,Adana,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Adana\15.mp3
+Asavari (thaat)_Adana_18.mp3,TRF,TRAIN,Adana,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Adana\18.mp3
+Asavari (thaat)_Adana_1.mp3,TRF,VAL,Adana,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Adana\1.mp3
+Asavari (thaat)_Adana_19.mp3,TRF,VAL,Adana,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Adana\19.mp3
+Asavari (thaat)_Adana_20.mp3,TRF,VAL,Adana,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Adana\20.mp3
+REC_0008,SARAGA,TEST,Komal Rishabh Asavari,D:\Raaga_Recognition_Project\Reference_Model\Raaga_Info\reference_dataset\Saraga\saraga1.5_hindustani\Anaahata by Milind Malshe\Raag Komal Rishav Aasavari\Raag Komal Rishav Aasavari.mp3.mp3
+REC_0009,SARAGA,TEST,Gauri,D:\Raaga_Recognition_Project\Reference_Model\Raaga_Info\reference_dataset\Saraga\saraga1.5_hindustani\Anaahata by Milind Malshe\Raag Lalita Gauri\Raag Lalita Gauri.mp3.mp3

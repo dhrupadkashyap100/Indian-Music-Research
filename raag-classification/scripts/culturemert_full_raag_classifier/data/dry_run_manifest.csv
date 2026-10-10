@@ -1,0 +1,16 @@
+dataset,thaat,raag,source_recording,audio_path,extension,sample_rate,channels,duration_seconds,file_size_bytes
+TRF,Asavari (thaat),Adana,Asavari (thaat)_Adana_0.mp3,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Adana\0.mp3,.mp3,44100,2,540.8159637188209,12981531
+TRF,Asavari (thaat),Adana,Asavari (thaat)_Adana_1.mp3,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Adana\1.mp3,.mp3,44100,2,151.3708843537415,3634501
+TRF,Asavari (thaat),Adana,Asavari (thaat)_Adana_10.mp3,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Adana\10.mp3,.mp3,44100,2,1010.8110657596372,24261413
+TRF,Asavari (thaat),Asavari,Asavari (thaat)_Asavari_0.mp3,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Asavari\0.mp3,.mp3,48000,2,139.38939583333334,2788845
+TRF,Asavari (thaat),Asavari,Asavari (thaat)_Asavari_1.mp3,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Asavari\1.mp3,.mp3,48000,2,325.04454166666665,6502125
+TRF,Asavari (thaat),Asavari,Asavari (thaat)_Asavari_2.mp3,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Asavari\2.mp3,.mp3,48000,2,375.0835416666667,7502925
+TRF,Asavari (thaat),Darbari,Asavari (thaat)_Darbari_0.mp3,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Darbari\0.mp3,.mp3,48000,2,383.7678125,7676685
+TRF,Asavari (thaat),Darbari,Asavari (thaat)_Darbari_1.mp3,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Darbari\1.mp3,.mp3,44100,2,400.4977777777778,6409129
+TRF,Asavari (thaat),Darbari,Asavari (thaat)_Darbari_10.mp3,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Darbari\10.mp3,.mp3,44100,2,1865.9091156462584,44783627
+TRF,Asavari (thaat),Desi,Asavari (thaat)_Desi_0.mp3,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Desi\0.mp3,.mp3,48000,2,215.46958333333333,4310445
+TRF,Asavari (thaat),Desi,Asavari (thaat)_Desi_1.mp3,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Desi\1.mp3,.mp3,44100,2,3354.284988662132,53669648
+TRF,Asavari (thaat),Desi,Asavari (thaat)_Desi_10.mp3,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Desi\10.mp3,.mp3,44100,2,800.4614965986394,19212675
+TRF,Asavari (thaat),Jaunpuri,Asavari (thaat)_Jaunpuri_0.mp3,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Jaunpuri\0.mp3,.mp3,48000,2,408.3345208333333,8167725
+TRF,Asavari (thaat),Jaunpuri,Asavari (thaat)_Jaunpuri_1.mp3,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Jaunpuri\1.mp3,.mp3,44100,2,1187.1666213151927,18995755
+TRF,Asavari (thaat),Jaunpuri,Asavari (thaat)_Jaunpuri_10.mp3,D:\Raaga_Recognition_Project\Thaat and Raga Forest (TRF) Dataset\Asavari (thaat)\Jaunpuri\10.mp3,.mp3,44100,2,366.0858049886621,8787937

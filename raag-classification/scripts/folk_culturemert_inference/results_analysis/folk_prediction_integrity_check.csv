@@ -1,0 +1,7 @@
+Check,Status
+Exactly 328 canonical Original Song IDs appear,PASS
+Exactly 327 have predictions,PASS
+Exactly 1 has no prediction,PASS
+No canonical ID appears twice in the master table,PASS
+No prediction was invented,PASS
+No source data modified,PASS

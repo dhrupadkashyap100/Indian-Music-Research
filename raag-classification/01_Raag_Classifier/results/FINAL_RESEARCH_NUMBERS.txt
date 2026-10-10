@@ -1,0 +1,36 @@
+DATASET
+-------
+Total folk songs: 313
+Total folk genres: 10
+Total Raags: 50
+Songs per genre:
+Genre
+Bihu          36
+Maand         34
+Sambalpuri    33
+Baul          31
+Garba         31
+Dhamail       30
+Bhangra       30
+Ghoomar       30
+Lavani        29
+Jhumur        29
+
+FOLK RAAG ASSOCIATION
+---------------------
+Most dominant genre-Raag association: Jhumur -> Durga (10 songs)
+Most frequently predicted Raag: Malkauns (28 songs)
+Number of genres represented by top Raag: 9
+Genre with highest Raag concentration: Sambalpuri
+
+MODEL PERFORMANCE
+-----------------
+Baseline Validation Top-1: 0.3923
+Best SARAGA Top-1: 0.5660
+Best SARAGA Top-3: 0.8679
+
+DATA LIMITATIONS
+----------------
+Ground-truth status: No validated ground-truth Raag labels were available for the folk songs; therefore Top-3 candidate frequency is descriptive rather than an accuracy measure.
+Segment/song aggregation: Aggregated sequentially from 5s sequences to 60s windows to final song level representations.
+Unmatched records: 14 out of 327

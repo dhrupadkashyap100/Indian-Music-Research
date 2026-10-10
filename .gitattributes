@@ -1,0 +1,13 @@
+# Large model files and embeddings
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text
+*.npz filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.joblib filter=lfs diff=lfs merge=lfs -text
+
+# Exclude audio files from tracking completely (fail-safe)
+*.wav -text -diff -merge
+*.mp3 -text -diff -merge
+*.flac -text -diff -merge

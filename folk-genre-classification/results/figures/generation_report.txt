@@ -1,0 +1,68 @@
+========================================================================
+  FOLK MUSIC GENRE CLASSIFICATION - FIGURE GENERATION REPORT
+========================================================================
+
+DISCOVERED FILES
+------------------------------------------------------------------------
+  cnn_training_log               : D:\Raaga_Recognition_Project\Folk_Music_Classifier\outputs\logs\training_log.csv
+  efficientnet_train_log         : D:\Raaga_Recognition_Project\Folk_Music_Classifier\outputs\logs\efficientnet_training_log.csv
+  cbam_training_log              : D:\Raaga_Recognition_Project\Folk_Music_Classifier\outputs\cbam_experiment\logs\cbam_training_log.csv
+  multi_feature_log              : D:\Raaga_Recognition_Project\Folk_Music_Classifier\outputs\logs\multi_feature_training_log.csv
+  cnn_eval_metrics               : D:\Raaga_Recognition_Project\Folk_Music_Classifier\cnn_eval_metrics.json
+  efficientnet_metrics           : D:\Raaga_Recognition_Project\Folk_Music_Classifier\efficientnet_eval_metrics.json
+  cbam_metrics                   : D:\Raaga_Recognition_Project\Folk_Music_Classifier\results\metrics\cbam_classification_report.json
+  multifeature_metrics           : D:\Raaga_Recognition_Project\Folk_Music_Classifier\outputs\reports\multi_feature_eval_report.json
+  cnn_confusion_matrix           : D:\Raaga_Recognition_Project\Folk_Music_Classifier\cnn_confusion_matrix.png
+  efficientnet_cm                : D:\Raaga_Recognition_Project\Folk_Music_Classifier\efficientnet_confusion_matrix.png
+  cbam_cm                        : D:\Raaga_Recognition_Project\Folk_Music_Classifier\outputs\cbam_experiment\evaluation\confusion_matrix.png
+  master_dataset_report          : D:\Raaga_Recognition_Project\Folk_Music_Classifier\datasets\metadata\master_dataset_report.txt
+
+LOADED HISTORIES
+------------------------------------------------------------------------
+  cnn                 : 14 epochs | best val acc: 70.68% | best val loss: 1.3418
+  efficientnet        : 42 epochs | best val acc: 71.62% | best val loss: 1.0556
+  cbam                : 39 epochs | best val acc: 70.78% | best val loss: 1.2751
+  multi_feature       : 24 epochs | best val acc: 67.44% | best val loss: 1.3196
+
+COMPARATIVE METRICS
+------------------------------------------------------------------------
+  Model                              Accuracy  Precision     Recall         F1
+  ----------------------------------------------------------------------
+  Baseline CNN                         65.10%     64.93%     67.96%     63.97%
+  EfficientNet-B0                      70.14%     69.86%     74.45%     69.38%
+  Multi-Feat EfficientNet+CBAM         68.70%     67.83%     71.08%     67.88%
+
+DATASET DISTRIBUTION
+------------------------------------------------------------------------
+  Baul           : 1546
+  Bhangra        : 1551
+  Bihu           : 2015
+  Dhamail        : 2077
+  Garba          : 2593
+  Ghoomar        : 1981
+  Jhumur         : 1654
+  Lavani         : 1613
+  Maand          : 3368
+  Sambalpuri     : 1982
+  TOTAL          : 20380
+
+GENERATED FILES
+------------------------------------------------------------------------
+  OK  D:\Raaga_Recognition_Project\Folk_Music_Classifier\results\figures\cnn_accuracy_vs_epoch.png
+  OK  D:\Raaga_Recognition_Project\Folk_Music_Classifier\results\figures\efficientnet_accuracy_vs_epoch.png
+  OK  D:\Raaga_Recognition_Project\Folk_Music_Classifier\results\figures\multifeature_cbam_accuracy_vs_epoch.png
+  OK  D:\Raaga_Recognition_Project\Folk_Music_Classifier\results\figures\cnn_loss_vs_epoch.png
+  OK  D:\Raaga_Recognition_Project\Folk_Music_Classifier\results\figures\efficientnet_loss_vs_epoch.png
+  OK  D:\Raaga_Recognition_Project\Folk_Music_Classifier\results\figures\multifeature_cbam_loss_vs_epoch.png
+  OK  D:\Raaga_Recognition_Project\Folk_Music_Classifier\results\figures\model_comparison.png
+  OK  D:\Raaga_Recognition_Project\Folk_Music_Classifier\results\figures\dataset_distribution.png
+  OK  D:\Raaga_Recognition_Project\Folk_Music_Classifier\results\figures\cnn_confusion_matrix.png
+  OK  D:\Raaga_Recognition_Project\Folk_Music_Classifier\results\figures\efficientnet_confusion_matrix.png
+  OK  D:\Raaga_Recognition_Project\Folk_Music_Classifier\results\figures\multifeature_cbam_confusion_matrix.png
+  OK  D:\Raaga_Recognition_Project\Folk_Music_Classifier\results\figures\overlay_val_accuracy.png
+  OK  D:\Raaga_Recognition_Project\Folk_Music_Classifier\results\figures\overlay_val_loss.png
+
+
+========================================================================
+  Output directory: D:\Raaga_Recognition_Project\Folk_Music_Classifier\results\figures
+========================================================================

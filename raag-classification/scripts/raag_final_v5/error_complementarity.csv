@@ -1,0 +1,7 @@
+Metric,Value
+Both Correct,45.0
+Both Wrong,108.0
+Geometry Correct / SVM Wrong,25.0
+Geometry Wrong / SVM Correct,31.0
+SVM Rescue Rate,0.22302158273381295
+SVM Damage Rate,0.35714285714285715

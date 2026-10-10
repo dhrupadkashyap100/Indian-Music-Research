@@ -1,0 +1,6 @@
+{
+    "trf_reference_sequences_30s": 28361,
+    "saraga_queries_30s": 2974,
+    "knn_30s_accuracy": 0.09259259259259259,
+    "knn_60s_accuracy": 0.1111111111111111
+}

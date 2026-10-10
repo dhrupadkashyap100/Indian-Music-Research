@@ -1,0 +1,11 @@
+Genre,Recordings,Mean Top-1 Similarity,Mean Margin,Most Frequent Raags
+Baul,30,0.9328798734465586,0.03472910393707742,"Yaman Kalyan, Bhairavi, Purba"
+Bhangra,32,0.9335362428183327,0.003626675866878669,"Darbari, Adana, Gujari Todi"
+Bihu,37,0.9351850170228388,0.0020488231972006837,"Bhoopali, Desh, Ahir Bhairav"
+Dhamail,30,0.9353420943933138,0.0026692234736010122,"Darbari, Khamaj, Adana"
+Garba,31,0.9394240083162808,0.03207758347804555,"Adana, Megh, Alhaiya Bilaval"
+Ghoomar,30,0.9360716748709489,0.002972369774830049,"Bhairav, Adana, Asavari"
+Jhumur,30,0.9370905654148134,0.001949125954501211,"Bageshree, Adana, Marva"
+Lavani,35,0.938351665483851,0.0021182843258342205,"Bahar, Marva, suddha kalyan"
+Maand,39,0.9348274459402083,0.0021970294748192196,"Darbari, Purba, Khamaj"
+Sambalpuri,33,0.9378820648606275,0.002152727860493734,"Bilaval, Sorath, Darbari"

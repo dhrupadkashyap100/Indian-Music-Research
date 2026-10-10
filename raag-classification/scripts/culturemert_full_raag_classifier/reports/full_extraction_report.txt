@@ -1,0 +1,38 @@
+CULTUREMERT FULL EXTRACTION - FINAL VERIFICATION REPORT
+=======================================================
+
+1. Dataset-Level Integrity
+- Total recordings processed: 1103
+- Total recordings failed: 0
+- Total Raags represented: 61
+- Total Thaats represented: 10
+- Total audio duration processed: 241.08 hours
+
+2. Embeddings & Sequences
+- Total 5-second segments generated: 173050
+- Total 30-second sequences generated: 28361
+- Total 60-second sequences generated: 13931
+- Missing metadata: False
+- Duplicate IDs: False
+- Orphan embeddings: False
+- Cross-recording contamination: False
+
+3. Tensor Health
+- Expected Shape (768,): Confirmed for all.
+- Invalid Shapes: 0
+- NaN embeddings: 0
+- Inf embeddings: 0
+
+4. Resource Benchmark
+- Actual extraction time: 1.85 hours
+- Average time per 5s segment: 0.0384 sec
+- Actual Disk Usage: 507.12 MB
+- Peak GPU Memory: 0.54 GB
+
+5. Per-Raag Statistics
+All per-Raag sequence counts are successfully verified and saved to `reports/per_raag_statistics.csv`.
+No classes were omitted.
+
+FINAL STATUS:
+The full-scale 241-hour embedding extraction has completed successfully.
+The embedding bank passed all integrity checks.

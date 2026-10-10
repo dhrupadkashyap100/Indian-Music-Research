@@ -1,0 +1,217 @@
+model,recording_id,original_saraga_raag,mapped_trf_raag,predicted_class_index,confidence,top1_correct,top3_correct,top5_correct,number_of_sequences
+30s_MeanPool,REC_0008,Komal rishabh asavari,Komal Rishabh Asavari,10,0.34032106399536133,False,False,False,47
+30s_MeanPool,REC_0009,Gauri,Gauri,10,0.4600324034690857,False,False,False,33
+30s_MeanPool,REC_0011,Gauri,Gauri,53,0.4876576066017151,False,False,False,35
+30s_MeanPool,REC_0012,Sohini,Sohni,49,0.41103416681289673,False,False,False,2
+30s_MeanPool,REC_0015,Ahir bhairav,Ahir Bhairav,47,0.5911111831665039,False,False,False,19
+30s_MeanPool,REC_0017,Bilaskhani todi,Bilaskhani Todi,20,0.9078896641731262,True,True,True,28
+30s_MeanPool,REC_0019,Malkauns,Malkauns,52,0.7780761122703552,False,False,False,11
+30s_MeanPool,REC_0021,Multani,Multani,20,0.6552272439002991,False,False,False,22
+30s_MeanPool,REC_0022,Nat bhairav,Nat Bhairav,47,0.8836972117424011,True,True,True,21
+30s_MeanPool,REC_0023,Rageshri,Rageshree,52,0.9354143738746643,True,True,True,16
+30s_MeanPool,REC_0024,Shuddha kalyan,suddha kalyan,20,0.4036533534526825,False,False,False,30
+30s_MeanPool,REC_0026,Todi,Miyan Ki Todi orTodi or Darbari Todi,20,0.5564228296279907,False,False,False,18
+30s_MeanPool,REC_0027,Bilaskhani todi,Bilaskhani Todi,7,0.5224496722221375,False,False,False,13
+30s_MeanPool,REC_0028,Des,Desh,51,0.289229154586792,False,False,False,12
+30s_MeanPool,REC_0029,Lalat,Lalit,7,0.5863965749740601,False,False,False,12
+30s_MeanPool,REC_0031,Marwa,Marva,16,0.4027256369590759,False,False,False,13
+30s_MeanPool,REC_0034,Yaman kalyan,Yaman Kalyan,16,0.8295011520385742,False,False,False,11
+30s_MeanPool,REC_0035,Bhairabi,Bhairavi,52,0.48917222023010254,False,False,False,12
+30s_MeanPool,REC_0038,Abhogi,Abhogi,0,0.4967581629753113,True,True,True,62
+30s_MeanPool,REC_0039,Megh,Megh,0,0.5015246868133545,False,False,True,58
+30s_MeanPool,REC_0040,Abhogi,Abhogi,25,0.23342494666576385,False,False,False,85
+30s_MeanPool,REC_0041,Khamaj,Khamaj,42,0.5828277468681335,False,False,False,38
+30s_MeanPool,REC_0042,Rageshri,Rageshree,40,0.24259118735790253,False,True,True,70
+30s_MeanPool,REC_0043,Ahir bhairav,Ahir Bhairav,46,0.3091163635253906,False,False,False,78
+30s_MeanPool,REC_0044,Todi,Miyan Ki Todi orTodi or Darbari Todi,0,0.6112898588180542,False,False,True,35
+30s_MeanPool,REC_0045,Bhairabi,Bhairavi,7,0.4211667478084564,False,False,False,29
+30s_MeanPool,REC_0046,Bageshree,Bageshree,7,0.4161066710948944,False,False,False,76
+30s_MeanPool,REC_0047,Bahar,Bahar,6,0.49015557765960693,True,True,True,55
+30s_MeanPool,REC_0049,Yaman kalyan,Yaman Kalyan,0,0.40378713607788086,False,False,True,36
+30s_MeanPool,REC_0050,Bhairav,Bhairav,25,0.18606825172901154,False,False,False,48
+30s_MeanPool,REC_0052,Bhairabi,Bhairavi,10,0.2888689339160919,False,False,False,23
+30s_MeanPool,REC_0053,Bhatiyar,Bhatiyar,10,0.24065884947776794,False,False,False,75
+30s_MeanPool,REC_0054,Bhimpalas,Bhimpalasi,60,0.24130387604236603,False,False,False,53
+30s_MeanPool,REC_0055,Multani,Multani,32,0.2074633240699768,False,False,False,84
+30s_MeanPool,REC_0056,Bhoop,Bhoopali,32,0.17168989777565002,False,False,False,111
+30s_MeanPool,REC_0058,Bhairabi,Bhairavi,1,0.32089507579803467,False,False,False,20
+30s_MeanPool,REC_0059,Bihag,Bihag,52,0.22495342791080475,False,False,False,83
+30s_MeanPool,REC_0060,Bihag,Bihag,7,0.3608224093914032,False,False,False,131
+30s_MeanPool,REC_0065,Bhimpalas,Bhimpalasi,32,0.1654142290353775,False,False,False,63
+30s_MeanPool,REC_0067,Kalyan,Yaman or Kalyan,10,0.3389662504196167,False,False,False,67
+30s_MeanPool,REC_0069,Kedar,Kedar,10,0.689484179019928,False,False,False,90
+30s_MeanPool,REC_0072,Bibhas,Bibhas,20,0.2956859767436981,False,False,False,28
+30s_MeanPool,REC_0073,Lalat,Lalit,20,0.4004580080509186,False,False,False,81
+30s_MeanPool,REC_0076,Malkauns,Malkauns,42,0.39980974793434143,False,False,False,76
+30s_MeanPool,REC_0078,Marwa,Marva,39,0.14188171923160553,False,False,False,67
+30s_MeanPool,REC_0079,Marwa,Marva,1,0.23244716227054596,False,False,False,64
+30s_MeanPool,REC_0080,Shree,Shree,31,0.4191133677959442,False,False,False,75
+30s_MeanPool,REC_0085,Shree,Shree,22,0.13670893013477325,False,False,False,101
+30s_MeanPool,REC_0086,Shree,Shree,45,0.6374297142028809,False,False,False,127
+30s_MeanPool,REC_0087,Bhairabi,Bhairavi,22,0.21752096712589264,False,False,False,38
+30s_MeanPool,REC_0089,Shree,Shree,45,0.34039315581321716,False,False,False,132
+30s_MeanPool,REC_0090,Todi,Miyan Ki Todi orTodi or Darbari Todi,0,0.510434091091156,False,False,False,142
+30s_MeanPool,REC_0091,Lalat,Lalit,28,0.24296799302101135,False,False,False,120
+30s_MeanPool,REC_0092,Shree,Shree,45,0.553925096988678,False,False,False,98
+30s_BiLSTM,REC_0008,Komal rishabh asavari,Komal Rishabh Asavari,7,0.24418817460536957,False,False,False,47
+30s_BiLSTM,REC_0009,Gauri,Gauri,10,0.5777183771133423,False,False,False,33
+30s_BiLSTM,REC_0011,Gauri,Gauri,44,0.756223738193512,False,False,False,35
+30s_BiLSTM,REC_0012,Sohini,Sohni,49,0.5444929003715515,False,False,False,2
+30s_BiLSTM,REC_0015,Ahir bhairav,Ahir Bhairav,47,0.5811024308204651,False,False,False,19
+30s_BiLSTM,REC_0017,Bilaskhani todi,Bilaskhani Todi,20,0.9999356269836426,True,True,True,28
+30s_BiLSTM,REC_0019,Malkauns,Malkauns,52,0.9231923818588257,False,False,False,11
+30s_BiLSTM,REC_0021,Multani,Multani,20,0.8844114542007446,False,False,False,22
+30s_BiLSTM,REC_0022,Nat bhairav,Nat Bhairav,47,0.944489598274231,True,True,True,21
+30s_BiLSTM,REC_0023,Rageshri,Rageshree,52,0.9985913634300232,True,True,True,16
+30s_BiLSTM,REC_0024,Shuddha kalyan,suddha kalyan,47,0.9122191071510315,False,False,False,30
+30s_BiLSTM,REC_0026,Todi,Miyan Ki Todi orTodi or Darbari Todi,20,0.9693547487258911,False,False,False,18
+30s_BiLSTM,REC_0027,Bilaskhani todi,Bilaskhani Todi,25,0.46873939037323,False,False,False,13
+30s_BiLSTM,REC_0028,Des,Desh,51,0.9724999070167542,False,False,False,12
+30s_BiLSTM,REC_0029,Lalat,Lalit,10,0.6414848566055298,False,False,False,12
+30s_BiLSTM,REC_0031,Marwa,Marva,17,0.2844283878803253,False,False,False,13
+30s_BiLSTM,REC_0034,Yaman kalyan,Yaman Kalyan,25,0.2800399661064148,False,False,False,11
+30s_BiLSTM,REC_0035,Bhairabi,Bhairavi,52,0.23567424714565277,False,False,False,12
+30s_BiLSTM,REC_0038,Abhogi,Abhogi,42,0.5803225040435791,False,True,True,62
+30s_BiLSTM,REC_0039,Megh,Megh,0,0.5946102738380432,False,True,True,58
+30s_BiLSTM,REC_0040,Abhogi,Abhogi,25,0.7498270869255066,False,False,False,85
+30s_BiLSTM,REC_0041,Khamaj,Khamaj,19,0.17769338190555573,False,False,False,38
+30s_BiLSTM,REC_0042,Rageshri,Rageshree,48,0.4487846791744232,False,True,True,70
+30s_BiLSTM,REC_0043,Ahir bhairav,Ahir Bhairav,11,0.3127487003803253,False,False,False,78
+30s_BiLSTM,REC_0044,Todi,Miyan Ki Todi orTodi or Darbari Todi,46,0.5182459354400635,False,False,False,35
+30s_BiLSTM,REC_0045,Bhairabi,Bhairavi,17,0.24257701635360718,False,False,False,29
+30s_BiLSTM,REC_0046,Bageshree,Bageshree,18,0.6313808560371399,False,False,False,76
+30s_BiLSTM,REC_0047,Bahar,Bahar,6,0.5753848552703857,True,True,True,55
+30s_BiLSTM,REC_0049,Yaman kalyan,Yaman Kalyan,58,0.3152458667755127,False,False,False,36
+30s_BiLSTM,REC_0050,Bhairav,Bhairav,54,0.48533546924591064,False,False,False,48
+30s_BiLSTM,REC_0052,Bhairabi,Bhairavi,45,0.28312957286834717,False,False,False,23
+30s_BiLSTM,REC_0053,Bhatiyar,Bhatiyar,51,0.7191953063011169,False,False,False,75
+30s_BiLSTM,REC_0054,Bhimpalas,Bhimpalasi,12,0.2177337259054184,False,False,True,53
+30s_BiLSTM,REC_0055,Multani,Multani,1,0.6097637414932251,False,False,True,84
+30s_BiLSTM,REC_0056,Bhoop,Bhoopali,52,0.14858406782150269,False,False,False,111
+30s_BiLSTM,REC_0058,Bhairabi,Bhairavi,1,0.3653552830219269,False,False,False,20
+30s_BiLSTM,REC_0059,Bihag,Bihag,46,0.4888492524623871,False,False,False,83
+30s_BiLSTM,REC_0060,Bihag,Bihag,14,0.47869816422462463,False,False,False,131
+30s_BiLSTM,REC_0065,Bhimpalas,Bhimpalasi,17,0.15077629685401917,False,False,False,63
+30s_BiLSTM,REC_0067,Kalyan,Yaman or Kalyan,2,0.24969740211963654,False,False,False,67
+30s_BiLSTM,REC_0069,Kedar,Kedar,8,0.21068830788135529,False,False,False,90
+30s_BiLSTM,REC_0072,Bibhas,Bibhas,59,0.7082832455635071,False,False,False,28
+30s_BiLSTM,REC_0073,Lalat,Lalit,59,0.23832640051841736,False,False,False,81
+30s_BiLSTM,REC_0076,Malkauns,Malkauns,7,0.39181336760520935,False,False,False,76
+30s_BiLSTM,REC_0078,Marwa,Marva,39,0.34003493189811707,False,False,False,67
+30s_BiLSTM,REC_0079,Marwa,Marva,1,0.6114216446876526,False,False,False,64
+30s_BiLSTM,REC_0080,Shree,Shree,1,0.279205322265625,False,False,False,75
+30s_BiLSTM,REC_0085,Shree,Shree,28,0.5251064896583557,False,False,False,101
+30s_BiLSTM,REC_0086,Shree,Shree,45,0.442663311958313,False,False,False,127
+30s_BiLSTM,REC_0087,Bhairabi,Bhairavi,24,0.16606199741363525,False,False,False,38
+30s_BiLSTM,REC_0089,Shree,Shree,37,0.22294208407402039,False,False,False,132
+30s_BiLSTM,REC_0090,Todi,Miyan Ki Todi orTodi or Darbari Todi,23,0.8562886118888855,False,False,False,142
+30s_BiLSTM,REC_0091,Lalat,Lalit,51,0.26617589592933655,False,True,True,120
+30s_BiLSTM,REC_0092,Shree,Shree,45,0.4290418028831482,False,False,False,98
+60s_MeanPool,REC_0008,Komal rishabh asavari,Komal Rishabh Asavari,10,0.2095661163330078,False,False,False,23
+60s_MeanPool,REC_0009,Gauri,Gauri,10,0.38674965500831604,False,False,False,16
+60s_MeanPool,REC_0011,Gauri,Gauri,57,0.25983479619026184,False,False,False,17
+60s_MeanPool,REC_0012,Sohini,Sohni,51,0.37435147166252136,False,False,False,1
+60s_MeanPool,REC_0015,Ahir bhairav,Ahir Bhairav,20,0.4764343798160553,False,False,False,9
+60s_MeanPool,REC_0017,Bilaskhani todi,Bilaskhani Todi,20,0.9824137687683105,True,True,True,14
+60s_MeanPool,REC_0019,Malkauns,Malkauns,52,0.8429123163223267,False,False,False,5
+60s_MeanPool,REC_0021,Multani,Multani,20,0.9147529006004333,False,False,False,11
+60s_MeanPool,REC_0022,Nat bhairav,Nat Bhairav,47,0.6941582560539246,True,True,True,10
+60s_MeanPool,REC_0023,Rageshri,Rageshree,52,0.9767881631851196,True,True,True,8
+60s_MeanPool,REC_0024,Shuddha kalyan,suddha kalyan,20,0.7576199173927307,False,True,True,15
+60s_MeanPool,REC_0026,Todi,Miyan Ki Todi orTodi or Darbari Todi,20,0.92024827003479,False,False,False,9
+60s_MeanPool,REC_0027,Bilaskhani todi,Bilaskhani Todi,16,0.26467031240463257,False,False,False,6
+60s_MeanPool,REC_0028,Des,Desh,51,0.1984531730413437,False,False,False,6
+60s_MeanPool,REC_0029,Lalat,Lalit,7,0.8525124192237854,False,False,False,6
+60s_MeanPool,REC_0031,Marwa,Marva,16,0.3575376868247986,False,False,False,6
+60s_MeanPool,REC_0034,Yaman kalyan,Yaman Kalyan,16,0.30237114429473877,False,False,False,5
+60s_MeanPool,REC_0035,Bhairabi,Bhairavi,52,0.20641283690929413,False,False,False,6
+60s_MeanPool,REC_0038,Abhogi,Abhogi,0,0.6647056937217712,True,True,True,31
+60s_MeanPool,REC_0039,Megh,Megh,0,0.510326087474823,False,True,True,29
+60s_MeanPool,REC_0040,Abhogi,Abhogi,25,0.4245661199092865,False,False,False,42
+60s_MeanPool,REC_0041,Khamaj,Khamaj,25,0.3194488286972046,False,False,False,19
+60s_MeanPool,REC_0042,Rageshri,Rageshree,52,0.32194823026657104,True,True,True,35
+60s_MeanPool,REC_0043,Ahir bhairav,Ahir Bhairav,46,0.14501775801181793,False,False,False,39
+60s_MeanPool,REC_0044,Todi,Miyan Ki Todi orTodi or Darbari Todi,1,0.35246723890304565,False,False,False,17
+60s_MeanPool,REC_0045,Bhairabi,Bhairavi,17,0.38019075989723206,False,False,False,14
+60s_MeanPool,REC_0046,Bageshree,Bageshree,17,0.40009257197380066,False,False,False,38
+60s_MeanPool,REC_0047,Bahar,Bahar,6,0.3871012032032013,True,True,True,27
+60s_MeanPool,REC_0049,Yaman kalyan,Yaman Kalyan,32,0.1534615159034729,False,False,False,18
+60s_MeanPool,REC_0050,Bhairav,Bhairav,1,0.11842462420463562,False,False,False,24
+60s_MeanPool,REC_0052,Bhairabi,Bhairavi,31,0.21505340933799744,False,False,False,11
+60s_MeanPool,REC_0053,Bhatiyar,Bhatiyar,10,0.18927253782749176,False,False,False,37
+60s_MeanPool,REC_0054,Bhimpalas,Bhimpalasi,25,0.120359867811203,False,False,False,26
+60s_MeanPool,REC_0055,Multani,Multani,1,0.2807398736476898,False,False,False,42
+60s_MeanPool,REC_0056,Bhoop,Bhoopali,32,0.13390444219112396,False,False,False,55
+60s_MeanPool,REC_0058,Bhairabi,Bhairavi,1,0.2138710767030716,False,False,False,10
+60s_MeanPool,REC_0059,Bihag,Bihag,30,0.18492935597896576,False,False,False,41
+60s_MeanPool,REC_0060,Bihag,Bihag,10,0.32642078399658203,False,False,False,65
+60s_MeanPool,REC_0065,Bhimpalas,Bhimpalasi,44,0.1304313838481903,False,False,False,31
+60s_MeanPool,REC_0067,Kalyan,Yaman or Kalyan,42,0.23928646743297577,False,False,False,33
+60s_MeanPool,REC_0069,Kedar,Kedar,10,0.5203345417976379,False,False,False,45
+60s_MeanPool,REC_0072,Bibhas,Bibhas,59,0.13176314532756805,False,False,False,14
+60s_MeanPool,REC_0073,Lalat,Lalit,59,0.16245132684707642,False,False,False,40
+60s_MeanPool,REC_0076,Malkauns,Malkauns,7,0.28165557980537415,False,False,False,38
+60s_MeanPool,REC_0078,Marwa,Marva,41,0.3309139311313629,False,False,False,33
+60s_MeanPool,REC_0079,Marwa,Marva,1,0.34969794750213623,False,False,False,32
+60s_MeanPool,REC_0080,Shree,Shree,12,0.13774517178535461,False,False,False,37
+60s_MeanPool,REC_0085,Shree,Shree,22,0.10612300783395767,False,False,False,50
+60s_MeanPool,REC_0086,Shree,Shree,45,0.41583821177482605,False,False,False,63
+60s_MeanPool,REC_0087,Bhairabi,Bhairavi,58,0.4253235161304474,False,False,False,19
+60s_MeanPool,REC_0089,Shree,Shree,45,0.3519946336746216,False,False,False,66
+60s_MeanPool,REC_0090,Todi,Miyan Ki Todi orTodi or Darbari Todi,56,0.13384239375591278,False,False,False,71
+60s_MeanPool,REC_0091,Lalat,Lalit,31,0.5392274856567383,False,True,True,60
+60s_MeanPool,REC_0092,Shree,Shree,45,0.27479779720306396,False,False,False,49
+60s_BiLSTM,REC_0008,Komal rishabh asavari,Komal Rishabh Asavari,7,0.3182208240032196,False,False,False,23
+60s_BiLSTM,REC_0009,Gauri,Gauri,7,0.16459240019321442,False,False,False,16
+60s_BiLSTM,REC_0011,Gauri,Gauri,59,0.6352651715278625,False,False,False,17
+60s_BiLSTM,REC_0012,Sohini,Sohni,53,0.3220813572406769,False,False,False,1
+60s_BiLSTM,REC_0015,Ahir bhairav,Ahir Bhairav,47,0.755010187625885,False,False,False,9
+60s_BiLSTM,REC_0017,Bilaskhani todi,Bilaskhani Todi,20,0.9850601553916931,True,True,True,14
+60s_BiLSTM,REC_0019,Malkauns,Malkauns,52,0.9805068969726562,False,True,True,5
+60s_BiLSTM,REC_0021,Multani,Multani,49,0.41931042075157166,False,False,False,11
+60s_BiLSTM,REC_0022,Nat bhairav,Nat Bhairav,47,0.9836025238037109,True,True,True,10
+60s_BiLSTM,REC_0023,Rageshri,Rageshree,52,0.999247670173645,True,True,True,8
+60s_BiLSTM,REC_0024,Shuddha kalyan,suddha kalyan,47,0.3144596219062805,False,False,False,15
+60s_BiLSTM,REC_0026,Todi,Miyan Ki Todi orTodi or Darbari Todi,47,0.32849401235580444,False,False,False,9
+60s_BiLSTM,REC_0027,Bilaskhani todi,Bilaskhani Todi,39,0.5125788450241089,False,False,False,6
+60s_BiLSTM,REC_0028,Des,Desh,11,0.16624493896961212,False,False,False,6
+60s_BiLSTM,REC_0029,Lalat,Lalit,16,0.29261457920074463,False,False,False,6
+60s_BiLSTM,REC_0031,Marwa,Marva,16,0.8428943753242493,False,False,False,6
+60s_BiLSTM,REC_0034,Yaman kalyan,Yaman Kalyan,16,0.937606930732727,False,False,False,5
+60s_BiLSTM,REC_0035,Bhairabi,Bhairavi,39,0.4233112335205078,False,False,False,6
+60s_BiLSTM,REC_0038,Abhogi,Abhogi,52,0.18253006041049957,False,True,True,31
+60s_BiLSTM,REC_0039,Megh,Megh,43,0.1164788231253624,True,True,True,29
+60s_BiLSTM,REC_0040,Abhogi,Abhogi,25,0.6120476126670837,False,True,True,42
+60s_BiLSTM,REC_0041,Khamaj,Khamaj,33,0.20934350788593292,False,False,False,19
+60s_BiLSTM,REC_0042,Rageshri,Rageshree,48,0.31245705485343933,False,True,True,35
+60s_BiLSTM,REC_0043,Ahir bhairav,Ahir Bhairav,11,0.720336377620697,False,False,False,39
+60s_BiLSTM,REC_0044,Todi,Miyan Ki Todi orTodi or Darbari Todi,46,0.8087630867958069,False,False,True,17
+60s_BiLSTM,REC_0045,Bhairabi,Bhairavi,49,0.20920544862747192,False,False,False,14
+60s_BiLSTM,REC_0046,Bageshree,Bageshree,49,0.3874756395816803,False,False,False,38
+60s_BiLSTM,REC_0047,Bahar,Bahar,6,0.5204299688339233,True,True,True,27
+60s_BiLSTM,REC_0049,Yaman kalyan,Yaman Kalyan,1,0.20402954518795013,False,False,False,18
+60s_BiLSTM,REC_0050,Bhairav,Bhairav,16,0.2933456003665924,False,False,False,24
+60s_BiLSTM,REC_0052,Bhairabi,Bhairavi,60,0.2052377164363861,False,False,False,11
+60s_BiLSTM,REC_0053,Bhatiyar,Bhatiyar,52,0.1193426325917244,False,False,False,37
+60s_BiLSTM,REC_0054,Bhimpalas,Bhimpalasi,12,0.3334193527698517,False,True,True,26
+60s_BiLSTM,REC_0055,Multani,Multani,46,0.31583061814308167,True,True,True,42
+60s_BiLSTM,REC_0056,Bhoop,Bhoopali,52,0.5014141201972961,False,False,False,55
+60s_BiLSTM,REC_0058,Bhairabi,Bhairavi,1,0.5465962886810303,False,False,False,10
+60s_BiLSTM,REC_0059,Bihag,Bihag,52,0.2966506779193878,False,False,False,41
+60s_BiLSTM,REC_0060,Bihag,Bihag,10,0.29095888137817383,False,False,False,65
+60s_BiLSTM,REC_0065,Bhimpalas,Bhimpalasi,39,0.24443510174751282,False,False,False,31
+60s_BiLSTM,REC_0067,Kalyan,Yaman or Kalyan,39,0.3746490478515625,False,False,False,33
+60s_BiLSTM,REC_0069,Kedar,Kedar,10,0.35385799407958984,False,False,False,45
+60s_BiLSTM,REC_0072,Bibhas,Bibhas,59,0.5321298241615295,False,False,False,14
+60s_BiLSTM,REC_0073,Lalat,Lalit,59,0.382892370223999,False,False,False,40
+60s_BiLSTM,REC_0076,Malkauns,Malkauns,42,0.3125036358833313,False,False,False,38
+60s_BiLSTM,REC_0078,Marwa,Marva,59,0.6957019567489624,False,False,False,33
+60s_BiLSTM,REC_0079,Marwa,Marva,46,0.5796926021575928,False,False,False,32
+60s_BiLSTM,REC_0080,Shree,Shree,46,0.527912974357605,False,False,False,37
+60s_BiLSTM,REC_0085,Shree,Shree,28,0.18198171257972717,False,False,False,50
+60s_BiLSTM,REC_0086,Shree,Shree,45,0.39327511191368103,False,False,False,63
+60s_BiLSTM,REC_0087,Bhairabi,Bhairavi,7,0.58973228931427,False,False,False,19
+60s_BiLSTM,REC_0089,Shree,Shree,45,0.2404976487159729,False,False,False,66
+60s_BiLSTM,REC_0090,Todi,Miyan Ki Todi orTodi or Darbari Todi,33,0.14976009726524353,False,False,False,71
+60s_BiLSTM,REC_0091,Lalat,Lalit,31,0.887270450592041,False,False,False,60
+60s_BiLSTM,REC_0092,Shree,Shree,39,0.2771300971508026,False,False,False,49

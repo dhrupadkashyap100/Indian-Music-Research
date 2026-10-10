@@ -1,0 +1,13 @@
+File Path,Status,Readable,Valid
+folk_dataset_audit.csv,Exists,Yes,Yes
+embeddings/BIHU_035.npy,Exists,Yes,Yes
+embeddings/Kesariya Ro Pag - Ghoomar _ Seema Mishra _ Superhit Rajasthani Dance _ Rajputi Dance.npy,Exists,Yes,Yes
+embeddings/Raya Chala Ghodyavarti Basu  रय चल घडयवरत बस  Usha Mangeshkar  Songadya  मरठ गण.npy,Exists,Yes,Yes
+embeddings/GARBA_007.npy,Exists,Yes,Yes
+embeddings/कसरय बलम पधर महर दश __ KESARIYA BALAM __ भगर खन.npy,Exists,Yes,Yes
+embeddings/DHAMAIL_005.npy,Exists,Yes,Yes
+embeddings/MAAND_014.npy,Exists,Yes,Yes
+embeddings/JHUMUR_0030.npy,Exists,Yes,Yes
+embeddings/Allah Jilai Bai - Jawai Balha Lagoji.npy,Exists,Yes,Yes
+embeddings/MAAND_018.npy,Exists,Yes,Yes
+... (and other embedding files),,,

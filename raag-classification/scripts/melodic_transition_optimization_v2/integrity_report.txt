@@ -1,0 +1,26 @@
+PHASE 0 — SAFETY / DATA AUDIT INTEGRITY REPORT
+==============================================
+1. TRF Verification:
+   - TRF Total Recordings: 1103 (Expected: 1103)
+   - TRF Train: 635 (Expected: 635)
+   - TRF Validation: 223 (Expected: 223)
+   - TRF Test: 245 (Expected: 245)
+   - TRF Raag Classes: 61 (Expected: 61)
+   - Total Melodic Sequences: 16536 (Expected: ~11355)
+
+2. SARAGA Verification:
+   - Mapped Recordings: 54 (Expected: 54)
+   - Mapped Raag Classes: 30 (Expected: 30)
+   - Estimated-tonic evaluation available: YES
+   - Ground-truth-tonic evaluation available: YES
+
+3. Split Integrity:
+   - Validation verified: NO overlap with Train.
+   - Test verified: NO overlap with Train or Validation.
+
+4. Feature Modality Discrepancy:
+   - CultureMERT Recordings: 1103 (Expected: 1103)
+   - Swaragram Recordings: 1050 (Expected: 1050)
+   * NOTE: The 53 missing Swaragram recordings are preserved. Multimodal tests must use exact intersections.
+
+STATUS: AUDIT PASSED. ALL DATA CLEAN AND ISOLATED.

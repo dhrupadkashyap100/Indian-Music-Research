@@ -1,0 +1,30 @@
+{
+    "optimization_status": "V5_IMMUTABLE_CONTROL",
+    "test_status": "SEALED_45_02_PERCENT",
+    "folk_status": "NOT_ACCESSED",
+    "feature_dimensions": {
+        "Transition": 144,
+        "Pitch_Class": 12,
+        "N3_Trigrams": 1728,
+        "Total": 1884
+    },
+    "feature_weights": {
+        "Transition": 0.75,
+        "Pitch_Class": 0.20,
+        "N3_Trigrams": 0.05
+    },
+    "normalization": "L2 normalized per sequence initially. Matrix scaling applied via exact formula: np.hstack([0.75*t, 0.20*p, 0.05*n3]).",
+    "temporal_aggregation": "Top-50% most confident sequences (num_seq = max(1, int(len(rs) * 0.5)))",
+    "reference_bank": "TRF TRAIN (635 recordings)",
+    "MAX_strategy": "MeanPrototype logic (mean of references for that training recording)",
+    "svm_parameters": {
+        "C": 10,
+        "gamma": "scale",
+        "probability": true
+    },
+    "probability_calibration_method": "Platt Scaling via 5-fold CV on TRF TRAIN",
+    "fusion_weights": {
+        "Geometric_Score_Weight": 0.75,
+        "SVM_Prob_Weight": 0.25
+    }
+}

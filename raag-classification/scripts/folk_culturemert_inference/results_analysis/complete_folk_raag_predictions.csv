@@ -1,0 +1,329 @@
+Record_Number,Original_Song_ID,Song_Name,Artist,Genre,Status,Top1_Raag,Top1_Similarity,Top2_Raag,Top2_Similarity,Margin,Top3_Raag,Top3_Similarity,Top4_Raag,Top4_Similarity,Top5_Raag,Top5_Similarity
+1,BAUL_001,Agun Pani,Purna Das Baul,Baul,Successfully classified,Madhuvanti,0.939013203,Darbari,0.938255882,0.000757321,Bhairavi,0,Purba,0,Bahar,0
+2,BAUL_002,Ja Lolite Anga Kushum Tule,Purna Das Baul,Baul,Successfully classified,Abhogi,0.92252814,Malkauns,0.920057078,0.002471062,Darbari,0,Yaman Kalyan,0,Alhaiya Bilaval,0
+3,BAUL_003,Kalkatou Mon Heshekeley,Purna Das Baul,Baul,Successfully classified,Yaman Kalyan,0.94215366,Malkauns,0.939288557,0.002865103,Abhogi,0,Madhuvanti,0,Darbari,0
+4,BAUL_004,Ananda Lahari,Purna Das Baul,Baul,Successfully classified,Marva,0.930297792,Bhairavi,0.926381707,0.003916085,Khamaj,0,Malhar,0,Darbari,0
+5,BAUL_005,Amar Aei Rudir Dhara,Purna Das Baul,Baul,Successfully classified,Bhairavi,0.932363162,Alhaiya Bilaval,0.929285377,0.003077784,Malkauns,0,Purba,0,sarang,0
+6,BAUL_006,Hari Balo Re,Purna Das Baul,Baul,Successfully classified,Yaman Kalyan,0.932476504,Malkauns,0.929140747,0.003335758,Puriya,0,Darbari,0,Sorath,0
+7,BAUL_007,Gour Lila Bazare,Purna Das Baul,Baul,Successfully classified,Yaman Kalyan,0.937275839,Megh,0.931376517,0.005899322,Darbari,0,Yaman or Kalyan,0,Kafi,0
+8,BAUL_008,Tripti,Purna Das Baul,Baul,Successfully classified,Malkauns,0.881200969,Sorath,0.881003843,0.000197126,Basant,0,Bhairavi,0,Malhar,0
+9,BAUL_009,Kon Ba Zharir,Purna Das Baul,Baul,Successfully classified,Barwa,0.936213195,Lalit,0.934977055,0.001236141,Pahadi,0,Desh,0,Puriya,0
+10,BAUL_010,Sonogo Aian Dada,Purna Das Baul,Baul,Successfully classified,Yaman Kalyan,0.945658109,Bahar,0.941687226,0.003970883,Malkauns,0,Bhimpalasi,0,Asavari,0
+11,BAUL_011,Chor Poreche Babur Bagane,Purna Das Baul,Baul,Successfully classified,Bhairavi,0.9281068,Megh,0.920471787,0.007635012,Gauri,0,Alhaiya Bilaval,0,Abhogi,0
+12,BAUL_012,Golemale Gole Male,Purna Das Baul,Baul,Successfully classified,Khamaj,0.935676575,Jhinjhoti,0.934124321,0.001552254,Abhogi,0,Bilaval,0,Purba,0
+13,BAUL_013,Menokaa Maathaay Dilo Ghomtaa,Purna Das Baul,Baul,Successfully classified,Puriya,0.932849407,Jaunpuri,0.927601516,0.005247891,Pahadi,0,Sohni,0,N/A,0
+14,BAUL_014,Dekhechhi Rup-Sagare,Purna Das Baul,Baul,Successfully classified,Bhairavi,0.936654513,Sorath,0.931745787,0.004908726,N/A,0,N/A,0,N/A,0
+15,BAUL_015,Aami Kothay Pabo Tare,Purna Das Baul,Baul,Successfully classified,Abhogi,0.918073893,Bhairavi,0.917202616,0.000871277,Malkauns,0,Asavari,0,Kedar,0
+16,BAUL_016,Shesher Deene Sejon Bine,Purna Das Baul,Baul,Successfully classified,Sorath,0.935518622,Madhuvanti,0.930428187,0.005090435,Darbari,0,Malkauns,0,Purba,0
+17,BAUL_017,Milon Hobe Koto Dine,Farida Parveen,Baul,Successfully classified,Bhimpalasi,0.933531165,Bhoopali,0.931838234,0.001692931,Barwa,0,Desh,0,Pahadi,0
+18,BAUL_018,Khanchar Bhitor Achin Pakhi,Farida Parveen,Baul,Successfully classified,Abhogi,0.929376225,Yaman or Kalyan,0.928906512,0.000469712,Kafi,0,Jhinjhoti,0,Adana,0
+19,BAUL_019,Aami Ek Pagal Baul,Purna Das Baul,Baul,Successfully classified,Bhairavi,0.920799732,Ahir Bhairav,0.92072916,7.06E-05,Sorath,0,Nat Bhairav,0,Darbari,0
+20,BAUL_020,Jemon Beni Temni Rabey,Purna Das Baul,Baul,Successfully classified,Bhairav,0.94000715,Ramkali,0.935675561,0.004331589,Khamaj,0,Desh,0,Megh Malhar,0
+21,BAUL_021,Prem Koraa Ki Jwalaa,Purna Das Baul,Baul,Successfully classified,Purba,0.941731691,Gauri,0.933369893,0.008361798,Bageshree,0,N/A,0,N/A,0
+22,BAUL_022,Emon Mon Byabsaa,Purna Das Baul,Baul,Successfully classified,Durga,0.948841885,Gauri,0.944875429,0.003966456,Rageshree,0,Asavari,0,Bihag,0
+23,BAUL_023,Manush Bhajo Manusheyi Pujo,Purna Das Baul,Baul,Successfully classified,Purba,0.945506628,N/A,0,0.945506628,N/A,0,N/A,0,N/A,0
+24,BAUL_024,Dil Dariyar Majhete,Purna Das Baul,Baul,Successfully classified,Purba,0.933406509,Bageshree,0.924562275,0.008844234,Desh,0,N/A,0,N/A,0
+25,BAUL_025,Bahu Punya Phale Krishna Mele,Purna Das Baul,Baul,Successfully classified,Purba,0.935326293,Darbari,0.929445028,0.005881265,Rageshree,0,Kedar,0,N/A,0
+26,BAUL_026,Sokhi Jamuna Jol,Purna Das Baul,Baul,Successfully classified,Malkauns,0.932011038,Megh,0.931469262,0.000541776,Yaman or Kalyan,0,Yaman Kalyan,0,Desh,0
+27,BAUL_027,Pre Loye Jao Amay,Farida Parveen,Baul,Successfully classified,Malkauns,0.943440348,Bhairav,0.940208107,0.003232241,Poorvi,0,Abhogi,0,Bhoopali,0
+28,BAUL_028,Somoy Gele Sadhon Hobena,Farida Parveen,Baul,Successfully classified,Nat Bhairav,0.917977691,Megh,0.917089164,0.000888526,Bageshree,0,Khamaj,0,N/A,0
+29,BAUL_029,Aar Amare Marishne Maa,Farida Parveen,Baul,Successfully classified,Miyan Ki Todi orTodi or Darbari Todi,0.941379905,Bahar,0.939425111,0.001954794,Desh,0,Bilaskhani Todi,0,Pahadi,0
+30,BAUL_030,Dhonno Dhonno Boli Tare,Farida Parveen,Baul,Successfully classified,Bahar,0.936999559,Miyan Ki Todi orTodi or Darbari Todi,0.933901143,0.003098416,Bihag,0,Bageshree,0,Yaman Kalyan,0
+31,BHANGRA_001,Tera Yaar Bolda,Surjit Bindrakhia,Bhangra,Successfully classified,Bahar,0.92115134,Darbari,0.921015388,0.000135952,Alhaiya Bilaval,0,Bibhas,0,Bhoopali,0
+32,BHANGRA_002,Jatt Di Pasand,Surjit Bindrakhia,Bhangra,Successfully classified,Bhoopali,0.930714965,Bahar,0.927204847,0.003510118,Asavari,0,Darbari,0,Yaman or Kalyan,0
+33,BHANGRA_003,Dupatta Tera Satrang Da,Surjit Bindrakhia,Bhangra,Successfully classified,Darbari,0.934043384,Alhaiya Bilaval,0.934002817,4.06E-05,Bibhas,0,Bahar,0,N/A,0
+34,BHANGRA_004,Wang Wargi Kudi,Surjit Bindrakhia,Bhangra,Successfully classified,Darbari,0.928554273,Abhogi,0.924264749,0.004289524,Ahir Bhairav,0,N/A,0,N/A,0
+35,BHANGRA_005,Sanu Tedi Tedi Takdi Tu,Surjit Bindrakhia,Bhangra,Successfully classified,Yaman or Kalyan,0.927933534,Megh,0.923865008,0.004068526,Bahar,0,Khamaj,0,Marva,0
+36,BHANGRA_006,Munda Ki Mangda,Surjit Bindrakhia,Bhangra,Successfully classified,Adana,0.931123323,Alhaiya Bilaval,0.928240001,0.002883322,Bhairav Bahar,0,Jaunpuri,0,N/A,0
+37,BHANGRA_007,Tunak Tunak Tun,Daler Mehndi,Bhangra,Successfully classified,Megh,0.948671997,Deepak,0.935923278,0.012748718,Bhatiyar,0,Bilaskhani Todi,0,sarang,0
+38,BHANGRA_008,Bolo Ta Ra Ra,Daler Mehndi,Bhangra,Successfully classified,Desh,0.941681802,Pahadi,0.93850721,0.003174592,Asavari,0,Miyan Ki Todi orTodi or Darbari Todi,0,N/A,0
+39,BHANGRA_009,Ho Jayegi Balle Balle,Daler Mehndi,Bhangra,Successfully classified,Darbari,0.946823526,Basant,0.939714193,0.007109333,Asavari,0,Kedar,0,N/A,0
+40,BHANGRA_010,Dardi Rab Rab Kardi,Daler Mehndi,Bhangra,Successfully classified,Darbari,0.932001516,Asavari,0.927506488,0.004495028,Alhaiya Bilaval,0,Miyan Ki Todi orTodi or Darbari Todi,0,N/A,0
+41,BHANGRA_011,Saade Dil Te Chhuriyan Chaliyan,Daler Mehndi,Bhangra,Successfully classified,Adana,0.934364802,Ahir Bhairav,0.929760247,0.004604554,Barwa,0,Deepak,0,Bibhas,0
+42,BHANGRA_012,Na Na Na Na Na Re,Daler Mehndi,Bhangra,Successfully classified,Adana,0.939731717,Miyan Ki Todi orTodi or Darbari Todi,0.938241998,0.001489719,Madhuvanti,0,Rageshree,0,Alhaiya Bilaval,0
+43,BHANGRA_013,Pao Bhangra,Balwinder Safri,Bhangra,Successfully classified,Bhairavi,0.915050136,Bahar,0.913985133,0.001065003,Malhar,0,Megh Malhar,0,Asavari,0
+44,BHANGRA_014,Ambran Tu Ayi Hui Hoor Sohniye,Balwinder Safri,Bhangra,Successfully classified,Gujari Todi,0.938441515,Megh,0.930387497,0.008054018,Puriya,0,Bilaskhani Todi,0,Miyan Ki Todi orTodi or Darbari Todi,0
+45,BHANGRA_015,Sariyan Toon Sohni,Balwinder Safri,Bhangra,Successfully classified,Alhaiya Bilaval,0.92909153,Darbari,0.928615987,0.000475543,Asavari,0,Puriya,0,Ahir Bhairav,0
+46,BHANGRA_016,Mitran Ne Mundri Te,Balwinder Safri,Bhangra,Successfully classified,Darbari,0.940023208,Puriya,0.939379036,0.000644171,Alhaiya Bilaval,0,Asavari,0,N/A,0
+47,BHANGRA_017,Ambran Tu Ayi Hui Hoor Sohniye (Remix ft. MC Bulla),Balwinder Safri,Bhangra,Successfully classified,Gujari Todi,0.938669741,Bilaval,0.933292568,0.005377173,Puriya,0,Megh,0,Alhaiya Bilaval,0
+48,BHANGRA_018,Tutak Tutak Tutiya,Malkit Singh (Golden Star),Bhangra,Successfully classified,Darbari,0.929722548,Alhaiya Bilaval,0.929538627,0.00018392,Desh,0,Asavari,0,Gujari Todi,0
+49,BHANGRA_019,Kurri Garam Jayee,Malkit Singh (Golden Star),Bhangra,Successfully classified,Rageshree,0.932181329,Puriya,0.931855142,0.000326186,Gauri,0,Kedar,0,N/A,0
+50,BHANGRA_020,Chal Hun,Malkit Singh (Golden Star),Bhangra,Successfully classified,Shree,0.934112906,Gujari Todi,0.932720721,0.001392186,Bhimpalasi,0,Darbari,0,Madhuvanti,0
+51,BHANGRA_021,Kinni Sohni,Malkit Singh (Golden Star),Bhangra,Successfully classified,Darbari,0.94210389,Alhaiya Bilaval,0.935798099,0.006305792,Rageshree,0,Adana,0,Desi,0
+52,BHANGRA_022,Mera Yaar Vajaye Dhol,Apna Sangeet,Bhangra,Successfully classified,Bilaval,0.943273425,Malkauns,0.942352203,0.000921223,Yaman Kalyan,0,Sorath,0,Purba,0
+53,BHANGRA_023,Bhaina Nachiyaan,Apna Sangeet,Bhangra,Successfully classified,Alhaiya Bilaval,0.930115288,Puriya,0.925205708,0.00490958,Asavari,0,Barwa,0,N/A,0
+54,BHANGRA_024,Apna Sangeet Vajeh Apna Sangeet,Apna Sangeet,Bhangra,Successfully classified,Bilaval,0.922592163,Desh,0.914510816,0.008081347,Ahir Bhairav,0,Bageshree,0,Darbari,0
+55,BHANGRA_025,Soho Road Utey,Apna Sangeet,Bhangra,Successfully classified,Malkauns,0.934690148,Bilaval,0.932088459,0.002601689,Desh,0,Darbari,0,Khamaj,0
+56,BHANGRA_026,Kuriyan Ne Paya Bhangra,Kuldeep Manak,Bhangra,Successfully classified,Darbari,0.930869497,Asavari,0.924398352,0.006471146,Alhaiya Bilaval,0,Madhuvanti,0,N/A,0
+57,BHANGRA_027,Jodi (Big Day Party) ft. Panjabi MC,Kuldeep Manak,Bhangra,Successfully classified,Darbari,0.934177962,Asavari,0.931152801,0.003025161,N/A,0,N/A,0,N/A,0
+58,BHANGRA_028,Jugni,Kuldeep Manak,Bhangra,Successfully classified,Yaman Kalyan,0.935097218,Sorath,0.930782139,0.004315078,Adana,0,Bhimpalasi,0,Desh,0
+59,BHANGRA_029,Putt Jattan De,Surinder Shinda,Bhangra,Successfully classified,Abhogi,0.917023897,Darbari,0.916842997,0.0001809,Pahadi,0,Bhairavi,0,Desi,0
+60,BHANGRA_030,Sucha Soorma (Balbiro Bhabhi),Surinder Shinda,Bhangra,Successfully classified,suddha kalyan,0.926403403,Purba,0.922942728,0.003460675,Adana,0,Bilaskhani Todi,0,N/A,0
+61,BHANGRA_031,Nawan Le Liya Truck Tere Yaar Ne (Truck Billiya),Surinder Shinda,Bhangra,Successfully classified,Rageshree,0.937884967,Khamaj,0.928875953,0.009009014,Bilaval,0,Sorath,0,Bhairavi,0
+62,BHANGRA_032,Jeona Morh,Surinder Shinda,Bhangra,Successfully classified,Basant Mukhari,0.944838822,Bhairav,0.944134951,0.000703871,Basant,0,Megh Malhar,0,Malhar,0
+63,BIHU_001,Morom Logai Logai,Zubeen Garg,Bihu,Successfully classified,Sohni,0.935518831,Bahar,0.933387414,0.002131417,Megh Malhar,0,Bhimpalasi,0,suddha kalyan,0
+64,BIHU_002,Toi Nagini Ne,Zubeen Garg,Bihu,Successfully classified,Asavari,0.927981019,Puriya,0.927126825,0.000854194,Sohni,0,Bahar,0,Khamaj,0
+65,BIHU_003,Kokalote Tongali,Zubeen Garg,Bihu,Successfully classified,Hindol,0.94024937,Sorath,0.940024942,0.000224428,Madhuvanti,0,suddha kalyan,0,Khamaj,0
+66,BIHU_004,Tumake Logot,Zubeen Garg,Bihu,Successfully classified,Bilaval,0.934911927,Puriya,0.93490788,4.05E-06,Malkauns,0,Darbari,0,Abhogi,0
+67,BIHU_005,Kinu Sawonire Sala,Zubeen Garg,Bihu,Successfully classified,Desi,0.937825342,Darbari,0.935387397,0.002437945,Hindol,0,Desh,0,Ahir Bhairav,0
+68,BIHU_006,Dikhow Noi Eribo,Zubeen Garg,Bihu,Successfully classified,Desh,0.94347935,Sorath,0.939917823,0.003561527,Marva,0,N/A,0,N/A,0
+69,BIHU_007,Phool Phulise,Zubeen Garg,Bihu,Successfully classified,Desh,0.927935502,Pahadi,0.924252421,0.003683081,Malhar,0,Darbari,0,Desi,0
+70,BIHU_008,Porbotor Dhekiya,Zubeen Garg,Bihu,Successfully classified,Desh,0.939212799,Desi,0.93788068,0.001332119,Nat Bhairav,0,Madhuvanti,0,Barwa,0
+71,BIHU_009,O Nahor,Zubeen Garg,Bihu,Successfully classified,Marva,0.937272072,Bahar,0.931759536,0.005512536,Puriya,0,Bhimpalasi,0,Ahir Bhairav,0
+72,BIHU_010,Janmoni Xopunote Ahiba,Zubeen Garg,Bihu,Successfully classified,Bilaskhani Todi,0.94645977,Purba,0.945433279,0.001026491,Hindol,0,Asavari,0,Desh,0
+73,BIHU_011,Eijon Korenu Nasoni,Bhupen Hazarika,Bihu,Successfully classified,Adana,0.912727773,Bhimpalasi,0.911315935,0.001411838,Rageshree,0,suddha kalyan,0,Komal Bhairav,0
+74,BIHU_012,Laje Moru Moru,Bhupen Hazarika,Bihu,Successfully classified,Bhoopali,0.935035527,Puriya,0.934817045,0.000218482,Darbari,0,Asavari,0,Adana,0
+75,BIHU_013,Ki Sai Aso,Bhupen Hazarika,Bihu,Successfully classified,Ahir Bhairav,0.937793116,Asavari,0.937693834,9.93E-05,Adana,0,Bhoopali,0,Puriya,0
+76,BIHU_014,Bihureno Birina,Bhupen Hazarika,Bihu,Successfully classified,Marva,0.939898789,Bahar,0.938572437,0.001326352,Khamaj,0,Rageshree,0,Ahir Bhairav,0
+77,BIHU_015,Duetar Boraghor,Bhupen Hazarika,Bihu,Successfully classified,Yaman Kalyan,0.932695222,Asavari,0.931435764,0.001259458,Jhinjhoti,0,Darbari,0,Bhoopali,0
+78,BIHU_016,Sangor Chira Pitha,Bhupen Hazarika,Bihu,Successfully classified,Adana,0.934089631,Yaman or Kalyan,0.933676674,0.000412957,Bhoopali,0,Puriya,0,Asavari,0
+79,BIHU_017,Kopou Phul Phulile,Khagen Mahanta,Bihu,Successfully classified,Bhoopali,0.930789202,Puriya,0.925798804,0.004990399,Barwa,0,Megh,0,Asavari,0
+80,BIHU_018,Amona Dhanoke,Khagen Mahanta,Bihu,Successfully classified,Desh,0.932128557,Megh,0.930963963,0.001164594,Khamaj,0,Asavari,0,Bhupal Todi,0
+81,BIHU_019,O Dhei Oi,Khagen Mahanta,Bihu,Successfully classified,Megh,0.941590687,Bhairavi,0.933493435,0.008097251,Desh,0,Bahar,0,Bageshree,0
+82,BIHU_020,Dhansiri Pare Hoi,Khagen Mahanta,Bihu,Successfully classified,Bhairavi,0.931577583,Ahir Bhairav,0.930407003,0.001170581,Shree,0,Bhatiyar,0,Lalit,0
+83,BIHU_021,Petore Juruni Bhat,Khagen Mahanta,Bihu,Successfully classified,Megh Malhar,0.935440801,Malhar,0.935440801,0,Adana,0,Bilaval,0,Bhairavi,0
+84,BIHU_022,Aag Fale Dekhilo,Khagen Mahanta,Bihu,Successfully classified,Bahar,0.940035502,Deepak,0.937513053,0.002522449,Bhairavi,0,Rageshree,0,Bilaval,0
+85,BIHU_023,Aghunor Potharot,Khagen Mahanta,Bihu,Successfully classified,Bhoopali,0.925805589,Sorath,0.923604071,0.002201517,sarang,0,Darbari,0,Desh,0
+86,BIHU_024,Ebela Hale Bau,Khagen Mahanta,Bihu,Successfully classified,Bhoopali,0.914029765,Abhogi,0.91210115,0.001928616,Megh,0,Yaman or Kalyan,0,Darbari,0
+87,BIHU_025,Senai o Tumake Bisari,Khagen Mahanta,Bihu,Successfully classified,Ahir Bhairav,0.931905733,Megh,0.928332925,0.003572808,Bahar,0,Bilaval,0,Rageshree,0
+88,BIHU_026,Bohag Ahil Buli,Shanta Uzir,Bihu,Successfully classified,Ahir Bhairav,0.944781885,Bhoopali,0.941000283,0.003781602,Sohni,0,Adana,0,Bhimpalasi,0
+89,BIHU_027,Tumi Nasoni,Shanta Uzir,Bihu,Successfully classified,Ahir Bhairav,0.93311223,Yaman Kalyan,0.929870884,0.003241346,Darbari,0,Sohni,0,Abhogi,0
+90,BIHU_028,Xunjone Nuxudhiba,"Zubeen Garg, Vitali Das",Bihu,Successfully classified,Bhoopali,0.9346596,Bahar,0.933475097,0.001184503,Ahir Bhairav,0,Madhuvanti,0,Malkauns,0
+91,BIHU_029,Morone Phulonit,"Zubeen Garg, Vitali Das",Bihu,Successfully classified,Bhatiyar,0.939068645,Darbari,0.93801558,0.001053065,Alhaiya Bilaval,0,Ahir Bhairav,0,Adana,0
+92,BIHU_030,Nila Nila Akhore,"Zubeen Garg, Nirmali Das",Bihu,Successfully classified,Bilaskhani Todi,0.933609694,Bahar,0.933259189,0.000350505,Adana,0,Puriya,0,Bhoopali,0
+93,BIHU_031,Kahili puwate,"Zubeen Garg, Priyanka Bharali",Bihu,Successfully classified,Malkauns,0.940924168,Darbari,0.939006706,0.001917462,suddha kalyan,0,Hindol,0,Ahir Bhairav,0
+94,BIHU_032,Rohare O Rohedoi,Bhitali Das,Bihu,Successfully classified,Sohni,0.936727762,Khamaj,0.934889148,0.001838615,Bilaval,0,Abhogi,0,Darbari,0
+95,BIHU_033,Dhengkoli,Navanita Sharma,Bihu,Successfully classified,Khamaj,0.937790235,Asavari,0.935458581,0.002331654,Madhuvanti,0,Yaman Kalyan,0,Bhimpalasi,0
+96,BIHU_034,Gabhoru Bihu,Deeplina Deka,Bihu,Successfully classified,Khamaj,0.944908082,Bhairav,0.941209674,0.003698409,Bihag,0,Darbari,0,Ahir Bhairav,0
+97,BIHU_035,Bohagi,Rupankrita and Alankrita,Bihu,Successfully classified,Bahar,0.933477402,Adana,0.931414664,0.002062738,Megh,0,Khamaj,0,Kedar,0
+98,BIHU_036,Podulit Bihu,Rupankrita and Alankrita,Bihu,Successfully classified,Bageshree,0.938317358,Desh,0.93605721,0.002260149,Khamaj,0,Darbari,0,Puriya,0
+99,BIHU_037,Tok Dekhi Mor Gaa,Abhishruti Bezbaruah,Bihu,Successfully classified,Madhuvanti,0.93807911,Alhaiya Bilaval,0.937137067,0.000942042,Megh,0,Puriya,0,Jaunpuri,0
+100,DHAMAIL_001,জাগাইওনা মোরে সই গো,Dithi Das,Dhamail,Successfully classified,Darbari,0.927396337,Madhuvanti,0.925499837,0.001896501,Poorvi,0,Miyan Ki Todi orTodi or Darbari Todi,0,N/A,0
+101,DHAMAIL_002,আর যাবো না জলে,Dithi Das,Dhamail,Successfully classified,Khamaj,0.932534913,Madhuvanti,0.931346734,0.001188179,Poorvi,0,Darbari,0,Jaunpuri,0
+102,DHAMAIL_003,বন্ধু অতও যাইবায় গিয়া,Dithi Das,Dhamail,Successfully classified,Adana,0.934349006,Khamaj,0.933496535,0.000852471,Kedar,0,Lalit,0,Madhuvanti,0
+103,DHAMAIL_004,ধামাইল দেও গো চড়চড়ির মা,Dithi Das,Dhamail,Successfully classified,Lalit,0.93536818,Bhatiyar,0.934545368,0.000822812,Bhairav,0,Nat Bhairav,0,Miyan Ki Todi orTodi or Darbari Todi,0
+104,DHAMAIL_005,বাঁশি বাজগো রইয়া রইয়া,Dithi Das,Dhamail,Successfully classified,Alhaiya Bilaval,0.925651461,Nat Bhairav,0.924203336,0.001448125,Darbari,0,Miyan Ki Todi orTodi or Darbari Todi,0,Bageshree,0
+105,DHAMAIL_006,যাইও না রে প্রানো বন্ধু আমারে বুলিয়া,Uma Das,Dhamail,Successfully classified,Purba,0.937552834,Malkauns,0.935417831,0.002135003,Megh,0,sarang,0,Yaman Kalyan,0
+106,DHAMAIL_007,দেইখে আইলাম তারে সইগো,Uma Das,Dhamail,Successfully classified,Abhogi,0.927855253,sarang,0.925822318,0.002032936,Jaunpuri,0,Desh,0,Komal Bhairav,0
+107,DHAMAIL_008,মনের জ্বালায় জ্বলে মরি,Uma Das,Dhamail,Successfully classified,Bahar,0.948588312,Miyan Ki Todi orTodi or Darbari Todi,0.947583437,0.001004875,Purba,0,Bilaval,0,Darbari,0
+108,DHAMAIL_009,ধামাইল শেষ হইয়া যায়,Uma Das,Dhamail,Successfully classified,Basant Mukhari,0.939916849,Malkauns,0.939216971,0.000699878,sarang,0,Bhairav Bahar,0,Miyan Ki Todi orTodi or Darbari Todi,0
+109,DHAMAIL_010,আমরা কার বাড়িত আইলাম গো,Uma Das,Dhamail,Successfully classified,Jaunpuri,0.939025611,Purba,0.935559809,0.003465801,Gujari Todi,0,Megh,0,sarang,0
+110,DHAMAIL_011,বল গো বল সখি,Habib Simu/Shimu,Dhamail,Successfully classified,Marva,0.938066304,Sorath,0.937433708,0.000632596,Bhimpalasi,0,Darbari,0,Desh,0
+111,DHAMAIL_012,ইতা কিতা করে গো মনে,Habib Simu/Shimu,Dhamail,Successfully classified,Darbari,0.944440603,Multani,0.940667212,0.003773391,Purba,0,Sorath,0,Madhuvanti,0
+112,DHAMAIL_013,শুনোগো শুনোগো সখি,Habib Simu/Shimu,Dhamail,Successfully classified,Darbari,0.947432828,Bageshree,0.943393266,0.004039562,Asavari,0,Khamaj,0,N/A,0
+113,DHAMAIL_014,শ্যামরে এখন আর কাঁদিও না,Habib Simu/Shimu,Dhamail,Successfully classified,Purba,0.925798595,Alhaiya Bilaval,0.923335493,0.002463102,Madhuvanti,0,Adana,0,Bhairavi,0
+114,DHAMAIL_015,চান্নি রাইতে আইও কালা,Habib Simu/Shimu,Dhamail,Successfully classified,Madhuvanti,0.945156833,Miyan Ki Todi orTodi or Darbari Todi,0.938182533,0.0069743,Multani,0,Nat Bhairav,0,Asavari,0
+115,DHAMAIL_016,যুগল মিলন হইলো গো,Jumiar Shanta,Dhamail,Successfully classified,Bihag,0.94088316,Kedar,0.940755963,0.000127196,Multani,0,Bhimpalasi,0,Miyan Ki Todi orTodi or Darbari Todi,0
+116,DHAMAIL_017,বলো গো বলো সই,Pausali Banerjee,Dhamail,Successfully classified,Khamaj,0.935084939,Bhoopali,0.933024913,0.002060026,Yaman Kalyan,0,Ahir Bhairav,0,Malkauns,0
+117,DHAMAIL_018,কত আদরে আদরে,Pausali Banerjee,Dhamail,Successfully classified,Bhupal Todi,0.933988094,Desh,0.928644896,0.005343199,Yaman Kalyan,0,Barwa,0,Poorvi,0
+118,DHAMAIL_019,জলে গিয়েছিলাম সই,Pausali Banerjee,Dhamail,Successfully classified,Darbari,0.937610636,Asavari,0.933440492,0.004170145,Adana,0,N/A,0,N/A,0
+119,DHAMAIL_020,বন্ধু বিনে প্রাণ বাঁচে না,Pausali Banerjee,Dhamail,Successfully classified,Darbari,0.927517126,Asavari,0.924487213,0.003029913,Sorath,0,Khamaj,0,Bageshree,0
+120,DHAMAIL_021,জলের ঘাটে,Pausali Banerjee,Dhamail,Successfully classified,Bihag,0.941367865,Yaman Kalyan,0.929907709,0.011460155,Kedar,0,Nat Bhairav,0,Darbari,0
+121,DHAMAIL_022,Bhalo Kare Bajam Re,Maadal,Dhamail,Successfully classified,Poorvi,0.938399277,Darbari,0.93694889,0.001450386,Lalit,0,Desh,0,Bahar,0
+122,DHAMAIL_023,Tara Lowo Go Jol,Maadal,Dhamail,Successfully classified,Khamaj,0.934935676,Bilaskhani Todi,0.929784954,0.005150722,Bilaval,0,Kedar,0,Darbari,0
+123,DHAMAIL_024,Jhiko Jhiko Khodi Re,Maadal,Dhamail,Successfully classified,Desi,0.944609016,Megh,0.942045938,0.002563078,Pahadi,0,Nat Bhairav,0,Ahir Bhairav,0
+124,DHAMAIL_025,Nrittangon Sunamganj,Debdas Chowdhury,Dhamail,Successfully classified,Bhairavi,0.924258646,Malkauns,0.921724558,0.002534088,Madhuvanti,0,Sorath,0,Rageshree,0
+125,DHAMAIL_026,জলার জলার ঘাটে,Himel Dev Rahul,Dhamail,Successfully classified,Marva,0.915744555,Ahir Bhairav,0.915561199,0.000183356,Gauri,0,Rageshree,0,suddha kalyan,0
+126,DHAMAIL_027,অচেনা এক রূপবতী,Samim Siddiki,Dhamail,Successfully classified,Ahir Bhairav,0.944433292,Adana,0.943540973,0.000892318,Megh,0,N/A,0,N/A,0
+127,DHAMAIL_028,কুঞ্জের মাঝে,Madol Folk Band,Dhamail,Successfully classified,Megh,0.9370438,Sorath,0.934345365,0.002698435,Yaman or Kalyan,0,N/A,0,N/A,0
+128,DHAMAIL_029,আজ রাধার কুঞ্জে,Suman Dewan,Dhamail,Successfully classified,Adana,0.941239342,Sorath,0.938403487,0.002835855,Pahadi,0,Malkauns,0,N/A,0
+129,DHAMAIL_030,জানো নি গো সই,Jabel Raza,Dhamail,Successfully classified,Asavari,0.91401349,Puriya,0.91186519,0.0021483,Adana,0,Sorath,0,Alhaiya Bilaval,0
+130,GARBA_001,Maa Pava Te Gadh Thi Utarya,Diwaliben Bhil,Garba,Successfully classified,Malkauns,0.938964486,Darbari,0.938363567,0.000600919,Sorath,0,Asavari,0,Bhairavi,0
+131,GARBA_002,Madi Tara Mandiriye Ghantarav Thay,"Vibha Desai, Sharavan Madhurai",Garba,Successfully classified,Ahir Bhairav,0.941232324,Bilaskhani Todi,0.939362665,0.001869659,Basant Mukhari,0,Bhupal Todi,0,Bhairav Bahar,0
+132,GARBA_003,Ghor Andhari Re Rataldi Maa,Geeta Rabari,Garba,Successfully classified,Alhaiya Bilaval,0.944747508,Lalit,0.943707204,0.001040304,Darbari,0,N/A,0,N/A,0
+133,GARBA_004,Meldimaa Na Kumkum Pagla,Lalita Ghodadra,Garba,Successfully classified,Megh,0.946571953,suddha kalyan,0.945705056,0.000866897,Desh,0,Sorath,0,Darbari,0
+134,GARBA_005,Amba Aavo To Ramiye,Lalita Ghodadra,Garba,Successfully classified,Adana,0.948900183,Yaman or Kalyan,0.944154769,0.004745414,Megh,0,N/A,0,N/A,0
+135,GARBA_006,Sonal Garbo Shire,Kishor Manraja,Garba,Successfully classified,Megh Malhar,0.946851999,Komal Bhairav,0.946560323,0.000291675,Gujari Todi,0,Miyan Ki Todi orTodi or Darbari Todi,0,Malkauns,0
+136,GARBA_007,Maa No Garbo Re,Geeta Rabari,Garba,Successfully classified,Asavari,0.941034451,Darbari,0.940092397,0.000942054,Alhaiya Bilaval,0,Madhuvanti,0,Adana,0
+137,GARBA_008,Unchi Talavdi Ni Kor,Asha Bhosle,Garba,Successfully classified,Asavari,0.939736227,Marva,0.934410453,0.005325774,Kafi,0,Bahar,0,Hemant,0
+138,GARBA_009,Aavya Maa Na Norta,"Pamela Jain, Divya Kumar",Garba,Successfully classified,Adana,0.957154274,Marva,0.954440832,0.002713442,Rageshree,0,Bahar,0,Desh,0
+139,GARBA_010,Khodiyar Maa Nu Holdu,Kinjal Dave,Garba,Successfully classified,Alhaiya Bilaval,0.933595641,Bhimpalasi,0.931925297,0.001670344,Darbari,0,Marva,0,Lalit,0
+140,GARBA_011,Sathiya Puravo,Damyanti Bardai,Garba,Successfully classified,Megh,0.941822767,Barwa,0.940075874,0.001746893,Puriya,0,Yaman Kalyan,0,N/A,0
+141,GARBA_012,Amba Aave Aarasur Vadi,Meena Patel,Garba,Successfully classified,Yaman or Kalyan,0.924867323,Khamaj,0.91934669,0.005520633,Bihag,0,Puriya,0,Megh,0
+142,GARBA_013,Tara Vina Maa Mane Sunu Lage,"Meena Patel, Praful Dave",Garba,Successfully classified,Megh,0.941932201,Puriya,0.941088319,0.000843883,Bilaskhani Todi,0,Bhairav Bahar,0,Gujari Todi,0
+143,GARBA_014,Garba No Rang Lagiyo,"Meena Patel, Praful Dave",Garba,Successfully classified,Miyan Ki Todi orTodi or Darbari Todi,0.938190609,Durga,0.937924221,0.000266388,Adana,0,Madhuvanti,0,Jaunpuri,0
+144,GARBA_015,Hindole Zule Amba,Meena Patel,Garba,Successfully classified,Bhoopali,0.929081778,Barwa,0.928419164,0.000662613,Darbari,0,Bilaval,0,suddha kalyan,0
+145,GARBA_016,Jay Ambe Jagdambe Maa,Mital Gadhvi,Garba,Successfully classified,Adana,0.940183687,Bhoopali,0.937904835,0.002278852,Megh,0,Bhairavi,0,Pahadi,0
+146,GARBA_017,Halaji Tara Hath Vakhanu,Aditya Gadhvi,Garba,Successfully classified,Darbari,0.949855089,Asavari,0.945057392,0.004797697,Adana,0,Pahadi,0,N/A,0
+147,GARBA_018,Dholida Dhol Re Vagad,Farida Mir,Garba,Successfully classified,Bhoopali,0.934383814,Bhimpalasi,0.933719585,0.000664228,Asavari,0,Puriya,0,sarang,0
+148,GARBA_019,Pankhida O Pankhida,Hemant Chauhan,Garba,Successfully classified,Jaunpuri,0.925896823,Lalit,0.924298644,0.001598179,Desh,0,Durga,0,Adana,0
+149,GARBA_020,Tu To Kali Ne Kalyani,Hemant Chauhan,Garba,Successfully classified,Barwa,0.930503532,Bhairavi,0.928148866,0.002354667,Yaman Kalyan,0,Bihag,0,Purba,0
+150,GARBA_021,He Jagjanani,Hemant Chauhan,Garba,Successfully classified,Kafi,0.928812861,Desh,0.92505241,0.003760452,Yaman Kalyan,0,Alhaiya Bilaval,0,Sorath,0
+151,GARBA_022,Chotile Dakla Vagya,Hemant Chauhan,Garba,Successfully classified,Desh,0.919139862,Basant Mukhari,0.915115714,0.004024148,Megh Malhar,0,Malhar,0,Durga,0
+152,GARBA_023,Jay Aadhyashakti,Hemant Chauhan,Garba,Successfully classified,Purba,0.934756376,N/A,0,0.934756376,N/A,0,N/A,0,N/A,0
+153,GARBA_024,Dam Dam Dakla Vagya,Hemant Chauhan,Garba,Successfully classified,Bahar,0.923437029,Gauri,0.922835529,0.0006015,Basant Mukhari,0,Khamaj,0,Puriya,0
+154,GARBA_025,Sonala Vatakadi,"Praful Dave, Damyanti Bardai",Garba,Successfully classified,Marva,0.951326653,Bilaval,0.948478476,0.002848177,Kedar,0,Bhairav,0,Miyan Ki Todi orTodi or Darbari Todi,0
+155,GARBA_026,Kaho Poonam Na Chand,Shailendra Bharti,Garba,Successfully classified,Adana,0.954942465,Alhaiya Bilaval,0.954692066,0.000250399,Asavari,0,Malkauns,0,N/A,0
+156,GARBA_027,Aaj Ni Ghadi Te Raliyamani,"Praful Dave, Meena Patel",Garba,Successfully classified,Basant,0.943897665,Desh,0.942075223,0.001822442,Jaunpuri,0,Madhuvanti,0,Bhinna Shadja,0
+157,GARBA_028,Lejo Rasiya Re Rumal,"Arvind Barot, Vatsala Patil",Garba,Successfully classified,Marva,0.947513998,Asavari,0.943564667,0.00394933,Sorath,0,Jaunpuri,0,Bhimpalasi,0
+158,GARBA_029,Pavana Dungre,Praful Dave,Garba,Successfully classified,Darbari,0.938404644,Desi,0.937864208,0.000540435,Bihag,0,Kafi,0,Miyan Ki Todi orTodi or Darbari Todi,0
+159,GARBA_030,Momai Na Pare Parevado Dhume Re,Arvind Barot,Garba,Successfully classified,Khamaj,0.938834047,Pahadi,0.938011587,0.000822461,Gauri,0,Miyan Ki Todi orTodi or Darbari Todi,0,Sorath,0
+160,GARBA_031,Rumzum Sandhani Aave Re Maa,"Arvind Barot, Bhavna Rana",Garba,Successfully classified,Nat Bhairav,0.945571989,Pahadi,0.945343137,0.000228852,Purba,0,Bihag,0,Khamaj,0
+161,GHOOMAR_001,Ghoomar,Seema Mishra,Ghoomar,Successfully classified,Khamaj,0.927199304,Megh,0.926265419,0.000933886,Malkauns,0,Basant Mukhari,0,Bibhas,0
+162,GHOOMAR_002,Gangore/Gangaur,Seema Mishra,Ghoomar,Successfully classified,Bhairav,0.952260353,Miyan Ki Todi orTodi or Darbari Todi,0.945821567,0.006438786,Adana,0,N/A,0,N/A,0
+163,GHOOMAR_003,Choumaso,Seema Mishra,Ghoomar,Successfully classified,Yaman or Kalyan,0.932223797,Bahar,0.931610942,0.000612855,suddha kalyan,0,Purba,0,Bhoopali,0
+164,GHOOMAR_004,More Bole Re,Seema Mishra,Ghoomar,Successfully classified,Bhairav,0.942453448,Adana,0.937933262,0.004520186,Malkauns,0,Basant Mukhari,0,Khamaj,0
+165,GHOOMAR_005,Podina,Seema Mishra,Ghoomar,Successfully classified,Asavari,0.941788575,Malkauns,0.938803656,0.00298492,Bhairav,0,Purba,0,Marva,0
+166,GHOOMAR_006,Talariya Magriya,Seema Mishra,Ghoomar,Successfully classified,Adana,0.924890697,Khamaj,0.921677709,0.003212988,Bhairav,0,Marva,0,Bhoopali,0
+167,GHOOMAR_007,Panihari Ji,Seema Mishra,Ghoomar,Successfully classified,Bhoopali,0.939388558,Yaman or Kalyan,0.934817175,0.004571383,Megh,0,Adana,0,N/A,0
+168,GHOOMAR_008,Roomal/Rumal,Seema Mishra,Ghoomar,Successfully classified,Bilaval,0.933037429,Yaman Kalyan,0.932650492,0.000386937,Darbari,0,Khamaj,0,Sohni,0
+169,GHOOMAR_009,Gorband,Seema Mishra,Ghoomar,Successfully classified,Bhairav,0.934092725,Asavari,0.930474311,0.003618414,suddha kalyan,0,Malkauns,0,Ahir Bhairav,0
+170,GHOOMAR_010,Banna Re Bagan Me Jhoola Dalya,Seema Mishra,Ghoomar,Successfully classified,Bhairav,0.944037728,Asavari,0.940168291,0.003869437,Megh,0,Yaman or Kalyan,0,Malkauns,0
+171,GHOOMAR_011,Hivde Ro Haar,Seema Mishra,Ghoomar,Successfully classified,Barwa,0.937486614,Khamaj,0.935349678,0.002136936,Ahir Bhairav,0,Darbari,0,Asavari,0
+172,GHOOMAR_012,Chirmi,Seema Mishra,Ghoomar,Successfully classified,Yaman Kalyan,0.940063894,Yaman or Kalyan,0.937840677,0.002223216,Bhoopali,0,Adana,0,Pahadi,0
+173,GHOOMAR_013,Hichki (Aave Hichki),Seema Mishra,Ghoomar,Successfully classified,Darbari,0.955291569,Basant,0.949939787,0.005351782,Bahar,0,Adana,0,Bibhas,0
+174,GHOOMAR_014,Dal Badal,Seema Mishra,Ghoomar,Successfully classified,Adana,0.942742079,Nat Bhairav,0.940239578,0.002502501,Miyan Ki Todi orTodi or Darbari Todi,0,Megh,0,Yaman or Kalyan,0
+175,GHOOMAR_015,Samdariyo,Seema Mishra,Ghoomar,Successfully classified,Miyan Ki Todi orTodi or Darbari Todi,0.945645945,Bahar,0.945407629,0.000238316,Durga,0,Madhuvanti,0,Megh,0
+176,GHOOMAR_016,Jeero,Seema Mishra,Ghoomar,Successfully classified,Asavari,0.939906776,Yaman or Kalyan,0.939647845,0.000258931,Adana,0,sarang,0,N/A,0
+177,GHOOMAR_017,Loonga Ro Batawo,Seema Mishra,Ghoomar,Successfully classified,Darbari,0.925865352,Bhimpalasi,0.922702238,0.003163114,Desi,0,Basant Mukhari,0,Megh,0
+178,GHOOMAR_018,Taran Ri Chunadi,Seema Mishra,Ghoomar,Successfully classified,Adana,0.921439993,Megh,0.920688523,0.00075147,Jaunpuri,0,Pahadi,0,N/A,0
+179,GHOOMAR_019,Run Jhun Baje Ghooghara,Seema Mishra,Ghoomar,Successfully classified,Alhaiya Bilaval,0.936007824,suddha kalyan,0.920455476,0.015552348,Pahadi,0,Bhimpalasi,0,Adana,0
+180,GHOOMAR_020,Kangasiyo,Seema Mishra,Ghoomar,Successfully classified,Ahir Bhairav,0.929630762,Desh,0.923386741,0.006244021,Bageshree,0,Bhairav,0,Miyan Ki Todi orTodi or Darbari Todi,0
+181,GHOOMAR_021,Dheere Chhal Re Panihari,Seema Mishra,Ghoomar,Successfully classified,Bhairav,0.945484601,Ahir Bhairav,0.944509208,0.000975393,Desh,0,suddha kalyan,0,Miyan Ki Todi orTodi or Darbari Todi,0
+182,GHOOMAR_022,Kesariya Ro Pag,Seema Mishra,Ghoomar,Successfully classified,Asavari,0.941936612,Khamaj,0.937300045,0.004636567,Sohni,0,Kedar,0,Bhoopali,0
+183,GHOOMAR_023,Naina Ra Lobhi,Seema Mishra,Ghoomar,Successfully classified,Miyan Ki Todi orTodi or Darbari Todi,0.931447893,Pahadi,0.930542886,0.000905007,Multani,0,Rageshree,0,Madhuvanti,0
+184,GHOOMAR_024,Bajudan Ri Loom,Seema Mishra,Ghoomar,Successfully classified,Adana,0.927985728,Khamaj,0.926982959,0.001002769,Miyan Ki Todi orTodi or Darbari Todi,0,Megh Malhar,0,Barwa,0
+185,GHOOMAR_025,Lehariyo,Seema Mishra,Ghoomar,Successfully classified,Darbari,0.920298483,Bhairav,0.919256985,0.001041498,Kedar,0,Khamaj,0,Yaman Kalyan,0
+186,GHOOMAR_026,Ital Peetal,Seema Mishra,Ghoomar,Successfully classified,Durga,0.928076637,Pahadi,0.925392838,0.002683799,Darbari,0,Alhaiya Bilaval,0,Miyan Ki Todi orTodi or Darbari Todi,0
+187,GHOOMAR_027,Moriya,Seema Mishra,Ghoomar,Successfully classified,Bhatiyar,0.938707948,Megh,0.935151327,0.00355662,Lalit,0,Pahadi,0,Madhuvanti,0
+188,GHOOMAR_028,Cham Cham Chake Chundari,Seema Mishra,Ghoomar,Successfully classified,Gujari Todi,0.923060467,Madhuvanti,0.922318995,0.000741472,Desh,0,Multani,0,Adana,0
+189,GHOOMAR_029,Hathelyan Re Beech,Seema Mishra,Ghoomar,Successfully classified,Barwa,0.93606324,Khamaj,0.933734718,0.002328522,Megh,0,Bahar,0,Desh,0
+190,GHOOMAR_030,Dar Lanjo,Seema Mishra,Ghoomar,Successfully classified,Bhairav,0.943635213,Asavari,0.941908196,0.001727018,Bhoopali,0,Adana,0,Megh Malhar,0
+191,JHUMUR_001,Kati Khane Bole,Dulal Manki,Jhumur,Successfully classified,Marva,0.92834568,Bhatiyar,0.926115662,0.002230018,Madhuvanti,0,Bhinna Shadja,0,Malkauns,0
+192,JHUMUR_0010,Ekadoshi Ratiya,Zubeen Garg,Jhumur,Successfully classified,Lalit,0.938724801,Bilaval,0.937901914,0.000822887,Megh,0,Barwa,0,Madhuvanti,0
+193,JHUMUR_0011,Barire Simare,Zubeen Garg,Jhumur,Successfully classified,Ahir Bhairav,0.938463637,Darbari,0.934336782,0.004126855,Pahadi,0,suddha kalyan,0,N/A,0
+194,JHUMUR_0012,Mor Dhoni Go,Zubeen Garg,Jhumur,Successfully classified,Malkauns,0.929308414,Madhuvanti,0.919169068,0.010139346,Bilaval,0,Asavari,0,Sorath,0
+195,JHUMUR_0013,Jhuli Jhule,Zubeen Garg,Jhumur,Successfully classified,Desi,0.925117254,Madhuvanti,0.925115188,2.07E-06,Khamaj,0,Marva,0,Ahir Bhairav,0
+196,JHUMUR_0014,Kansiya,Amrit Tanti,Jhumur,Successfully classified,Bageshree,0.942656213,Kedar,0.941772208,0.000884005,Asavari,0,Yaman Kalyan,0,Darbari,0
+197,JHUMUR_0015,Jhatka,Amrit Tanti,Jhumur,Successfully classified,Bhoopali,0.938117325,Sorath,0.936572641,0.001544684,Megh,0,Barwa,0,Adana,0
+198,JHUMUR_0016,Gohona,Amrit Tanti,Jhumur,Successfully classified,Bageshree,0.941920109,Khamaj,0.938702849,0.00321726,Darbari,0,Sohni,0,Asavari,0
+199,JHUMUR_0017,Hariya,Amrit Tanti,Jhumur,Successfully classified,Kedar,0.934163832,Darbari,0.930260619,0.003903213,Bhoopali,0,Asavari,0,N/A,0
+200,JHUMUR_0018,Koromoti,Amrit Tanti,Jhumur,Successfully classified,Khamaj,0.939512908,Bageshree,0.939025581,0.000487328,Kedar,0,Adana,0,Bilaval,0
+201,JHUMUR_0019,Sonamoni,Amrit Tanti,Jhumur,Successfully classified,Adana,0.93684887,Desh,0.936685417,0.000163453,Sorath,0,Bahar,0,Barwa,0
+202,JHUMUR_002,Nistei,Dulal Manki,Jhumur,Successfully classified,Bageshree,0.941806406,Sohni,0.941802005,4.40E-06,Pahadi,0,Marva,0,Sorath,0
+203,JHUMUR_0020,Chaliya Chhodi,Amrit Tanti,Jhumur,Successfully classified,Bhoopali,0.927693691,Malkauns,0.924730986,0.002962704,Khamaj,0,N/A,0,N/A,0
+204,JHUMUR_0021,Prem Nadi Tire Tire,Shaan Tanti,Jhumur,Successfully classified,Bhairavi,0.931334933,Ahir Bhairav,0.931104064,0.000230869,Adana,0,Sorath,0,Megh Malhar,0
+205,JHUMUR_0022,Deewana,Shaan Tanti,Jhumur,Successfully classified,Marva,0.941333354,Bhimpalasi,0.937824547,0.003508806,Sorath,0,Desh,0,Adana,0
+206,JHUMUR_0023,Koliye Juge Alai Doyal,Navin Tanti,Jhumur,Successfully classified,Lalit,0.952762723,Megh,0.95272409,3.86E-05,Adana,0,N/A,0,N/A,0
+207,JHUMUR_0024,Laal Pari,Bejnath Tanti,Jhumur,Successfully classified,Madhuvanti,0.935808134,Sorath,0.9357737,3.44E-05,Desh,0,Megh,0,Adana,0
+208,JHUMUR_0025,Tore Bina,Bejnath Tanti,Jhumur,Successfully classified,Asavari,0.952358723,Adana,0.952099919,0.000258803,Bhoopali,0,Alhaiya Bilaval,0,N/A,0
+209,JHUMUR_0026,Koromake Akhora,Bejnath Tanti,Jhumur,Successfully classified,Bilaval,0.943744421,Darbari,0.941416283,0.002328138,Lalit,0,Bhimpalasi,0,Khamaj,0
+210,JHUMUR_0027,The Jhumur Song,Neel Akash,Jhumur,Successfully classified,Nat Bhairav,0.946115524,Asavari,0.945222121,0.000893402,Bhairav,0,Adana,0,Megh,0
+211,JHUMUR_0028,Genda Phool,"Neel Akash, Jyotika Baruha",Jhumur,Successfully classified,Bageshree,0.946052551,Kedar,0.943030953,0.003021598,Adana,0,Darbari,0,Bilaval,0
+212,JHUMUR_0029,Ja Ja Re Mini,Neel Akash,Jhumur,Successfully classified,Ahir Bhairav,0.934364289,Asavari,0.933383846,0.000980443,Pahadi,0,Miyan Ki Todi orTodi or Darbari Todi,0,Darbari,0
+213,JHUMUR_003,Kuilu Kuilu,Dulal Manki,Jhumur,Successfully classified,Darbari,0.936827421,Bhinna Shadja,0.934719136,0.002108286,Bhairav,0,Basant,0,Basant Mukhari,0
+214,JHUMUR_0030,Goya,Neel Akash,Jhumur,Successfully classified,Adana,0.937691939,Asavari,0.936886835,0.000805104,N/A,0,N/A,0,N/A,0
+215,JHUMUR_004,Sajanigo,Dulal Manki,Jhumur,Successfully classified,Desi,0.939124465,Yaman or Kalyan,0.932800854,0.006323611,Rageshree,0,Adana,0,Basant,0
+216,JHUMUR_005,Sol Sokhi,Dulal Manki,Jhumur,Successfully classified,Deepak,0.935670376,Bhatiyar,0.933365077,0.002305299,Marva,0,Lalit,0,Bhairav,0
+217,JHUMUR_006,Aji Ei Suprabhate,Dulal Manki,Jhumur,Successfully classified,Bilaval,0.92397809,Bhairavi,0.922421522,0.001556569,Kafi,0,Sorath,0,Marva,0
+218,JHUMUR_007,Kale Gori Muke,Dulal Manki,Jhumur,Successfully classified,Nat Bhairav,0.931992292,Malhar,0.930873215,0.001119077,Malkauns,0,Basant,0,Basant Mukhari,0
+219,JHUMUR_008,Tohe Gori Nawa,Dulal Manki,Jhumur,Successfully classified,Bahar,0.929829538,Komal Bhairav,0.928022981,0.001806557,Sohni,0,Malkauns,0,Bhinna Shadja,0
+220,JHUMUR_009,Moi to Jabo Kam Jari,Zubeen Garg,Jhumur,Successfully classified,Adana,0.931049049,sarang,0.93038312,0.000665929,Miyan Ki Todi orTodi or Darbari Todi,0,Darbari,0,Sohni,0
+221,LAVANI_001,Tujhya Usala Lagal Kolha Ga,Sulochana Chavan,Lavani,Successfully classified,Desh,0.938122571,Bilaskhani Todi,0.93741928,0.00070329,Basant,0,Puriya,0,Megh,0
+222,LAVANI_002,Padarawarti Jartaricha,Sulochana Chavan,Lavani,Successfully classified,Marva,0.946573585,Megh Malhar,0.945416719,0.001156867,Asavari,0,Kedar,0,Nat Bhairav,0
+223,LAVANI_003,Solava Varis Dhokyacha,Sulochana Chavan,Lavani,Successfully classified,Bahar,0.931220531,Bhairavi,0.930603623,0.000616908,Adana,0,Komal Bhairav,0,Asavari,0
+224,LAVANI_004,Kasa Kay Patil Bara Hay Ka,Sulochana Chavan,Lavani,Successfully classified,Bahar,0.942708284,Bihag,0.940986466,0.001721817,Khamaj,0,Bageshree,0,Bhimpalasi,0
+225,LAVANI_005,Naav Gaav Kashala Pustay,Sulochana Chavan,Lavani,Successfully classified,Nat Bhairav,0.95273906,Rageshree,0.949999809,0.002739251,Megh Malhar,0,Malhar,0,N/A,0
+226,LAVANI_006,Kalidar Kapuri Paan,Sulochana Chavan,Lavani,Successfully classified,Bahar,0.924690038,Nat Bhairav,0.92162472,0.003065318,Kafi,0,Basant,0,suddha kalyan,0
+227,LAVANI_007,Mala London Foreign Dakhwa,Sulochana Chavan,Lavani,Successfully classified,Malkauns,0.93685028,Bahar,0.931533158,0.005317122,Yaman Kalyan,0,Bilaval,0,Yaman or Kalyan,0
+228,LAVANI_008,Disla Ga Bai Disla,Usha Mangeshkar,Lavani,Successfully classified,Kedar,0.949779898,Asavari,0.949287266,0.000492632,Gauri,0,Marva,0,Megh Malhar,0
+229,LAVANI_009,Chabidar Chabi,Usha Mangeshkar,Lavani,Successfully classified,suddha kalyan,0.930542958,Yaman or Kalyan,0.927622788,0.00292017,Puriya,0,Pahadi,0,Desh,0
+230,LAVANI_010,Raya Chala Ghodyavarti Basu,Usha Mangeshkar,Lavani,Successfully classified,Asavari,0.953023016,Miyan Ki Todi orTodi or Darbari Todi,0.949409962,0.003613055,Marva,0,Bihag,0,Lalit,0
+231,LAVANI_011,Pikala Jambhul Todu Naka,Usha Mangeshkar,Lavani,Successfully classified,Asavari,0.958396065,Miyan Ki Todi orTodi or Darbari Todi,0.955749124,0.002646941,Bageshree,0,Rageshree,0,Puriya,0
+232,LAVANI_012,Naki Doli Chhaan,Usha Mangeshkar,Lavani,Successfully classified,Puriya,0.957847416,Kedar,0.949420035,0.008427382,Bageshree,0,Megh,0,Bihag,0
+233,LAVANI_013,Aai Majhya Lagnachi,Usha Mangeshkar,Lavani,Successfully classified,Malhar,0.945548654,Marva,0.943876863,0.001671791,Bhoopali,0,Durga,0,N/A,0
+234,LAVANI_014,Wajle Ki Bara,Bela Shende,Lavani,Successfully classified,Bahar,0.933650494,Bhoopali,0.933253628,0.000396866,Sohni,0,Puriya,0,Bhairavi,0
+235,LAVANI_015,Apsara Aali,Bela Shende,Lavani,Successfully classified,Basant,0.930509269,Sorath,0.929673433,0.000835836,Bhimpalasi,0,Marva,0,Bhinna Shadja,0
+236,LAVANI_016,Kashi Mi Jau Mathurechya Bajari,Bela Shende,Lavani,Successfully classified,Shree,0.925225377,Bahar,0.924526244,0.000699133,Bhimpalasi,0,Sohni,0,Adana,0
+237,LAVANI_017,Kashyala Lavato,Bela Shende,Lavani,Successfully classified,Barwa,0.922291368,Darbari,0.913734933,0.008556436,Alhaiya Bilaval,0,Ahir Bhairav,0,Kafi,0
+238,LAVANI_018,Chhatishi Kavlun Dhara,Surekha Punekar,Lavani,Successfully classified,Bahar,0.935665965,Madhuvanti,0.934979171,0.000686795,Puriya,0,Khamaj,0,Darbari,0
+239,LAVANI_019,Jhampar Majha Dheel,Surekha Punekar,Lavani,Successfully classified,Yaman Kalyan,0.926461617,Miyan Ki Todi orTodi or Darbari Todi,0.92495364,0.001507978,Puriya,0,Malkauns,0,Desi,0
+240,LAVANI_020,Themba Thembana Kelai,Surekha Punekar,Lavani,Successfully classified,suddha kalyan,0.930542958,Yaman or Kalyan,0.927622788,0.00292017,Puriya,0,Pahadi,0,Desh,0
+241,LAVANI_021,Sola Hazarat,Uttara Kelkar,Lavani,Successfully classified,Marva,0.937458058,Bilaskhani Todi,0.934995055,0.002463003,Desh,0,Bageshree,0,Puriya,0
+242,LAVANI_022,Hi Natrangi Naar,Ravindra Sathe,Lavani,Successfully classified,Puriya,0.942407837,Marva,0.940515324,0.001892512,Bageshree,0,Bhairav,0,Bhairavi,0
+243,LAVANI_023,Saaman Avjad Majha,Anand Shinde,Lavani,Successfully classified,Yaman Kalyan,0.926461617,Miyan Ki Todi orTodi or Darbari Todi,0.921891779,0.004569838,Bageshree,0,Malkauns,0,Desh,0
+244,LAVANI_024,Majha Taat Kar Aadhi,Anand Shinde,Lavani,Successfully classified,suddha kalyan,0.929049134,Yaman or Kalyan,0.928265674,0.00078346,Puriya,0,Pahadi,0,Desh,0
+245,LAVANI_025,Bai Mi Patang Udvit Hote,Asha Bhosle,Lavani,Successfully classified,Yaman or Kalyan,0.935643315,Yaman Kalyan,0.93507123,0.000572085,Gauri,0,Durga,0,Bahar,0
+246,LAVANI_026,Bai Mazi Karangali Modali,Asha Bhosle,Lavani,Successfully classified,Basant Mukhari,0.955097795,Puriya,0.955004692,9.31E-05,Bihag,0,Rageshree,0,Darbari,0
+247,LAVANI_027,Raya Mala Pavsat Neu Naka,Pushpa Pagdhare,Lavani,Successfully classified,Marva,0.952195585,Bageshree,0.947115183,0.005080402,Asavari,0,Purba,0,Bhoopali,0
+248,LAVANI_028,Navi Navi Navari Mee,Pushpa Pagdhare,Lavani,Successfully classified,Malhar,0.9410132,Khamaj,0.936499579,0.004513621,Desh,0,Marva,0,Kedar,0
+249,LAVANI_029,Ugvali Shukrachi Chandni,Aarti Anklikar,Lavani,Successfully classified,Ahir Bhairav,0.920637369,Desh,0.920359822,0.000277547,Puriya,0,Darbari,0,Barwa,0
+250,LAVANI_030,Ghotala Ghotala Zala,Vaishali Samant,Lavani,Successfully classified,Bilaskhani Todi,0.936170225,Marva,0.936030316,0.000139908,Desh,0,Bageshree,0,Puriya,0
+251,LAVANI_031,Raanamandi Ekatach Dultoy Naag,Urmila Dhangkar,Lavani,Successfully classified,Adana,0.934016645,Bhoopali,0.932661057,0.001355588,Yaman or Kalyan,0,N/A,0,N/A,0
+252,LAVANI_032,Aase Wajwa Ki,Bela Shende and chorus,Lavani,Successfully classified,Megh,0.942581415,Miyan Ki Todi orTodi or Darbari Todi,0.942105532,0.000475883,Nat Bhairav,0,Puriya,0,Desh,0
+253,LAVANI_033,Dolyavar Gogal Lava,Various Artists,Lavani,Successfully classified,Darbari,0.93475455,Miyan Ki Todi orTodi or Darbari Todi,0.934520245,0.000234306,Purba,0,sarang,0,Kedar,0
+254,LAVANI_034,Reshmachya Reghani,Asha Bhosle,Lavani,Successfully classified,Khamaj,0.943296035,Gauri,0.942889865,0.000406171,Basant,0,Bahar,0,Malkauns,0
+255,LAVANI_035,Chala Jejurila Jau,Uttara Kelkar,Lavani,Successfully classified,Yaman Kalyan,0.939136108,Desh,0.93854934,0.000586768,Alhaiya Bilaval,0,Darbari,0,Bhairavi,0
+256,MAAND_001,Kesariya Balam Aavo Ni,Allah Jilai Bai,Maand,Successfully classified,Darbari,0.945620477,Bahar,0.942265034,0.003355443,Purba,0,Multani,0,Jaunpuri,0
+257,MAAND_002,Moray Aaj Aaye Saiyan,Allah Jilai Bai,Maand,Successfully classified,Hemant,0.917911185,Bihag,0.917414496,0.000496689,Bibhas,0,Lalit,0,Desh,0
+258,MAAND_003,Moomal,Allah Jilai Bai,Maand,Successfully classified,Madhuvanti,0.946515987,Jaunpuri,0.945268047,0.00124794,Multani,0,Desh,0,Purba,0
+259,MAAND_004,Ghoomar,Allah Jilai Bai,Maand,Successfully classified,Purba,0.928309316,Bilaskhani Todi,0.923586639,0.004722677,N/A,0,N/A,0,N/A,0
+260,MAAND_005,Bai Sa Ra Beera,Allah Jilai Bai,Maand,Successfully classified,Megh,0.941546202,Bahar,0.940767606,0.000778596,Miyan Ki Todi orTodi or Darbari Todi,0,Purba,0,Bhairav Bahar,0
+261,MAAND_006,Jawai Balha Lagoji,Allah Jilai Bai,Maand,Successfully classified,Bahar,0.921975076,Bageshree,0.921247482,0.000727594,Asavari,0,Gauri,0,Yaman or Kalyan,0
+262,MAAND_007,Kesariya Balam Aavo Ni,Gavri Devi,Maand,Successfully classified,Darbari,0.923325837,Madhuvanti,0.923103452,0.000222385,Bahar,0,Bilaskhani Todi,0,Sorath,0
+263,MAAND_008,Kesariya Balam Awo Ni Padharo,Seema Mishra,Maand,Successfully classified,Bhatiyar,0.928948879,Miyan Ki Todi orTodi or Darbari Todi,0.928726208,0.000222672,Madhuvanti,0,Poorvi,0,Hemant,0
+264,MAAND_009,Kesariya Ro Pag (Ghoomar),Seema Mishra,Maand,Successfully classified,Khamaj,0.944363451,Ahir Bhairav,0.943109006,0.001254445,Bhoopali,0,Asavari,0,Sohni,0
+265,MAAND_010,Badila Yahi Rahiyo Saa,Banarsi Babu,Maand,Successfully classified,Gauri,0.953689992,Bageshree,0.945664227,0.008025765,Adana,0,Desh,0,Khamaj,0
+266,MAAND_011,Taniya Resham Ki,Banarsi Babu,Maand,Successfully classified,Adana,0.945386957,Khamaj,0.943003953,0.002383005,Alhaiya Bilaval,0,N/A,0,N/A,0
+267,MAAND_012,Kad Janulee Sasre,Rehana Mirza,Maand,Successfully classified,Alhaiya Bilaval,0.942145531,Bhairavi,0.938779399,0.003366132,Darbari,0,Bhairav,0,Bahar,0
+268,MAAND_013,Le Dekh Nangi Melo,Rehana Mirza,Maand,Successfully classified,Khamaj,0.947690735,Malhar,0.946596384,0.001094351,Megh Malhar,0,Purba,0,Yaman Kalyan,0
+269,MAAND_014,The To Piyo Sadarudi,Rehana Mirza,Maand,Successfully classified,Rageshree,0.939158189,Abhogi,0.938489874,0.000668315,Bilaskhani Todi,0,Marva,0,Durga,0
+270,MAAND_015,Kesariya Balam (Desert Slide),Anwar Khan,Maand,Successfully classified,Miyan Ki Todi orTodi or Darbari Todi,0.926746153,Malkauns,0.923854248,0.002891905,Darbari,0,Sohni,0,Madhuvanti,0
+271,MAAND_016,Kesariya Balam (DIFF 2015),Anwar Khan,Maand,Successfully classified,Bhairavi,0.9185792,Madhuvanti,0.914681554,0.003897646,Pahadi,0,Purba,0,Hemant,0
+272,MAAND_017,Apne Desh Ri Aajadi,Anwar Khan,Maand,Successfully classified,Sorath,0.9350606,Basant,0.931215435,0.003845165,Adana,0,N/A,0,N/A,0
+273,MAAND_018,Kesariya Balam Aao Ni,Anwar Khan,Maand,Successfully classified,Ahir Bhairav,0.935366809,Gauri,0.931868911,0.003497899,Sohni,0,Khamaj,0,Basant,0
+274,MAAND_019,Raag Maand Bandish,Mame Khan,Maand,Successfully classified,Bilaval,0.938807964,Purba,0.938765079,4.29E-05,Sorath,0,Khamaj,0,Adana,0
+275,MAAND_020,Rajasthani Folk Raag Maand,Mame Khan,Maand,Successfully classified,Bilaval,0.94093135,Purba,0.939708054,0.001223296,Sorath,0,Khamaj,0,suddha kalyan,0
+276,MAAND_021,Chaudhary,Mame Khan,Maand,Successfully classified,Ahir Bhairav,0.932391278,Desh,0.930706631,0.001684648,Nat Bhairav,0,Bhairavi,0,suddha kalyan,0
+277,MAAND_022,Chhap Tilak Sab Cheeni,Kirti Sagathia,Maand,Successfully classified,Adana,0.932332456,Bahar,0.932262552,6.99E-05,Darbari,0,Nat Bhairav,0,suddha kalyan,0
+278,MAAND_023,Balam,Swaroop Khan,Maand,Successfully classified,Darbari,0.949534599,Asavari,0.945124101,0.004410498,N/A,0,N/A,0,N/A,0
+279,MAAND_024,Kuraja Mahra Bhanvr Manae Lav,Swaroop Khan Sura,Maand,Successfully classified,Marva,0.914706104,Ahir Bhairav,0.913612819,0.001093284,Barwa,0,Bhairavi,0,Bibhas,0
+280,MAAND_025,Kurja Mhari Bhanwar Milade,Sikander Khan Baru,Maand,Successfully classified,Khamaj,0.931310177,Adana,0.929589659,0.001720518,Bahar,0,Pahadi,0,Miyan Ki Todi orTodi or Darbari Todi,0
+281,MAAND_026,Darude Ro Rog Lagiyo,Sikander Khan Baru,Maand,Successfully classified,Ahir Bhairav,0.913125837,Puriya,0.909834838,0.003290999,Darbari,0,Asavari,0,N/A,0
+282,MAAND_027,Kesariya Balam Padharo,Bhungar Khan,Maand,Successfully classified,Komal Bhairav,0.943880379,Bhoopali,0.940124381,0.003755999,Bhimpalasi,0,Khamaj,0,Purba,0
+283,MAAND_028,Mohe Aai Na Jag Ki Laaj,"Kheta Khan, Fakira Khan Bhadresh",Maand,Successfully classified,Kafi,0.941628575,Pahadi,0.939740822,0.001887754,Desh,0,Bilaskhani Todi,0,Malhar,0
+284,MAAND_029,Kalali,Latif Khan,Maand,Successfully classified,Malkauns,0.918605387,Bhairavi,0.916945368,0.001660019,Megh,0,Desh,0,Ahir Bhairav,0
+285,MAAND_030,Kesariya Balam,Raitila (Group),Maand,Successfully classified,Yaman Kalyan,0.927752328,Sorath,0.926331508,0.00142082,Purba,0,Malkauns,0,Puriya,0
+286,MAAND_031,Joori Thaane Na Maare Raad,Jameela Bai & Kulsum Bai,Maand,Successfully classified,Yaman Kalyan,0.921807443,Bhimpalasi,0.921154335,0.000653108,Bilaskhani Todi,0,Lalit,0,Basant,0
+287,MAAND_032,Alija Dhola Ekladi,Jameela Bai & Kulsum Bai,Maand,Successfully classified,Desh,0.922784428,Bhimpalasi,0.91904819,0.003736238,Yaman Kalyan,0,Bhairavi,0,N/A,0
+288,MAAND_033,Mumal,Jameela Bai & Kulsum Bai,Maand,Successfully classified,Purba,0.934222286,Yaman Kalyan,0.933063136,0.00115915,Bhimpalasi,0,Bhatiyar,0,Bilaskhani Todi,0
+289,MAAND_034,Mhari Sajni Ae,Nand Lal Bhat,Maand,Successfully classified,Sorath,0.943921566,Bhairavi,0.941990197,0.001931369,Yaman Kalyan,0,Puriya,0,Darbari,0
+290,MAAND_035,Rajwadi Mehfil,Nand Lal Bhat,Maand,Successfully classified,Alhaiya Bilaval,0.936530292,Marva,0.936336175,0.000194117,Megh,0,Bhairavi,0,Basant,0
+291,MAAND_036,Thane Samjhaye Sakha Sa,Munshi Khan,Maand,Successfully classified,Darbari,0.941951349,Puriya,0.939474106,0.002477244,Bibhas,0,Adana,0,Basant,0
+292,MAAND_037,Padharo Mhare Mehal,Munshi Khan,Maand,Successfully classified,Bhupal Todi,0.944482207,Ramkali,0.941746652,0.002735555,Komal Bhairav,0,Bibhas,0,Adana,0
+293,MAAND_038,Daru Dakha Ro,Munshi Khan,Maand,Successfully classified,Gauri,0.94244945,Alhaiya Bilaval,0.939918011,0.002531439,Malhar,0,Khamaj,0,Kafi,0
+294,MAAND_039,Mahara Sajan Base,Munshi Khan,Maand,Successfully classified,Purba,0.942774355,Desh,0.937467674,0.005306681,Yaman Kalyan,0,Adana,0,Bhatiyar,0
+295,SAMBALPURI_001,Nabu Ki Sambalpur,Human Sagar,Sambalpuri,Successfully classified,Ahir Bhairav,0.940687258,Malkauns,0.936313152,0.004374105,Pahadi,0,Bhimpalasi,0,Desh,0
+296,SAMBALPURI_002,Tor Lagi Marijibi,Human Sagar,Sambalpuri,Successfully classified,Bilaval,0.937451168,Ahir Bhairav,0.936602215,0.000848953,Sorath,0,Darbari,0,Desh,0
+297,SAMBALPURI_003,Sacha Lover,Human Sagar,Sambalpuri,Successfully classified,Basant,0.939118475,Darbari,0.937003076,0.002115399,Asavari,0,Sorath,0,Marva,0
+298,SAMBALPURI_004,Pardesia Raja,Human Sagar,Sambalpuri,Successfully classified,Sorath,0.950800121,Darbari,0.949146017,0.001654103,Bageshree,0,Desh,0,Miyan Ki Todi orTodi or Darbari Todi,0
+299,SAMBALPURI_005,Lal Sadhi,Human Sagar,Sambalpuri,Successfully classified,Bilaval,0.927906427,Desh,0.925367624,0.002538804,Bageshree,0,Bhairavi,0,Kedar,0
+300,SAMBALPURI_006,Rasia,Mantu Chhuria,Sambalpuri,Successfully classified,Bilaval,0.935066548,Bageshree,0.927625895,0.007440654,Bhimpalasi,0,Asavari,0,Desh,0
+301,SAMBALPURI_007,A Mo Dil,Mantu Chhuria,Sambalpuri,Successfully classified,Darbari,0.936433017,Bageshree,0.932991773,0.003441244,Adana,0,Asavari,0,Malkauns,0
+302,SAMBALPURI_008,Hae Go,Mantu Chhuria,Sambalpuri,Successfully classified,Darbari,0.934674816,Megh,0.934501022,0.000173794,Sorath,0,Bilaval,0,Ahir Bhairav,0
+303,SAMBALPURI_009,Aukaat,Mantu Chhuria,Sambalpuri,Successfully classified,Megh,0.950388266,Bhatiyar,0.949548721,0.000839544,Sohni,0,Bhimpalasi,0,Asavari,0
+304,SAMBALPURI_010,Rani Guri,Mantu Chhuria,Sambalpuri,Successfully classified,Bageshree,0.93974632,Puriya,0.936717868,0.003028452,Alhaiya Bilaval,0,Adana,0,Bhoopali,0
+305,SAMBALPURI_011,Gidja Gija Re,Asima Panda,Sambalpuri,Successfully classified,Khamaj,0.937895119,Bageshree,0.937634349,0.00026077,Bilaval,0,Adana,0,Abhogi,0
+306,SAMBALPURI_012,Tui Bewafa,Asima Panda,Sambalpuri,Successfully classified,Desh,0.943926474,Adana,0.94020009,0.003726384,Miyan Ki Todi orTodi or Darbari Todi,0,Sorath,0,Ahir Bhairav,0
+307,SAMBALPURI_013,Ramagaru,Asima Panda,Sambalpuri,Successfully classified,Sorath,0.927590501,Desh,0.927471961,0.00011854,Alhaiya Bilaval,0,N/A,0,N/A,0
+308,SAMBALPURI_014,Deewana Banalu Rani,Asima Panda,Sambalpuri,Successfully classified,Bageshree,0.933782279,Megh,0.933542311,0.000239968,Rageshree,0,Ahir Bhairav,0,Adana,0
+309,SAMBALPURI_015,SambalPuri Saiyaan,Asima Panda,Sambalpuri,Successfully classified,Sorath,0.938986741,Desh,0.937403604,0.001583137,Adana,0,Miyan Ki Todi orTodi or Darbari Todi,0,Ahir Bhairav,0
+310,SAMBALPURI_016,Anta Halei Halei,Ruku Suna,Sambalpuri,Successfully classified,Alhaiya Bilaval,0.947600231,Bhairavi,0.946725488,0.000874743,Pahadi,0,Darbari,0,Ahir Bhairav,0
+311,SAMBALPURI_017,Chandir Paenjhal,Ruku Suna,Sambalpuri,Successfully classified,Adana,0.944606185,Asavari,0.944332331,0.000273854,Desh,0,Alhaiya Bilaval,0,Darbari,0
+312,SAMBALPURI_018,Prem Paga,Ruku Suna,Sambalpuri,Successfully classified,Darbari,0.949158013,Asavari,0.946857146,0.002300867,Adana,0,Ahir Bhairav,0,Pahadi,0
+313,SAMBALPURI_019,Rasa Mandara Mali Kahanra,Ruku Suna,Sambalpuri,Successfully classified,Megh,0.942675769,Hindol,0.941947003,0.000728766,Alhaiya Bilaval,0,Adana,0,Nat Bhairav,0
+314,SAMBALPURI_020,A Labanga Lata,Ruku Suna,Sambalpuri,Successfully classified,Bhairavi,0.929735184,Bhoopali,0.929088235,0.000646949,Asavari,0,Abhogi,0,Pahadi,0
+315,SAMBALPURI_021,Badnam,Prakash Jal,Sambalpuri,Successfully classified,Rageshree,0.922513425,Kedar,0.918468267,0.004045159,Pahadi,0,Ahir Bhairav,0,Yaman or Kalyan,0
+316,SAMBALPURI_022,Dil Bhitre Lekhideli,Prakash Jal,Sambalpuri,Successfully classified,Pahadi,0.934222579,Ahir Bhairav,0.931915368,0.002307211,N/A,0,N/A,0,N/A,0
+317,SAMBALPURI_023,Bewafa Mita,Prakash Jal,Sambalpuri,Successfully classified,Adana,0.935282916,Durga,0.933980495,0.001302421,Bhoopali,0,Pahadi,0,Marva,0
+318,SAMBALPURI_024,Bheti Aibu Sajani Kalekale,Prakash Jal,Sambalpuri,Successfully classified,Pahadi,0.937410031,Nat Bhairav,0.936846097,0.000563934,Miyan Ki Todi orTodi or Darbari Todi,0,Bihag,0,Ahir Bhairav,0
+319,SAMBALPURI_025,Le Le Baula,Antara Chakrabarty,Sambalpuri,Successfully classified,Asavari,0.948365211,Adana,0.946696281,0.00166893,Alhaiya Bilaval,0,Puriya,0,Ahir Bhairav,0
+320,SAMBALPURI_026,Chahanewali,Antara Chakrabarty,Sambalpuri,Excluded,NO PREDICTION,0,N/A,0,0,N/A,,N/A,,N/A,
+321,SAMBALPURI_027,Feel My Love,Antara Chakrabarty,Sambalpuri,Successfully classified,Marva,0.942980778,Madhuvanti,0.942501831,0.000478947,Bhimpalasi,0,Desh,0,Darbari,0
+322,SAMBALPURI_028,Kulfirani Chocobar,Ira Mohanty,Sambalpuri,Successfully classified,Marva,0.949573958,Megh,0.942901999,0.006671959,Asavari,0,Alhaiya Bilaval,0,N/A,0
+323,SAMBALPURI_029,Jhupa Jhupa Baul Jhupa,Ira Mohanty,Sambalpuri,Successfully classified,Khamaj,0.941929366,Bageshree,0.936610669,0.005318697,Asavari,0,Adana,0,Darbari,0
+324,SAMBALPURI_030,Sundri Janha,Ira Mohanty,Sambalpuri,Successfully classified,Bageshree,0.937062621,Asavari,0.935606772,0.001455849,Ahir Bhairav,0,Kedar,0,Darbari,0
+325,SAMBALPURI_031,Rangabati,Jitendra Haripal,Sambalpuri,Successfully classified,Bahar,0.915116549,Kedar,0.911304802,0.003811747,Adana,0,Rageshree,0,Bhairav,0
+326,SAMBALPURI_032,Aha Mor Galar Malire,Jitendra Haripal,Sambalpuri,Successfully classified,Basant,0.931982468,Marva,0.92674315,0.005239318,Ahir Bhairav,0,Sorath,0,Malkauns,0
+327,SAMBALPURI_033,Din Gani Gani,Jitendra Haripal,Sambalpuri,Successfully classified,Shree,0.933996201,Alhaiya Bilaval,0.933906674,8.95E-05,Khamaj,0,Desi,0,Asavari,0
+328,SAMBALPURI_034,Namo Namo Ago,Jitendra Haripal,Sambalpuri,Successfully classified,Bhairav,0.931443125,Kedar,0.930565834,0.000877291,Rageshree,0,Bhoopali,0,Puriya,0

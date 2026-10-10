@@ -1,0 +1,7 @@
+{
+    "54_recordings_evaluated": true,
+    "39_excluded": true,
+    "no_training": true,
+    "no_nan_embeddings": true,
+    "culturemert_frozen": true
+}

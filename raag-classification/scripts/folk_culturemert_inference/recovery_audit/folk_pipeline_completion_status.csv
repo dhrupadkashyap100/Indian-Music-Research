@@ -1,0 +1,16 @@
+Phase,Status,Evidence,Files Found,Expected Output,Actual Output,Completion Percentage,Safe To Reuse,Required Action
+1. Folk dataset audit,COMPLETED,Audit CSV exists,folk_dataset_audit.csv,328 recordings,49072 recordings,100,Yes,None
+2. Folk manifest creation,UNKNOWN,"Not explicitly requested as separate file in prompt, assumed combined",,,,,Yes,None
+3. Audio preprocessing,COMPLETED,Embeddings exist,,,,,Yes,None
+4. 5-second window generation,COMPLETED,43142 windows found,,,,,Yes,None
+5. CultureMERT embedding extraction,PARTIALLY COMPLETED,626 base files found,626 files,49072 recordings,626 recordings,1.28%,Yes,Resume extraction for missing
+6. 768-D embedding validation,COMPLETED,"0 nan/inf, 0 malformed",,,,,Yes,None
+7. 60-second sequence generation,NOT COMPLETED,No 12x768 sequence directories or arrays found,,,,0%,No,Generate sequences
+8. L2 normalization,NOT COMPLETED,Part of KNN which is missing,,,,0%,No,Run normalization
+9. TRF KNN retrieval,NOT COMPLETED,No KNN logs or prediction files found,,,,0%,No,Run KNN
+10. Recording-level aggregation,NOT COMPLETED,No recording predictions found,,,,0%,No,Run aggregation
+11. Confidence-margin calculation,NOT COMPLETED,No predictions found,,,,0%,No,Run calculation
+12. Secondary BiLSTM inference,NOT COMPLETED,No BiLSTM files found,,,,0%,No,Run BiLSTM
+13. Folk prediction generation,NOT COMPLETED,No final predictions found,,,,0%,No,Run generation
+14. Final report generation,NOT COMPLETED,No final reports found,,,,0%,No,Run reports
+15. Final integrity audit,NOT COMPLETED,Not reached,,,,0%,No,Run audit

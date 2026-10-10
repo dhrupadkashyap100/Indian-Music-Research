@@ -1,0 +1,12 @@
+TRF CULTUREMERT REFERENCE PLAN
+==============================
+Since TRF cannot be split for internal Train/Test validation due to unknown performance overlap, it must be used entirely as a monolithic reference database.
+
+Pipeline:
+1. TRF audio -> slice into 5-second segments.
+2. CultureMERT (24kHz, trust_remote_code=True) -> extract 768-D embeddings via mean-pooling.
+3. Store embeddings labeled with their TRF Thaat/Raag directory name.
+4. Folk audio -> slice into 5-second segments.
+5. CultureMERT -> extract 768-D embeddings.
+6. Nearest Neighbor (k-NN or Cosine Similarity) -> match Folk embeddings to the TRF reference bank to assign candidate Raag labels.
+7. Aggregate predictions across Folk segments for a song-level prediction.
