@@ -3,7 +3,7 @@
 This repository unifies two related research projects on Indian music classification:
 
 1. **[Folk Genre Classification](./folk-genre-classification/README.md):** Classification of Indian traditional folk songs into 10 respective folk genres using multi-feature extraction (Log-Mel, CQT Chromagram, Swaragram).
-2. **[Raag Classification (CultureMERT)](./raag-classification/README.md):** Using Hindustani Raag classification to assign probable Hindustani Raag associations to Indian traditional folk music via CultureMERT embeddings.
+2. **[Raag Classification (CultureMERT)](./raag-classification/culturemert_readme.md):** Using Hindustani Raag classification to assign probable Hindustani Raag associations to Indian traditional folk music via CultureMERT embeddings.
 
 ## Repository Structure
 

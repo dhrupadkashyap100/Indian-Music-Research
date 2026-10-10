@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-PROJECT_ROOT = Path(r"d:\Raaga_Recognition_Project\Folk_Music_Classifier")
+PROJECT_ROOT = Path(__file__).resolve().parent
 RESULTS_DIR = PROJECT_ROOT / "results"
 
 def generate_structure(root_dir, exclude_dirs=None):

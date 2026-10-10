@@ -3,7 +3,7 @@ import os
 from pathlib import Path
 import torch
 
-sys.path.append(r'd:\Raaga_Recognition_Project\Reference_Model\Raaga_Info\scripts')
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 import train_swaragram
 
 original_prepare = train_swaragram.prepare_swaragram_model

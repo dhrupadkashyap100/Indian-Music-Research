@@ -7,7 +7,7 @@ import seaborn as sns
 import json
 
 # Setup paths
-PROJECT_ROOT = Path(r"d:\Raaga_Recognition_Project\Folk_Music_Classifier")
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
 ARCHIVE_DIR = PROJECT_ROOT / "archive" / "development_tools"
 RESULTS_DIR = PROJECT_ROOT / "results"
 RESULTS_BASELINE = RESULTS_DIR / "baseline"
